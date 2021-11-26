@@ -14,13 +14,25 @@ New words:
 Phrases:
   - Phrase: El esta en kaza
     Translation: He is at home
+  - Phrase: Buenos dias
+    Translation: Good morning
+  - Phrase: Este es el kurso de Ladino?
+    Translation: Is this the Ladino course?
 
 Mini-dictionary:
   Ladino:
     - el: he
     - esta: is
+    - este: this
+    - es: is
+    - kurso: course
+    - de: of
+    - ladino: ladino
     - en: at
     - kaza: home
+    - buenos: good
+    - dias:
+        - day
 
   English:
     - he:
@@ -31,3 +43,20 @@ Mini-dictionary:
         - en
     - home:
         - kaza
+    - good:
+        - bueno
+        - buena
+        - buenos
+        - buenas
+    - morning:
+        - dias
+    - this:
+        - este
+    - the:
+        - el
+        - la
+    - ladino:
+        - ladino
+    - course:
+        - kurso
+
