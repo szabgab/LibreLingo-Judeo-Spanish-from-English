@@ -1,0 +1,33 @@
+Skill:
+  Name: Sentences
+  Id: 1
+
+New words:
+  - Word: perro
+    Translation: dog
+    Images:
+      - dog1
+      - dog2
+      - dog3
+
+
+Phrases:
+  - Phrase: El esta en kaza
+    Translation: He is at home
+
+Mini-dictionary:
+  Ladino:
+    - el: he
+    - esta: is
+    - en: at
+    - kaza: home
+
+  English:
+    - he:
+        - la
+    - is:
+        - esta
+    - at:
+        - en
+    - home:
+        - kaza
