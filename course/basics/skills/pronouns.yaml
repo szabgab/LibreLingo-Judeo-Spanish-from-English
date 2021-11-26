@@ -1,0 +1,33 @@
+Skill:
+  Name: Pronouns
+  Id: 2
+
+New words:
+  - Word: yo
+    Translation: I
+  - Word: tu
+    Translation: you
+  - Word: el
+    Translation: he
+  - Word: eya
+    Translation: she
+  - Word: mozotros
+    Translation: we
+  - Word: mozotras
+    Translation: we
+
+Phrases:
+  - Phrase: Yo
+    Translation: I
+  - Phrase: tu
+    Translation: you
+
+Mini-dictionary:
+  Ladino:
+    - so: am
+
+  English:
+    - am:
+      - so
+      - esto
+

@@ -9,6 +9,11 @@ New words:
       - dog1
       - dog2
       - dog3
+  - Word: bueno
+    Translation: good
+  - Word: buena
+    Translation: good (female)
+
 
 
 Phrases:
@@ -35,6 +40,7 @@ Mini-dictionary:
         - day
 
   English:
+    - (female): (feminina)
     - he:
         - la
     - is:
