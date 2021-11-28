@@ -31,15 +31,22 @@ Phrases:
     Translation: two dogs
   - Phrase: tres perros
     Translation: three dogs
+  - Phrase: kuatro gatos
+    Translation: four cats
+  - Phrase: sinko vakas
+    Translation: five cows
+  - Phrase: sesh kulevras
+    Translation: six snakes
 
 
 Mini-dictionary:
   Ladino:
     - un: a
-    - perros: dogs
+    - kulevras: snakes
 
   English:
     - a:
       - un
       - una
-    - dogs: perros
+    - snakes: kulevras
+

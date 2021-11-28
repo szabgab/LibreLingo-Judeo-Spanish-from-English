@@ -38,7 +38,6 @@ ke bueno - how nice
 
 mi nombre es Leah
 
-escrivir - write
 
 La direktora - the manager - el empresario
 Yo so la direktora - I am the manager
@@ -193,9 +192,9 @@ se yaman
     Translation: journalist
   - Word: miel
     Translation: honey
-  - Word: 
+  - Word: escrivir
     Translation: 
-  - Word: 
+  - Word: write
     Translation: 
   - Word: 
     Translation: 
@@ -212,24 +211,6 @@ se yaman
   - Word: 
     Translation: 
 
-  - Word: onze
-    Translation: eleven
-  - Word: dodje
-    Translation: twelve
-  - Word: tredje
-    Translation: thirteen
-  - Word: katorze
-    Translation: fourteen
-  - Word: kinze
-    Translation: fifteen
-  - Word: diisesh
-    Translation: sixteen
-  - Word: diziocho
-    Translation: eighteen
-  - Word: dizimueve
-    Translation: nineteen
-  - Word: vente
-    Translation: twenty
 
 
 

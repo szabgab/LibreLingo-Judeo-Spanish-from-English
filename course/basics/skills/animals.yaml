@@ -1,0 +1,32 @@
+Skill:
+  Name: Animals
+  Id: 9
+
+New words:
+  - Word: perro
+    Translation: dog
+  - Word: perros
+    Translation: dogs
+  - Word: gato
+    Translation: cat
+  - Word: gatos
+    Translation: cats
+  - Word: vaka
+    Translation: cow
+  - Word: vakas
+    Translation: cows
+
+Phrases:
+  - Phrase: un perro
+    Translation: a dog
+  - Phrase: dos perros
+    Translation: two dogs
+  - Phrase: un gato
+    Translation: a cat
+  - Phrase: dos gatos
+    Translation: two cat
+  - Phrase: una vaka
+    Translation: a cow
+  - Phrase: dos vakas
+    Translation: two cows
+

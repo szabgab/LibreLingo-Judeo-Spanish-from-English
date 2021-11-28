@@ -1,0 +1,30 @@
+Skill:
+  Name: Numbers
+  Id: 6
+
+New words:
+  - Word: onze
+    Translation: eleven
+  - Word: dodje
+    Translation: twelve
+  - Word: tredje
+    Translation: thirteen
+  - Word: katorze
+    Translation: fourteen
+  - Word: kinze
+    Translation: fifteen
+  - Word: diisesh
+    Translation: sixteen
+  - Word: diziocho
+    Translation: eighteen
+  - Word: dizimueve
+    Translation: nineteen
+  - Word: vente
+    Translation: twenty
+
+Phrases:
+  - Phrase: onze perros
+    Translation: eleven dogs
+  - Phrase: katorze perros
+    Translation: fourteen dogs
+
