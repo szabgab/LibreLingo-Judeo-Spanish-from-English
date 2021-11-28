@@ -15,6 +15,12 @@ New words:
     Translation: cow
   - Word: vakas
     Translation: cows
+  - Word: kulvera
+    Translation: snake
+  - Word: kulveras
+    Translation: snakes
+  - Word: kavayo
+    Translation: horse
 
 Phrases:
   - Phrase: un perro
@@ -29,4 +35,7 @@ Phrases:
     Translation: a cow
   - Phrase: dos vakas
     Translation: two cows
-
+  - Phrase: una kulvera
+    Translation: a snake
+  - Phrase: dos kulveras
+    Translation: two snakes

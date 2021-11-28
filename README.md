@@ -180,23 +180,6 @@ vos yamash
 se yaman
 
 
-
-
-  - Word: arkitekt
-    Translation: architect
-  - Word: doktor
-    Translation: physican
-  - Word: aprovar
-    Translation: try
-  - Word: djornalista
-    Translation: journalist
-  - Word: miel
-    Translation: honey
-  - Word: escrivir
-    Translation: 
-  - Word: write
-    Translation: 
-  - Word: 
     Translation: 
   - Word: 
     Translation: 
@@ -213,4 +196,6 @@ se yaman
 
 
 
+  - Word: 
+    Translation: bear
 
