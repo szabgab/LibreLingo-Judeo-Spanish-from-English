@@ -31,6 +31,15 @@ Phrases:
     Translation: How are you?
   - Phrase: me yamo Sara
     Translation: my name is Sarah
+  - Phrase: El profesor esta en klasa.
+    Translation: The teacher is in the classroom.
+  - Phrase: el profesor
+    Translation: the teacher
+  - Phrase: un profesor
+    Translation: a teacher
+  - Phrase: una profesora
+    Translation: a teacher
+
 
 Mini-dictionary:
   Ladino:
@@ -52,6 +61,10 @@ Mini-dictionary:
     - estas: are
     - me: my name
     - yamo: my name
+    - profesor: teacher (m)
+    - profesora: teacher (f)
+    - klasa: classroom
+    - una: a
 
   English:
     - how: komo
@@ -90,4 +103,6 @@ Mini-dictionary:
     - name:
         - nombre
         - me llamo
-
+    - teacher: profesor
+    - in: en
+    - classroom: klasa

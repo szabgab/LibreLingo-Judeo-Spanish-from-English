@@ -1,0 +1,45 @@
+Skill:
+  Name: Numbers
+  Id: 5
+
+New words:
+  - Word: uno
+    Translation: one
+  - Word: dos
+    Translation: two
+  - Word: tres
+    Translation: three
+  - Word: kuatro
+    Translation: four
+  - Word: sinko
+    Translation: five
+  - Word: sesh
+    Translation: six
+  - Word: siete
+    Translation: seven
+  - Word: ocho
+    Translation: eigth
+  - Word: mueve
+    Translation: nive
+  - Word: diez
+    Translation: ten
+
+Phrases:
+  - Phrase: un perro
+    Translation: a dog
+  - Phrase: dos perros
+    Translation: two dogs
+  - Phrase: tres perros
+    Translation: three dogs
+
+
+Mini-dictionary:
+  Ladino:
+    - un: a
+    - perros: dogs
+
+  English:
+    - a:
+      - un
+      - una
+    - dogs: perros

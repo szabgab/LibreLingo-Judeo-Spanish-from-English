@@ -29,16 +29,12 @@ ijos - sons
 ijas - daughters
 
 
-el profesor esta en klasa
 la profesora no esta en klasa
 Todos los elevos del kurso estan en la biblioteka. All the students of the course are in the library.
 
-el profesor - the teacher
-un profesor
-una profesora
 
-kaza - home
 el esta en kaza - he is at home
+ke bueno - how nice
 
 mi nombre es Leah
 
@@ -102,7 +98,7 @@ ya  - already
 aki - here
 kon - with
 
-miel - honey
+
 
 un tefter - notebook
 tefteres - notebooks
@@ -158,17 +154,6 @@ v  - viejo    - old
 y  - yerno    - son-in-law
 z  - zirguela - plum
 
-uno    1
-dos    2
-tres   3
-kuatro 4
-sinko  5
-sesh   6
-siete  7
-ocho   8
-mueve  9
-diez  10
-
 la kandela - the candle
 la kandelika - the little candle
 
@@ -180,11 +165,10 @@ Komo te yamas?
 yo me yamo Gabor - my name is Gabor (I am called)
 me yamo Gabor - my name is Gabor (I am called)
 muncho gusto - nice to meet you
-djornalista - journalist
+
 
 primera vez - first time
 
-aprovar - try
 
 yamar - to call
 yamarse - to be called oneself (reflexive)
@@ -196,6 +180,56 @@ mos yamamos
 vos yamash
 se yaman
 
-arkitekt - architect
-doktor - physican
+
+
+
+  - Word: arkitekt
+    Translation: architect
+  - Word: doktor
+    Translation: physican
+  - Word: aprovar
+    Translation: try
+  - Word: djornalista
+    Translation: journalist
+  - Word: miel
+    Translation: honey
+  - Word: 
+    Translation: 
+  - Word: 
+    Translation: 
+  - Word: 
+    Translation: 
+  - Word: 
+    Translation: 
+  - Word: 
+    Translation: 
+  - Word: 
+    Translation: 
+  - Word: 
+    Translation: 
+  - Word: 
+    Translation: 
+  - Word: 
+    Translation: 
+
+  - Word: onze
+    Translation: eleven
+  - Word: dodje
+    Translation: twelve
+  - Word: tredje
+    Translation: thirteen
+  - Word: katorze
+    Translation: fourteen
+  - Word: kinze
+    Translation: fifteen
+  - Word: diisesh
+    Translation: sixteen
+  - Word: diziocho
+    Translation: eighteen
+  - Word: dizimueve
+    Translation: nineteen
+  - Word: vente
+    Translation: twenty
+
+
 
