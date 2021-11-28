@@ -12,7 +12,7 @@ New words:
   - Word: bueno
     Translation: good
   - Word: buena
-    Translation: good (female)
+    Translation: good (fem.)
 
 
 
@@ -21,8 +21,16 @@ Phrases:
     Translation: He is at home
   - Phrase: Buenos dias
     Translation: Good morning
+  - Phrase: Buenos dias Sara
+    Translation: Good morning Sarah
+  - Phrase: Buenos dias Yosi
+    Translation: Good morning Yosi
   - Phrase: Este es el kurso de Ladino?
     Translation: Is this the Ladino course?
+  - Phrase: Komo estas?
+    Translation: How are you?
+  - Phrase: me yamo Sara
+    Translation: my name is Sarah
 
 Mini-dictionary:
   Ladino:
@@ -38,9 +46,18 @@ Mini-dictionary:
     - buenos: good
     - dias:
         - day
+    - Sara: Sarah
+    - Yosi: Yosi
+    - komo:  how
+    - estas: are
+    - me: my name
+    - yamo: my name
 
   English:
-    - (female): (feminina)
+    - how: komo
+    - (fem.): (feminina)
+    - Sarah: Sara
+    - Yosi: Yosi
     - he:
         - la
     - is:
@@ -65,4 +82,12 @@ Mini-dictionary:
         - ladino
     - course:
         - kurso
+    - are:
+        - somos
+    - my:
+        - mi
+        - me llamo
+    - name:
+        - nombre
+        - me llamo
 

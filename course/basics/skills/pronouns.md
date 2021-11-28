@@ -4,12 +4,12 @@
 * tu       - you
 * el       - he
 * eya      - she
-* mozotros - we (male)
-* mozotras - we (female)
-* vozotros - you (male plural)
-* vozotras - you (female plural)
-* eyos     - they (male)
-* eyas     - they (female)
+* mozotros - we (masc.)
+* mozotras - we (fem.)
+* vozotros - you (masc. plural)
+* vozotras - you (fem. plural)
+* eyos     - they (masc.)
+* eyas     - they (fem.)
 
 In Ladino there are two words for "to be": ser and estar
 
@@ -21,10 +21,10 @@ In Ladino there are two words for "to be": ser and estar
 * eya  es        - she is
 * mozotros somos - we are
 * mozotras somos - we are
-* vozotros sos   - you are (plural male)
-* vozotras sos   - you are (plural female)
-* eyos son       - they are (male)
-* eyas son       - they are (female)
+* vozotros sosh  - you are (plural masc.)
+* vozotras sosh  - you are (plural fem.)
+* eyos son       - they are (masc.)
+* eyas son       - they are (fem.)
 
 ## estar
 
