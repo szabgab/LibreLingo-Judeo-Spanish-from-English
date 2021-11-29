@@ -1,0 +1,44 @@
+Skill:
+  Name: Colors
+  Id: 8
+
+New words:
+  - Word: kolor
+    Translation: color
+    Images:
+      - color1
+  - Word: kolorado
+    Translation: red
+    Images:
+      - red1
+  - Word: blanko
+    Translation: white
+    Images:
+      - white1
+  - Word: preto
+    Translation: black
+    Images:
+      - black1
+  - Word: vedre
+    Translation: green
+    Images:
+      - green1
+  - Word: blu
+    Translation: blue
+    Images:
+      - blue1
+  - Word: amariyo
+    Translation: yellow
+    Images:
+      - yellow1
+  - Word: flor
+    Translation: flower
+    Images:
+      - flower1
+
+
+Phrases:
+  - Phrase:  blu kolor
+    Translation: blue color
+  - Phrase:  flor amariyo
+    Translation: yellow flower
