@@ -165,6 +165,16 @@ yo me yamo Gabor - my name is Gabor (I am called)
 me yamo Gabor - my name is Gabor (I am called)
 muncho gusto - nice to meet you
 
+Esta es la kaza de profesor the matematika.
+Mozotros somos elevos/estudiantes de kurzo.
+El esta en la biblioteka.
+La profesora no esta aki.
+Esta es la klasa del kurzo de Ladino.
+Onde esta?
+El no esta bien. He does not feel well.
+Mozotros somos de Yerushalayim.
+Este es el livro de Lea.
+Vosotras sosh la elevas del kurzo de Espanyol.
 
 primera vez - first time
 
