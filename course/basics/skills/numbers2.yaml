@@ -5,22 +5,40 @@ Skill:
 New words:
   - Word: onze
     Translation: eleven
+    Images:
+      - eleven1
   - Word: dodje
     Translation: twelve
+    Images:
+      - twelve1
   - Word: tredje
     Translation: thirteen
+    Images:
+      - thirteen1
   - Word: katorze
     Translation: fourteen
+    Images:
+      - fourteen1
   - Word: kinze
     Translation: fifteen
+    Images:
+      - fifteen1
   - Word: diisesh
     Translation: sixteen
+    Images:
+      - sixteen1
   - Word: diziocho
     Translation: eighteen
+    Images:
+      - eighteen1
   - Word: dizimueve
     Translation: nineteen
+    Images:
+      - nineteen1
   - Word: vente
     Translation: twenty
+    Images:
+      - twenty1
 
 Phrases:
   - Phrase: onze perros

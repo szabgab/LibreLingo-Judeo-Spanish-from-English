@@ -5,24 +5,44 @@ Skill:
 New words:
   - Word: uno
     Translation: one
+    Images:
+      - one1
   - Word: dos
     Translation: two
+    Images:
+      - two1
   - Word: tres
     Translation: three
+    Images:
+      - three1
   - Word: kuatro
     Translation: four
+    Images:
+      - four1
   - Word: sinko
     Translation: five
+    Images:
+      - five1
   - Word: sesh
     Translation: six
+    Images:
+      - six1
   - Word: siete
     Translation: seven
+    Images:
+      - seven1
   - Word: ocho
     Translation: eigth
+    Images:
+      - eight1
   - Word: mueve
     Translation: nive
+    Images:
+      - nine1
   - Word: diez
     Translation: ten
+    Images:
+      - ten1
 
 Phrases:
   - Phrase: un perro

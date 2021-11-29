@@ -11,20 +11,36 @@ New words:
       - dog3
   - Word: bueno
     Translation: good
+    Images:
+      - dog1
   - Word: buena
     Translation: good (fem.)
+    Images:
+      - dog1
   - Word: arkitekt
     Translation: architect
+    Images:
+      - dog1
   - Word: doktor
     Translation: physican
+    Images:
+      - dog1
   - Word: aprovar
     Translation: try
+    Images:
+      - dog1
   - Word: djornalista
     Translation: journalist
+    Images:
+      - dog1
   - Word: miel
     Translation: honey
+    Images:
+      - dog1
   - Word: escrivir
     Translation: write
+    Images:
+      - dog1
 
 
 

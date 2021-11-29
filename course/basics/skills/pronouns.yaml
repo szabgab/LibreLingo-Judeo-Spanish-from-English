@@ -5,18 +5,32 @@ Skill:
 New words:
   - Word: yo
     Translation: I
+    Images:
+      - dog1
   - Word: tu
     Translation: you
+    Images:
+      - dog1
   - Word: el
     Translation: he
+    Images:
+      - dog1
   - Word: eya
     Translation: she
+    Images:
+      - dog1
   - Word: mozotros
     Translation: we
+    Images:
+      - dog1
   - Word: mozotras
     Translation: we
+    Images:
+      - dog1
   - Word: soy
     Translation: am
+    Images:
+      - dog1
 
 Phrases:
   - Phrase: Yo
