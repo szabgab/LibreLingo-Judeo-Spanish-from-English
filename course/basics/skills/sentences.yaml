@@ -13,34 +13,26 @@ New words:
     Translation: good
     Images:
       - dog1
-  - Word: buena
-    Translation: good (fem.)
-    Images:
-      - dog1
   - Word: arkitekt
     Translation: architect
     Images:
-      - dog1
+      - architect1
   - Word: doktor
     Translation: physican
     Images:
-      - dog1
-  - Word: aprovar
-    Translation: try
-    Images:
-      - dog1
+      - physican1
   - Word: djornalista
     Translation: journalist
     Images:
-      - dog1
+      - journalist1
   - Word: miel
     Translation: honey
     Images:
-      - dog1
+      - honey1
   - Word: escrivir
     Translation: write
     Images:
-      - dog1
+      - write1
 
 
 
@@ -69,10 +61,23 @@ Phrases:
     Translation: a teacher
   - Phrase: yo soy una djornalista
     Translation: I am a journalist
+  - Phrase: La direktora
+    Translation: The manager
+  - Phrase: Yo so la direktora
+    Translation: I am the manager.
+  - Phrase: Ande esta el profesor?
+    Translation: Where is the teacher?
+  - Phrase: No, Sara no esta bien.
+    Translation: No, Sarah is not well.
+  - Phrase: Esta en kasa.
+    Translation: She is at home.
+  - Phrase: Todas las elevas ya estan aki?
+    Translation: Are all the students already here?
 
 
 Mini-dictionary:
   Ladino:
+    - buena: good (fem.)
     - el: he
     - esta: is
     - este: this
@@ -95,8 +100,30 @@ Mini-dictionary:
     - profesora: teacher (f)
     - klasa: classroom
     - una: a
+    - la: the
+    - direktora: manager (f)
+    - ande: where
+    - no:
+      - no
+      - not
+    - bien: well
+    - kasa:
+      - home
+      - house
+    - todas: all
+    - elevas: students (f)
+    - ya: already
+    - estan: are
+    - aki: here
+    - aprovar: try
 
   English:
+    - try: aprovar
+    - where:
+      - ande
+    - manager:
+      - direktor
+      - direktora
     - of: de
     - how: komo
     - (fem.): (feminina)
@@ -137,3 +164,15 @@ Mini-dictionary:
     - teacher: profesor
     - in: en
     - classroom: klasa
+    - no: no
+    - not: no
+    - well: bien
+    - all:
+      - todo
+      - todas
+    - students:
+      - elevos
+      - elevas
+    - already: ya
+    - here: aki
+

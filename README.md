@@ -39,12 +39,6 @@ ke bueno - how nice
 mi nombre es Leah
 
 
-La direktora - the manager - el empresario
-Yo so la direktora - I am the manager
-Ande esta el profesor? - Where is the teacher?
-No, Sara no esta bien. No, Sara is not well.
-Esta en kasa. (She) is at home.
-Todas las elevas ya estan aki? - Are all the students already here?
 I las otras elevas? - And the other students (fem.).
 Las otras elevas - the other students
 Rina I Lea estan en la biblioteka. - Rina and Lea are in the library.
