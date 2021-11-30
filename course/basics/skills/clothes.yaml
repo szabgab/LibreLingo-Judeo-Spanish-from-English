@@ -1,0 +1,60 @@
+Skill:
+  Name: Clothes
+  Id: 7
+  Thumbnails:
+    - dress2
+    - t-shirt1
+    - hat2
+
+New words:
+  - Word: sapato
+    Translation: shoe
+    Images:
+      - shoes1
+      - shoes2
+      - shoes3
+
+  - Word: chapeo
+    Synonyms:
+      - chapeyo
+    Translation: hat
+    Images:
+      - hat1
+      - hat2
+      - hat3
+
+  - Word: el chapeo
+    Synonyms:
+      - el chapeyo
+    Translation: the hat
+    Images:
+      - hat1
+      - hat2
+      - hat3
+
+
+  - Word: camiza
+    Translation: shirt
+    Images:
+      - shirt1
+      - shirt2
+      - shirt3
+
+  - Word: fusta
+    Translation: skirt
+    Images:
+      - skirt1
+      - skirt2
+      - skirt3
+
+Phrases:
+  - Phrase: Una camiza vedre, por favor!
+    Translation: A green shirt, please!
+
+Mini-dictionary:
+  English:
+    - please: por favor
+  Ladino:
+    - por: for
+    - favor: please
+
