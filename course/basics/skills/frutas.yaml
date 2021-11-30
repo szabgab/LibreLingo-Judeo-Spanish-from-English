@@ -1,0 +1,38 @@
+Skill:
+  Name: Fruits
+  Id: 12
+
+New words:
+  - Word: fruta
+    Translation: fruit
+    Images:
+      - fruit1
+  - Word: karpuz
+    Translation: watermelon
+    Images:
+      - watermelon1
+  - Word: limon
+    Translation: lemon
+    Images:
+      - lemon1
+  - Word: mansana
+    Translation: apple
+    Images:
+      - apple1
+  - Word: portokal
+    Translation: orange
+    Images:
+      - orange1
+  - Word: uva
+    Translation: grape
+    Images:
+      - grape1
+  - Word: zirguela
+    Translation: plum
+    Images:
+      - plum1
+
+Phrases:
+  - Phrase:  el zirguela tiene kolor blu
+    Translation: The plum is blue
+

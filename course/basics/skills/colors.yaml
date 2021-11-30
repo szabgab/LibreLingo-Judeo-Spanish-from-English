@@ -7,6 +7,10 @@ New words:
     Translation: color
     Images:
       - color1
+  - Word: kolores
+    Translation: colors
+    Images:
+      - color1
   - Word: kolorado
     Translation: red
     Images:
@@ -27,10 +31,22 @@ New words:
     Translation: blue
     Images:
       - blue1
+  - Word: mavi
+    Translation: blue
+    Images:
+      - blue1
   - Word: amariyo
     Translation: yellow
     Images:
       - yellow1
+  - Word: grizo
+    Translation: grey
+    Images:
+      - grey1
+  - Word: portokal
+    Translation: orange
+    Images:
+      - orange1
   - Word: flor
     Translation: flower
     Images:
@@ -42,3 +58,18 @@ Phrases:
     Translation: blue color
   - Phrase:  flor amariyo
     Translation: yellow flower
+  - Phrase: Kolorado es una de las tres kolores primarias.
+    Translation: Red is one of the primary colors.
+  - Phrase: Amariyo es una de las tres kolores primarias.
+    Translation: Yellow is one of the primary colors.
+  - Phrase: Mavi es una de las tres kolores primarias.
+    Translation: Blue is one of the primary colors.
+
+Mini-dictionary:
+  English:
+    - primary: primarias
+  Ladino:
+    - primarias: primary
+    - las: the (p f)
+    - tiene: has
+
