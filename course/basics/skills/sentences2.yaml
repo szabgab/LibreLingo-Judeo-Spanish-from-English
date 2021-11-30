@@ -1,0 +1,24 @@
+Skill:
+  Name: Sentences 2
+  Id: 19
+
+New words: []
+
+Phrases:
+  - Phrase: Saludes a tu mujer
+    Translation: Greetings to your wife
+  - Phrase: Saludes a tu marido
+    Translation: Greetings to your husband
+
+Mini-dictionary:
+  Ladino:
+    - saludes: greetings
+    - a: to
+    - mujer: wife
+    - marido: husband
+  English:
+    - greetings: saludes
+    - to: a
+    - your: tu
+    - wife: mujer
+    - husband: marido

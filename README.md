@@ -16,8 +16,6 @@ Kurso de Judeo-Espanyol - Ladino course
 El empesijo - The beginning
 bienvenidos - Welcome
 
-Saludes a tu mujer  - Greetings to your wife
-Saludes a tu marido - Greetings to your husband
 
 maskulino - masculine
 feminino - feminine

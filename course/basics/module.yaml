@@ -2,7 +2,8 @@ Module:
   Name: "Basics"
 
 Skills:
-  - sentences.yaml
+  - sentences1.yaml
+  - sentences2.yaml
   - clothes.yaml
   - pronouns.yaml
   - numbers1.yaml

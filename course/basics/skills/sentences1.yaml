@@ -1,5 +1,5 @@
 Skill:
-  Name: Sentences
+  Name: Sentences 1
   Id: 1
 
 New words:
@@ -9,10 +9,6 @@ New words:
       - dog1
       - dog2
       - dog3
-  - Word: bueno
-    Translation: good
-    Images:
-      - dog1
   - Word: arkitekt
     Translation: architect
     Images:
@@ -69,7 +65,7 @@ Phrases:
     Translation: Where is the teacher?
   - Phrase: No, Sara no esta bien.
     Translation: No, Sarah is not well.
-  - Phrase: Esta en kasa.
+  - Phrase: Esta en kaza.
     Translation: She is at home.
   - Phrase: Todas las elevas ya estan aki?
     Translation: Are all the students already here?
@@ -77,102 +73,91 @@ Phrases:
 
 Mini-dictionary:
   Ladino:
+    - aki: here
+    - ande: where
+    - aprovar: try
+    - bien: well
     - buena: good (fem.)
-    - el: he
-    - esta: is
-    - este: this
-    - es: is
-    - kurso: course
-    - de: of
-    - ladino: ladino
-    - en: at
-    - kaza: home
     - buenos: good
-    - dias:
-        - day
-    - Sara: Sarah
-    - Yosi: Yosi
+    - de: of
+    - dias: day
+    - direktora: manager (f)
+    - el: he
+    - elevas: students (f)
+    - en: at
+    - es: is
+    - esta: is
+    - estan: are
+    - este: this
+    - kaza:
+      - home
+      - house
+    - klasa: classroom
     - komo:  how
-    - estas: are
+    - kurso: course
+    - la: the
+    - ladino: ladino
     - me: my name
-    - yamo: my name
     - profesor: teacher (m)
     - profesora: teacher (f)
-    - klasa: classroom
+    - Sara: Sarah
+    - Yosi: Yosi
+    - estas: are
+    - yamo: my name
     - una: a
-    - la: the
-    - direktora: manager (f)
-    - ande: where
     - no:
       - no
       - not
-    - bien: well
-    - kasa:
-      - home
-      - house
     - todas: all
-    - elevas: students (f)
     - ya: already
-    - estan: are
-    - aki: here
-    - aprovar: try
 
   English:
-    - try: aprovar
-    - where:
-      - ande
-    - manager:
-      - direktor
-      - direktora
-    - of: de
-    - how: komo
-    - (fem.): (feminina)
-    - Sarah: Sara
-    - Yosi: Yosi
-    - he:
-        - la
-    - is:
-        - esta
-    - at:
-        - en
-    - home:
-        - kaza
+    - already: ya
+    - all:
+      - todo
+      - todas
+    - are: somos
+    - at: en
+    - classroom: klasa
+    - course: kurso
     - good:
         - bueno
         - buena
         - buenos
         - buenas
-    - morning:
-        - dias
-    - this:
-        - este
-    - the:
-        - el
-        - la
-    - ladino:
-        - ladino
-    - course:
-        - kurso
-    - are:
-        - somos
+    - manager:
+      - direktor
+      - direktora
+    - he: el
+    - here: aki
+    - home: kaza
+    - in: en
+    - is: esta
+    - ladino: ladino
+    - morning: dias
     - my:
         - mi
         - me llamo
     - name:
         - nombre
         - me llamo
-    - teacher: profesor
-    - in: en
-    - classroom: klasa
     - no: no
     - not: no
-    - well: bien
-    - all:
-      - todo
-      - todas
+    - of: de
+    - this: este
+    - try: aprovar
+    - where:
+      - ande
+    - how: komo
+    - (fem.): (feminina)
+    - Sarah: Sara
     - students:
       - elevos
       - elevas
-    - already: ya
-    - here: aki
+    - teacher: profesor
+    - the:
+        - el
+        - la
+    - Yosi: Yosi
+    - well: bien
 
