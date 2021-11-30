@@ -17,25 +17,6 @@ El empesijo - The beginning
 bienvenidos - Welcome
 
 
-maskulino - masculine
-feminino - feminine
-
-
-ijo  - son
-ija  - daughter
-ijos - sons
-ijas - daughters
-
-
-la profesora no esta en klasa
-Todos los elevos del kurso estan en la biblioteka. All the students of the course are in the library.
-
-
-el esta en kaza - he is at home
-ke bueno - how nice
-
-mi nombre es Leah
-
 
 I las otras elevas? - And the other students (fem.).
 Las otras elevas - the other students
@@ -63,10 +44,6 @@ la meza - the table
 la agua - the water
 la roza - the rose
 la kupa - the glass
-
-
-esta eleva
-estas elevas
 
 de - from, of
 i  - and
@@ -195,9 +172,4 @@ se yaman
     Translation: 
   - Word: 
     Translation: 
-
-
-
-  - Word: 
-    Translation: bear
 

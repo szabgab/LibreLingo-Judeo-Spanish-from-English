@@ -9,16 +9,58 @@ Phrases:
     Translation: Greetings to your wife
   - Phrase: Saludes a tu marido
     Translation: Greetings to your husband
+  - Phrase: esta eleva
+    Translation: this student
+  - Phrase: estas elevas
+    Translation: these students
+  - Phrase: la profesora no esta en klasa
+    Translation: the teacher is not in the classroom
+  - Phrase: Todos los elevos del kurso estan en la biblioteka.
+    Translation: All the students of the course are in the library.
+  - Phrase: el esta en kaza
+    Translation: he is at home
+  - Phrase: ke bueno
+    Translation: how nice
+  - Phrase: mi nombre es Leah
+    Translation: my name is Leah
 
 Mini-dictionary:
   Ladino:
-    - saludes: greetings
     - a: to
-    - mujer: wife
+    - biblioteka: library
+    - bueno:
+      - good
+      - nice
+    - del: of
+    - eleva: student
+    - elevos: students
+    - ke: how
+    - Leah: Leah
+    - los: the (male plural)
     - marido: husband
+    - mi: my
+    - mujer: wife
+    - nombre: name
+    - saludes: greetings
+    - todos: all
+    - ijo: son
+    - ija: daughter
+    - ijos: sons
+    - ijas: daughters
+    - maskulino: masculine
+    - feminino: feminine
+
   English:
     - greetings: saludes
+    - husband: marido
+    - Leah: Leah
+    - library: biblioteka
+    - nice: bueno
+    - student: eleva
+    - these:
+      - estas
+      - estos
     - to: a
     - your: tu
     - wife: mujer
-    - husband: marido
+
