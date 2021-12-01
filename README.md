@@ -16,24 +16,8 @@ Kurso de Judeo-Espanyol - Ladino course
 El empesijo - The beginning
 bienvenidos - Welcome
 
-
-
 de - from, of
 i  - and
-
-hazino - sick - enfermo
-hazina - sick - enferma
-
-Grasias, David. Esto muy bien.                - Thank you David. I am very well.    [Gacias, David. Estoy muy bien.]
-Todos los elevos ya estan en la klasa?        - Are all the students already in the class? [¿Todo los estudiantes ya estan el la clase?]
-Si, todos los elevos ya estan aki.            - Yes, all the students are already here.
-I onde esta el profesor? Ya esta en la klasa? - And where is the professor? Is he already in the class?
-No, el profesor no esta aki.                  - No the professor is not here.
-
-ya  - already
-aki - here
-kon - with
-
 
 
 un tefter - notebook
@@ -126,18 +110,12 @@ mos yamamos
 vos yamash
 se yaman
 
+New words:
+  - Word:
+    Translation:
+    Images:
 
-    Translation: 
-  - Word: 
-    Translation: 
-  - Word: 
-    Translation: 
-  - Word: 
-    Translation: 
-  - Word: 
-    Translation: 
-  - Word: 
-    Translation: 
-  - Word: 
-    Translation: 
+Phrases:
+  - Phrase:
+    Translation:
 
