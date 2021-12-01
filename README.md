@@ -18,34 +18,8 @@ bienvenidos - Welcome
 
 
 
-otro - other (masc.)
-otros - others (pl masc.)
-otra
-otras
-
-el livro - the book
-un livro - a book
-los livros - the books
-
-este livro - this book
-estes livros - these books
-
-el echo  - the work
-el mazal - the luck
-el pan -  the bread
-
-la meza - the table
-la agua - the water
-la roza - the rose
-la kupa - the glass
-
 de - from, of
 i  - and
-
-yo esto en Yerushalayim - I am in Jerusalem
-no estas aki            - You are not here
-yo esto aki             - I am here
-yo no esto aki          - I am not here
 
 hazino - sick - enfermo
 hazina - sick - enferma

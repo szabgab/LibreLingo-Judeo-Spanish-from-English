@@ -3,11 +3,11 @@ Skill:
   Id: 31
 
 New words:
-  - Word: libro
+  - Word: livro
     Translation: book
     Images:
       - book1
-  - Word: libros
+  - Word: livros
     Translation: books
     Images:
       - book1
@@ -24,14 +24,43 @@ Phrases:
     Translation: Give these books to the teacher.
   - Phrase: Son del kurso.
     Translation: They are of the course.
+  - Phrase: el livro
+    Translation: the book
+  - Phrase: un livro
+    Translation: a book
+  - Phrase: los livros
+    Translation: the books
+  - Phrase: estes livros
+    Translation: these books
+  - Phrase: este livro
+    Translation: this book
+  - Phrase: yo esto en Yerushalayim
+    Translation: I am in Jerusalem
+  - Phrase: no estas aki
+    Translation: You are not here
+  - Phrase: yo esto aki
+    Translation: I am here
+  - Phrase: yo no esto aki
+    Translation: I am not here
 
 Mini-dictionary:
   Ladino:
     - al: to
     - da: give
+    - estes: these
     - estos: these
     - livros: books
-    - otras: other
+    - otro: other (masc.)
+    - otros: others (masc. pl)
+    - otra: other (fem.)
+    - otras: other (fem. pl)
+    - el echo: the work
+    - el mazal: the luck
+    - el pan: the bread
+    - la meza: the table
+    - la agua: the water
+    - la roza: the rose
+    - la kupa: the glass
   English:
     - give:
       - da
@@ -40,3 +69,5 @@ Mini-dictionary:
       - otra
       - otros
       - otras
+
+
