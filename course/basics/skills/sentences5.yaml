@@ -1,0 +1,35 @@
+Skill:
+  Name: Sentences 5
+  Id: 25
+
+New words: []
+
+
+Phrases:
+  - Phrase: Shalom
+    Translation: Hi
+  - Phrase: Buenos dias.
+    Translation: Good morning
+  - Phrase: Este es el kurso de Ladino?
+    Translation: Is this the Ladino course?
+  - Phrase: Si, este es el kurso de Ladino.
+    Translation: Yes this is the Ladino course.
+  - Phrase: Ken sos tu?
+    Translation: Who are you?
+  - Phrase: Yo so un elevo.
+    Translation: I am a student.
+  - Phrase: Mi nombre es David i este es Yaakov.
+    Translation: My name is David and this is Yaakov.
+  - Phrase: De ande shos?
+    Translation: Where are you from?
+  - Phrase: Mozotros somos de Tel Aviv.
+    Translation: We are from Tel Aviv
+  - Phrase: Eyos son de Yerushalayim.
+    Translation: They are from Jerusalem.
+
+Mini-dictionary:
+  Ladino:
+    - ken: who
+  English:
+    - who: ken
+

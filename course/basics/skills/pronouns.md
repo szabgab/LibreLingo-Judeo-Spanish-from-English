@@ -21,8 +21,8 @@ In Ladino there are two words for "to be": ser and estar
 * eya  es        - she is
 * mozotros somos - we are
 * mozotras somos - we are
-* vozotros sosh  - you are (plural masc.)
-* vozotras sosh  - you are (plural fem.)
+* vozotros shos  - you are (plural masc.)
+* vozotras shos  - you are (plural fem.)
 * eyos son       - they are (masc.)
 * eyas son       - they are (fem.)
 

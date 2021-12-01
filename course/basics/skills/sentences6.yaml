@@ -1,0 +1,49 @@
+Skill:
+  Name: Sentences 6
+  Id: 26
+
+New words:
+  - Word: kaza
+    Translation: house
+    Images:
+      - house1
+
+
+Phrases:
+  - Phrase: Esta es la kaza de profesor de matematika.
+    Translation: This is the house of the math teacher.
+  - Phrase: Mozotros somos elevos de kurzo.
+    Translation: We are students of the course.
+  - Phrase: El esta en la biblioteka.
+    Translation: He is in the library.
+  - Phrase: La profesora no esta aki.
+    Translation: The teacher is not here.
+  - Phrase: Esta es la klasa del kurzo de Ladino.
+    Translation: This is the classroom of the Ladino course.
+  - Phrase: Onde esta?
+    Translation: Where is he?
+  - Phrase: El no esta bien.
+    Translation: He does not feel well.
+  - Phrase: Mozotros somos de Yerushalayim.
+    Translation: We are from Jerusalem.
+  - Phrase: Este es el livro de Lea.
+    Translation: This is the book of Lea.
+  - Phrase: Vosotras shos la elevas del kurzo de Espanyol.
+    Translation: You are the students of the Ladino course.
+
+
+Mini-dictionary:
+  Ladino:
+    - ken: who
+    - de:
+      - from
+      - of
+    - matematika: math
+    - kurzo: course
+  English:
+    - does: esta
+    - feel: gusta
+    - from: de
+    - math: matematika
+    - who: ken
+

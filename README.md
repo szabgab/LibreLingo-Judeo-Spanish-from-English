@@ -16,7 +16,6 @@ Kurso de Judeo-Espanyol - Ladino course
 El empesijo - The beginning
 bienvenidos - Welcome
 
-de - from, of
 i  - and
 
 
@@ -30,22 +29,6 @@ el elevo - the student
 
 un elevo  - a student
 una elava - a student (fem.)
-elevos  - students (masc.)
-elevas  - students (fem.)
-
-ande  - where?
-onde  - where?
-
-Shalom                               - Hi (actually a common greeting in Hebrew meaning peace)
-Buenos dias.                         - Good morning
-Este es el kurso de Ladino?          - Is this the Ladino course?
-Si, este es el kurso de Ladino.      - Yes this is the Ladino course.
-Ken sos tu?                          - Who are you?
-Yo so un elevo.                      - I am a student
-Mi nombre es David i este es Yaakov. - My name is David and this is Yaakov.
-De ande shos?                        - Where are you from?
-Mozotros somos de Tel Aviv.          - We are from Tel Aviv
-Eyos son de Yerushalayim.            - They are from Jerusalem.
 
 
 a  - agua     - water
@@ -85,17 +68,6 @@ Komo te yamas?
 yo me yamo Gabor - my name is Gabor (I am called)
 me yamo Gabor - my name is Gabor (I am called)
 muncho gusto - nice to meet you
-
-Esta es la kaza de profesor the matematika.
-Mozotros somos elevos/estudiantes de kurzo.
-El esta en la biblioteka.
-La profesora no esta aki.
-Esta es la klasa del kurzo de Ladino.
-Onde esta?
-El no esta bien. He does not feel well.
-Mozotros somos de Yerushalayim.
-Este es el livro de Lea.
-Vosotras sosh la elevas del kurzo de Espanyol.
 
 primera vez - first time
 
