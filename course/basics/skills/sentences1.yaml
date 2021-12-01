@@ -89,15 +89,19 @@ Mini-dictionary:
     - esta: is
     - estan: are
     - este: this
+    - hazino: sick
+    - hazina: sick
     - kaza:
       - home
       - house
     - klasa: classroom
     - komo:  how
+    - kon: with
     - kurso: course
     - la: the
     - ladino: ladino
     - me: my name
+    - onde: where
     - profesor: teacher (m)
     - profesora: teacher (f)
     - estas: are
@@ -142,10 +146,14 @@ Mini-dictionary:
     - no: no
     - not: no
     - of: de
+    - sick:
+      - hazino
+      - hazina
     - this: este
     - try: aprovar
     - where:
       - ande
+      - onde
     - how: komo
     - (fem.): (feminina)
     - students:
@@ -156,4 +164,5 @@ Mini-dictionary:
         - el
         - la
     - well: bien
+    - with: kon
 
