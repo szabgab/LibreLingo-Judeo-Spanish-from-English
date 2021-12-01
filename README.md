@@ -18,12 +18,6 @@ bienvenidos - Welcome
 
 
 
-I las otras elevas? - And the other students (fem.).
-Las otras elevas - the other students
-Rina I Lea estan en la biblioteka. - Rina and Lea are in the library.
-Da estos livros al profesor. - Give these books to the professor.
-Son del kurso. - They are of the course.
-
 otro - other (masc.)
 otros - others (pl masc.)
 otra

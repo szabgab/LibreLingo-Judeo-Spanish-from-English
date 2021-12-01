@@ -1,0 +1,47 @@
+Skill:
+  Name: Sentences 3
+  Id: 31
+
+New words:
+  - Word: libro
+    Translation: book
+    Images:
+      - book1
+  - Word: libros
+    Translation: books
+    Images:
+      - book1
+
+
+
+Phrases:
+  - Phrase: I las otras elevas?
+    Translation: And the other students
+  - Phrase: Las otras elevas
+    Translation: the other students
+  - Phrase: Rina I Lea estan en la biblioteka.
+    Translation: Rina and Lea are in the library.
+  - Phrase: Da estos livros al profesor.
+    Translation: Give these books to the teacher.
+  - Phrase: Son del kurso.
+    Translation: They are of the course.
+
+Mini-dictionary:
+  Ladino:
+    - al: to
+    - da: give
+    - estos: these
+    - livros: books
+    - otras: other
+    - Rina: Rina
+    - Lea: Lea
+  English:
+    - give:
+      - da
+    - other:
+      - otro
+      - otra
+      - otros
+      - otras
+    - Rina: Rina
+    - Lea: Lea
