@@ -100,8 +100,6 @@ Mini-dictionary:
     - me: my name
     - profesor: teacher (m)
     - profesora: teacher (f)
-    - Sara: Sarah
-    - Yosi: Yosi
     - estas: are
     - yamo: my name
     - una: a
@@ -150,7 +148,6 @@ Mini-dictionary:
       - ande
     - how: komo
     - (fem.): (feminina)
-    - Sarah: Sara
     - students:
       - elevos
       - elevas
@@ -158,6 +155,5 @@ Mini-dictionary:
     - the:
         - el
         - la
-    - Yosi: Yosi
     - well: bien
 

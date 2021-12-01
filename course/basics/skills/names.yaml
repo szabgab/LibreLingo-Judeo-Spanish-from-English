@@ -1,0 +1,24 @@
+Skill:
+  Name: Names
+  Id: 99
+
+New words: []
+
+Phrases:
+  - Phrase: Mi nombre es Rina
+    Translation: My name is Rina
+
+Mini-dictionary:
+  Ladino:
+    - Lea: Lea
+    - Leah: Leah
+    - Rina: Rina
+    - Sara: Sarah
+    - Yosi: Yosi
+
+  English:
+    - Lea: Lea
+    - Leah: Leah
+    - Rina: Rina
+    - Sarah: Sara
+    - Yosi: Yosi
