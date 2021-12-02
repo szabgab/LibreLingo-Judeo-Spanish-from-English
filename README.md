@@ -174,16 +174,10 @@ she
 am
 boy
 
-El buto del grupo:
-Este grupo es para partajar kontenidos en djudeo-espanyol.
-Kualo no partajar:
-No akseptamos publikasiones ke kontienen diskurso de aborresión o propaganda elektoral.
-Keremos kontenidos sostansiozos:
-No akseptamos publikasiones de saludos jenerales komo "Buen día", "Shabat shalom" ets.
-Los kontenidos deven ser aviertos para todos:
-Semos un grupo públiko, dunke no akseptamos kontenidos non públikos.
 
-List of availabl and probably unused images:
+
+
+List of available and probably unused images:
 
 afternoon2
 aunt1

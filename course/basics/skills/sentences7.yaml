@@ -1,0 +1,101 @@
+Skill:
+  Name: Sentences 7
+  Id: 27
+
+New words:
+  - Word: grupo
+    Translation: group
+    Images:
+      - group1
+
+
+Phrases:
+  - Phrase: El buto del grupo.
+    Translation: The goal of the group.
+  - Phrase: Este grupo es para partajar kontenidos en djudeo-espanyol.
+    Translation: This group is to share content in Ladino.
+  - Phrase: Kualo no partajar.
+    Translation: What not to share.
+  - Phrase: No akseptamos publikasiones ke kontienen diskurso de aborresión o propaganda elektoral.
+    Translation: We don't accept publications that contain hate speech or election propaganda.
+  - Phrase: Keremos kontenidos sostansiozos
+    Translation: We want substantial content.
+  - Phrase: No akseptamos publikasiones de saludos jenerales komo "Buen día", "Shabat shalom" ets.
+    Translation: We don't accept publications general greetings such as "Good mornings", "Shabat shalom" etc.
+  - Phrase: Los kontenidos deven ser aviertos para todos
+    Translation: The contents must be open for everyone.
+  - Phrase: Semos un grupo públiko, dunke no akseptamos kontenidos non públikos.
+    Translation: We are a public group, therefore we don't accept non-public content.
+
+Mini-dictionary:
+  Ladino:
+    - akseptamos: accept
+    - aborresión: hate
+    - aviertos: open
+    - buen: good
+    - buto: goal
+    - deven: must
+    - día: day
+    - Djudeo-espanyol: Ladino
+    - diskurso: speech
+    - dunke: therefore
+    - elektoral: election
+    - ets: etc
+    - jenerales: general
+    - keremos: (we) want
+    - kontenidos:
+      - content
+      - contents
+    - kontienen: contain
+    - kualo: what
+    - non: non
+    - o: or
+    - partajar: share
+    - para: for
+    - propaganda: propaganda
+    - publikasiones: publications
+    - públiko: public
+    - públikos: public
+    - saludos: greetings
+    - semos: we are
+    - ser: be
+    - shabat: shabat
+    - shalom: shalom
+    - sostansiozos: substantial
+    - sostansiozo: substantial
+  English:
+    - accept: akseptamos
+    - as: komo
+    - be: ser
+    - content: kontenidos
+    - contents: kontenidos
+    - contain: kontienen
+    - election: elektoral
+    - etc: ets
+    - everyone: todos
+    - for: por
+    - general: jenerales
+    - goal: buto
+    - hate: aborresión
+    - mornings: manyanas
+    - must: deven
+    - non-public: non públikos
+    - open: aviertos
+    - or: o
+    - public: públiko
+    - publications: publikasiones
+    - propaganda: propaganda
+    - shabat: shabat
+    - shalom: shalom
+    - share: partajar
+    - speech: diskurso
+    - such: komo
+    - substantial:
+        - sostansiozos
+        - sostansiozo
+    - that: ke
+    - therefore: dunke
+    - want: keremos
+    - what: kualo
+    - don't: no
+
