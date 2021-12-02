@@ -91,3 +91,187 @@ Phrases:
   - Phrase:
     Translation:
 
+Este es la kaza del profesor de matematika?
+Is this the house of the math teacher?
+Salu i vida, Sara.  Health and Life, Sara.
+Bindicho el Dio. God bless.
+Ya eso bien. I am already well.
+Sara, en ke lengua avlas en kaza? Sarah, in which language do you speak at home?
+
+avlar - to speak
+yo avlo
+tu avlas
+el avla
+eya avla
+eyos avlan
+
+poko - little
+
+
+kontar - to count, to tell
+yo konto
+
+kantar - to sing
+yo kanto
+tu kantas
+el kanta
+mozotros kantamos
+vozotros kantash
+eyos kantan
+
+etchar lashon - smalltalking??
+
+
+yo avlo en ebreo
+En ke lengua avlan tus djenitores?
+In which language do your parents speak?
+mi padre
+mi madre
+mi padre i mi madre avlan entre eyos en djudeo-espanyol.
+kon mi avlan en ebreo
+
+
+mi livro my book
+tu livro your book
+tus livros your books
+mi kaza my house
+tu kaza your house
+tus kazas your houses
+
+
+alman aleman german
+turko turkish
+grego - Greek
+arabo - Arab
+inglez - English
+
+
+
+djenitores = parents
+
+big - grande
+small - chicko
+
+tu deves konoser a mi famiya you have to meet my family
+keres komer kon mozotros?
+kon muncho plazer
+tienes famiya grande? Do you have a big family?
+Semos sinko - We are five.
+tres ermanos.
+gran-papa
+gran-mama
+estan kon vozotros
+eyos moran en sus kaza
+
+-----
+the water
+the bread
+the milk
+the apple
+the woman
+the man
+she
+am
+boy
+
+El buto del grupo:
+Este grupo es para partajar kontenidos en djudeo-espanyol.
+Kualo no partajar:
+No akseptamos publikasiones ke kontienen diskurso de aborresión o propaganda elektoral.
+Keremos kontenidos sostansiozos:
+No akseptamos publikasiones de saludos jenerales komo "Buen día", "Shabat shalom" ets.
+Los kontenidos deven ser aviertos para todos:
+Semos un grupo públiko, dunke no akseptamos kontenidos non públikos.
+
+List of availabl and probably unused images:
+
+afternoon2
+aunt1
+aunt2
+aunt3
+baby1
+baby2
+baby3
+backpack1
+backpack2
+backpack3
+ball1
+ball2
+ball3
+bar1
+bar2
+bar3
+beach1
+beach2
+beach3
+beer1
+beer2
+beer3
+behind1
+behind2
+behind3
+belt1
+belt2
+belt3
+between1
+bicycle1
+big1
+black
+blue
+body
+book
+boy
+boys
+boyfriend
+brain
+bridge
+brotherofbrother
+brotherofsister
+brown
+building
+bye
+chair
+chef
+chefs
+chicken
+choice
+church
+city
+clock
+cloth
+coat
+coffee
+construction
+couple
+cousinfemale
+cousinmale
+cow
+credit_card
+daughter
+death
+doctor
+dog
+door
+dress
+driver
+engine
+europe
+exhibition
+exit
+family
+farmer
+fast
+fat
+father
+firefighter
+fish
+floor
+foot
+forest
+fountain
+france
+friend
+f finished
+---------
+
+

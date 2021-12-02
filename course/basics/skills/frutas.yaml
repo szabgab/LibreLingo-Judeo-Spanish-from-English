@@ -31,6 +31,12 @@ New words:
     Translation: plum
     Images:
       - plum1
+  - Word: banana
+    Translation: banana
+    Images:
+      - banana1
+      - banana2
+      - banana3
 
 Phrases:
   - Phrase:  el zirguela tiene kolor blu

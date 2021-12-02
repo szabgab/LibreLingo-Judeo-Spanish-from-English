@@ -1,0 +1,89 @@
+Skill:
+  Name: Words
+  Id: 100
+
+New words:
+  - Word: otobus
+    Translation: bus
+    Images:
+      - bus1
+      - bus2
+      - bus3
+
+  - Word: otobuses
+    Translation: buses
+    Images:
+      - buses1
+      - buses2
+      - buses3
+
+  - Word: koche
+    Translation: car
+    Images:
+      - car1
+      - car2
+      - car3
+
+  - Word: araba
+    Translation: car
+    Images:
+      - car1
+      - car2
+      - car3
+
+  - Word: arabas
+    Translation: cars
+    Images:
+      - cars1
+      - cars2
+      - cars3
+
+  - Word: ojo
+    Translation: eye
+    Images:
+      - eye1
+      - eye2
+      - eye3
+
+  - Word: braso
+    Translation: arm
+    Images:
+      - arm1
+      - arm2
+      - arm3
+
+  - Word: i
+    Translation: and
+    Images:
+      - and1
+      - and2
+      - and3
+
+  - Word: andjel
+    Translation: angel
+    Images:
+      - angel1
+      - angel2
+      - angel3
+
+  - Word: kreatura
+    Translation: child
+    Images:
+      - child1
+      - child2
+      - child3
+
+  - Word: kreaturas
+    Translation: children
+    Images:
+      - children1
+      - children2
+      - children3
+
+
+Phrases: []
+
+Mini-dictionary:
+  Ladino: []
+  English: []
+

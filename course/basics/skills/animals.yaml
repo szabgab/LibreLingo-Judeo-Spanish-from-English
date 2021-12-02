@@ -7,6 +7,13 @@ Skill:
     - cat3
 
 New words:
+  - Word: alefante
+    Translation: elephant
+    Images:
+      - elephant1
+      - elephant2
+      - elephant3
+
   - Word: perro
     Translation: dog
     Images:
@@ -75,6 +82,13 @@ New words:
     Translation: snakes
     Images:
       - snake1
+
+  - Word: pasharo
+    Translation: bird
+    Images:
+      - bird1
+      - bird2
+      - bird3
 
 Phrases:
   - Phrase: un perro
