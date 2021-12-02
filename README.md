@@ -164,17 +164,6 @@ estan kon vozotros
 eyos moran en sus kaza
 
 -----
-the water
-the bread
-the milk
-the apple
-the woman
-the man
-she
-am
-boy
-
-
 
 
 List of available and probably unused images:
@@ -204,9 +193,6 @@ beer3
 behind1
 behind2
 behind3
-belt1
-belt2
-belt3
 between1
 bicycle1
 big1
