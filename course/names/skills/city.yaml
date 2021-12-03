@@ -7,28 +7,26 @@ New words: []
 Phrases:
   - Phrase: Yo moro en Yerushalayim
     Translation: I live in Jerusalem
-  - Phrase: Yo moro en Mueva York
-    Translation: I live in New York
+  - Phrase: Yo moro en {Mueva York}
+    Translation: I live in {New York}
+  - Phrase: Mozotros somos de {Tel Aviv}
+    Translation: We are from {Tel Aviv}
+  - Phrase: Eyos son de Yerushalayim
+    Translation: They are from Jerusalem
 
 
 Mini-dictionary:
   Ladino:
-    - Aviv: Aviv
     - Kastoria: Kastoria
     - Mueva York: New York
     - Saloniko: Thessaloniki
     - Saray: Sarajevo
-    - Tel: Tel
+    - Tel Aviv: Tel Aviv
     - Yerushalayim: Jerusalem
-    - Mueva: New
-    - York: York
 
   English:
-    - Aviv: Aviv
-    - Tel: Tel
-    - Thessaloniki: Saloniko
-    - Sarajevo: Saray
     - Jerusalem: Yerushalayim
     - New York: Mueva York
-    - New: Mueva
-    - York: York
+    - Sarajevo: Saray
+    - Tel Aviv: Tel Aviv
+    - Thessaloniki: Saloniko
