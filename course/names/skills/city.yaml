@@ -2,7 +2,13 @@ Skill:
   Name: City Names
   Id: 71
 
-New words: []
+New words:
+  - Word: sivdad
+    Translation: city
+    Images:
+      - city1
+      - city2
+      - city3
 
 Phrases:
   - Phrase: Yo moro en Yerushalayim
