@@ -10,11 +10,20 @@ Phrases:
 
 Mini-dictionary:
   Ladino:
+    - Arabo: Arab
     - Espanyol: Ladino
     - Djudeo-espanyol: Ladino
+    - Ebreo: Hebrew
+    - Ivrit: Hebrew
+    - Fransez: French
 
   English:
+    - Arab: Arabo
     - Ladino:
       - Espanyol
       - Djudeo-espanyol
+    - Hebrew:
+      - Ebreo
+      - Ivrit
+    - French: Fransez
 

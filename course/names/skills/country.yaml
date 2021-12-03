@@ -2,13 +2,20 @@ Skill:
   Name: Country Names
   Id: 72
 
-New words: []
+New words:
+  - Word: evropa
+    Translation: Europe
+    Images:
+      - europe1
+
 
 Phrases: []
 
 Mini-dictionary:
   Ladino:
     - Israel: Israel
+    - Ungaria:  Hungary
 
   English:
     - Israel: Israel
+    - Hungary: Ungaria
