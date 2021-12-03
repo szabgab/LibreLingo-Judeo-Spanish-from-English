@@ -82,15 +82,6 @@ mos yamamos
 vos yamash
 se yaman
 
-New words:
-  - Word:
-    Translation:
-    Images:
-
-Phrases:
-  - Phrase:
-    Translation:
-
 Este es la kaza del profesor de matematika?
 Is this the house of the math teacher?
 Salu i vida, Sara.  Health and Life, Sara.
@@ -254,3 +245,23 @@ f finished
 ---------
 
 
+Skill:
+  Name: Basic 1
+  Id: 101
+  Thumbnails:
+    - boy1
+    - girl1
+    - woman1
+
+New words:
+  - Word:
+    Translation:
+    Images:
+
+Phrases:
+  - Phrase:
+    Translation:
+
+Mini-dictionary:
+  Ladino: []
+  English: []
