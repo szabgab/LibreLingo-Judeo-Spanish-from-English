@@ -1,0 +1,20 @@
+Skill:
+  Name: Language Names
+  Id: 73
+
+New words: []
+
+Phrases:
+  - Phrase: Yo avlo Djudeo-Espanyol
+    Translation: I speak Ladino
+
+Mini-dictionary:
+  Ladino:
+    - Espanyol: Ladino
+    - Djudeo-espanyol: Ladino
+
+  English:
+    - Ladino:
+      - Espanyol
+      - Djudeo-espanyol
+
