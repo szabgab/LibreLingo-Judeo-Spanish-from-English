@@ -10,6 +10,7 @@ Phrases:
 
 Mini-dictionary:
   Ladino:
+    - Aleman: German
     - Arabo: Arab
     - Espanyol: Ladino
     - Djudeo-espanyol: Ladino
@@ -22,6 +23,7 @@ Mini-dictionary:
     - Ladino:
       - Espanyol
       - Djudeo-espanyol
+    - German: Aleman
     - Hebrew:
       - Ebreo
       - Ivrit
