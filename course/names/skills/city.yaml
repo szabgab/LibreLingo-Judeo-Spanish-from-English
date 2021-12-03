@@ -1,0 +1,20 @@
+Skill:
+  Name: City Names
+  Id: 71
+
+New words: []
+
+Phrases:
+  - Phrase: Yo moro en Yerushalayim
+    Translation: I live in Jerusalem
+
+Mini-dictionary:
+  Ladino:
+    - Aviv: Aviv
+    - Tel: Tel
+    - Yerushalayim: Jerusalem
+
+  English:
+    - Aviv: Aviv
+    - Tel: Tel
+    - Jerusalem: Yerushalayim

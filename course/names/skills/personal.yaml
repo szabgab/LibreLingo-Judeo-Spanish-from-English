@@ -1,6 +1,6 @@
 Skill:
-  Name: Names
-  Id: 99
+  Name: Personal Names
+  Id: 70
 
 New words: []
 
@@ -10,7 +10,6 @@ Phrases:
 
 Mini-dictionary:
   Ladino:
-    - Aviv: Aviv
     - Dani: Dani
     - David: David
     - Espanyol: Ladino
@@ -18,20 +17,15 @@ Mini-dictionary:
     - Leah: Leah
     - Rina: Rina
     - Sara: Sarah
-    - Tel: Tel
     - Yaakov: Yaakov
     - Yosi: Yosi
-    - Yerushalayim: Jerusalem
 
   English:
-    - Aviv: Aviv
     - Dani: Dani
     - David: David
     - Lea: Lea
     - Leah: Leah
     - Rina: Rina
     - Sarah: Sara
-    - Tel: Tel
     - Yaakov: Yaakov
     - Yosi: Yosi
-    - Jerusalem: Yerushalayim
