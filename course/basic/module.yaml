@@ -2,6 +2,6 @@ Module:
   Name: "Basic"
 
 Skills:
-  - introduction1.yaml
-  - introduction2.yaml
-  - introduction3.yaml
+  - basic1.yaml
+  - basic2.yaml
+  - basic3.yaml
