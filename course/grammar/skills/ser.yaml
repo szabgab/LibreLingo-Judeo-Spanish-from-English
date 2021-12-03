@@ -1,0 +1,37 @@
+Skill:
+  Name: To be (ser)
+  Id: 51
+
+New words:
+  - Word: so
+    Translation: am
+    Images:
+      - am1
+
+  - Word: sos
+    Translation: (you) are
+    Images:
+      - are1
+
+  - Word: somos
+    Translation: (we) are
+    Images:
+      - are1
+
+  - Word: semos
+    Translation: (we) are
+    Images:
+      - are1
+
+  - Word: sosh
+    Translation: (you) are
+    Images:
+      - are1
+
+  - Word: son
+    Translation: (they) are
+    Images:
+      - are1
+
+Phrases: []
+
