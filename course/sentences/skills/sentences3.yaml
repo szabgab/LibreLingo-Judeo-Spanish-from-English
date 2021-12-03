@@ -12,12 +12,6 @@ New words:
     Images:
       - book1
 
-  - Word: pan
-    Translation: bread
-    Images:
-      - bread1
-      - bread2
-      - bread3
 
 Phrases:
   - Phrase: I las otras elevas?
@@ -62,9 +56,7 @@ Mini-dictionary:
     - otras: other (fem. pl)
     - el echo: the work
     - el mazal: the luck
-    - el pan: the bread
     - la meza: the table
-    - la agua: the water
     - la roza: the rose
     - la kupa: the glass
   English:

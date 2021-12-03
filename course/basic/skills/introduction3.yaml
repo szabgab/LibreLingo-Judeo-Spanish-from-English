@@ -1,0 +1,71 @@
+Skill:
+  Name: Introduction 3
+  Id: 103
+  Thumbnails:
+    - bread1
+
+New words:
+  - Word: pan
+    Translation: bread
+    Images:
+      - bread1
+      - bread2
+      - bread3
+
+  - Word: el pan
+    Translation: the bread
+    Images:
+      - bread1
+      - bread2
+      - bread3
+
+  - Word: agua
+    Translation: water
+    Images:
+      - water1
+      - water2
+      - water3
+
+  - Word: la agua
+    Translation: the water
+    Images:
+      - water1
+      - water2
+      - water3
+
+  - Word: leche
+    Translation: milk
+    Images:
+      - milk1
+      - milk2
+      - milk3
+
+  - Word: la leche
+    Translation: milk
+    Images:
+      - milk1
+      - milk2
+      - milk3
+
+Phrases:
+  - Phrase: Yo komo pan
+    Translation: I eat bread
+  - Phrase: Yo bevo leche
+    Translation: I drink milk
+  - Phrase: Tu beves leche o agua?
+    Translation: Do you drink milk or water?
+  - Phrase: Yo komo pan i bevo agua
+    Translation: I eat bread and drink water
+
+Mini-dictionary:
+  Ladino:
+    - komo: (I) eat
+    - bevo: (I) drink
+    - beves: (you) drink
+  English:
+    - drink:
+      - bevo
+      - beves
+      - beve
+    - do: do
+
