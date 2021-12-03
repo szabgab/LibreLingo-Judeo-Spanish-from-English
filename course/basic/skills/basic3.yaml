@@ -56,16 +56,23 @@ Phrases:
     Translation: Do you drink milk or water?
   - Phrase: Yo komo pan i bevo agua
     Translation: I eat bread and drink water
+  - Phrase: Tu komes pan i beves agua? Si, yo komo pan i bevo agua.
+    Translation: To you eat bread and drink water? Yes, I eat bread and drink water.
+  - Phrase: El ombre beve agua. La mujer beve leche.
+    Translation: The man drinks water. The woman drinks milk.
 
 Mini-dictionary:
   Ladino:
     - komo: (I) eat
     - bevo: (I) drink
     - beves: (you) drink
+    - beve: (he/she) drinks
   English:
     - drink:
       - bevo
       - beves
+      - beve
+    - drinks:
       - beve
     - do: azer
 

@@ -14,34 +14,6 @@ New words:
       - elephant2
       - elephant3
 
-  - Word: perro
-    Translation: dog
-    Images:
-      - dog1
-      - dog2
-      - dog3
-
-  - Word: perros
-    Translation: dogs
-    Images:
-      - dog1
-      - dog2
-      - dog3
-
-  - Word: gato
-    Translation: cat
-    Images:
-      - cat1
-      - cat2
-      - cat3
-
-  - Word: gatos
-    Translation: cats
-    Images:
-      - cat1
-      - cat2
-      - cat3
-
   - Word: lonso
     Translation: bear
     Images:
