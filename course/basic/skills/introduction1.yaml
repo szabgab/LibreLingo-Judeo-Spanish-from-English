@@ -1,0 +1,61 @@
+Skill:
+  Name: Introduction 1
+  Id: 101
+  Thumbnails:
+    - boy1
+    - girl1
+    - woman1
+
+New words:
+  - Word: la mujer
+    Translation: the woman
+    Images:
+      - woman1
+      - woman2
+      - woman3
+
+  - Word: mujer
+    Translation: woman
+    Images:
+      - woman1
+      - woman2
+      - woman3
+
+  - Word: ombre
+    Translation: man
+    Images:
+      - man1
+      - man2
+      - man3
+
+  - Word: el ombre
+    Translation: the man
+    Images:
+      - man1
+      - man2
+      - man3
+
+
+Phrases:
+  - Phrase: una mujer
+    Translation: a woman
+  - Phrase: yo so una mujer
+    Translation: I am a woman
+  - Phrase: un ombre
+    Translation: I am a woman
+  - Phrase: el ombre
+    Translation: the man
+  - Phrase: yo soy un ombre
+    Translation: I am a man
+  - Phrase: una mujer, un ombre
+    Translation: a woman, a man
+  - Phrase: eya es una mujer
+    Translation: she is a woman.
+  - Phrase: el es un ombre
+    Translation: he is a man
+  - Phrase: tu eres un ombre
+    Translation: you are a man
+
+Mini-dictionary:
+  Ladino: []
+  English: []

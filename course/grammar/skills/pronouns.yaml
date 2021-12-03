@@ -41,14 +41,15 @@ Phrases:
 Mini-dictionary:
   Ladino:
     - esto: am
+    - eres: (you) are
     - so: am
     - sos: are (singular)
-    - somos: are
-    - shos: are (plural)
-    - son: are (3rd person plural)
+    - somos: (we) are
+    - shos: (you) are (plural)
+    - son: (they) are
     - eyos: they
-    - vosotros: you
-    - vosotras: you
+    - vosotros: you (male)
+    - vosotras: you (female)
 
   English:
     - am:

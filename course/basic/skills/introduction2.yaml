@@ -1,0 +1,54 @@
+Skill:
+  Name: Introduction 2
+  Id: 102
+  Thumbnails:
+    - apple1
+    - apple2
+    - apple3
+
+New words:
+  - Word: mansana
+    Translation: apple
+    Images:
+      - apple1
+      - apple2
+      - apple3
+
+  - Word: la mansana
+    Translation: the apple
+    Images:
+      - apple1
+      - apple2
+      - apple3
+
+  - Word: mansanas
+    Translation: apples
+    Images:
+      - apple1
+      - apple2
+      - apple3
+
+
+Phrases:
+  - Phrase:  yo komo una mansana
+    Translation: I eat an apple
+  - Phrase:  Lea kome mansanas
+    Translation: Lea eats apples
+  - Phrase:  David kome una mansana
+    Translation: David eats an apple
+  - Phrase:  Esther komes la mansana
+    Translation: Ester eats the apple
+  - Phrase: El kome mansanas
+    Translation: He eats apples
+  - Phrase: Eya kome una mansana
+    Translation: She eats an apple
+
+
+Mini-dictionary:
+  Ladino:
+    - komo: (I) eat
+    - komes: (he/she) eats
+    - kome: (el/eya) eats
+  English:
+    - eat: komo
+    - eats: komes
