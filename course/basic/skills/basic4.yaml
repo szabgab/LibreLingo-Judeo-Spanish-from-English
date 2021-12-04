@@ -20,7 +20,12 @@ Mini-dictionary:
   Ladino:
     - moro: (I) live
     - moras: (you) live
+    - mora: (he/she) live
+    - moran: (they) live
   English:
     - live:
       - (yo) moro
       - (tu) moras
+    - lives:
+      - (el) mora
+      - (eya) mora

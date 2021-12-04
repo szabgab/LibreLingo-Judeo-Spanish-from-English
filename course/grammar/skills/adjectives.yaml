@@ -1,0 +1,58 @@
+Skill:
+  Name: Posessive Adjectives
+  Id: 53
+
+New words: []
+
+Phrases: []
+
+Mini-dictionary:
+  Ladino:
+    - mi: my
+    - tu: your
+    - su:
+      - his
+      - her
+      - their
+    - muestro: our (male)
+    - muestra: our (female)
+    - vuestro: your (male, plural)
+    - vuestra: your (female, plural)
+
+    - mis: my
+    - tus: your
+    - sus:
+      - his
+      - her
+      - their
+    - muestros: our (male)
+    - muestras: our (female)
+    - vuestros: your (male, plural)
+    - vuestras: your (female, plural)
+
+  English:
+    - my:
+      - mi
+      - mis
+    - your:
+      - tu
+      - tus
+      - vuestro
+      - vuestra
+      - vuestros
+      - vuestras
+    - his:
+      - su
+      - sus
+    - her:
+      - su
+      - sus
+    - our:
+      - muestro
+      - muestra
+      - muestros
+      - muestras
+    - their:
+      - su
+      - sus
+
