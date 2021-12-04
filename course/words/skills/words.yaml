@@ -80,6 +80,13 @@ New words:
       - children2
       - children3
 
+  - Word: kriatura
+    Translation: child
+    Images:
+      - child1
+      - child2
+      - child3
+
   - Word: basketbol
     Translation: basketball
     Images:
@@ -102,12 +109,67 @@ New words:
       - belt2
       - belt3
 
-Phrases: []
+Phrases:
+  - Phrase: En mi famiya ay kuatro personas
+    Translation: In my family {there are} four people
+  - Phrase: Tienes una famiya grande?
+    Translation: Do you have a big family?
+  - Phrase: Tienes una famiya grande?
+    Translation: Do you have a big family?
+
 
 Mini-dictionary:
   Ladino:
    - avlo: (I) speak
+   - alguno: some
+   - ay: there are
+   - ambezar:
+     - to learn
+     - tu study
+   - ayegar: to arrive
+   - ayudo: help
+   - azer: to do
+   - bivir: to live
+   - chiko:
+     - little
+     - small
+   - despozorio: engagement
+   - djenitors: parents
+   - djudio: jew
+   - djidio: jew
+   - el bohor:
+     - the eldest son
+     - firstborn son
+   - empesar: to begin
+   - ermano: brother
+   - ermana: sister
+   - famiya: family
+   - personas: people
+   - grande: big
   English:
    - speak:
      - avlo
+   - some: alguno
+   - to learn: ambezar
+   - to study: ambezar
+   - to arrive: ayegar
+   - help: ayudo
+   - to do: azer
+   - to live: bivir
+   - little: chiko
+   - small: chiko
+   - engagement: despozorio
+   - jew:
+     - djudio
+     - djidio
+   - firstborn son: bohor
+   - begin: empesar
+   - brother: ermano
+   - sister: ermana
+   - family: famiya
+   - there are: ay
+   - people:
+     - personas
+     - djente
+   - big: grande
 
