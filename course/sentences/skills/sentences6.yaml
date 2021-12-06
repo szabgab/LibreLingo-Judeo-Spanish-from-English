@@ -12,13 +12,13 @@ New words:
 Phrases:
   - Phrase: Esta es la kaza de profesor de matematika.
     Translation: This is the house of the math teacher.
-  - Phrase: Mozotros somos elevos de kurzo.
+  - Phrase: Mozotros somos elevos de kurso.
     Translation: We are students of the course.
   - Phrase: El esta en la biblioteka.
     Translation: He is in the library.
   - Phrase: La profesora no esta aki.
     Translation: The teacher is not here.
-  - Phrase: Esta es la klasa del kurzo de Ladino.
+  - Phrase: Esta es la klasa del kurso de Ladino.
     Translation: This is the classroom of the Ladino course.
   - Phrase: Onde esta?
     Translation: Where is he?
@@ -28,7 +28,7 @@ Phrases:
     Translation: We are from Jerusalem.
   - Phrase: Este es el livro de Lea.
     Translation: This is the book of Lea.
-  - Phrase: Vozotras sosh la elevas del kurzo de Espanyol.
+  - Phrase: Vozotras sosh la elevas del kurso de Espanyol.
     Translation: You are the students of the Ladino course.
 
 
@@ -39,7 +39,7 @@ Mini-dictionary:
       - from
       - of
     - matematika: math
-    - kurzo: course
+    - kurso: course
   English:
     - does: esta
     - feel: gusta
