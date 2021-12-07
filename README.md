@@ -10,6 +10,7 @@ Using Latin letters
 
 ## TODO
 
+``
 un tefter - notebook
 tefteres - notebooks
 
@@ -18,6 +19,7 @@ el elevo - the student
 
 un elevo  - a student
 una elava - a student (fem.)
+```
 
 ## Letters
 
@@ -48,7 +50,7 @@ v  - viejo    - old
 y  - yerno    - son-in-law
 z  - zirguela - plum
 ```
-
+```
 la kandela - the candle
 la kandelika - the little candle
 
@@ -131,7 +133,7 @@ tres ermanos.
 gran-papa
 gran-mama
 estan kon vozotros
-
+```
 
 ### List of available and probably unused images:
 
