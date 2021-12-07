@@ -10,27 +10,18 @@ Using Latin letters
 
 ## TODO
 
-
-Kurso de Judeo-Espanyol - Ladino course
-
-El empesijo - The beginning
-bienvenidos - Welcome
-
-i  - and
-
-
 un tefter - notebook
 tefteres - notebooks
 
-Si.      - Yes
-Lashon   - language
 el kurso - the course
 el elevo - the student
 
 un elevo  - a student
 una elava - a student (fem.)
 
+## Letters
 
+```
 a  - agua     - water
 b  - balon    - balloon
 dj - djugo    - game
@@ -56,6 +47,7 @@ u  - uva      - grape
 v  - viejo    - old
 y  - yerno    - son-in-law
 z  - zirguela - plum
+```
 
 la kandela - the candle
 la kandelika - the little candle

@@ -144,32 +144,33 @@ Mini-dictionary:
    - ermano: brother
    - ermana: sister
    - famiya: family
-   - personas: people
    - grande: big
+   - lashon: language
+   - personas: people
   English:
+   - big: grande
+   - begin: empesar
+   - brother: ermano
+   - engagement: despozorio
+   - family: famiya
+   - help: ayudo
+   - little: chiko
    - speak:
      - avlo
    - some: alguno
    - to learn: ambezar
    - to study: ambezar
    - to arrive: ayegar
-   - help: ayudo
    - to do: azer
    - to live: bivir
-   - little: chiko
    - small: chiko
-   - engagement: despozorio
    - jew:
      - djudio
      - djidio
    - firstborn son: bohor
-   - begin: empesar
-   - brother: ermano
    - sister: ermana
-   - family: famiya
    - there are: ay
    - people:
      - personas
      - djente
-   - big: grande
-
+   - language: lashon

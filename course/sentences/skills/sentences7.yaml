@@ -30,7 +30,12 @@ Phrases:
     Translation: You have to meet my family
   - Phrase: keres komer kon mozotros?
     Translation: do you want to eat with us?
-
+  - Phrase: El empesijo
+    Translation: The beginning
+  - Phrase: Bienvenidos
+    Translation: Welcome
+  - Phrase: Kurso de Judeo-Espanyol
+    Translation: Ladino course
 
 Mini-dictionary:
   Ladino:
@@ -44,6 +49,7 @@ Mini-dictionary:
     - diskurso: speech
     - dunke: therefore
     - elektoral: election
+    - empesijo: beginning
     - ets: etc
     - jenerales: general
     - keremos: (we) want
@@ -76,6 +82,7 @@ Mini-dictionary:
     - accept: akseptamos
     - as: komo
     - be: ser
+    - beginning: empesijo
     - content: kontenidos
     - contents: kontenidos
     - contain: kontienen

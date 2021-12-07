@@ -15,10 +15,11 @@ Mini-dictionary:
     - Djudeo-espanyol: Ladino
     - Ebreo: Hebrew
     - Espanyol: Ladino
+    - Fransez: French
     - Grego: Greek
     - Inglez: English
     - Ivrit: Hebrew
-    - Fransez: French
+    - Judeo-Espanyol: Ladino
     - Turko: Turkish
 
   English:
@@ -31,6 +32,7 @@ Mini-dictionary:
       - Ivrit
     - Ladino:
       - Espanyol
+      - Ladino
       - Djudeo-espanyol
     - Turkish: Turko
 
