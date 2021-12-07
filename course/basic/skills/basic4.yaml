@@ -15,12 +15,18 @@ Phrases:
     Translation: Do you live in Jerusalem? Yes, I live in Jerusalem
   - Phrase: Tu moras en {Tel Aviv?} No, yo no moro en {Tel Aviv}
     Translation: Do you live in {Tel Aviv?} No, I don't live in {Tel Aviv}
+  - Phrase: Eyos moran en sus kaza
+    Translation: They live in their house
+
 
 Mini-dictionary:
   Ladino:
+    - morar: to live
     - moro: (I) live
     - moras: (you) live
     - mora: (he/she) live
+    - moramos: (we) live
+    - moraish: (you) live (pl)
     - moran: (they) live
   English:
     - live:

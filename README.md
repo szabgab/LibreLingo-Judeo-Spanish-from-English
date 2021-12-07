@@ -130,21 +130,8 @@ tu kaza your house
 tus kazas your houses
 
 
-alman aleman german
-turko turkish
-grego - Greek
-arabo - Arab
-inglez - English
-
-
-
 djenitores = parents
 
-big - grande
-small - chicko
-
-tu deves konoser a mi famiya you have to meet my family
-keres komer kon mozotros?
 kon muncho plazer
 tienes famiya grande? Do you have a big family?
 Semos sinko - We are five.
@@ -152,13 +139,11 @@ tres ermanos.
 gran-papa
 gran-mama
 estan kon vozotros
-eyos moran en sus kaza
-
------
 
 
-List of available and probably unused images:
+### List of available and probably unused images:
 
+```
 afternoon2
 aunt1
 aunt2
@@ -242,7 +227,7 @@ fountain
 france
 friend
 f finished
----------
+```
 
 Tu tienes kriaturas?
 Si yo tengo un ijo i una uja.
@@ -250,6 +235,7 @@ tienes ermanos o ermanas? Yo teno
 
 colors, shirt, trousers, clothes shop
 
+```
 Skill:
   Name: Basic 1
   Id: 101
@@ -270,3 +256,4 @@ Phrases:
 Mini-dictionary:
   Ladino: []
   English: []
+```

@@ -26,6 +26,11 @@ Phrases:
     Translation: The contents must be open for everyone.
   - Phrase: Semos un grupo públiko, dunke no akseptamos kontenidos non públikos.
     Translation: We are a public group, therefore we don't accept non-public content.
+  - Phrase: Tu deves konoser a mi famiya
+    Translation: You have to meet my family
+  - Phrase: keres komer kon mozotros?
+    Translation: do you want to eat with us?
+
 
 Mini-dictionary:
   Ladino:
@@ -62,7 +67,12 @@ Mini-dictionary:
     - shalom: shalom
     - sostansiozos: substantial
     - sostansiozo: substantial
+    - konoser: to meet
+    - deves: you have to
+    - keres: (you) want
+    - komer: to eat
   English:
+    - us: mozotros
     - accept: akseptamos
     - as: komo
     - be: ser
@@ -97,4 +107,4 @@ Mini-dictionary:
     - want: keremos
     - what: kualo
     - don't: no
-
+    - meet: konoser

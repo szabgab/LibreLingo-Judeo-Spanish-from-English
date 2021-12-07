@@ -12,20 +12,25 @@ Mini-dictionary:
   Ladino:
     - Aleman: German
     - Arabo: Arab
-    - Espanyol: Ladino
     - Djudeo-espanyol: Ladino
     - Ebreo: Hebrew
+    - Espanyol: Ladino
+    - Grego: Greek
+    - Inglez: English
     - Ivrit: Hebrew
     - Fransez: French
+    - Turko: Turkish
 
   English:
     - Arab: Arabo
-    - Ladino:
-      - Espanyol
-      - Djudeo-espanyol
-    - German: Aleman
+    - English: Inglez
+    - French: Fransez
+    - Greek: Grego
     - Hebrew:
       - Ebreo
       - Ivrit
-    - French: Fransez
+    - Ladino:
+      - Espanyol
+      - Djudeo-espanyol
+    - Turkish: Turko
 
