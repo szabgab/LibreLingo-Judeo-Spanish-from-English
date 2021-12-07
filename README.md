@@ -10,17 +10,6 @@ Using Latin letters
 
 ## TODO
 
-``
-un tefter - notebook
-tefteres - notebooks
-
-el kurso - the course
-el elevo - the student
-
-un elevo  - a student
-una elava - a student (fem.)
-```
-
 ## Letters
 
 ```
@@ -50,21 +39,15 @@ v  - viejo    - old
 y  - yerno    - son-in-law
 z  - zirguela - plum
 ```
+
 ```
-la kandela - the candle
-la kandelika - the little candle
-
-la fiesta - the party / holiday
-alegria - joy
-plazer - pleasure
-
-Komo te yamas?
-yo me yamo Gabor - my name is Gabor (I am called)
-me yamo Gabor - my name is Gabor (I am called)
+yo me yamo Dani - my name is Dani (I am called)
+me yamo Dani - my name is Dani (I am called)
 muncho gusto - nice to meet you
 
-primera vez - first time
 
+  - Phrase: Komo te yamas?
+    Translation: What is your name?
 
 yamar - to call
 yamarse - to be called oneself (reflexive)

@@ -1,0 +1,19 @@
+Skill:
+  Name: Ordered Numbers 1-10
+  Id: 201
+
+New words:
+  - Word: primera
+    Translation: first
+    Images:
+      - one1
+
+Phrases:
+  - Phrase: primera vez
+    Translation: first time
+
+Mini-dictionary:
+  Ladino:
+    - vez: time
+  English:
+    - time: vez

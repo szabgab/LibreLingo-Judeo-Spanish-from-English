@@ -11,7 +11,18 @@ New words:
     Translation: houses
     Images:
       - house1
-
+  - Word: kandela
+    Translation: candle
+    Images:
+      - candle1
+  - Word: kandelika
+    Translation: little candle
+    Images:
+      - candle1
+  - Word: fiest
+    Translation: party
+    Images:
+      - party1
 
 
 Phrases:
@@ -41,21 +52,32 @@ Phrases:
     Translation: your book
   - Phrase: tus livros
     Translation: your books
-
+  - Phrase: un tefter
+    Translation: a notebook
+  - Phrase: tefteres
+    Translation: notebooks
 
 
 Mini-dictionary:
   Ladino:
+    - alegria: joy
     - ken: who
     - de:
       - from
       - of
     - matematika: math
-    - kurso: course
+    - kurso: course (m)
+    - plazer: pleasure
+    - tefter: notebook (m)
+    - tefteres: notebooks
   English:
     - does: esta
     - feel: gusta
     - from: de
+    - joy: alegria
     - math: matematika
+    - notebook: tefter
+    - notebooks: tefteres
+    - pleasure: plazer
     - who: ken
 
