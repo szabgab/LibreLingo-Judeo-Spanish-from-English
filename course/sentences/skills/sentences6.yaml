@@ -7,6 +7,11 @@ New words:
     Translation: house
     Images:
       - house1
+  - Word: kazas
+    Translation: houses
+    Images:
+      - house1
+
 
 
 Phrases:
@@ -30,6 +35,13 @@ Phrases:
     Translation: This is the book of Lea.
   - Phrase: Vozotras sosh la elevas del kurso de Espanyol.
     Translation: You are the students of the Ladino course.
+  - Phrase: mi livro
+    Translation: my book
+  - Phrase: tu livro
+    Translation: your book
+  - Phrase: tus livros
+    Translation: your books
+
 
 
 Mini-dictionary:

@@ -76,10 +76,7 @@ mos yamamos
 vos yamash
 se yaman
 
-Este es la kaza del profesor de matematika?
-Is this the house of the math teacher?
-Salu i vida, Sara.  Health and Life, Sara.
-Bindicho el Dio. God bless.
+
 Ya eso bien. I am already well.
 Sara, en ke lengua avlas en kaza? Sarah, in which language do you speak at home?
 
@@ -88,6 +85,8 @@ yo avlo
 tu avlas
 el avla
 eya avla
+mozotros avlamos
+vozotros avlash
 eyos avlan
 
 poko - little
@@ -114,17 +113,6 @@ mi padre
 mi madre
 mi padre i mi madre avlan entre eyos en djudeo-espanyol.
 kon mi avlan en ebreo
-
-
-mi livro my book
-tu livro your book
-tus livros your books
-mi kaza my house
-tu kaza your house
-tus kazas your houses
-
-
-djenitores = parents
 
 kon muncho plazer
 tienes famiya grande? Do you have a big family?

@@ -69,7 +69,20 @@ Phrases:
     Translation: She is at home.
   - Phrase: Todas las elevas ya estan aki?
     Translation: Are all the students already here?
-
+  - Phrase: mi kaza
+    Translation: my house
+  - Phrase: tu kaza
+    Translation: your house
+  - Phrase: tus kazas
+    Translation: your houses
+  - Phrase: yo moro en mi kaza
+    Translation: I live in my house
+  - Phrase: Este es la kaza del profesor de matematika?
+    Translation: Is this the  house of the math teacher?
+  - Phrase: Salu i vida, Sara
+    Translation: Health and Life, Sarah
+  - Phrase: Bindicho el Dio.
+    Translation: God bless.
 
 Mini-dictionary:
   Ladino:
@@ -77,9 +90,11 @@ Mini-dictionary:
     - ande: where
     - aprovar: try
     - bien: well
+    - bindicho: bless
     - buena: good (fem.)
     - buenos: good
     - de: of
+    - dio: god
     - dias: day
     - direktora: manager (f)
     - el: he
@@ -108,12 +123,14 @@ Mini-dictionary:
     - profesor: teacher (m)
     - profesora: teacher (f)
     - estas: are
+    - salu: health
     - yamo: my name
     - una: a
     - no:
       - no
       - not
     - todas: all
+    - vida: life
     - ya: already
 
   English:
@@ -123,8 +140,10 @@ Mini-dictionary:
       - todas
     - are: somos
     - at: en
+    - bless: bindicho
     - classroom: klasa
     - course: kurso
+    - god: dio
     - good:
         - bueno
         - buena
@@ -157,7 +176,9 @@ Mini-dictionary:
     - where:
       - ande
       - onde
+    - health: salu
     - how: komo
+    - life: vida
     - (fem.): (feminina)
     - students:
       - elevos
