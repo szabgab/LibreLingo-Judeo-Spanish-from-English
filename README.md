@@ -40,19 +40,6 @@ y  - yerno    - son-in-law
 z  - zirguela - plum
 ```
 
-```
-
-tienes famiya grande? Do you have a big family?
-Semos sinko - We are five.
-tres ermanos.
-gran-papa
-gran-mama
-estan kon vozotros
-
-```
-
-### List of available and probably unused images:
-
 
 ```
 Skill:

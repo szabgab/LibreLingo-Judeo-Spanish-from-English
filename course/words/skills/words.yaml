@@ -133,6 +133,16 @@ Phrases:
     Translation: "{making small-talk}"
   - Phrase: kon muncho plazer
     Translation: with a lot of pleasure
+  - Phrase: tienes famiya grande?
+    Translation: Do you have a big family?
+  - Phrase: Semos sinko
+    Translation: We are five
+  - Phrase: Tengo tres ermanos
+    Translation: I have three brothers
+  - Phrase: Mi gran-papa i gran-mama biven kon mozotros
+    Translation: My grandfather and grandmother live with us
+  - Phrase: estan kon vozotros
+    Translation: They are with you
 
 Mini-dictionary:
   Ladino:
@@ -166,6 +176,9 @@ Mini-dictionary:
    - lashon: language
    - personas: people
    - muncho: a lot
+   - gran-papa: grandfather
+   - gran-mama: grandmother
+   - biven: (they) live
   English:
    - big: grande
    - begin: empesar
@@ -195,3 +208,5 @@ Mini-dictionary:
    - language: lashon
    - making small-talk: etchar lashon
    - lot: muncho
+   - grandfather: gran-papa
+   - grandmother: gran-mama
