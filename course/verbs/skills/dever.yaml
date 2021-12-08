@@ -11,6 +11,14 @@ Phrases:
 Mini-dictionary:
   Ladino:
     - devo: (I) have to
+    - deves: (you) have to
+    - deve: (he/she) has to
+    - devemos: (we) have to
+    - devesh: (you) have to (p)
+    - deven: (they) have to
   English:
     - have to: (yo) devo
+    - must:
+      - deve
+      - deven
 
