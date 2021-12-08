@@ -43,14 +43,6 @@ z  - zirguela - plum
 ```
 
 
-kantar - to sing
-yo                kanto
-tu                kantas
-el/eya            kanta
-mozotros/mozotras kantamos
-vozotros/vozotras kantash
-eyos              kantan
-
 etchar lashon - making small-talk
 
 
