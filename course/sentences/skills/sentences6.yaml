@@ -56,10 +56,13 @@ Phrases:
     Translation: a notebook
   - Phrase: tefteres
     Translation: notebooks
+  - Phrase: "{muncho gusto}"
+    Translation: "{nice to meet you}"
 
 
 Mini-dictionary:
   Ladino:
+    - muncho gusto: nice to meet you
     - alegria: joy
     - ken: who
     - de:
@@ -76,6 +79,7 @@ Mini-dictionary:
     - from: de
     - joy: alegria
     - math: matematika
+    - nice to meet you: muncho gusto
     - notebook: tefter
     - notebooks: tefteres
     - pleasure: plazer

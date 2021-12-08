@@ -1,0 +1,19 @@
+Skill:
+  Name: Kontar
+  Id: 1001
+
+New words: []
+
+Phrases:
+  - Phrase: Yo konto asta diez
+    Translation: I count till ten
+
+Mini-dictionary:
+  Ladino:
+    - asta: till
+    - konto: (I) count
+  English:
+    - count:
+        (yo) konto
+    - till: asta
+
