@@ -87,6 +87,13 @@ New words:
       - child2
       - child3
 
+  - Word: kriaturas
+    Translation: children
+    Images:
+      - child1
+      - child2
+      - child3
+
   - Word: basketbol
     Translation: basketball
     Images:
@@ -116,6 +123,12 @@ Phrases:
     Translation: Do you have a big family?
   - Phrase: Tienes una famiya grande?
     Translation: Do you have a big family?
+  - Phrase: Tu tienes kriaturas?
+    Translation: Do you have children?
+  - Phrase: Si yo tengo un ijo i una ija
+    Translation: Yes I have one son and one daughter
+  - Phrase: Tienes ermanos o ermanas?
+    Translation: Do you have brothers and sisters?
 
 
 Mini-dictionary:
@@ -142,7 +155,9 @@ Mini-dictionary:
      - firstborn son
    - empesar: to begin
    - ermano: brother
+   - ermanos: brothers
    - ermana: sister
+   - ermanas: sisters
    - famiya: family
    - grande: big
    - lashon: language
@@ -151,6 +166,7 @@ Mini-dictionary:
    - big: grande
    - begin: empesar
    - brother: ermano
+   - brothers: ermanos
    - engagement: despozorio
    - family: famiya
    - help: ayudo
@@ -169,6 +185,7 @@ Mini-dictionary:
      - djidio
    - firstborn son: bohor
    - sister: ermana
+   - sisters: ermanas
    - there are: ay
    - people:
      - personas

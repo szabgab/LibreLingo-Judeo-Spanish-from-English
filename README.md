@@ -178,10 +178,6 @@ friend
 f finished
 ```
 
-Tu tienes kriaturas?
-Si yo tengo un ijo i una uja.
-tienes ermanos o ermanas? Yo teno
-
 colors, shirt, trousers, clothes shop
 
 ```
