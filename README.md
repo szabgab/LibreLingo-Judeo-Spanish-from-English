@@ -43,43 +43,25 @@ z  - zirguela - plum
 ```
 muncho gusto - nice to meet you
 
-
-Ya eso bien. I am already well.
-Sara, en ke lengua avlas en kaza? Sarah, in which language do you speak at home?
-
-avlar - to speak
-yo avlo
-tu avlas
-el avla
-eya avla
-mozotros avlamos
-vozotros avlash
-eyos avlan
-
-poko - little
-
-
 kontar - to count, to tell
-yo konto
+yo                konto
+tu                konta
+el/eya            konta
+mozotros/mozotras kontamos
+vozotros/vozotras kontash
+eyos              kontan
+
 
 kantar - to sing
-yo kanto
-tu kantas
-el kanta
-mozotros kantamos
-vozotros kantash
-eyos kantan
+yo                kanto
+tu                kantas
+el/eya            kanta
+mozotros/mozotras kantamos
+vozotros/vozotras kantash
+eyos              kantan
 
-etchar lashon - smalltalking??
+etchar lashon - making small-talk
 
-
-yo avlo en ebreo
-En ke lengua avlan tus djenitores?
-In which language do your parents speak?
-mi padre
-mi madre
-mi padre i mi madre avlan entre eyos en djudeo-espanyol.
-kon mi avlan en ebreo
 
 kon muncho plazer
 tienes famiya grande? Do you have a big family?
@@ -88,97 +70,19 @@ tres ermanos.
 gran-papa
 gran-mama
 estan kon vozotros
+
+clothes shop
+
+  - Word: 
+    Translation: trousers
+    Images:
+      - trousers1
+
+
 ```
 
 ### List of available and probably unused images:
 
-```
-afternoon2
-aunt1
-aunt2
-aunt3
-baby1
-baby2
-baby3
-backpack1
-backpack2
-backpack3
-ball1
-ball2
-ball3
-bar1
-bar2
-bar3
-beach1
-beach2
-beach3
-beer1
-beer2
-beer3
-behind1
-behind2
-behind3
-between1
-bicycle1
-big1
-black
-blue
-body
-book
-boy
-boys
-boyfriend
-brain
-bridge
-brotherofbrother
-brotherofsister
-brown
-building
-bye
-chair
-chef
-chefs
-chicken
-choice
-church
-city
-clock
-cloth
-coat
-coffee
-construction
-couple
-cousinfemale
-cousinmale
-cow
-credit_card
-daughter
-death
-doctor
-dog
-door
-dress
-driver
-engine
-exhibition
-exit
-family
-farmer
-fast
-fat
-father
-firefighter
-fish
-floor
-foot
-forest
-fountain
-france
-friend
-f finished
-```
-
-colors, shirt, trousers, clothes shop
 
 ```
 Skill:
