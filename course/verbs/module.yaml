@@ -1,0 +1,15 @@
+Module:
+  Name: "Verbs"
+
+Skills:
+  - avlar.yaml
+  - yamar.yaml
+  - kontar.yaml
+  - kantar.yaml
+  - dever.yaml
+  - komer.yaml
+  - bever.yaml
+  - kerer.yaml
+  - tener.yaml
+  - azer.yaml
+  - morar.yaml
