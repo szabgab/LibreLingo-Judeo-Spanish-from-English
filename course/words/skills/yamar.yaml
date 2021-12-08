@@ -1,0 +1,43 @@
+Skill:
+  Name: Yamar
+  Id: 1000
+
+New words: []
+
+Phrases:
+  - Phrase: "{Me yamo} Dani"
+    Alternative versions:
+      - Yo me yamo Dani
+    Translation: My name is Dani
+  - Phrase: "Komo {te yamas?}"
+    Translation: What is your name?
+  - Phrase: "Komo {se yama} tu madre?"
+    Translation: What is the name of your mother?
+  - Phrase: "{Se yama} Rakel"
+    Translation: Her name is Rachel
+  - Phrase: "Komo {se yama} tu padre?"
+    Translation: What is the name of your father?
+  - Phrase: "{Se yama} David"
+    Translation: His name is David
+
+
+
+Mini-dictionary:
+  Ladino:
+    - me yamo:
+      - I am called
+      - my name is
+    - te yamas:
+      - you are called
+    - se yama:
+      - he is called
+      - she is called
+    - mos yamamos:
+      - we are called
+    - vos yamash:
+      - you are called (plural)
+    - se yaman:
+      - they are called
+    - yamar: to call
+    - yamarse: to be called oneself (reflexive)
+  English: []

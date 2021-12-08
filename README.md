@@ -41,23 +41,7 @@ z  - zirguela - plum
 ```
 
 ```
-yo me yamo Dani - my name is Dani (I am called)
-me yamo Dani - my name is Dani (I am called)
 muncho gusto - nice to meet you
-
-
-  - Phrase: Komo te yamas?
-    Translation: What is your name?
-
-yamar - to call
-yamarse - to be called oneself (reflexive)
-
-me yamo
-te yamas
-se yama
-mos yamamos
-vos yamash
-se yaman
 
 
 Ya eso bien. I am already well.
