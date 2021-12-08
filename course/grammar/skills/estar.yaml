@@ -2,37 +2,17 @@ Skill:
   Name: To be (estar)
   Id: 52
 
-New words:
-  - Word: esto
-    Translation: am
-    Images:
-      - am1
-
-  - Word: estas
-    Translation: are
-    Images:
-      - are1
-
-  - Word: esta
-    Translation: is
-    Images:
-      - is1
-
-  - Word: estamos
-    Translation: (we) are
-    Images:
-      - are1
-
-  - Word: estash
-    Translation: (you) are
-    Images:
-      - are1
-
-  - Word: estan
-    Translation: (they) are
-    Images:
-      - are1
-
+New words: []
 
 Phrases: []
+
+Mini-dictionary:
+  Ladino:
+    - esto: (I) am
+    - estas: (you) are
+    - esta: (he/she) is
+    - estamos: (we) are
+    - estash: (you) are
+    - estan: (they) are
+  English: []
 
