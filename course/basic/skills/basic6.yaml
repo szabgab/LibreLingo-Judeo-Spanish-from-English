@@ -2,24 +2,7 @@ Skill:
   Name: Basic 6
   Id: 106
 
-
-
-New words:
-  - Word: padre
-    Translation: father
-    Images:
-      - man1
-
-  - Word: madre
-    Translation: mother
-    Images:
-      - woman1
-
-  - Word: padres
-    Translation: parents
-    Images:
-      - parents
-
+New words: []
 
 Phrases:
   - Phrase: Yo moro kon mi padre

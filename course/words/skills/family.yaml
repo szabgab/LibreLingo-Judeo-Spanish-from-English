@@ -1,0 +1,47 @@
+Skill:
+  Name: Family
+  Id: 993
+
+New words: []
+
+Phrases: []
+
+Mini-dictionary:
+  Ladino:
+    - djenitores: parents
+    - el bohor:
+      - the eldest son
+      - firstborn son
+    - ermana: sister
+    - ermanas: sisters
+    - ermano: brother
+    - ermanos: brothers
+    - kreatura: child
+    - kreaturas: children
+    - kriatura: child
+    - kriaturas: children
+    - famiya: family
+    - gran-papa: grandfather
+    - gran-mama: grandmother
+    - madre: mother
+    - padre: father
+    - padres: parents
+  English:
+    - brother: ermano
+    - brothers: ermanos
+    - child:
+      - kreatura
+      - kriatura
+    - children:
+      - kreaturas
+      - kriaturas
+    - family: famiya
+    - father: padre
+    - firstborn son: bohor
+    - grandfather: gran-papa
+    - grandmother: gran-mama
+    - mother: madre
+    - parents: padres
+    - sister: ermana
+    - sisters: ermanas
+
