@@ -2,56 +2,7 @@ Skill:
   Name: Pronouns
   Id: 50
 
-New words:
-  - Word: yo
-    Translation: I
-    Images:
-      - i1
-
-  - Word: tu
-    Translation: you
-    Images:
-      - you1
-
-  - Word: el
-    Translation: he
-    Images:
-      - he1
-
-  - Word: eya
-    Translation: she
-    Images:
-      - she1
-
-  - Word: mozotros
-    Translation: we
-    Images:
-      - we1
-
-  - Word: mozotras
-    Translation: we
-    Images:
-      - we1
-
-  - Word: vozotros
-    Translation: you
-    Images:
-      - you1
-
-  - Word: vozotras
-    Translation: you
-    Images:
-      - you1
-
-  - Word: eyos
-    Translation: they
-    Images:
-      - they1
-
-  - Word: eyas
-    Translation: they
-    Images:
-      - they1
+New words: []
 
 Phrases:
   - Phrase: yo
@@ -60,5 +11,29 @@ Phrases:
     Translation: you
 
 Mini-dictionary:
-  Ladino: []
-  English: []
+  Ladino:
+    - yo: I
+    - tu: you
+    - el: he
+    - eya: she
+    - mozotros: we (m)
+    - mozotras: we (f)
+    - vozotros: you (m p)
+    - vozotras: you (f p)
+    - eyos: they (m)
+    - eyas: they (f)
+  English:
+    - i: yo
+    - you:
+      - tu
+      - vozotros
+      - vozotras
+    - he: el
+    - she: eya
+    - we:
+      - mozotros
+      - mozotras
+    - they:
+      - eyos
+      - eyas
+
