@@ -16,6 +16,10 @@ Mini-dictionary:
     - ermanas: sisters
     - ermano: brother
     - ermanos: brothers
+    - ijo: son
+    - ija: daughter
+    - ijos: sons
+    - ijas: daughters
     - kreatura: child
     - kreaturas: children
     - kriatura: child
@@ -24,6 +28,8 @@ Mini-dictionary:
     - gran-papa: grandfather
     - gran-mama: grandmother
     - madre: mother
+    - marido: husband
+    - mujer: wife
     - padre: father
     - padres: parents
   English:
@@ -35,13 +41,17 @@ Mini-dictionary:
     - children:
       - kreaturas
       - kriaturas
+    - daughter: ija
     - family: famiya
     - father: padre
     - firstborn son: bohor
     - grandfather: gran-papa
     - grandmother: gran-mama
+    - husband: marido
     - mother: madre
     - parents: padres
     - sister: ermana
     - sisters: ermanas
+    - son: ijo
+    - wife: mujer
 

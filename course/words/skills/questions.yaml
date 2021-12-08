@@ -1,0 +1,22 @@
+Skill:
+  Name: Questions
+  Id: 201
+
+New words: []
+
+Phrases: []
+
+Mini-dictionary:
+  Ladino:
+    - ande: where
+    - ke: how
+    - komo:  how
+    - onde: where
+  English:
+    - how:
+      - ke
+      - komo
+    - where:
+      - ande
+      - onde
+
