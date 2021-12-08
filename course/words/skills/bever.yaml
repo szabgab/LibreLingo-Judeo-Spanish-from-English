@@ -1,0 +1,23 @@
+Skill:
+  Name: Bever
+  Id: 1006
+
+New words: []
+
+Phrases:
+  - Phrase: Yo bevo leche
+    Translation: I drink milk
+
+Mini-dictionary:
+  Ladino:
+    - bever: to drink
+    - bevo: (I) drink
+    - beves: (you) drink
+    - beve: (he/she) drinks
+  English:
+    - drink:
+      - bevo
+      - beves
+      - beve
+    - drinks:
+      - beve
