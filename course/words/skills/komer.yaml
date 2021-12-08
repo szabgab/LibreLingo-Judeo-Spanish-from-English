@@ -1,0 +1,19 @@
+Skill:
+  Name: Komer
+  Id: 1005
+
+New words: []
+
+Phrases:
+  - Phrase: Yo komo pan
+    Translation: I eat bread
+
+Mini-dictionary:
+  Ladino:
+    - komer: to eat
+    - komo: (I) eat
+    - komes: (he/she) eats
+    - kome: (el/eya) eats
+  English:
+    - eat: komo
+    - eats: komes
