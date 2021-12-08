@@ -1,0 +1,16 @@
+Skill:
+  Name: Derver
+  Id: 1004
+
+New words: []
+
+Phrases:
+  - Phrase: Yo devo komer
+    Translation: "I {have to} eat"
+
+Mini-dictionary:
+  Ladino:
+    - devo: (I) have to
+  English:
+    - have to: (yo) devo
+
