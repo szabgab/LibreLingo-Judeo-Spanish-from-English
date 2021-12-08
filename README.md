@@ -42,25 +42,12 @@ z  - zirguela - plum
 
 ```
 
-
-etchar lashon - making small-talk
-
-
-kon muncho plazer
 tienes famiya grande? Do you have a big family?
 Semos sinko - We are five.
 tres ermanos.
 gran-papa
 gran-mama
 estan kon vozotros
-
-clothes shop
-
-  - Word: 
-    Translation: trousers
-    Images:
-      - trousers1
-
 
 ```
 

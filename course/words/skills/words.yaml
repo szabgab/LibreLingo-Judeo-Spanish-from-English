@@ -129,7 +129,10 @@ Phrases:
     Translation: Yes I have one son and one daughter
   - Phrase: Tienes ermanos o ermanas?
     Translation: Do you have brothers and sisters?
-
+  - Phrase: "{etchar lashon}"
+    Translation: "{making small-talk}"
+  - Phrase: kon muncho plazer
+    Translation: with a lot of pleasure
 
 Mini-dictionary:
   Ladino:
@@ -157,10 +160,12 @@ Mini-dictionary:
    - ermanos: brothers
    - ermana: sister
    - ermanas: sisters
+   - etchar lashon: making small-talk
    - famiya: family
    - grande: big
    - lashon: language
    - personas: people
+   - muncho: a lot
   English:
    - big: grande
    - begin: empesar
@@ -188,3 +193,5 @@ Mini-dictionary:
      - personas
      - djente
    - language: lashon
+   - making small-talk: etchar lashon
+   - lot: muncho

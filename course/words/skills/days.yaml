@@ -1,0 +1,25 @@
+Skill:
+  Name: Days
+  Id: 110
+
+New words: []
+
+Phrases:
+  - Phrase: oy es la amanyana del ayer
+    Translation: Today is the tomorrow of yesterday
+
+Mini-dictionary:
+  Ladino:
+   - agora: now
+   - amanyana: tomorrow
+   - oy: today
+   - ayer: yesterday
+   - antiyer: day before yesterday
+   - anoche: last night
+  English:
+   - now: agora
+   - last night: anoche
+   - tomorrow: amanyana
+   - today: oy
+   - yesterday: ayer
+

@@ -33,7 +33,7 @@ New words:
       - hat3
 
 
-  - Word: camiza
+  - Word: kamiza
     Translation: shirt
     Images:
       - shirt1
@@ -47,14 +47,24 @@ New words:
       - skirt2
       - skirt3
 
+  - Word: vestido
+    Translation: dress
+    Images:
+      - dress1
+      - dress2
+      - dress3
+
+
 Phrases:
-  - Phrase: Una camiza vedre, por favor!
+  - Phrase: Una kamiza vedre, por favor!
     Translation: A green shirt, please!
 
 Mini-dictionary:
   English:
     - please: por favor
+    - clothes: ropa
   Ladino:
-    - por: for
     - favor: please
+    - por: for
+    - ropa: clothes
 
