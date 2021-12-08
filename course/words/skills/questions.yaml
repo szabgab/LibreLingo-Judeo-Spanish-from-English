@@ -10,6 +10,7 @@ Mini-dictionary:
   Ladino:
     - ande: where
     - ke: how
+    - ken: who
     - komo:  how
     - onde: where
   English:
@@ -19,4 +20,4 @@ Mini-dictionary:
     - where:
       - ande
       - onde
-
+    - who: ken

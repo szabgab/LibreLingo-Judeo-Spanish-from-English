@@ -11,5 +11,3 @@
 * eyos     - they (masc.)
 * eyas     - they (fem.)
 
-
-
