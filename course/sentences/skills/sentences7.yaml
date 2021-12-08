@@ -36,6 +36,8 @@ Phrases:
     Translation: Welcome
   - Phrase: Kurso de Judeo-Espanyol
     Translation: Ladino course
+  - Phrase: Dani es kazado kon Rakel
+    Translation: Dani is married to Rachel
 
 Mini-dictionary:
   Ladino:
@@ -51,6 +53,8 @@ Mini-dictionary:
     - empesijo: beginning
     - ets: etc
     - jenerales: general
+    - kazado: married to
+    - kazada: married to
     - kontenidos:
       - content
       - contents
@@ -60,18 +64,23 @@ Mini-dictionary:
     - o: or
     - partajar: share
     - para: for
+    - poko: little
     - propaganda: propaganda
     - publikasiones: publications
     - públiko: public
     - públikos: public
     - saludos: greetings
-    - semos: we are
-    - ser: be
     - shabat: shabat
     - shalom: shalom
     - sostansiozos: substantial
     - sostansiozo: substantial
-    - poko: little
+    - vieja: old (f)
+    - viejo: old (m)
+    - mas vieja: older (f)
+    - mas viejo: older (m)
+    - djoven: young
+    - mas djoven: younger
+    - mas djovenes: younger (pl)
   English:
     - little: poko
     - accept: akseptamos
@@ -87,6 +96,9 @@ Mini-dictionary:
     - general: jenerales
     - goal: buto
     - hate: aborresión
+    - married:
+      - kazado
+      - kazada
     - non-public: non públikos
     - open: aviertos
     - or: o
@@ -105,3 +117,7 @@ Mini-dictionary:
     - therefore: dunke
     - what: kualo
     - don't: no
+    - old:
+      - vieja
+    - older: mas vieja
+    - younger: mas djoven

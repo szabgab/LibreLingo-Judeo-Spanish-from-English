@@ -8,6 +8,7 @@ Phrases: []
 
 Mini-dictionary:
   Ladino:
+    - ser: to be
     - so: (I) am
     - sos: (you) are
     - es: (she/he) is
@@ -20,3 +21,4 @@ Mini-dictionary:
     - are:
       - sos
     - be: ser
+
