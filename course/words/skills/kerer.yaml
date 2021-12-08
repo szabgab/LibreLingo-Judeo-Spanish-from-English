@@ -1,0 +1,21 @@
+Skill:
+  Name: Kerer
+  Id: 1006
+
+New words: []
+
+Phrases:
+  - Phrase: Yo kero pan
+    Translation: I want bread
+
+Mini-dictionary:
+  Ladino:
+    - kero: (I) want
+    - keres: (you) want
+    - kere: (he/she) wants
+    - keremos: (we) want
+    - keresh: (you) want (plural)
+    - keren: (they) want
+  English:
+    - want: keremos
+    - wants: (el/eya) kere
