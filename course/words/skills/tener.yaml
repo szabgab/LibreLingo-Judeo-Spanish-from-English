@@ -1,0 +1,24 @@
+Skill:
+  Name: Tener
+  Id: 1007
+
+New words: []
+
+Phrases:
+  - Phrase: Yo tengo un ermano
+    Translation: I have a brother
+
+Mini-dictionary:
+  Ladino:
+    - tener: to have
+    - tengo: (I) have
+    - tienes: (you) have
+    - tiene: (he/she) has
+    - tenemos: (we) have
+    - teneish: (yo) have (pl)
+    - tienen: (they) have
+  English:
+    - have:
+      - tener
+      - (yo) tengo
+      - (to) tienes

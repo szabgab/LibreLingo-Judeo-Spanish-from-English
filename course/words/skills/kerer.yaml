@@ -5,11 +5,16 @@ Skill:
 New words: []
 
 Phrases:
-  - Phrase: Yo kero pan
-    Translation: I want bread
+  - Phrase: Yo kero un poko pan
+    Translation: I want a little bread
+  - Phrase: Keremos avlar kon la profesora
+    Translation: We want to talk to the teacher
+  - Phrase: Eyos keren konoser a mi famiya
+    Translation: They want to meet my family
 
 Mini-dictionary:
   Ladino:
+    - kerer: to want
     - kero: (I) want
     - keres: (you) want
     - kere: (he/she) wants
