@@ -35,11 +35,11 @@ New words:
 Phrases:
   - Phrase: El esta en kaza
     Translation: He is at home
-  - Phrase: Buenos dias
+  - Phrase: "{Buenos dias}"
     Translation: Good morning
-  - Phrase: Buenos dias Sara
+  - Phrase: "{Buenos dias} Sara"
     Translation: Good morning Sarah
-  - Phrase: Buenos dias Yosi
+  - Phrase: "{Buenos dias} Yosi"
     Translation: Good morning Yosi
   - Phrase: Este es el kurso de Ladino?
     Translation: Is this the Ladino course?
@@ -93,9 +93,9 @@ Mini-dictionary:
     - bindicho: bless
     - buena: good (fem.)
     - buenos: good
+    - buenos dias: good morning
     - de: of
     - dio: god
-    - dias: day
     - direktora: manager (f)
     - el: he
     - elevo: students (m)
@@ -158,7 +158,7 @@ Mini-dictionary:
     - in: en
     - is: esta
     - ladino: ladino
-    - morning: dias
+    - good morning: buenos dias
     - my:
         - mi
         - me llamo

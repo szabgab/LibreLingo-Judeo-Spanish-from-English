@@ -10,16 +10,22 @@ Phrases:
 
 Mini-dictionary:
   Ladino:
-   - agora: now
-   - amanyana: tomorrow
-   - oy: today
-   - ayer: yesterday
-   - antiyer: day before yesterday
-   - anoche: last night
+    - agora: now
+    - amanyana: tomorrow
+    - antiyer: day before yesterday
+    - anoche: last night
+    - ayer: yesterday
+    - dia: day
+    - dias: day
+    - manyana: morning
+    - manyanas: mornings
+    - oy: today
   English:
-   - now: agora
-   - last night: anoche
-   - tomorrow: amanyana
-   - today: oy
-   - yesterday: ayer
+    - last night: anoche
+    - morning: manyana
+    - mornings: manyanas
+    - now: agora
+    - today: oy
+    - tomorrow: amanyana
+    - yesterday: ayer
 
