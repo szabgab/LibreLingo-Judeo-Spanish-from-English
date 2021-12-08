@@ -1,0 +1,19 @@
+Skill:
+  Name: ambezar
+  Id: 1011
+
+New words: []
+
+Phrases:
+  - Phrase: Yo kero ambezar Ladino
+    Translation: I want to learn Ladino
+
+Mini-dictionary:
+  Ladino:
+   - ambezar:
+     - to learn
+     - to study
+  English:
+   - learn: ambezar
+   - study: ambezar
+

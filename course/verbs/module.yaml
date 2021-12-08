@@ -2,14 +2,16 @@ Module:
   Name: "Verbs"
 
 Skills:
-  - avlar.yaml
-  - yamar.yaml
-  - kontar.yaml
-  - kantar.yaml
-  - dever.yaml
-  - komer.yaml
-  - bever.yaml
-  - kerer.yaml
-  - tener.yaml
+  - ambezar.yaml
   - azer.yaml
+  - avlar.yaml
+  - ayudar.yaml
+  - bever.yaml
+  - dever.yaml
+  - kantar.yaml
+  - kerer.yaml
+  - komer.yaml
+  - kontar.yaml
   - morar.yaml
+  - tener.yaml
+  - yamar.yaml

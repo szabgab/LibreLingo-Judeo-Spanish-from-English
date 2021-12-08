@@ -55,14 +55,13 @@ Phrases:
     Translation: four cats
   - Phrase: sinko vakas
     Translation: five cows
-  - Phrase: sesh kulevras
+  - Phrase: sesh kulveras
     Translation: six snakes
 
 
 Mini-dictionary:
   Ladino:
     - un: a
-    - kulevras: snakes
 
   English:
     - a:
