@@ -12,8 +12,11 @@ Mini-dictionary:
   Ladino:
     - komer: to eat
     - komo: (I) eat
-    - komes: (he/she) eats
-    - kome: (el/eya) eats
+    - komes: (you) eat
+    - kome: (he/she) eats
+    - komemos: (we) eat
+    - komesh: (you) eat (plural)
+    - komen: (they) eat
   English:
-    - eat: komo
-    - eats: komes
+    - eat: komer
+    - eats: kome
