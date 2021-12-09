@@ -31,6 +31,30 @@ Phrases:
     Translation: Rina is my cousin. Her mother and my father are brothers.
   - Phrase: Haim es mi primo. Su madre i mi madre son ermanas.
     Translation: Haim is my cousin. His mother and my mother are sisters.
+  - Phrase: Yo tengo tios.
+    Translation: I have uncles.
+  - Phrase: Tu tienes primos.
+    Translation: You have cousins.
+  - Phrase: El tiene ermano.
+    Translation: He has a brother.
+  - Phrase: Dani tiene un primo.
+    Translation: Dani has a cousin.
+  - Phrase: David tiene una prima.
+    Translation: David has a cousin.
+  - Phrase: Mozotros tenemos tres ermanos.
+    Translation: We have three brothers.
+  - Phrase: Vozotros teneish un ijo.
+    Translation: You have one son.
+  - Phrase: Eyos tienen famiya grande.
+    Translation: They have a big family.
+  - Phrase: "Su tio i su tia biven en {Tel Aviv}"
+    Translation: "His uncle and aunt live in {Tel Aviv}"
+  - Phrase: Dani tiene aki parientes?
+    Translation: Does Dani have relatives here?
+  - Phrase: El no tiene primos?
+    Translation: He does not have cousins?
+  - Phrase: Yo so el suvrino de mi tia i de mi tio.
+    Translation: I am the nephew of my aunt and my uncle.
 
 Mini-dictionary:
   Ladino:
@@ -64,13 +88,18 @@ Mini-dictionary:
       - parents
       - relatives
     - primo: cousin (m)
+    - primos: cousins (m p)
     - prima: cousin (f)
+    - primas: cousins (f p)
     - suvrino: nephew
     - suvrinos: nephews
     - tio: uncle
+    - tios: uncles
     - tia: aunt
+    - tias: aunts
   English:
     - aunt: tia
+    - aunts: tias
     - brother: ermano
     - brothers: ermanos
     - child:
@@ -82,7 +111,11 @@ Mini-dictionary:
     - cousin:
       - primo
       - prima
+    - cousins:
+      - primos
+      - primas
     - daughter: ija
+    - daughters: ijas
     - family: famiya
     - father: padre
     - firstborn son: bohor
@@ -102,5 +135,6 @@ Mini-dictionary:
     - son: ijo
     - sons: ijos
     - uncle: tio
+    - uncles: tios
     - wife: mujer
 
