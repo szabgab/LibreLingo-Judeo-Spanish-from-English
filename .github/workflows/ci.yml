@@ -11,7 +11,7 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
-        python-version: 3.7
+        python-version: 3.9
 
     - name: Checkout this repo
       uses: actions/checkout@v2
@@ -24,6 +24,7 @@ jobs:
 
     - name: Install dependencies
       run: |
+          python -V
           pip install -r LibreLingo-tools/requirements.txt
           python -V
 
