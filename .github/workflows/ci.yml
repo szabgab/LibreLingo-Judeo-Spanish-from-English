@@ -26,9 +26,7 @@ jobs:
       run: |
           python -V
           pip install -r LibreLingo-tools/requirements.txt
-          python -V
 
     - name: Check course
       run: |
           python LibreLingo-tools/lili.py --course course
-
