@@ -2,6 +2,8 @@
 
 Using Latin letters
 
+Avialble on [LibreLingo](https://librelingo.app/course/ladino-from-english/)
+
 ## Other Learning resources
 
 * [Ladino 101](https://www.youtube.com/watch?v=MTgs0VlkP_E&list=PLG7gXVhDoTAKrqy1jGn4QcQ4Mwk6YB8Tc&index=3) (taught in English)

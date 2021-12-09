@@ -115,11 +115,16 @@ Phrases:
     Translation: My grandfather and grandmother live with us
   - Phrase: estan kon vozotros
     Translation: They are with you
+  - Phrase: Rakel es intelijente
+    Translation: Rachel is intelligent
+  - Phrase: Rina es ermoza
+    Translation: Rina is beautiful
 
 Mini-dictionary:
   Ladino:
    - alguno: some
    - ay: there are
+   - bastante: quite
    - chiko:
      - little
      - small
@@ -132,21 +137,33 @@ Mini-dictionary:
    - personas: people
    - muncho: a lot
    - mas: more
+   - intelijente: intelligent
+   - intelijentes: intelligents
+   - entonses: then
+   - ermoza: beautiful
+   - ermozas: beautiful
   English:
    - big: grande
+   - beautiful:
+     - ermoza
+     - ermozas
    - engagement: despozorio
-   - little: chiko
-   - some: alguno
-   - small: chiko
+   - intelligent: intelijente
+   - intelligents: intelijentes
    - jew:
      - djudio
      - djidio
+   - language: lashon
+   - little: chiko
+   - lot: muncho
+   - making small-talk: etchar lashon
+   - more: mas
+   - some: alguno
+   - small: chiko
    - there are: ay
+   - then: entonses
    - people:
      - personas
      - djente
-   - language: lashon
-   - making small-talk: etchar lashon
-   - lot: muncho
-   - more: mas
+   - quite: bastante
 

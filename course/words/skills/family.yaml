@@ -23,6 +23,14 @@ Phrases:
     Translation: Rina lives with her son
   - Phrase: yo so el bohor
     Translation: "I am the {firstborn son}"
+  - Phrase: David es mi tio. El es el ermano de mi madre.
+    Translation: David is my uncle. He is the brother of my mother.
+  - Phrase: Rakel es mi tia. Eya es la ermana de mi padre.
+    Translation: Rachel is my aunt. She is the sister of my father.
+  - Phrase: Rina es mi prima. Su madre i mi padre son ermanos.
+    Translation: Rina is my cousin. Her mother and my father are brothers.
+  - Phrase: Haim es mi primo. Su madre i mi madre son ermanas.
+    Translation: Haim is my cousin. His mother and my mother are sisters.
 
 Mini-dictionary:
   Ladino:
@@ -51,7 +59,18 @@ Mini-dictionary:
     - mujer: wife
     - padre: father
     - padres: parents
+    - pariente: relative
+    - parientes:
+      - parents
+      - relatives
+    - primo: cousin (m)
+    - prima: cousin (f)
+    - suvrino: nephew
+    - suvrinos: nephews
+    - tio: uncle
+    - tia: aunt
   English:
+    - aunt: tia
     - brother: ermano
     - brothers: ermanos
     - child:
@@ -60,6 +79,9 @@ Mini-dictionary:
     - children:
       - kreaturas
       - kriaturas
+    - cousin:
+      - primo
+      - prima
     - daughter: ija
     - family: famiya
     - father: padre
@@ -68,10 +90,17 @@ Mini-dictionary:
     - grandmother: gran-mama
     - husband: marido
     - mother: madre
-    - parents: padres
+    - nephew: suvrino
+    - nephss: suvrinos
+    - parents:
+      - padres
+      - pariented
+    - relative: pariente
+    - relatives: parientes
     - sister: ermana
     - sisters: ermanas
     - son: ijo
     - sons: ijos
+    - uncle: tio
     - wife: mujer
 
