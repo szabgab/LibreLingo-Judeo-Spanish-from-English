@@ -1,0 +1,33 @@
+name: CI
+
+on: [push, pull_request]
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    name: Verify course
+
+    steps:
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.7
+
+    - name: Checkout this repo
+      uses: actions/checkout@v2
+
+    - name: Checkout the LibreLingo
+      uses: actions/checkout@v2
+      with:
+        repository: 'szabgab/LibreLingo-tools'
+        path: LibreLingo-tools
+
+    - name: Install dependencies
+      run: |
+          pip install -r LibreLingo-tools/requirements.txt
+          python -V
+
+    - name: Check course
+      run: |
+          python LibreLingo-tools/lili.py --course course
+
