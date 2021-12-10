@@ -16,11 +16,18 @@ jobs:
     - name: Checkout this repo
       uses: actions/checkout@v2
 
-    - name: Checkout the LibreLingo
+    - name: Checkout the LibreLingo tools
       uses: actions/checkout@v2
       with:
         repository: 'szabgab/LibreLingo-tools'
         path: LibreLingo-tools
+
+    - name: Checkout the LibreLingo
+      uses: actions/checkout@v2
+      with:
+        repository: 'kantord/LibreLingo'
+        path: LibreLingo
+
 
     - name: Install dependencies
       run: |
@@ -29,4 +36,4 @@ jobs:
 
     - name: Check course
       run: |
-          python LibreLingo-tools/lili.py --ids --course course
+          python LibreLingo-tools/lili.py --ids --course course/ --images LibreLingo/apps/web/static/images/
