@@ -3,6 +3,34 @@ Skill:
   Id: 200
 
 New words:
+  - Word: sopa
+    Translation: soup
+    Images:
+      - soup1
+      - soup2
+      - soup3
+
+  - Word: mar
+    Translation: sea
+    Images:
+      - sea1
+      - sea2
+      - sea3
+
+  - Word: la meza
+    Translation: table
+    Images:
+      - table1
+      - table2
+      - table3
+
+  - Word: meza
+    Translation: table
+    Images:
+      - table1
+      - table2
+      - table3
+
   - Word: polisiya
     Translation: police
     Images:

@@ -2,7 +2,14 @@ Skill:
   Name: Family
   Id: 204
 
-New words: []
+New words:
+  - Word: padre
+    Translation: father
+    Images:
+      - father1
+      - father2
+      - father3
+
 
 Phrases:
   - Phrase: tienen ijos?
@@ -85,7 +92,6 @@ Mini-dictionary:
     - madre: mother
     - marido: husband
     - mujer: wife
-    - padre: father
     - padres: parents
     - pariente: relative
     - parientes:
@@ -121,7 +127,6 @@ Mini-dictionary:
     - daughter: ija
     - daughters: ijas
     - family: famiya
-    - father: padre
     - firstborn son: bohor
     - grandfather: gran-papa
     - grandmother: gran-mama
