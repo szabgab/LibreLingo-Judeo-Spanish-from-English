@@ -7,46 +7,68 @@ New words:
     Translation: color
     Images:
       - color1
+      - color2
+      - color3
   - Word: kolores
     Translation: colors
     Images:
       - color1
+      - color2
+      - color3
   - Word: kolorado
     Translation: red
     Images:
       - red1
+      - red2
+      - red3
   - Word: blanko
     Translation: white
     Images:
       - white1
+      - white2
+      - white3
   - Word: preto
     Translation: black
     Images:
       - black1
+      - black2
+      - black3
   - Word: vedre
     Translation: green
     Images:
       - green1
+      - green2
+      - green3
   - Word: blu
     Translation: blue
     Images:
       - blue1
+      - blue2
+      - blue3
   - Word: mavi
     Translation: blue
     Images:
       - blue1
+      - blue2
+      - blue3
   - Word: amariyo
     Translation: yellow
     Images:
       - yellow1
+      - yellow2
+      - yellow3
   - Word: grizo
     Translation: grey
     Images:
-      - grey1
+      - gray1
+      - gray2
+      - gray3
   - Word: portokal
     Translation: orange
     Images:
       - orange1
+      - orange2
+      - orange3
   - Word: flor
     Translation: flower
     Images:

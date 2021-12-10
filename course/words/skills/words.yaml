@@ -3,6 +3,13 @@ Skill:
   Id: 200
 
 New words:
+  - Word: garson
+    Translation: waiter
+    Images:
+      - waiter1
+      - waiter2
+      - waiter3
+
   - Word: otobus
     Translation: bus
     Images:
