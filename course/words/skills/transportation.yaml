@@ -1,0 +1,45 @@
+Skill:
+  Name: Transportation
+  Id: 213
+
+New words:
+  - Word: otobus
+    Translation: bus
+    Images:
+      - bus1
+      - bus2
+      - bus3
+
+  - Word: otobuses
+    Translation: buses
+    Images:
+      - buses1
+      - buses2
+      - buses3
+
+  - Word: koche
+    Translation: car
+    Images:
+      - car1
+      - car2
+      - car3
+
+  - Word: araba
+    Translation: car
+    Images:
+      - car1
+      - car2
+      - car3
+
+  - Word: arabas
+    Translation: cars
+    Images:
+      - cars1
+      - cars2
+      - cars3
+
+Phrases: []
+
+Mini-dictionary:
+  Ladino: []
+  English: []
