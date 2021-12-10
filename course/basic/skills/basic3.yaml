@@ -3,22 +3,10 @@ Skill:
   Id: 103
   Thumbnails:
     - bread1
+    - water1
+    - milk1
 
 New words:
-  - Word: pan
-    Translation: bread
-    Images:
-      - bread1
-      - bread2
-      - bread3
-
-  - Word: el pan
-    Translation: the bread
-    Images:
-      - bread1
-      - bread2
-      - bread3
-
   - Word: agua
     Translation: water
     Images:

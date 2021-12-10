@@ -10,6 +10,20 @@ New words:
       - soup2
       - soup3
 
+  - Word: pan
+    Translation: bread
+    Images:
+      - bread1
+      - bread2
+      - bread3
+
+  - Word: el pan
+    Translation: the bread
+    Images:
+      - bread1
+      - bread2
+      - bread3
+
 Phrases: []
 
 Mini-dictionary:
