@@ -1,0 +1,36 @@
+Skill:
+  Name: Months
+  Id: 75
+
+New words: []
+
+Phrases: []
+
+Mini-dictionary:
+  Ladino:
+    - enero: January
+    - fevrero: February
+    - marso: March
+    - avril: April
+    - mayo: May
+    - djunio: June
+    - djulio: July
+    - agosto: August
+    - septembre: September
+    - oktobre: October
+    - novembre: November
+    - decembre: December
+  English:
+    - January: enero
+    - February: fevrero
+    - March: marso
+    - April: avril
+    - May: mayo
+    - June: djunio
+    - July: djulio
+    - August: agosto
+    - September: septembre
+    - October: oktobre
+    - November: novembre
+    - December: decembre
+
