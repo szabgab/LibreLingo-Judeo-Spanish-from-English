@@ -3,12 +3,54 @@ Skill:
   Id: 200
 
 New words:
+  - Word: polisiya
+    Translation: police
+    Images:
+      - police1
+      - police2
+      - police3
+
+  - Word: sol
+    Translation: sun
+    Images:
+      - sun1
+      - sun2
+      - sun3
+
+  - Word: rio
+    Translation: river
+    Images:
+      - river1
+      - river2
+      - river3
+
+  - Word: ventana
+    Translation: window
+    Images:
+      - window1
+      - window2
+      - window3
+
+  - Word: arvol
+    Translation: tree
+    Images:
+      - tree1
+      - tree2
+      - tree3
+
   - Word: garson
     Translation: waiter
     Images:
       - waiter1
       - waiter2
       - waiter3
+
+  - Word: garsones
+    Translation: waiters
+    Images:
+      - waiters1
+      - waiters2
+      - waiters3
 
   - Word: otobus
     Translation: bus
