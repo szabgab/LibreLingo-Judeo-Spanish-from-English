@@ -1,0 +1,29 @@
+Skill:
+  Name: Week Days
+  Id: 74
+
+New words: []
+
+Phrases: []
+
+Mini-dictionary:
+  Ladino:
+    - alhad: Sunday (Ar)
+    - lunes: Monday
+    - martes: Tuesday
+    - mierkoles: Wednesday
+    - djuves: Thursday
+    - viernes: Friday
+    - sabat: Saturday
+    - semana: week
+    - día: day
+  English:
+    - Sunday: alhad
+    - Monday: lunes
+    - Tuesday: martes
+    - Wednesday: mierkoles
+    - Thursday: djuves
+    - Friday: viernes
+    - Saturday: sabat
+    - week: semana
+    - day: día
