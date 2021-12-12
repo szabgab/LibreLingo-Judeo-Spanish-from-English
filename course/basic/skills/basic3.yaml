@@ -35,6 +35,13 @@ New words:
       - milk2
       - milk3
 
+  - Word: pan
+    Translation: bread
+    Images:
+      - bread1
+      - bread2
+      - bread3
+
 Phrases:
   - Phrase: Yo komo pan
     Translation: I eat bread
@@ -48,6 +55,15 @@ Phrases:
     Translation: To you eat bread and drink water? Yes, I eat bread and drink water.
   - Phrase: El ombre beve agua. La mujer beve leche.
     Translation: The man drinks water. The woman drinks milk.
+  - Phrase: Eyos komen muncho pan
+    Translation: They eat a lot of bread
+  - Phrase: Ke keres komer? Pan or mansana?
+    Translation: What do you want to eat? Bread or apple?
+  - Phrase: Yo kero komer un un poko de pan.
+    Translation: I want to eat a bit of bread.
+  - Phrase: Ke keres bever? Leche o Agua?
+    Translation: What do you want to drink? Milk or water?
+
 
 Mini-dictionary:
   Ladino: []

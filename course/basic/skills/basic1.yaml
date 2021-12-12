@@ -55,6 +55,8 @@ Phrases:
     Translation: he is a man
   - Phrase: tu sos un ombre
     Translation: you are a man
+  - Phrase: David es un ombre i Lea es una mujer
+    Translation: David is a man and Lea is a woman
 
 Mini-dictionary:
   Ladino: []
