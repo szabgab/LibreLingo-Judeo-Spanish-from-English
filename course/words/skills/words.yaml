@@ -3,6 +3,21 @@ Skill:
   Id: 200
 
 New words:
+  - Word: novio
+    Translation: fiance
+    Images:
+      - fiance1
+      - fiance2
+      - fiance3
+
+  - Word: novia
+    Translation: bride
+    Images:
+      - bride1
+      - bride2
+      - bride3
+
+
   - Word: alta
     Translation: tall
     Images:
@@ -112,6 +127,8 @@ New words:
     Translation: basketball
     Images:
       - basketball1
+      - basketball2
+      - basketball3
 
   - Word: preguntar
     Translation: ask
@@ -122,6 +139,8 @@ New words:
     Translation: watch
     Images:
       - watch1
+      - watch2
+      - watch3
 
   - Word: sintura
     Translation: belt
@@ -129,6 +148,20 @@ New words:
       - belt1
       - belt2
       - belt3
+
+  - Word: aire
+    Translation: air
+    Images:
+      - air1
+      - air2
+      - air3
+
+  - Word: aire
+    Translation: wind
+    Images:
+      - wind1
+      - wind2
+      - wind3
 
 Phrases:
   - Phrase: En mi famiya ay kuatro personas
@@ -165,6 +198,7 @@ Phrases:
 Mini-dictionary:
   Ladino:
    - alguno: some
+   - agradavle: pleasant
    - ay: there are
    - bastante: quite
    - chiko:
@@ -184,6 +218,8 @@ Mini-dictionary:
    - entonses: then
    - ermoza: beautiful
    - ermozas: beautiful
+   - adelante: forward
+   - ai: there
   English:
    - big: grande
    - beautiful:
@@ -208,4 +244,6 @@ Mini-dictionary:
      - personas
      - djente
    - quite: bastante
-
+   - forward: adelante
+   - pleasant: agradavle
+   - there: ai
