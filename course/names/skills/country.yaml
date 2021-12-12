@@ -13,11 +13,22 @@ Phrases: []
 
 Mini-dictionary:
   Ladino:
+    - Ardjentina: Argentina
     - Bulgaria: Bulgaria
+    - Espanya: Spain
+    - Fransia: France
     - Israel: Israel
+    - Meksiko: Mexico
+    - Turkia: Turkey
     - Ungaria:  Hungary
 
   English:
+    - Argentina: Ardjentina
     - Bulgaria: Bulgaria
-    - Israel: Israel
+    - France: Fransia
     - Hungary: Ungaria
+    - Israel: Israel
+    - Mexico: Meksiko
+    - Spain: Espanya
+    - Turkey: Turkia
+
