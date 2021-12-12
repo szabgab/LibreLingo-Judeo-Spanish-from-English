@@ -197,53 +197,81 @@ Phrases:
 
 Mini-dictionary:
   Ladino:
-   - alguno: some
-   - agradavle: pleasant
-   - ay: there are
-   - bastante: quite
-   - chiko:
-     - little
-     - small
-   - despozorio: engagement
-   - djudio: jew
-   - djidio: jew
-   - etchar lashon: making small-talk
-   - grande: big
-   - lashon: language
-   - personas: people
-   - muncho: a lot
-   - mas: more
-   - intelijente: intelligent
-   - intelijentes: intelligents
-   - entonses: then
-   - ermoza: beautiful
-   - ermozas: beautiful
-   - adelante: forward
-   - ai: there
+    - adelante: forward
+    - ai: there
+    - alguno: some
+    - agradavle: pleasant
+    - ay: there are
+    - bastante: quite
+    - chiko:
+      - little
+      - small
+    - despozorio: engagement
+    - djudio: jew
+    - djidio: jew
+    - etchar lashon: making small-talk
+    - entonses: then
+    - entre: between
+    - ensima: above
+    - ermoza: beautiful
+    - ermozas: beautiful
+    - giadera: guide
+    - gizado: stew
+    - grande: big
+    - intelijente: intelligent
+    - intelijentes: intelligents
+    - kon mi: with me
+    - lashon: language
+    - lengua: language
+    - lokura: madness
+    - muncho: a lot
+    - muncha: a lot
+    - munchos: many
+    - munchas: many
+    - mas: more
+    - personas: people
+    - sena: dinner
+    - sovre: about
   English:
-   - big: grande
-   - beautiful:
-     - ermoza
-     - ermozas
-   - engagement: despozorio
-   - intelligent: intelijente
-   - intelligents: intelijentes
-   - jew:
-     - djudio
-     - djidio
-   - language: lashon
-   - little: chiko
-   - lot: muncho
-   - making small-talk: etchar lashon
-   - more: mas
-   - some: alguno
-   - small: chiko
-   - there are: ay
-   - then: entonses
-   - people:
-     - personas
-     - djente
-   - quite: bastante
-   - forward: adelante
-   - pleasant: agradavle
-   - there: ai
+    - about: sovre
+    - above: ensima
+    - big: grande
+    - beautiful:
+      - ermoza
+      - ermozas
+    - between: entre
+    - dinner: la sena
+    - engagement: despozorio
+    - forward: adelante
+    - guide: giadera
+    - intelligent: intelijente
+    - intelligents: intelijentes
+    - jew:
+      - djudio
+      - djidio
+    - language: lashon
+    - little: chiko
+    - lot:
+      - muncho
+      - muncha
+    - madness: lokura
+    - many:
+      - munchos
+      - munchas
+    - making small-talk: etchar lashon
+    - more: mas
+    - people:
+      - personas
+      - djente
+    - pleasant: agradavle
+    - quite: bastante
+    - some: alguno
+    - small: chiko
+    - stew: gizado
+    - themselves: eyos
+    - then: entonses
+    - there: ai
+    - there are: ay
+    - which: ke
+    - with me: kon mi
+

@@ -1,0 +1,24 @@
+Skill:
+  Name: meldar
+  Id: 1019
+
+New words: []
+
+Phrases:
+  - Phrase: Tu meldas un livro en Ladino
+    Translation: You read a book in Ladino
+  - Phrase:  Yo meldo munchos livros
+    Translation: I read a lot of books
+  - Phrase:  Rakel melda bien en Ladino
+    Translation: Rachel reads well in Ladino
+
+
+Mini-dictionary:
+  Ladino:
+    - meldar: to read
+    - meldo: (I) read
+    - meldas: (you) read
+    - melda: (he/she) read
+  English:
+    - read: meldar
+    - reads: melda

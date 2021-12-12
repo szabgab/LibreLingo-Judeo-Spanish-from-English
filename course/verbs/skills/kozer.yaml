@@ -1,0 +1,17 @@
+Skill:
+  Name: kozer
+  Id: 1020
+
+New words: []
+
+Phrases:
+  - Phrase: Tu kozes patatas
+    Translation: Do you cook potatoes
+
+
+Mini-dictionary:
+  Ladino:
+    - kozer: to cook
+    - kozes: (you) cook
+  English:
+    - cook: kozer

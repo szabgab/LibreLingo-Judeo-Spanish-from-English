@@ -41,6 +41,8 @@ Phrases:
     Translation: Good morning Sarah
   - Phrase: "{Buenos dias} Yosi"
     Translation: Good morning Yosi
+  - Phrase: "{Buenas tadres}"
+    Translation: Good afternoon 
   - Phrase: Este es el kurso de Ladino?
     Translation: Is this the Ladino course?
   - Phrase: Komo estas?
@@ -94,6 +96,7 @@ Mini-dictionary:
     - buena: good (fem.)
     - buenos: good
     - buenos dias: good morning
+    - buenas tadres: good afternoon
     - de: of
     - dio: god
     - direktora: manager (f)
@@ -128,6 +131,7 @@ Mini-dictionary:
     - ya: already
 
   English:
+    - afternoon: tadres
     - already: ya
     - all:
       - todo

@@ -15,23 +15,22 @@ Phrases:
     Translation: My father and my mother speak Ladino between themselves.
   - Phrase: "{kon mi} avlan en ebreo"
     Translation: "{with me} they speak Hebrew"
+  - Phrase: Avlas el djudeo-espanyol muy bien
+    Translation: You speak Ladino very well
 
 
 Mini-dictionary:
   Ladino:
-   - avlar: to speak
-   - avlo: (I) speak
-   - avlas: (you) speak
-   - avlan: (they) speak
-   - lengua: language
-   - entre: between
-   - kon mi: with me
+    - avlar: to speak
+    - avlo: (I) speak
+    - avlas: (you) speak
+    - avla: (he/she) speaks
+    - avlamos: (we) speak
+    - avlash: (you) speak (p)
+    - avlan: (they) speak
   English:
-   - talk: avlar
-   - between: entre
-   - speak:
-     - avlo
-   - themselves: eyos
-   - which: ke
-   - with me: kon mi
+    - talk: avlar
+    - speak:
+      - avlo
+    - speaks: avla
 

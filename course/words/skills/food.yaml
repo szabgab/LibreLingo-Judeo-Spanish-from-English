@@ -24,6 +24,98 @@ New words:
       - bread2
       - bread3
 
+  - Word: kartof
+    Translation: potato
+    Images:
+      - potato1
+      - potato2
+      - potato3
+
+  - Word: el kartof
+    Translation: the potato
+    Images:
+      - potato1
+      - potato2
+      - potato3
+
+  - Word: patatas
+    Translation: potatoes
+    Images:
+      - potato1
+      - potato2
+      - potato3
+
+  - Word: kezo
+    Translation: cheese
+    Images:
+      - cheese1
+      - cheese2
+      - cheese3
+
+  - Word: poyo
+    Translation: chicken
+    Images:
+      - chicken1
+      - chicken2
+      - chicken3
+
+  - Word: arroz
+    Translation: rice
+    Images:
+      - rice1
+      - rice2
+      - rice3
+
+  - Word: vedrura
+    Translation: vegetable
+    Images:
+      - vegetable1
+      - vegetable2
+      - vegetable3
+
+  - Word: vedruras
+    Translation: vegetables
+    Images:
+      - vegetable1
+      - vegetable2
+      - vegetable3
+
+  - Word: tomate
+    Translation: tomato
+    Images:
+      - tomato1
+      - tomato2
+      - tomato3
+
+  - Word: tomates
+    Translation: tomatoes
+    Images:
+      - tomato1
+      - tomato2
+      - tomato3
+
+  - Word: pipino
+    Translation: cucumber
+    Images:
+      - cucumber1
+      - cucumber2
+      - cucumber3
+
+  - Word: sevoya
+    Translation: onion
+    Images:
+      - onion1
+      - onion2
+      - onion3
+
+  - Word: berendjena
+    Translation: eggplant
+    Images:
+      - eggplant1
+      - eggplant2
+      - eggplant3
+
+
 Phrases: []
 
 Mini-dictionary:
