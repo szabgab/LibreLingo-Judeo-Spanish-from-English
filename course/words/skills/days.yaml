@@ -2,7 +2,19 @@ Skill:
   Name: Days
   Id: 203
 
-New words: []
+New words:
+  - Word: amanyana
+    Translation: tomorrow
+    Images:
+      - tomorrow1
+      - tomorrow2
+      - tomorrow3
+  - Word: oy
+    Translation: today
+    Images:
+      - today1
+      - today2
+      - today3
 
 Phrases:
   - Phrase: oy es la amanyana del ayer
@@ -11,7 +23,6 @@ Phrases:
 Mini-dictionary:
   Ladino:
     - agora: now
-    - amanyana: tomorrow
     - antiyer: day before yesterday
     - anoche: last night
     - ayer: yesterday
@@ -19,13 +30,11 @@ Mini-dictionary:
     - dias: day
     - manyana: morning
     - manyanas: mornings
-    - oy: today
   English:
     - last night: anoche
     - morning: manyana
     - mornings: manyanas
     - now: agora
-    - today: oy
     - tomorrow: amanyana
     - yesterday: ayer
 

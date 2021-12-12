@@ -3,6 +3,13 @@ Skill:
   Id: 200
 
 New words:
+  - Word: alta
+    Translation: tall
+    Images:
+      - tall1
+      - tall2
+      - tall3
+
   - Word: mar
     Translation: sea
     Images:
