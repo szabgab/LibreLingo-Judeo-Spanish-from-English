@@ -3,6 +3,29 @@ Skill:
   Id: 211
 
 New words:
+  - Word: bira
+    Translation: beer
+    Images:
+      - beer1
+      - beer2
+      - beer3
+
+  - Word: chay
+    Translation: tea
+    Images:
+      - tea1
+      - tea2
+      - tea3
+
+  - Word: kafe
+    Synonyms:
+      - kave
+    Translation: coffee
+    Images:
+      - coffee1
+      - coffee2
+      - coffee3
+
   - Word: sopa
     Translation: soup
     Images:
