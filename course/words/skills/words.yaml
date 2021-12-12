@@ -232,10 +232,12 @@ Mini-dictionary:
     - personas: people
     - sena: dinner
     - sovre: about
+    - un poko: a bit
   English:
     - about: sovre
     - above: ensima
     - big: grande
+    - a bit: un poko
     - beautiful:
       - ermoza
       - ermozas

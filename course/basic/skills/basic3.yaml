@@ -57,10 +57,10 @@ Phrases:
     Translation: The man drinks water. The woman drinks milk.
   - Phrase: Eyos komen muncho pan
     Translation: They eat a lot of bread
-  - Phrase: Ke keres komer? Pan or mansana?
+  - Phrase: Ke keres komer? Pan o mansana?
     Translation: What do you want to eat? Bread or apple?
-  - Phrase: Yo kero komer un un poko de pan.
-    Translation: I want to eat a bit of bread.
+  - Phrase: Yo kero komer {un poko} de pan.
+    Translation: I want to eat {a bit} of bread.
   - Phrase: Ke keres bever? Leche o Agua?
     Translation: What do you want to drink? Milk or water?
 
