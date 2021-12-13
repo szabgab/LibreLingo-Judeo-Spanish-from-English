@@ -224,15 +224,23 @@ Mini-dictionary:
     - grande: big
     - intelijente: intelligent
     - intelijentes: intelligents
+    - karta:
+      - letter
+      - card
+    - kartas:
+      - letters
+      - cards
     - kon mi: with me
     - lashon: language
     - lengua: language
     - lokura: madness
+    - mas: more
+    - mesaje: message
+    - mesajes: messages
     - muncho: a lot
     - muncha: a lot
     - munchos: many
     - munchas: many
-    - mas: more
     - personas: people
     - sena: dinner
     - sovre: about
@@ -247,6 +255,8 @@ Mini-dictionary:
       - ermoza
       - ermozas
     - between: entre
+    - card: karta
+    - cards: kartas
     - cold:
       - frio
       - friyo
@@ -260,6 +270,8 @@ Mini-dictionary:
       - djudio
       - djidio
     - language: lashon
+    - letter: karta
+    - letters: kartas
     - little: chiko
     - lot:
       - muncho
@@ -269,6 +281,8 @@ Mini-dictionary:
       - munchos
       - munchas
     - making small-talk: etchar lashon
+    - message: mesaje
+    - messages: mesajes
     - more: mas
     - outside: afuera
     - people:

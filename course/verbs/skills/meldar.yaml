@@ -12,13 +12,15 @@ Phrases:
   - Phrase:  Rakel melda bien en Ladino
     Translation: Rachel reads well in Ladino
 
-
 Mini-dictionary:
   Ladino:
     - meldar: to read
     - meldo: (I) read
     - meldas: (you) read
-    - melda: (he/she) read
+    - melda: (he/she) reads
+    - meldamos: (we) read
+    - meldaish: (you) read (p)
+    - meldan: (they) read
   English:
     - read: meldar
     - reads: melda

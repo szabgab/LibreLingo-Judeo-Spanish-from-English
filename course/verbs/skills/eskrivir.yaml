@@ -1,0 +1,23 @@
+Skill:
+  Name: eskrivir
+  Id: 1022
+
+New words: []
+
+Phrases:
+  - Phrase: David eskrive kartas en Kasteliyano
+    Translation: David writes a letter in Spanish
+  - Phrase: Yo eskrivo bien en Kasteliyano i en Fransez.
+    Translation: I write well in Spanish and French.
+  - Phrase: Rakel eskrive mesajes aki.
+    Translation: Rachel writes messages here.
+
+Mini-dictionary:
+  Ladino:
+    - eskrivir: to write
+    - eskrivo: (I) write
+    - eskrives: (you) write
+    - eskrive: (he/she) writes
+  English:
+    - write: eskrivo
+    - writes: eskrive
