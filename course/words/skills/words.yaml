@@ -198,6 +198,7 @@ Phrases:
 Mini-dictionary:
   Ladino:
     - adelante: forward
+    - afuera: outside
     - ai: there
     - alguno: some
     - agradavle: pleasant
@@ -216,6 +217,8 @@ Mini-dictionary:
     - ensima: above
     - ermoza: beautiful
     - ermozas: beautiful
+    - frio: cold
+    - friyo: cold
     - giadera: guide
     - gizado: stew
     - grande: big
@@ -244,6 +247,9 @@ Mini-dictionary:
       - ermoza
       - ermozas
     - between: entre
+    - cold:
+      - frio
+      - friyo
     - dinner: la sena
     - engagement: despozorio
     - forward: adelante
@@ -264,6 +270,7 @@ Mini-dictionary:
       - munchas
     - making small-talk: etchar lashon
     - more: mas
+    - outside: afuera
     - people:
       - personas
       - djente

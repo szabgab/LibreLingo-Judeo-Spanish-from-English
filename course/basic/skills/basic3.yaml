@@ -29,7 +29,7 @@ New words:
       - milk3
 
   - Word: la leche
-    Translation: milk
+    Translation: the milk
     Images:
       - milk1
       - milk2
@@ -37,6 +37,13 @@ New words:
 
   - Word: pan
     Translation: bread
+    Images:
+      - bread1
+      - bread2
+      - bread3
+
+  - Word: el pan
+    Translation: the bread
     Images:
       - bread1
       - bread2
