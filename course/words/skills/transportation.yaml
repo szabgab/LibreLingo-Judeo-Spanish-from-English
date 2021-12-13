@@ -3,6 +3,20 @@ Skill:
   Id: 213
 
 New words:
+  - Word: treno
+    Translation: train
+    Images:
+      - train1
+      - train2
+      - train3
+
+  - Word: bisikleta
+    Translation: bicycle
+    Images:
+      - bicycle1
+      - bicycle2
+      - bicycle3
+
   - Word: otobus
     Translation: bus
     Images:

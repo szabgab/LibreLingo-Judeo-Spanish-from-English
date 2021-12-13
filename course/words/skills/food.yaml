@@ -139,7 +139,16 @@ New words:
       - eggplant3
 
 
-Phrases: []
+Phrases:
+  - Phrase: "{Tengo menester} kozer el arroz"
+    Translation: "{I need} help to cook the rice"
+  - Phrase: Yo kero ambezar Ladino.
+    Translation: I want to learn Ladino.
+  - Phrase: "{Tengo menester} kon Ladino"
+    Translation: "{I need} help with Ladino"
+  - Phrase: Puedes meldar en Ladino?
+    Translation: Can you read in Ladino?
+
 
 Mini-dictionary:
   Ladino: []

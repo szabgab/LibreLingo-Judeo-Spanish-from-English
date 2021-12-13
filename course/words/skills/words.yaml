@@ -245,6 +245,8 @@ Mini-dictionary:
     - sena: dinner
     - sovre: about
     - un poko: a bit
+    - vaziyo: empty
+    - yeno: full
   English:
     - about: sovre
     - above: ensima
@@ -261,8 +263,10 @@ Mini-dictionary:
       - frio
       - friyo
     - dinner: la sena
+    - empty: vaziyo
     - engagement: despozorio
     - forward: adelante
+    - full: yeno
     - guide: giadera
     - intelligent: intelijente
     - intelligents: intelijentes

@@ -1,0 +1,22 @@
+Skill:
+  Name: necesitar
+  Id: 1024
+
+New words: []
+
+Phrases: []
+
+Mini-dictionary:
+  Ladino:
+   - necesitar:
+     - to need
+   - necesito: (I) need
+   - tener menester: to need
+   - tengo menester: (I) need
+  English:
+    - need:
+      - necesitar
+      - tener menester
+    - I need:
+      - necesito
+      - tengo menester
