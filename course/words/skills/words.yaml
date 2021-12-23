@@ -206,7 +206,16 @@ Phrases:
     Translation: "{Excuse me} what time is it?"
   - Phrase: Yo avlo djudeo-espanyol ma tengo aksan venezuelano.
     Translation: I speak Ladino but I have Venezualan accent
-
+  - Phrase: "El kuento {por favor}"
+    Translation: The bill please
+  - Phrase: "Kero un kafe, {por favor}"
+    Translation: I want a coffee, please
+  - Phrase: Echar dinero de bankomatiko
+    Translation: "{Take out} money from the ATM"
+  - Phrase: "tualet {de mujeres}"
+    Translation: woman's restroom
+  - Phrase: "tualet {de ombres}"
+    Translation: man's restroom
 
 Mini-dictionary:
   Ladino:
@@ -219,12 +228,16 @@ Mini-dictionary:
     - ay: there are
     - bastante: quite
     - bar: bar
+    - bankomatiko: ATM
     - biervo: word
     - biervos: words
     - chiko:
       - little
       - small
+    - de mujeres: "women's"
+    - de ombres: "man's"
     - despozorio: engagement
+    - dinero: money
     - djudio: jew
     - djidio: jew
     - etchar lashon: making small-talk
@@ -252,6 +265,7 @@ Mini-dictionary:
     - kuantos: how many?
     - kuanta: how many?
     - kuantas: how many?
+    - kuento: bill
     - lashon: language
     - lavoro:
       - work
@@ -275,6 +289,7 @@ Mini-dictionary:
     - por favor: please
     - sena: dinner
     - sovre: about
+    - tualet: restroom
     - un poko: a bit
     - vaziyo: empty
     - yeno: full
@@ -283,6 +298,7 @@ Mini-dictionary:
     - about: sovre
     - above: ensima
     - accent: aksan
+    - ATM: bankomatiko
     - bar: bar
     - big: grande
     - a bit: un poko
@@ -290,6 +306,7 @@ Mini-dictionary:
       - ermoza
       - ermozas
     - between: entre
+    - bill: kuento
     - but: ma
     - card: karta
     - cards: kartas
@@ -330,6 +347,7 @@ Mini-dictionary:
     - making small-talk: etchar lashon
     - message: mesaje
     - messages: mesajes
+    - money: dinero
     - more: mas
     - outside: afuera
     - people:
@@ -337,10 +355,12 @@ Mini-dictionary:
       - djente
     - pleasant: agradavle
     - please: por favor
+    - restroom: tualet
     - quite: bastante
     - some: alguno
     - small: chiko
     - stew: gizado
+    - take out: echar
     - themselves: eyos
     - thank you: mersi
     - then: entonses
@@ -358,5 +378,7 @@ Mini-dictionary:
       - palavras
       - biervos
     - work: lavoro
+    - woman's: de mujeres
+    - man's: de ombres
     - it: es
     - Venezualan: venezuelano
