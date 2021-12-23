@@ -194,6 +194,14 @@ Phrases:
     Translation: Rachel is intelligent
   - Phrase: Rina es ermoza
     Translation: Rina is beautiful
+  - Phrase: Ke tu lavoras?
+    Translation: What do you work?
+  - Phrase: Tu lavoras o ambezas?
+    Translation: Do you work or study?
+  - Phrase: Necesito bushkar para kada palavra
+    Translation: I need to search for each word.
+  - Phrase: Ke livros enkomendas?
+    Translation: What books do you recommend?
 
 Mini-dictionary:
   Ladino:
@@ -224,6 +232,7 @@ Mini-dictionary:
     - grande: big
     - intelijente: intelligent
     - intelijentes: intelligents
+    - kada: each
     - karta:
       - letter
       - card
@@ -232,6 +241,9 @@ Mini-dictionary:
       - cards
     - kon mi: with me
     - lashon: language
+    - lavoro:
+      - work
+      - job
     - lengua: language
     - lokura: madness
     - mas: more
@@ -241,6 +253,8 @@ Mini-dictionary:
     - muncha: a lot
     - munchos: many
     - munchas: many
+    - palavra: word
+    - palavras: words
     - personas: people
     - sena: dinner
     - sovre: about
@@ -263,6 +277,7 @@ Mini-dictionary:
       - frio
       - friyo
     - dinner: la sena
+    - each: kada
     - empty: vaziyo
     - engagement: despozorio
     - forward: adelante
@@ -273,6 +288,7 @@ Mini-dictionary:
     - jew:
       - djudio
       - djidio
+    - job: lavoro
     - language: lashon
     - letter: karta
     - letters: kartas
@@ -303,4 +319,7 @@ Mini-dictionary:
     - there are: ay
     - which: ke
     - with me: kon mi
+    - word: palavra
+    - words: palavras
+    - work: lavoro
 
