@@ -213,6 +213,8 @@ Mini-dictionary:
     - ay: there are
     - bastante: quite
     - bar: bar
+    - biervo: word
+    - biervos: words
     - chiko:
       - little
       - small
@@ -319,7 +321,11 @@ Mini-dictionary:
     - there are: ay
     - which: ke
     - with me: kon mi
-    - word: palavra
-    - words: palavras
+    - word:
+      - palavra
+      - biervo
+    - words:
+      - palavras
+      - biervos
     - work: lavoro
 
