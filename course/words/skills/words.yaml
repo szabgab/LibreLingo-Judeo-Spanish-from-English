@@ -202,11 +202,17 @@ Phrases:
     Translation: I need to search for each word.
   - Phrase: Ke livros enkomendas?
     Translation: What books do you recommend?
+  - Phrase: Pardon ke ora es?
+    Translation: "{Excuse me} what time is it?"
+  - Phrase: Yo avlo djudeo-espanyol ma tengo aksan venezuelano.
+    Translation: I speak Ladino but I have Venezualan accent
+
 
 Mini-dictionary:
   Ladino:
     - adelante: forward
     - afuera: outside
+    - aksan: accent
     - ai: there
     - alguno: some
     - agradavle: pleasant
@@ -248,7 +254,9 @@ Mini-dictionary:
       - job
     - lengua: language
     - lokura: madness
+    - ma: but
     - mas: more
+    - mersi: thank you
     - mesaje: message
     - mesajes: messages
     - muncho: a lot
@@ -257,15 +265,19 @@ Mini-dictionary:
     - munchas: many
     - palavra: word
     - palavras: words
+    - pardon: excuse me
     - personas: people
+    - por favor: please
     - sena: dinner
     - sovre: about
     - un poko: a bit
     - vaziyo: empty
     - yeno: full
+    - venezuelano: Venezualan
   English:
     - about: sovre
     - above: ensima
+    - accent: aksan
     - bar: bar
     - big: grande
     - a bit: un poko
@@ -273,6 +285,7 @@ Mini-dictionary:
       - ermoza
       - ermozas
     - between: entre
+    - but: ma
     - card: karta
     - cards: kartas
     - cold:
@@ -282,6 +295,7 @@ Mini-dictionary:
     - each: kada
     - empty: vaziyo
     - engagement: despozorio
+    - excuse me: pardon
     - forward: adelante
     - full: yeno
     - guide: giadera
@@ -311,11 +325,13 @@ Mini-dictionary:
       - personas
       - djente
     - pleasant: agradavle
+    - please: por favor
     - quite: bastante
     - some: alguno
     - small: chiko
     - stew: gizado
     - themselves: eyos
+    - thank you: mersi
     - then: entonses
     - there: ai
     - there are: ay
@@ -328,4 +344,5 @@ Mini-dictionary:
       - palavras
       - biervos
     - work: lavoro
-
+    - it: es
+    - Venezualan: venezuelano

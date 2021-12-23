@@ -56,15 +56,12 @@ New words:
 
 
 Phrases:
-  - Phrase: Una kamiza vedre, por favor!
-    Translation: A green shirt, please!
+  - Phrase: "Una kamiza vedre, {por favor}"
+    Translation: A green shirt, please
 
 Mini-dictionary:
   English:
-    - please: por favor
     - clothes: ropa
   Ladino:
-    - favor: please
-    - por: for
     - ropa: clothes
 

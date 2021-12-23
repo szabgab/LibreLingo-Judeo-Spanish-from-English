@@ -31,6 +31,20 @@ New words:
       - buses2
       - buses3
 
+  - Word: el otobus
+    Translation: the bus
+    Images:
+      - bus1
+      - bus2
+      - bus3
+
+  - Word: oto
+    Translation: car
+    Images:
+      - car1
+      - car2
+      - car3
+
   - Word: koche
     Translation: car
     Images:
@@ -60,8 +74,17 @@ New words:
       - airport3
 
 
-Phrases: []
+Phrases:
+  - Phrase: "{Voy a} viajar kon un otobus"
+    Translation: "{I am going to} travel with a bus"
+  - Phrase: Tu viajas kon oto o kon otobus?
+    Translation: Do you travel by car or by bus?
+
 
 Mini-dictionary:
-  Ladino: []
-  English: []
+  Ladino:
+    - voy a: I am going to
+    - kon: by
+  English:
+    - I am going to: voy a
+    - by: kon
