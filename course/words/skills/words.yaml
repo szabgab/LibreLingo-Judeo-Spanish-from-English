@@ -248,11 +248,16 @@ Mini-dictionary:
       - letters
       - cards
     - kon mi: with me
+    - kuanto: how many?
+    - kuantos: how many?
+    - kuanta: how many?
+    - kuantas: how many?
     - lashon: language
     - lavoro:
       - work
       - job
     - lengua: language
+    - linguas: languages
     - lokura: madness
     - ma: but
     - mas: more
@@ -299,6 +304,11 @@ Mini-dictionary:
     - forward: adelante
     - full: yeno
     - guide: giadera
+    - how many:
+      - kuanto
+      - kuanta
+      - kuantos
+      - kuantas
     - intelligent: intelijente
     - intelligents: intelijentes
     - jew:
@@ -306,6 +316,7 @@ Mini-dictionary:
       - djidio
     - job: lavoro
     - language: lashon
+    - languages: linguas
     - letter: karta
     - letters: kartas
     - little: chiko
@@ -335,7 +346,10 @@ Mini-dictionary:
     - then: entonses
     - there: ai
     - there are: ay
-    - which: ke
+    - which:
+      - ke
+      - kual
+      - kuala
     - with me: kon mi
     - word:
       - palavra
