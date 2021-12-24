@@ -45,6 +45,14 @@ New words:
       - car2
       - car3
 
+  - Word: otomobil
+    Translation: car
+    Images:
+      - car1
+      - car2
+      - car3
+
+
   - Word: koche
     Translation: car
     Images:
@@ -73,18 +81,49 @@ New words:
       - airport2
       - airport3
 
+  - Word: avion
+    Translation: airplane
+    Images:
+      - airplane1
+      - airplane2
+      - airplane3
+
+
+  - Word: taksi
+    Translation: taxi
+    Images:
+      - taxi1
+      - taxi2
+      - taxi3
+
 
 Phrases:
   - Phrase: "{Voy a} viajar kon un otobus"
     Translation: "{I am going to} travel with a bus"
   - Phrase: Tu viajas kon oto o kon otobus?
     Translation: Do you travel by car or by bus?
+  - Phrase: Ande puedo parkear el otomobil
+    Translation: Where can I park the car
+  - Phrase: Ande puedo parkear la bisikleta
+    Translation: Where can I park the bicycle
+  - Phrase: Ande puedo merkar un bilyeto por el treno
+    Translation: Where can I buy a ticket for the train
+  - Phrase: Ande puedo merkar un bilyeto por la partida
+    Translation: Where can I buy a ticket for the game
+  - Phrase: Kero merkar un bilyeto de avion
+    Translation: I want to buy an airplane ticket
 
 
 Mini-dictionary:
   Ladino:
+    - bilyeto: ticket
     - voy a: I am going to
     - kon: by
+    - para mi: for me
+    - partida: game
   English:
     - I am going to: voy a
+    - for me: para mi
     - by: kon
+    - ticket: bilyeto
+    - game: partida
