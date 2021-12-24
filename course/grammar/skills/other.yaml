@@ -4,11 +4,15 @@ Skill:
 
 New words: []
 
-Phrases: []
+Phrases:
+  - Phrase: Kualo es esto?
+    Translation: What is this?
 
 Mini-dictionary:
   Ladino:
     - por: for
+    - kualo: what
   English:
     - for: por
+    - what: kualo
 

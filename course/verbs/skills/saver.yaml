@@ -1,0 +1,20 @@
+Skill:
+  Name: saver
+  Id: 1037
+
+New words: []
+
+Phrases:
+  - Phrase: "{No se}"
+    Translation: "{I don't know}"
+
+Mini-dictionary:
+  Ladino:
+    - saver: to know
+    - se: (I) know
+    - no se: I don't know
+  English:
+    - know:
+      - saver
+      - (yo) se
+    - I don't know: no se

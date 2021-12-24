@@ -15,6 +15,8 @@ Phrases:
     Translation: I live in Jerusalem
   - Phrase: Yo moro en {Mueva York}
     Translation: I live in {New York}
+  - Phrase: Yo moro en Estambul
+    Translation: I live in Istanbul
   - Phrase: Mozotros somos de {Tel Aviv}
     Translation: We are from {Tel Aviv}
   - Phrase: Eyos son de Yerushalayim
@@ -23,7 +25,7 @@ Phrases:
 
 Mini-dictionary:
   Ladino:
-    - Estambul: Istambul
+    - Estambul: Istanbul
     - Kastoria: Kastoria
     - Mueva York: New York
     - Saloniko: Thessaloniki
@@ -33,7 +35,7 @@ Mini-dictionary:
     - Yeni-Bazar: Novi Pazar
 
   English:
-    - Istambul: Estambul
+    - Istanbul: Estambul
     - Jerusalem: Yerushalayim
     - New York: Mueva York
     - Novi Pazar: Yeni-Bazar

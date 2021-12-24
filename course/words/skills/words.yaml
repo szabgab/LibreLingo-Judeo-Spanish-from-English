@@ -216,6 +216,8 @@ Phrases:
     Translation: woman's restroom
   - Phrase: "tualet {de ombres}"
     Translation: man's restroom
+  - Phrase: Ayudo!
+    Translation: Help! 
 
 Mini-dictionary:
   Ladino:
@@ -294,6 +296,7 @@ Mini-dictionary:
     - vaziyo: empty
     - yeno: full
     - venezuelano: Venezualan
+    - ayudo: help
   English:
     - about: sovre
     - above: ensima
@@ -382,3 +385,5 @@ Mini-dictionary:
     - man's: de ombres
     - it: es
     - Venezualan: venezuelano
+    - help: ayudo
+

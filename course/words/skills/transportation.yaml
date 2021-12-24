@@ -112,18 +112,70 @@ Phrases:
     Translation: Where can I buy a ticket for the game
   - Phrase: Kero merkar un bilyeto de avion
     Translation: I want to buy an airplane ticket
+  - Phrase: El treno esta tadre
+    Translation: The train is late
+  - Phrase: El otobus esta tadre
+    Translation: The bus is late
+  - Phrase: El otobus esta tadre
+    Translation: The bus is late
+  - Phrase: Esta es la plataforma djusta?
+    Translation: Is this the right platform?
+  - Phrase: Este treno va a Estambul?
+    Translation: Does this train go to Istanbul?
+  - Phrase: Ande puedo topar un taksi?
+    Translation: Where can I take a taxi?
+  - Phrase: Ande esta la estasion de otobus?
+    Translation: Where is the bus station?
+  - Phrase: Ande esta la estasion de treno?
+    Translation: Where is the train station?
+  - Phrase: Ande esta la estasion de taksi?
+    Translation: Where is the taxi station?
+  - Phrase: "{Kuanto tiempo} asperamos"
+    Translation: "{How long} do we wait"
+  - Phrase: El treno esta anulado
+    Translation: The train is cancelled
+  - Phrase: Kuando ayega el otobus?
+    Translation: When does the bus arrive?
+  - Phrase: Kuando ayega el avion
+    Translation: When does the airplane arrive
+  - Phrase: Este lugar este libre
+    Translation: Is this place free
+  - Phrase: Komo puedo ir ayi.
+    Translation: How can I go there?
+
 
 
 Mini-dictionary:
   Ladino:
+    - anulado: cancelled
+    - kuanto tiempo: how long
     - bilyeto: ticket
+    - djusta: right
+    - estasion: station
     - voy a: I am going to
     - kon: by
     - para mi: for me
     - partida: game
+    - plataforma: platform
+    - kuando: when
+    - ayega: arrive
+    - lugar: place
+    - libre: free
+    - adiyo: goodbye
+    - ayi: there
   English:
     - I am going to: voy a
     - for me: para mi
     - by: kon
     - ticket: bilyeto
     - game: partida
+    - right: djusta
+    - platform: plataforma
+    - station: estasion
+    - how long: kuanto tiempo
+    - cancelled: anulado
+    - when: kuando
+    - arrive: ayega
+    - place: lugar
+    - free: libre
+    - goodbye: adiyo

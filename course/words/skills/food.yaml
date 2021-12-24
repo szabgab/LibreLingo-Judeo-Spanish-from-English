@@ -148,9 +148,12 @@ Phrases:
     Translation: "{I need} help with Ladino"
   - Phrase: Puedes meldar en Ladino?
     Translation: Can you read in Ladino?
-
+  - Phrase: "{Tengo ambre}"
+    Translation: "{I am hungry}"
 
 Mini-dictionary:
-  Ladino: []
-  English: []
+  Ladino:
+    - Tengo ambre: I am hungry
+  English:
+    - I am hungry: tengo ambre
 
