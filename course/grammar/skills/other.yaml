@@ -12,7 +12,12 @@ Mini-dictionary:
   Ladino:
     - por: for
     - kualo: what
+    - kada:
+      - each
+      - every
   English:
     - for: por
     - what: kualo
+    - each: kada
+    - every: kada
 

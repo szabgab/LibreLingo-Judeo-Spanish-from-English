@@ -4,7 +4,19 @@ Skill:
 
 New words: []
 
-Phrases: []
+Phrases:
+  - Phrase: En Israel alhad es la primera dia de la semana.
+    Translation: In Israel Sunday is the first day of the week.
+  - Phrase: En Inglez alhad es la dia del sol
+    Translation: In English Sunday is the day of the sun
+  - Phrase: En Israel la djente no lavoran en sabat
+    Translation: In Israel the people don't work on Saturday
+  - Phrase: En Evropa la primera dia de la semana es lunes.
+    Translation: In Europe the first day of the week is Monday.
+  - Phrase: "En Israel kada viernes {toda la} famiya kome djuntos."
+    Translation: "In Israel every Friday {the whole} family eats together."
+  - Phrase: Los djudios no lavoran en sabat.
+    Translation: The jews don't work on Saturday.
 
 Mini-dictionary:
   Ladino:
@@ -17,6 +29,12 @@ Mini-dictionary:
     - sabat: Saturday
     - semana: week
     - día: day
+
+    - en: on
+    - toda la: the whole
+    - djuntos: together
+    - djudios: jews
+
   English:
     - Sunday: alhad
     - Monday: lunes
@@ -27,3 +45,8 @@ Mini-dictionary:
     - Saturday: sabat
     - week: semana
     - day: día
+
+    - on: en
+    - the whole: toda la
+    - together: djuntos
+    - jews: djudios
