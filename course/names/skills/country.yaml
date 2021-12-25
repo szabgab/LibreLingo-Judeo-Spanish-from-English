@@ -9,12 +9,20 @@ New words:
       - europe1
 
 
-Phrases: []
+Phrases:
+  - Phrase: Ardjentina es un pais en sur Amerika
+    Translation: Argentina is a country in South America
+  - Phrase: En Ardjentina la djente avla en kasteliyano
+    Translation: In Argentina the people speak in Spanish
+  - Phrase: Bulgariya es en Evropa
+    Translation: Bulgaria is in Europe
+  - Phrase: Meksiko es en Norte de Amerika
+    Translation: Mexico is in North America
 
 Mini-dictionary:
   Ladino:
     - Ardjentina: Argentina
-    - Bulgaria: Bulgaria
+    - Bulgariya: Bulgaria
     - Espanya: Spain
     - Fransia: France
     - Israel: Israel
@@ -22,13 +30,29 @@ Mini-dictionary:
     - Turkia: Turkey
     - Ungaria:  Hungary
 
+    - pais: country
+    - sur: south
+    - norte: north
+    - este: east
+    - oksidente: west
+    - Amerika: America
+    - djente: people
+
   English:
     - Argentina: Ardjentina
-    - Bulgaria: Bulgaria
+    - Bulgaria: Bulgariya
     - France: Fransia
     - Hungary: Ungaria
     - Israel: Israel
     - Mexico: Meksiko
     - Spain: Espanya
     - Turkey: Turkia
+
+    - country: pais
+    - south: sur
+    - north: norte
+    - east: este
+    - west: oksidente
+    - America: Amerika
+    - people: djente
 
