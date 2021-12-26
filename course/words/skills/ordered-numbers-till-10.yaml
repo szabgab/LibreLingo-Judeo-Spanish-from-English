@@ -2,11 +2,7 @@ Skill:
   Name: Ordered Numbers 1-10
   Id: 208
 
-New words:
-  - Word: primera
-    Translation: first
-    Images:
-      - one1
+New words: []
 
 Phrases:
   - Phrase: primera vez
@@ -14,6 +10,23 @@ Phrases:
 
 Mini-dictionary:
   Ladino:
+    - primero: first (m)
+    - primera: first (f)
+    - segundo: second (m)
+    - segunda: second (f)
+    - treser: third
+    - kuatren: fourth
+
     - vez: time
+
   English:
+    - first:
+      - primero
+      - primera
+    - second:
+      - segundo
+      - segunda
+    - third: treser
+    - fourth: kuatren
+
     - time: vez

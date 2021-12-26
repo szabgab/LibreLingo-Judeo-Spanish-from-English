@@ -3,9 +3,9 @@ Module:
 
 Skills:
   - clothes.yaml
-  - numbers1.yaml
-  - numbers2.yaml
-  - numbers3.yaml
+  - numbers-till-10.yaml
+  - numbers-till-20.yaml
+  - ordered-numbers-till-10.yaml
   - animals.yaml
   - colors.yaml
   - frutas.yaml

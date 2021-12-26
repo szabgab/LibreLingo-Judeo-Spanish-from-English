@@ -4,7 +4,15 @@ Skill:
 
 New words: []
 
-Phrases: []
+Phrases:
+  - Phrase: Enero es el primero mez del anyo.
+    Translation: January is the first month of the year.
+  - Phrase: Fevrero es el segundo mez del anyo.
+    Translation: February is the second month of the year.
+  - Phrase: Marso es el treser mez del anyo.
+    Translation: March is the third month of the year.
+  - Phrase: Avril es el kuatren mez del anyo.
+    Translation: April is the fourth month of the year.
 
 Mini-dictionary:
   Ladino:
@@ -20,6 +28,10 @@ Mini-dictionary:
     - oktobre: October
     - novembre: November
     - decembre: December
+
+    - mez: month
+    - anyo: year
+
   English:
     - January: enero
     - February: fevrero
@@ -33,4 +45,7 @@ Mini-dictionary:
     - October: oktobre
     - November: novembre
     - December: decembre
+
+    - month: mez
+    - year: anyo
 
