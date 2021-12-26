@@ -13,6 +13,12 @@ Phrases:
     Translation: March is the third month of the year.
   - Phrase: Avril es el kuatren mez del anyo.
     Translation: April is the fourth month of the year.
+  - Phrase: "Agosto es el mez {mas kaliente}"
+    Translation: August is the hottest month
+  - Phrase: Djulio i agosto son mezes muy kalientes
+    Translation: July and August are very warm monthes.
+  - Phrase: Decembre es el ultimo mez del anyo.
+    Translation: December is the last month of the year.
 
 Mini-dictionary:
   Ladino:
@@ -30,7 +36,14 @@ Mini-dictionary:
     - decembre: December
 
     - mez: month
+    - mezes: monthes
     - anyo: year
+    - enverano: summer
+    - mas kaliente: hottests
+    - kaliente: warm
+    - kalientes: warm (pl)
+    - ultimo: last
+    - ultima: last
 
   English:
     - January: enero
@@ -47,5 +60,12 @@ Mini-dictionary:
     - December: decembre
 
     - month: mez
+    - monthes: mezes
     - year: anyo
+    - summer: enverano
+    - hottest: mas kaliente
+    - warm: kaliente
+    - last:
+      - ultimo
+      - ultima
 

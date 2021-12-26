@@ -4,12 +4,24 @@ Skill:
 
 New words: []
 
-Phrases: []
+Phrases:
+  - Phrase: Kuando keres empesar la klasa?
+    Translation: When do you want to start the class?
+  - Phrase: Kuando tu empesas kozer?
+    Translation: When do you start to cook?
+  - Phrase: Yo empeso kozer temprano.
+    Translation: I start to cook early.
 
 Mini-dictionary:
   Ladino:
-    - empesar: to begin
+    - empesar:
+      - to begin
+      - to start
     - empeso: (I) begin
     - empesas: (you) begin
+
+    - temprano: early
   English:
     - begin: empesar
+    - start: empesar
+    - early: temprano

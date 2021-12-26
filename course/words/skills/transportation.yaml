@@ -142,8 +142,8 @@ Phrases:
     Translation: Is this place free
   - Phrase: Komo puedo ir ayi.
     Translation: How can I go there?
-
-
+  - Phrase: En el aeroporto ay aviones.
+    Translation: There are airplanes at the airport.
 
 Mini-dictionary:
   Ladino:
@@ -163,6 +163,7 @@ Mini-dictionary:
     - libre: free
     - adiyo: goodbye
     - ayi: there
+    - aviones: airplanes
   English:
     - I am going to: voy a
     - for me: para mi
@@ -179,3 +180,4 @@ Mini-dictionary:
     - place: lugar
     - free: libre
     - goodbye: adiyo
+    - airplanes: aviones
