@@ -11,7 +11,7 @@ Phrases:
     Translation: How do you learn Ladino?
   - Phrase: Yo ambezo judeo-espanyol.
     Translation: I study Ladino.
-  - Phrase: David embeza Ebreo.
+  - Phrase: David ambeza Ebreo.
     Translation: David studies Hebrew.
 
 Mini-dictionary:
@@ -29,4 +29,4 @@ Mini-dictionary:
     - learn: ambezar
     - learns: (el/eya) ambeza
     - study: ambezar
-    - studies: (el/eya) embeza
+    - studies: (el/eya) ambeza
