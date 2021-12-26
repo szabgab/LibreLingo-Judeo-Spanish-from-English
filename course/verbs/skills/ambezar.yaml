@@ -5,12 +5,14 @@ Skill:
 New words: []
 
 Phrases:
-  - Phrase: Yo kero ambezar Ladino
+  - Phrase: Yo kero ambezar judeo-espanyol.
     Translation: I want to learn Ladino
   - Phrase: Komo ambezas judeo-espanyol?
     Translation: How do you learn Ladino?
   - Phrase: Yo ambezo judeo-espanyol.
     Translation: I study Ladino.
+  - Phrase: David embeza Ebreo.
+    Translation: David studies Hebrew.
 
 Mini-dictionary:
   Ladino:
@@ -24,5 +26,7 @@ Mini-dictionary:
     - ambezaish: (you) study (p)
     - ambezan: (they) study
   English:
-   - learn: ambezar
-   - study: ambezar
+    - learn: ambezar
+    - learns: (el/eya) ambeza
+    - study: ambezar
+    - studies: (el/eya) embeza
