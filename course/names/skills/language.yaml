@@ -20,7 +20,8 @@ Mini-dictionary:
     - Inglez: English
     - Ivrit: Hebrew
     - Judeo-Espanyol: Ladino
-    - Kasteliyano: Spanish
+    - Kasteyano: (Modern) Spanish
+    - Kastilyano: (Modern) Spanish
     - Ladino: Ladino
     - Turko: Turkish
 
@@ -36,6 +37,8 @@ Mini-dictionary:
       - Espanyol
       - Ladino
       - Djudeo-espanyol
-    - Spanish: Kasteliyano
+    - Spanish:
+      - Kasteyano
+      - Kastilyano
     - Turkish: Turko
 
