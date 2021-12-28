@@ -38,6 +38,8 @@ Phrases:
     Translation: Ladino course
   - Phrase: Dani es kazado kon Rakel
     Translation: Dani is married to Rachel
+  - Phrase: A la kontra
+    Translation: On the contrary
 
 Mini-dictionary:
   Ladino:
@@ -79,6 +81,7 @@ Mini-dictionary:
     - djoven: young
     - mas djoven: younger
     - mas djovenes: younger (pl)
+    - kontra: contrary
   English:
     - little: poko
     - accept: akseptamos
@@ -117,3 +120,7 @@ Mini-dictionary:
       - vieja
     - older: mas vieja
     - younger: mas djoven
+    - contrary: kontra
+    - relaton: la relasion
+    - relatons: relasiones
+

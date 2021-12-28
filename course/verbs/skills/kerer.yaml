@@ -11,6 +11,8 @@ Phrases:
     Translation: We want to talk to the teacher
   - Phrase: Eyos keren konoser a mi famiya
     Translation: They want to meet my family
+  - Phrase: La keren muncho.
+    Translation: They love her a lot.
 
 Mini-dictionary:
   Ladino:
@@ -20,7 +22,10 @@ Mini-dictionary:
     - kere: (he/she) wants
     - keremos: (we) want
     - keresh: (you) want (plural)
-    - keren: (they) want
+    - keren:
+      - (they) want
+      - (they) love
   English:
     - want: keremos
     - wants: (el/eya) kere
+    - love: keren

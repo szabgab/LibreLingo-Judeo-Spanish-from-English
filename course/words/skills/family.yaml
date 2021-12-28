@@ -66,11 +66,20 @@ Phrases:
     Translation: They have quite a big family.
   - Phrase: Tenemos kuatro ijas.
     Translation: We have four daughters.
+  - Phrase: El tiene una madre vieja.
+    Translation: He has an old mother.
+  - Phrase: Tu padre bive solo
+    Translation: Your father lives alone
+  - Phrase: Tu bives solo? No, yo bivo kon mi padre.
+    Translation: Do you live alone? No, I live with my father.
+  - Phrase: Komo es tu esfuegra?
+    Translation: How is your mother-in-law?
 
 Mini-dictionary:
   Ladino:
     - djenitores: parents
     - bohor: firstborn son
+    - esfuegra: mother-in-law
     - el bohor:
       - the eldest son
       - firstborn son
@@ -78,10 +87,14 @@ Mini-dictionary:
     - ermanas: sisters
     - ermano: brother
     - ermanos: brothers
+    - elmuera: daughter-in-law
+    - elmueras: daughters-in-law
     - ijo: son
     - ija: daughter
     - ijos: sons
     - ijas: daughters
+    - inyeto: grand-son
+    - inyeta: grand-daughter
     - kreatura: child
     - kreaturas: children
     - kriatura: child
@@ -107,6 +120,11 @@ Mini-dictionary:
     - tios: uncles
     - tia: aunt
     - tias: aunts
+    - yerno: son-in-law
+    - yernos: sons-in-law
+
+    - sola: alone
+    - solo: alone
   English:
     - aunt: tia
     - aunts: tias
@@ -126,12 +144,17 @@ Mini-dictionary:
       - primas
     - daughter: ija
     - daughters: ijas
+    - daughter-in-law: elmuera
+    - daughters-in-law: elmueras
     - family: famiya
     - firstborn son: bohor
     - grandfather: gran-papa
     - grandmother: gran-mama
+    - grand-son: inyeto
+    - grand-daughter: inyeta
     - husband: marido
     - mother: madre
+    - mother-in-law: esfuegra
     - nephew: suvrino
     - nephss: suvrinos
     - parents:
@@ -143,7 +166,13 @@ Mini-dictionary:
     - sisters: ermanas
     - son: ijo
     - sons: ijos
+    - son-in-law: yerno
+    - sons-in-law: yernos
     - uncle: tio
     - uncles: tios
     - wife: mujer
+
+    - alone:
+      - sola
+      - solo
 
