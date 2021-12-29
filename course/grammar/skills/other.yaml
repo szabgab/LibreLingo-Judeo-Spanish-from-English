@@ -15,9 +15,14 @@ Mini-dictionary:
     - kada:
       - each
       - every
+    - akeya: that (f)
+    - akeyo: that (m)
   English:
     - for: por
     - what: kualo
     - each: kada
     - every: kada
+    - that:
+      - akeya
+      - akeyo
 

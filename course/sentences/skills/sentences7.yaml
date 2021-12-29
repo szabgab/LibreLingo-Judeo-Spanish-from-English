@@ -40,12 +40,19 @@ Phrases:
     Translation: Dani is married to Rachel
   - Phrase: A la kontra
     Translation: On the contrary
+  - Phrase: La puerta este avierta
+    Translation: The door is open
+  - Phrase: La ventana este avierta
+    Translation: The window is open
+  - Phrase: Esto en la kuzina
+    Translation: I am in the kitchen
 
 Mini-dictionary:
   Ladino:
     - akseptamos: accept
     - aborresión: hate
     - aviertos: open
+    - apartemento: apertment
     - buen: good
     - buto: goal
     - diskurso: speech
@@ -60,6 +67,8 @@ Mini-dictionary:
       - content
       - contents
     - kontienen: contain
+    - lision: homework
+    - lisiones: homework
     - non: non
     - o: or
     - partajar: share
@@ -69,6 +78,7 @@ Mini-dictionary:
     - publikasiones: publications
     - públiko: public
     - públikos: public
+    - puerta: door
     - saludos: greetings
     - shabat: shabat
     - shalom: shalom
@@ -82,6 +92,18 @@ Mini-dictionary:
     - mas djoven: younger
     - mas djovenes: younger (pl)
     - kontra: contrary
+    - avierta: open
+    - kozina: kitchen
+    - kuzina: kitchen
+    - mutpak: kitchen
+    - banyo: bathroom
+    - dormitoro: bedroom
+    - kamareta: room
+    - ermozo: beautiful
+    - ermoza: beautiful
+    - negro: bad
+    - vanda: side
+    - kabine: toilet
   English:
     - little: poko
     - accept: akseptamos
@@ -123,4 +145,22 @@ Mini-dictionary:
     - contrary: kontra
     - relaton: la relasion
     - relatons: relasiones
-
+    - door: (la) puerta
+    - open: avierta
+    - kitchen:
+      - kozina
+      - kuzina
+      - mutpak
+    - side: vanda
+    - bathroom: banyo
+    - bedroom: dormitoro
+    - room: kamareta
+    - beautiful:
+      - ermozo
+      - ermoza
+    - bad: negro
+    - apertment: apartemento
+    - homework:
+      - lision
+      - lisiones
+    - toilet: kabine
