@@ -2,69 +2,17 @@ Skill:
   Name: Numbers 1-10
   Id: 206
 
-New words:
-  - Word: uno
-    Translation: one
-    Images:
-      - one1
-      - one2
-      - one3
-  - Word: dos
-    Translation: two
-    Images:
-      - two1
-      - two2
-      - two3
-  - Word: tres
-    Translation: three
-    Images:
-      - three1
-      - three2
-      - three3
-  - Word: kuatro
-    Translation: four
-    Images:
-      - four1
-      - four2
-      - four3
-  - Word: sinko
-    Translation: five
-    Images:
-      - five1
-      - five2
-      - five3
-  - Word: sesh
-    Translation: six
-    Images:
-      - six1
-      - six2
-      - six3
-  - Word: siete
-    Translation: seven
-    Images:
-      - seven1
-      - seven2
-      - seven3
-  - Word: ocho
-    Translation: eigth
-    Images:
-      - eight1
-      - eight2
-      - eight3
-  - Word: mueve
-    Translation: nive
-    Images:
-      - nine1
-      - nine2
-      - nine3
-  - Word: diez
-    Translation: ten
-    Images:
-      - ten1
-      - ten2
-      - ten3
+New words: []
 
 Phrases:
+  - Phrase: uno, dos, tres
+    Translation: one, two, three
+  - Phrase: kuatro, sinko, sesh
+    Translation: four, five, six
+  - Phrase: siete, ocho, mueve
+    Translation: seven, eight, nine
+  - Phrase: ocho, mueve, diez
+    Translation: eight, nine, ten
   - Phrase: un perro
     Translation: a dog
   - Phrase: dos perros
@@ -81,9 +29,31 @@ Phrases:
 
 Mini-dictionary:
   Ladino:
+    - uno: one
+    - dos: two
+    - tres: three
+    - kuatro: four
+    - sinko: five
+    - sesh: six
+    - siete: seven
+    - ocho: eigth
+    - mueve: nive
+    - diez: ten
+
     - un: a
 
   English:
+    - one: uno
+    - two: dos
+    - three: tres
+    - four: kuatro
+    - five: sinko
+    - six: sesh
+    - seven: siete
+    - eight: ocho
+    - nine: mueve
+    - ten: diez
+
     - a:
       - un
       - una
