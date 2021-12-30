@@ -1,0 +1,24 @@
+Skill:
+  Name: poder
+  Id: 1039
+
+New words: []
+
+Phrases:
+  - Phrase: Yo puedo avlar Djudeo-espanyol.
+    Translation: I can speak Ladino.
+
+Mini-dictionary:
+  Ladino:
+    - poder: to be able
+    - puedo: (I) can
+    - puedes: (you) can
+    - puede: (he/she) can
+    - podemos: (we) can
+    - podesh: (you) can (p)
+    - pueden: (they) can
+  English:
+    - be able to: poder
+    - can:
+      - poder
+
