@@ -38,6 +38,7 @@ Mini-dictionary:
     - mez: month
     - mezes: months
     - anyo: year
+    - anyos: years
     - enverano: summer
     - mas kaliente: hottests
     - kaliente: warm
@@ -62,6 +63,7 @@ Mini-dictionary:
     - month: mez
     - months: mezes
     - year: anyo
+    - years: anyos
     - summer: enverano
     - hottest: mas kaliente
     - warm: kaliente
