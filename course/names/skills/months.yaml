@@ -16,7 +16,7 @@ Phrases:
   - Phrase: "Agosto es el mez {mas kaliente}"
     Translation: August is the hottest month
   - Phrase: Djulio i agosto son mezes muy kalientes
-    Translation: July and August are very warm monthes.
+    Translation: July and August are very warm months.
   - Phrase: Decembre es el ultimo mez del anyo.
     Translation: December is the last month of the year.
 
@@ -36,7 +36,7 @@ Mini-dictionary:
     - decembre: December
 
     - mez: month
-    - mezes: monthes
+    - mezes: months
     - anyo: year
     - enverano: summer
     - mas kaliente: hottests
@@ -60,7 +60,7 @@ Mini-dictionary:
     - December: decembre
 
     - month: mez
-    - monthes: mezes
+    - months: mezes
     - year: anyo
     - summer: enverano
     - hottest: mas kaliente

@@ -25,6 +25,8 @@ Phrases:
     Translation: five cows
   - Phrase: sesh kulveras
     Translation: six snakes
+  - Phrase: Uno es el Kriador
+    Translation: One is the Creator
 
 
 Mini-dictionary:
@@ -41,6 +43,7 @@ Mini-dictionary:
     - diez: ten
 
     - un: a
+    - kriador: creator
 
   English:
     - one: uno
@@ -57,4 +60,5 @@ Mini-dictionary:
     - a:
       - un
       - una
+    - creator: kriador
 
