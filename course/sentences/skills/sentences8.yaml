@@ -31,8 +31,38 @@ Mini-dictionary:
       - edition (of newspaper)
     - material: material
     - materiales: materials
+    - sefaradis: Sephardic
     - Sefaradim: Sephardic
     - kultura: culture
+    - otruna: other
+    - otruno: other
+    - koza: thing
+    - pajina: page
+    - freska: fresh
+    - fresko: fresh
+    - forma: form
+    - importante: important
+    - tambien: also
+    - traduksiones: translations
+    - poezia: poetry
+    - ovra: work (noun)
+    - ovras: works (noun)
+    - porke: because
+    - autor: author
+    - autores: authors
+    - veteranos: veteran
+    - famozos: famous
+    - anonimos: anonymous
+    - autentikos: authentic
+    - eskritor: writer
+    - eskritora: writer
+    - eskritores: writers
+    - eskritoras: writers
+    - investigador: investigator
+    - investigadora: investigator
+    - investigadoras: investigators
+    - investigadores: investigators
+    - renasimiento: rebirth
   English:
     - women: mujeres
     - friends:
@@ -49,6 +79,42 @@ Mini-dictionary:
     - newspaper: jurnal
     - materials:  materiales
     - material:  material
-    - Sephardic: Sefaradim
+    - Sephardic:
+      - Sefaradim
+      - Sefaradis
     - culture: kultura
-
+    - other:
+      - otruno
+      - otruna
+    - thing: koza
+    - page: pajina
+    - fresh:
+      - fresko
+      - freska
+    - form: forma
+    - important: importante
+    - also: tambien
+    - translations: traduksiones
+    - poetry: poezia
+    - work: ovra
+    - works: ovras
+    - because: porke
+    - author: autor
+    - authors: autores
+    - veteran: veteranos
+    - famous: famozos
+    - anonymous: anonimos
+    - authentic: autentikos
+    - writer:
+      - eskritor
+      - eskritora
+    - writers:
+      - eskritores
+      - eskritoras
+    - investigator:
+      - investigador
+      - investigadora
+    - investigators:
+      - investigadoras
+      - investigadores
+    - rebirth: renasimiento

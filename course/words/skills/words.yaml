@@ -272,6 +272,7 @@ Mini-dictionary:
       - work
       - job
     - lengua: language
+    - lingua: language
     - linguas: languages
     - lokura: madness
     - ma: but
@@ -333,8 +334,13 @@ Mini-dictionary:
       - djudio
       - djidio
     - job: lavoro
-    - language: lashon
-    - languages: linguas
+    - language:
+      - lashon
+      - lingua
+      - lengua
+    - languages:
+      - linguas
+      - lenguas
     - letter: karta
     - letters: kartas
     - little: chiko
