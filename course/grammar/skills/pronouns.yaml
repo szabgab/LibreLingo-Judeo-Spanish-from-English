@@ -9,6 +9,8 @@ Phrases:
     Translation: I
   - Phrase: tu
     Translation: you
+  - Phrase: livros muevos
+    Translation: our books
 
 Mini-dictionary:
   Ladino:
@@ -22,6 +24,11 @@ Mini-dictionary:
     - vozotras: you (f p)
     - eyos: they (m)
     - eyas: they (f)
+
+    - muevo: our
+    - mueva: our
+    - muevos: ours
+    - muevas: ours
   English:
     - i: yo
     - you:
@@ -38,3 +45,9 @@ Mini-dictionary:
       - eyas
 
     - us: mozotros
+    - our:
+      - muevo
+      - mueva
+    - ours:
+      - muevos
+      - muevas
