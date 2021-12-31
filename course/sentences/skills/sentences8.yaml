@@ -26,6 +26,7 @@ Mini-dictionary:
     - amigos: friends (m)
     - amigas: friends (f)
     - jurnal: newspaper
+    - jurnales: newspapers
     - numero:
       - number
       - edition (of newspaper)
@@ -63,6 +64,22 @@ Mini-dictionary:
     - investigadoras: investigators
     - investigadores: investigators
     - renasimiento: rebirth
+    - letra: letter
+    - redaktor: editor
+    - redaktores: editors
+    - kerido: dear
+    - kerida: dear
+    - keridos: dear
+    - keridas: dear
+    - revista: edition
+    - dekada: decade
+    - indikasiones: indications
+    - poeta: poet
+    - traduktor: translator
+    - jurnalisto: journalist
+    - chikez: young age
+    - influensia: influence
+    - en: in
   English:
     - women: mujeres
     - friends:
@@ -71,12 +88,17 @@ Mini-dictionary:
     - dear:
       - karos
       - karas
+      - kerido
+      - kerida
+      - keridos
+      - keridas
     - expensive:
       - karos
       - karas
     - edition:
       - numero (de jurnal)
     - newspaper: jurnal
+    - newspapers: jurnales
     - materials:  materiales
     - material:  material
     - Sephardic:
@@ -118,3 +140,14 @@ Mini-dictionary:
       - investigadoras
       - investigadores
     - rebirth: renasimiento
+    - letter: letra
+    - editor: redaktor
+    - editors: redaktores
+    - edition: revista
+    - decade: dekada
+    - indications: indikasiones
+    - poet: poeta
+    - translator: traduktor
+    - journalist: jurnalisto
+    - influence: influensia
+    - in: en

@@ -28,8 +28,10 @@ Mini-dictionary:
     - Estambul: Istanbul
     - Izmir: Izmir
     - Kastoria: Kastoria
+    - Monastir: Monastir
     - Mueva York: New York
     - Saloniko: Thessaloniki
+    - Salonik: Thessaloniki
     - Saray: Sarajevo
     - Tel Aviv: Tel Aviv
     - Yerushalayim: Jerusalem
@@ -39,8 +41,11 @@ Mini-dictionary:
     - Istanbul: Estambul
     - Izmir: Izmir
     - Jerusalem: Yerushalayim
+    - Monastir: Monastir
     - New York: Mueva York
     - Novi Pazar: Yeni-Bazar
     - Sarajevo: Saray
     - Tel Aviv: Tel Aviv
-    - Thessaloniki: Saloniko
+    - Thessaloniki:
+      - Salonik
+      - Saloniko

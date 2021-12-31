@@ -16,9 +16,13 @@ Mini-dictionary:
     - semos: (we) are
     - sosh: (you) are (pl)
     - son: (they) are
+
+    - era: (he/she) was
   English:
     - am: so
     - are:
       - sos
     - be: ser
+
+    - was: era
 
