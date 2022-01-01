@@ -16,6 +16,7 @@ Phrases:
 
 Mini-dictionary:
   Ladino:
+    - komunita: community
     - mujeres: women
     - karos:
       - dear
@@ -80,6 +81,8 @@ Mini-dictionary:
     - chikez: young age
     - influensia: influence
     - en: in
+    - introduksion: introduction
+    - miembro: member
   English:
     - women: mujeres
     - friends:
@@ -151,3 +154,6 @@ Mini-dictionary:
     - journalist: jurnalisto
     - influence: influensia
     - in: en
+    - community: komunita
+    - introduction: introduksion
+    - member: miembro
