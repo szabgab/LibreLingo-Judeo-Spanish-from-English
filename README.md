@@ -52,12 +52,12 @@ Skill:
     - girl1
     - woman1
 
-New words:
+New words: []
   - Word:
     Translation:
     Images:
 
-Phrases:
+Phrases: []
   - Phrase:
     Translation:
 
