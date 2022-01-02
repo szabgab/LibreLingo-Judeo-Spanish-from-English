@@ -12,9 +12,11 @@ Mini-dictionary:
   Ladino:
     - saver: to know
     - se: (I) know
+    - saves: (you) know
     - no se: I don't know
   English:
     - know:
       - saver
       - (yo) se
+      - (tu) saves
     - I don't know: no se

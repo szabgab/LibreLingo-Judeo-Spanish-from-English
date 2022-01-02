@@ -13,6 +13,7 @@ Mini-dictionary:
     - Dani: Dani
     - David: David
     - Esther: Ester
+    - Ester: Ester
     - Lea: Lea
     - Leah: Leah
     - Haim: Haim
@@ -32,7 +33,9 @@ Mini-dictionary:
   English:
     - Dani: Dani
     - David: David
-    - Ester: Esther
+    - Ester:
+      - Esther
+      - Ester
     - Haim:
       - Haim
       - Hayim

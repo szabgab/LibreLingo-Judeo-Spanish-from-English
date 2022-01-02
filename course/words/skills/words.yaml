@@ -226,8 +226,13 @@ Mini-dictionary:
     - aksan: accent
     - ai: there
     - alguno: some
+    - alguna: some
+    - algunos: some
+    - algunas: some
     - agradavle: pleasant
+    - ama: but
     - ay: there are
+    - asigun: according to
     - bastante: quite
     - bar: bar
     - bankomatiko: ATM
@@ -244,7 +249,9 @@ Mini-dictionary:
     - djidio: jew
     - etchar lashon: making small-talk
     - entonses: then
-    - entre: between
+    - entre:
+      - between
+      - among
     - ensima: above
     - ermoza: beautiful
     - ermozas: beautiful
@@ -290,14 +297,34 @@ Mini-dictionary:
     - personas: people
     - por favor: please
     - sena: dinner
+    - sin: without
     - sovre: about
     - tualet: restroom
     - un poko: a bit
+    - unos: some
     - vaziyo: empty
     - yeno: full
     - venezuelano: Venezualan
     - ayudo: help
+    - plaj: beach
+    - pontre: bridge
+    - pontres: bridges
+    - modos: modes
+    - boyos: bourekas
+    - tresladado: translated
+    - sitio: site
+    - web: web
+    - informasion: information
+    - neutrala: neutral
+    - kalendario: calendar
+    - antes: before
+    - varias: several
+    - linguistika: lingusitics
+    - ispanika: hispanic
+
   English:
+    - before: antes
+    - beach: plaj
     - about: sovre
     - above: ensima
     - accent: aksan
@@ -308,9 +335,12 @@ Mini-dictionary:
     - beautiful:
       - ermoza
       - ermozas
+    - among: entre
     - between: entre
     - bill: kuento
-    - but: ma
+    - but:
+      - ama
+      - ma
     - card: karta
     - cards: kartas
     - cold:
@@ -364,7 +394,12 @@ Mini-dictionary:
     - please: por favor
     - restroom: tualet
     - quite: bastante
-    - some: alguno
+    - some:
+      - alguno
+      - alguna
+      - algunos
+      - algunas
+      - unos
     - small: chiko
     - stew: gizado
     - take out: echar
@@ -390,4 +425,18 @@ Mini-dictionary:
     - it: es
     - Venezualan: venezuelano
     - help: ayudo
+    - bridge: pontre
+    - bridges: pontres
+    - modes: modos
+    - bourekas: boyos
+    - translated: tresladado
+    - site: sitio
+    - web: web
+    - information: informasion
+    - neutral: neutrala
+    - calendar: kalendario
+    - without: sin
+    - several: varias
+    - lingusitics: linguistika
+    - hispanic: ispanika
 

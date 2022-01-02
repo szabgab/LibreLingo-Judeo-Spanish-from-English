@@ -18,10 +18,12 @@ Mini-dictionary:
     - nasi: (I) was born
     - nasiste: (you) were born
     - nasio: (he/she) was born
+    - nasyo: (he/she) was born
   English:
     - born: naser
     - was born:
       - nasi
       - nasio
+      - nasyo
     - were you born: nasiste
 

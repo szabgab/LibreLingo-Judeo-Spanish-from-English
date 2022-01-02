@@ -24,6 +24,9 @@ Mini-dictionary:
     - karas:
       - dear
       - expensive
+    - siempre: always
+    - amigo: friend (m)
+    - amiga: friend (f)
     - amigos: friends (m)
     - amigas: friends (f)
     - jurnal: newspaper
@@ -39,6 +42,7 @@ Mini-dictionary:
     - otruna: other
     - otruno: other
     - koza: thing
+    - kozas: things
     - pajina: page
     - freska: fresh
     - fresko: fresh
@@ -85,6 +89,9 @@ Mini-dictionary:
     - miembro: member
   English:
     - women: mujeres
+    - friend:
+      - amigo
+      - amiga
     - friends:
       - amigos
       - amigas
@@ -112,6 +119,7 @@ Mini-dictionary:
       - otruno
       - otruna
     - thing: koza
+    - things: kozas
     - page: pajina
     - fresh:
       - fresko
@@ -157,3 +165,4 @@ Mini-dictionary:
     - community: komunita
     - introduction: introduksion
     - member: miembro
+    - always: siempre

@@ -126,6 +126,9 @@ Mini-dictionary:
     - no:
       - no
       - not
+    - todo: all
+    - toda: all
+    - todos: all
     - todas: all
     - vida: life
     - ya: already
@@ -135,6 +138,8 @@ Mini-dictionary:
     - already: ya
     - all:
       - todo
+      - toda
+      - todos
       - todas
     - at: en
     - bless: bindicho

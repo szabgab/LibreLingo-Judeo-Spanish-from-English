@@ -23,12 +23,16 @@ Mini-dictionary:
   Ladino:
     - Ardjentina: Argentina
     - Bulgariya: Bulgaria
+    - Bulgaria: Bulgaria
     - Espanya: Spain
     - Fransia: France
     - Israel: Israel
     - Meksiko: Mexico
     - Turkia: Turkey
     - Ungaria:  Hungary
+    - Italya: Italy
+
+    - italyana: italian
 
     - pais: country
     - sur: south
@@ -40,10 +44,13 @@ Mini-dictionary:
 
   English:
     - Argentina: Ardjentina
-    - Bulgaria: Bulgariya
+    - Bulgaria:
+      - Bulgaria
+      - Bulgariya
     - France: Fransia
     - Hungary: Ungaria
     - Israel: Israel
+    - Italy: Italya
     - Mexico: Meksiko
     - Spain: Espanya
     - Turkey: Turkia
@@ -55,4 +62,5 @@ Mini-dictionary:
     - west: oksidente
     - America: Amerika
     - people: djente
+    - italian: italyana
 
