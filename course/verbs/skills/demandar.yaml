@@ -1,0 +1,23 @@
+Skill:
+  Name: demandar
+  Id: 1047
+
+New words: []
+
+Phrases:
+  - Phrase: Tengo algunas demandas
+    Translation: I have some questions
+  - Phrase: Tengo una demanda
+    Translation: I have a question
+
+Mini-dictionary:
+  Ladino:
+    - demandar:
+      - to ask
+      - to request
+    - demando: (I) ask
+  English:
+    - ask:
+      - demandar
+      - (yo) demando
+    - request: demandar

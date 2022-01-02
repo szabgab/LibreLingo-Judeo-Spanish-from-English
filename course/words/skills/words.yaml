@@ -218,6 +218,8 @@ Phrases:
     Translation: man's restroom
   - Phrase: Ayudo!
     Translation: Help! 
+  - Phrase: Esto seguro
+    Translation: I am sure
 
 Mini-dictionary:
   Ladino:
@@ -284,6 +286,7 @@ Mini-dictionary:
     - lokura: madness
     - ma: but
     - mas: more
+    - lingua maternal: mother tongue
     - mersi: thank you
     - mesaje: message
     - mesajes: messages
@@ -321,6 +324,34 @@ Mini-dictionary:
     - varias: several
     - linguistika: lingusitics
     - ispanika: hispanic
+    - demanda: question
+    - demandas: questions
+    - seksion: section
+    - eskrito: writing
+    - situasion: situation
+    - enshemplo: example
+    - enshemplos: examples
+    - manadero:
+      - source
+      - origin
+    - manaderos:
+      - sources
+      - origins
+    - nivel: level
+    - verdad: true
+    - vedrad: true
+    - inspirasyon: inspiration
+    - resientemente: recently
+    - persona: person
+    - mizmo: same
+    - mizma: same
+    - medio: half
+    - eso: that
+    - esot: those
+    - durante: during
+    - yerro: mistake
+    - yerros: mistakes
+    - seguro: sure
 
   English:
     - before: antes
@@ -439,4 +470,33 @@ Mini-dictionary:
     - several: varias
     - lingusitics: linguistika
     - hispanic: ispanika
+    - question: demanda
+    - questions: demandas
+    - section: seksion
+    - writing: eskrito
+    - situation: situasion
+    - example: enshemplo
+    - examples: enshemplos
+    - source: manadero
+    - sources: manaderos
+    - origin: manadero
+    - origins: manaderos
+    - true:
+      - vedrad
+      - verdad
 
+    - inspiration: inspirasyon
+    - recently: resientemente
+    - person: persona
+    - same:
+      - mizmo
+      - mizma
+
+    - that: eso
+    - those: esos
+    - during: durante
+    - mistake: yerro
+    - mistakes: yerros
+    - sure: seguro
+    - mother tongue: lingua maternal
+    - level: nivel
