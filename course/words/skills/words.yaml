@@ -452,6 +452,12 @@ Mini-dictionary:
     - ATM: bankomatiko
     - a bit: un poko
     - among: entre
+    - also: tambien
+    - author: autor
+    - authors: autores
+    - anonymous: anonimos
+    - authentic: autentikos
+    - always: siempre
 
     - bar: bar
     - big: grande
@@ -468,6 +474,7 @@ Mini-dictionary:
     - bridge: pontre
     - bridges: pontres
     - bourekas: boyos
+    - because: porke
 
     - calendar: kalendario
     - card: karta
@@ -475,18 +482,47 @@ Mini-dictionary:
     - cold:
       - frio
       - friyo
+    - culture: kultura
+    - community: komunita
 
     - dinner: la sena
+    - decade: dekada
     - during: durante
+    - dear:
+      - karos
+      - karas
+      - kerido
+      - kerida
+      - keridos
+      - keridas
 
     - empty: vaziyo
     - engagement: despozorio
     - excuse me: pardon
     - example: enshemplo
     - examples: enshemplos
+    - expensive:
+      - karos
+      - karas
+    - edition:
+      - numero (de jurnal)
+    - editor: redaktor
+    - editors: redaktores
+    - edition: revista
 
     - forward: adelante
     - full: yeno
+    - friend:
+      - amigo
+      - amiga
+    - friends:
+      - amigos
+      - amigas
+    - fresh:
+      - fresko
+      - freska
+    - form: forma
+    - famous: famozos
 
     - guide: giadera
 
@@ -503,13 +539,26 @@ Mini-dictionary:
     - it: es
     - information: informasion
     - inspiration: inspirasyon
+    - important: importante
+    - investigator:
+      - investigador
+      - investigadora
+    - investigators:
+      - investigadoras
+      - investigadores
+    - influence: influensia
+    - in: en
+    - introduction: introduksion
+    - indications: indikasiones
 
+    - journalist: jurnalisto
     - jew:
       - djudio
       - djidio
     - job: lavoro
 
     - level: nivel
+    - letter: letra
     - language:
       - lashon
       - lingua
@@ -539,18 +588,30 @@ Mini-dictionary:
     - mistake: yerro
     - mistakes: yerros
     - mother tongue: lingua maternal
+    - materials:  materiales
+    - material:  material
+    - member: miembro
+
     - neutral: neutrala
+    - newspaper: jurnal
+    - newspapers: jurnales
 
     - outside: afuera
     - origin: manadero
     - origins: manaderos
+    - other:
+      - otruno
+      - otruna
 
+    - poet: poeta
     - people:
       - personas
       - djente
     - pleasant: agradavle
     - please: por favor
     - person: persona
+    - page: pajina
+    - poetry: poezia
 
     - quite: bastante
     - question: demanda
@@ -558,6 +619,7 @@ Mini-dictionary:
 
     - restroom: tualet
     - recently: resientemente
+    - rebirth: renasimiento
 
     - some:
       - alguno
@@ -577,9 +639,13 @@ Mini-dictionary:
       - mizmo
       - mizma
     - sure: seguro
+    - Sephardic:
+      - Sefaradim
+      - Sefaradis
 
     - take out: echar
     - themselves: eyos
+    - translator: traduktor
     - thank you: mersi
     - then: entonses
     - there: ai
@@ -590,8 +656,12 @@ Mini-dictionary:
       - verdad
     - that: eso
     - those: esos
+    - thing: koza
+    - things: kozas
+    - translations: traduksiones
 
     - Venezualan: venezuelano
+    - veteran: veteranos
 
     - web: web
     - which:
@@ -609,4 +679,13 @@ Mini-dictionary:
     - woman's: de mujeres
     - without: sin
     - writing: eskrito
+    - women: mujeres
+    - work: ovra
+    - works: ovras
+    - writer:
+      - eskritor
+      - eskritora
+    - writers:
+      - eskritores
+      - eskritoras
 
