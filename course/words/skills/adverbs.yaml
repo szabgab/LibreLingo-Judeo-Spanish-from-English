@@ -1,0 +1,17 @@
+Skill:
+  Name: Adverbs
+  Id: 212
+
+New words: []
+
+Phrases: []
+
+Mini-dictionary:
+  Ladino:
+    - dainda:
+      - yet
+      - still
+  English:
+    - yet: dainda
+    - still: dainda
+

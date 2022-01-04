@@ -27,20 +27,15 @@ Mini-dictionary:
     - Espanya: Spain
     - Fransia: France
     - Israel: Israel
+    - Italya: Italy
     - Meksiko: Mexico
+    - Polonya: Poland
     - Turkia: Turkey
     - Ungaria:  Hungary
-    - Italya: Italy
 
     - italyana: italian
 
     - pais: country
-    - sur: south
-    - norte: north
-    - este: east
-    - oksidente: west
-    - Amerika: America
-    - djente: people
 
   English:
     - Argentina: Ardjentina
@@ -52,15 +47,10 @@ Mini-dictionary:
     - Israel: Israel
     - Italy: Italya
     - Mexico: Meksiko
+    - Poland: Polonya
     - Spain: Espanya
     - Turkey: Turkia
 
     - country: pais
-    - south: sur
-    - north: norte
-    - east: este
-    - west: oksidente
-    - America: Amerika
-    - people: djente
     - italian: italyana
 

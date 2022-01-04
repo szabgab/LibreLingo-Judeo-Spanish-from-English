@@ -245,6 +245,7 @@ Mini-dictionary:
     - autores: authors
     - anonimos: anonymous
     - autentikos: authentic
+    - ashkenazi: ashkenazi
 
     - bastante: quite
     - bar: bar
@@ -268,12 +269,16 @@ Mini-dictionary:
     - djidio: jew
     - durante: during
     - dekada: decade
+    - dondurma: icecream
+    - djente: people
+    - denigratora: denigrating
 
     - etchar lashon: making small-talk
     - entonses: then
     - entre:
       - between
       - among
+    - entre mientres: in the meantime
     - ensima: above
     - enshemplo: example
     - enshemplos: examples
@@ -344,6 +349,8 @@ Mini-dictionary:
     - kuantas: how many?
     - kuento: bill
     - kultura: culture
+    - kopya: copy
+
     - lashon: language
     - lavoro:
       - work
@@ -357,10 +364,12 @@ Mini-dictionary:
     - lokura: madness
 
     - ma: but
+    - manera: manner
     - mas: more
     - mersi: thank you
     - mesaje: message
     - mesajes: messages
+    - mijor: better
     - modos: modes
     - muncho: a lot
     - muncha: a lot
@@ -411,6 +420,7 @@ Mini-dictionary:
     - redaktor: editor
     - redaktores: editors
     - revista: edition
+    - refujiados: refugees
 
     - sena: dinner
     - seksion: section
@@ -433,6 +443,7 @@ Mini-dictionary:
     - un poko: a bit
     - unos: some
 
+    - vakansas: vacation
     - varias: several
     - vaziyo: empty
     - venezuelano: Venezualan
@@ -461,8 +472,10 @@ Mini-dictionary:
     - always:
       - siempre
       - syempre
+    - ashkenazi: ashkenazi
 
     - bar: bar
+    - better: mijor
     - big: grande
     - before: antes
     - beach: plaj
@@ -487,7 +500,9 @@ Mini-dictionary:
       - friyo
     - culture: kultura
     - community: komunita
+    - copy: kopya
 
+    - denigrating: denigratora
     - dinner: la sena
     - decade: dekada
     - during: durante
@@ -553,6 +568,7 @@ Mini-dictionary:
     - in: en
     - introduction: introduksion
     - indications: indikasiones
+    - icecream: dondurma
 
     - journalist: jurnalisto
     - jew:
@@ -583,6 +599,7 @@ Mini-dictionary:
       - munchos
       - munchas
     - making small-talk: etchar lashon
+    - manner: manera
     - message: mesaje
     - messages: mesajes
     - money: dinero
@@ -615,6 +632,7 @@ Mini-dictionary:
     - person: persona
     - page: pajina
     - poetry: poezia
+    - people: djente
 
     - quite: bastante
     - question: demanda
@@ -623,6 +641,7 @@ Mini-dictionary:
     - restroom: tualet
     - recently: resientemente
     - rebirth: renasimiento
+    - refugees: refujiados
 
     - some:
       - alguno
@@ -663,6 +682,7 @@ Mini-dictionary:
     - things: kozas
     - translations: traduksiones
 
+    - vacation: vakansas
     - Venezualan: venezuelano
     - veteran: veteranos
 
