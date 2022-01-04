@@ -234,18 +234,30 @@ Mini-dictionary:
     - algunas: some
     - agradavle: pleasant
     - ama: but
+    - amigo: friend (m)
+    - amiga: friend (f)
+    - amigos: friends (m)
+    - amigas: friends (f)
     - ay: there are
     - ayudo: help
     - asigun: according to
+    - autor: author
+    - autores: authors
+    - anonimos: anonymous
+    - autentikos: authentic
+
     - bastante: quite
     - bar: bar
     - bankomatiko: ATM
     - biervo: word
     - biervos: words
     - boyos: bourekas
+
     - chiko:
       - little
       - small
+    - chikez: young age
+
     - de mujeres: "women's"
     - de ombres: "man's"
     - demanda: question
@@ -255,6 +267,8 @@ Mini-dictionary:
     - djudio: jew
     - djidio: jew
     - durante: during
+    - dekada: decade
+
     - etchar lashon: making small-talk
     - entonses: then
     - entre:
@@ -268,16 +282,41 @@ Mini-dictionary:
     - eskrito: writing
     - eso: that
     - esot: those
+    - eskritor: writer
+    - eskritora: writer
+    - eskritores: writers
+    - eskritoras: writers
+    - en: in
+
+    - famozos: famous
+    - freska: fresh
+    - fresko: fresh
+    - forma: form
     - frio: cold
     - friyo: cold
+
     - giadera: guide
     - gizado: stew
     - grande: big
+
+    - importante: important
     - intelijente: intelligent
     - intelijentes: intelligents
     - informasion: information
     - inspirasyon: inspiration
     - ispanika: hispanic
+    - investigador: investigator
+    - investigadora: investigator
+    - investigadoras: investigators
+    - investigadores: investigators
+    - indikasiones: indications
+    - influensia: influence
+    - introduksion: introduction
+
+    - jurnal: newspaper
+    - jurnales: newspapers
+    - jurnalisto: journalist
+
     - kalendario: calendar
     - karta:
       - letter
@@ -288,16 +327,23 @@ Mini-dictionary:
     - karas:
       - dear
       - expensive
-    - komunita: community
     - kartas:
       - letters
       - cards
+    - kerido: dear
+    - kerida: dear
+    - keridos: dear
+    - keridas: dear
+    - komunita: community
     - kon mi: with me
+    - koza: thing
+    - kozas: things
     - kuanto: how many?
     - kuantos: how many?
     - kuanta: how many?
     - kuantas: how many?
     - kuento: bill
+    - kultura: culture
     - lashon: language
     - lavoro:
       - work
@@ -307,7 +353,9 @@ Mini-dictionary:
     - lingua maternal: mother tongue
     - linguistika: lingusitics
     - linguas: languages
+    - letra: letter
     - lokura: madness
+
     - ma: but
     - mas: more
     - mersi: thank you
@@ -325,105 +373,77 @@ Mini-dictionary:
     - manaderos:
       - sources
       - origins
+    - material: material
+    - materiales: materials
     - mizmo: same
     - mizma: same
     - medio: half
+    - miembro: member
+
     - nivel: level
     - neutrala: neutral
     - neutrala: neutral
+    - numero:
+      - number
+      - edition (of newspaper)
+
+    - otruna: other
+    - otruno: other
+    - ovra: work (noun)
+    - ovras: works (noun)
+
+    - pajina: page
     - palavra: word
     - palavras: words
     - pardon: excuse me
     - persona: person
     - personas: people
     - plaj: beach
+    - poezia: poetry
     - pontre: bridge
     - pontres: bridges
     - por favor: please
+    - porke: because
+    - poeta: poet
+
+    - renasimiento: rebirth
     - resientemente: recently
+    - redaktor: editor
+    - redaktores: editors
+    - revista: edition
+
     - sena: dinner
     - seksion: section
     - seguro: sure
+    - sefaradis: Sephardic
+    - Sefaradim: Sephardic
     - sin: without
     - sitio: site
     - situasion: situation
     - siempre: always
     - sovre: about
+
+    - tambien: also
+    - traduksiones: translations
     - tresladado: translated
     - tualet: restroom
+    - traduktor: translator
+
     - un poko: a bit
     - unos: some
+
     - varias: several
     - vaziyo: empty
     - venezuelano: Venezualan
     - verdad: true
     - vedrad: true
+
     - web: web
+
+    - veteranos: veteran
     - yeno: full
     - yerro: mistake
     - yerros: mistakes
-    - amigo: friend (m)
-    - amiga: friend (f)
-    - amigos: friends (m)
-    - amigas: friends (f)
-    - jurnal: newspaper
-    - jurnales: newspapers
-    - numero:
-      - number
-      - edition (of newspaper)
-    - material: material
-    - materiales: materials
-    - sefaradis: Sephardic
-    - Sefaradim: Sephardic
-    - kultura: culture
-    - otruna: other
-    - otruno: other
-    - koza: thing
-    - kozas: things
-    - pajina: page
-    - freska: fresh
-    - fresko: fresh
-    - forma: form
-    - importante: important
-    - tambien: also
-    - traduksiones: translations
-    - poezia: poetry
-    - ovra: work (noun)
-    - ovras: works (noun)
-    - porke: because
-    - autor: author
-    - autores: authors
-    - veteranos: veteran
-    - famozos: famous
-    - anonimos: anonymous
-    - autentikos: authentic
-    - eskritor: writer
-    - eskritora: writer
-    - eskritores: writers
-    - eskritoras: writers
-    - investigador: investigator
-    - investigadora: investigator
-    - investigadoras: investigators
-    - investigadores: investigators
-    - renasimiento: rebirth
-    - letra: letter
-    - redaktor: editor
-    - redaktores: editors
-    - kerido: dear
-    - kerida: dear
-    - keridos: dear
-    - keridas: dear
-    - revista: edition
-    - dekada: decade
-    - indikasiones: indications
-    - poeta: poet
-    - traduktor: translator
-    - jurnalisto: journalist
-    - chikez: young age
-    - influensia: influence
-    - en: in
-    - introduksion: introduction
-    - miembro: member
 
   English:
     - before: antes
