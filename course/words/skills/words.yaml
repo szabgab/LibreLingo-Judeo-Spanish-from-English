@@ -421,6 +421,7 @@ Mini-dictionary:
     - sitio: site
     - situasion: situation
     - siempre: always
+    - syempre: always
     - sovre: about
 
     - tambien: also
@@ -457,7 +458,9 @@ Mini-dictionary:
     - authors: autores
     - anonymous: anonimos
     - authentic: autentikos
-    - always: siempre
+    - always:
+      - siempre
+      - syempre
 
     - bar: bar
     - big: grande
