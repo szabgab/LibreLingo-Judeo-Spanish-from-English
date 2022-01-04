@@ -446,47 +446,70 @@ Mini-dictionary:
     - yerros: mistakes
 
   English:
-    - before: antes
-    - beach: plaj
     - about: sovre
     - above: ensima
     - accent: aksan
     - ATM: bankomatiko
+    - a bit: un poko
+    - among: entre
+
     - bar: bar
     - big: grande
-    - a bit: un poko
+    - before: antes
+    - beach: plaj
     - beautiful:
       - ermoza
       - ermozas
-    - among: entre
     - between: entre
     - bill: kuento
     - but:
       - ama
       - ma
+    - bridge: pontre
+    - bridges: pontres
+    - bourekas: boyos
+
+    - calendar: kalendario
     - card: karta
     - cards: kartas
     - cold:
       - frio
       - friyo
+
     - dinner: la sena
+    - during: durante
+
     - empty: vaziyo
     - engagement: despozorio
     - excuse me: pardon
+    - example: enshemplo
+    - examples: enshemplos
+
     - forward: adelante
     - full: yeno
+
     - guide: giadera
+
+    - help: ayudo
+    - hispanic: ispanika
     - how many:
       - kuanto
       - kuanta
       - kuantos
       - kuantas
+
     - intelligent: intelijente
     - intelligents: intelijentes
+    - it: es
+    - information: informasion
+    - inspiration: inspirasyon
+
     - jew:
       - djudio
       - djidio
     - job: lavoro
+
+    - level: nivel
     - language:
       - lashon
       - lingua
@@ -500,7 +523,10 @@ Mini-dictionary:
     - lot:
       - muncho
       - muncha
+    - lingusitics: linguistika
+
     - madness: lokura
+    - man's: de ombres
     - many:
       - munchos
       - munchas
@@ -509,14 +535,30 @@ Mini-dictionary:
     - messages: mesajes
     - money: dinero
     - more: mas
+    - modes: modos
+    - mistake: yerro
+    - mistakes: yerros
+    - mother tongue: lingua maternal
+    - neutral: neutrala
+
     - outside: afuera
+    - origin: manadero
+    - origins: manaderos
+
     - people:
       - personas
       - djente
     - pleasant: agradavle
     - please: por favor
-    - restroom: tualet
+    - person: persona
+
     - quite: bastante
+    - question: demanda
+    - questions: demandas
+
+    - restroom: tualet
+    - recently: resientemente
+
     - some:
       - alguno
       - alguna
@@ -525,12 +567,33 @@ Mini-dictionary:
       - unos
     - small: chiko
     - stew: gizado
+    - site: sitio
+    - several: varias
+    - section: seksion
+    - situation: situasion
+    - source: manadero
+    - sources: manaderos
+    - same:
+      - mizmo
+      - mizma
+    - sure: seguro
+
     - take out: echar
     - themselves: eyos
     - thank you: mersi
     - then: entonses
     - there: ai
     - there are: ay
+    - translated: tresladado
+    - true:
+      - vedrad
+      - verdad
+    - that: eso
+    - those: esos
+
+    - Venezualan: venezuelano
+
+    - web: web
     - which:
       - ke
       - kual
@@ -544,51 +607,6 @@ Mini-dictionary:
       - biervos
     - work: lavoro
     - woman's: de mujeres
-    - man's: de ombres
-    - it: es
-    - Venezualan: venezuelano
-    - help: ayudo
-    - bridge: pontre
-    - bridges: pontres
-    - modes: modos
-    - bourekas: boyos
-    - translated: tresladado
-    - site: sitio
-    - web: web
-    - information: informasion
-    - neutral: neutrala
-    - calendar: kalendario
     - without: sin
-    - several: varias
-    - lingusitics: linguistika
-    - hispanic: ispanika
-    - question: demanda
-    - questions: demandas
-    - section: seksion
     - writing: eskrito
-    - situation: situasion
-    - example: enshemplo
-    - examples: enshemplos
-    - source: manadero
-    - sources: manaderos
-    - origin: manadero
-    - origins: manaderos
-    - true:
-      - vedrad
-      - verdad
 
-    - inspiration: inspirasyon
-    - recently: resientemente
-    - person: persona
-    - same:
-      - mizmo
-      - mizma
-
-    - that: eso
-    - those: esos
-    - during: durante
-    - mistake: yerro
-    - mistakes: yerros
-    - sure: seguro
-    - mother tongue: lingua maternal
-    - level: nivel
