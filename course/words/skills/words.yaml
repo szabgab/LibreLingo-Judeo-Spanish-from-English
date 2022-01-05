@@ -337,6 +337,7 @@ Mini-dictionary:
     - keridas: dear
     - komunita: community
     - kon mi: with me
+    - kontakto: contact
     - koza: thing
     - kozas: things
     - kuanto: how many?
@@ -384,6 +385,8 @@ Mini-dictionary:
     - mizma: same
     - medio: half
     - miembro: member
+    - moderno: modern
+    - moderna: modern
 
     - nivel: level
     - neutrala: neutral
@@ -392,6 +395,7 @@ Mini-dictionary:
       - number
       - edition (of newspaper)
 
+    - Olokosto: Holocaust
     - otruna: other
     - otruno: other
     - ovra: work (noun)
@@ -494,6 +498,7 @@ Mini-dictionary:
     - cold:
       - frio
       - friyo
+    - contact: kontakto
     - culture: kultura
     - community: komunita
     - copy: kopya
@@ -542,6 +547,7 @@ Mini-dictionary:
 
     - help: ayudo
     - hispanic: ispanika
+    - Holocaust: Olokosto
     - how many:
       - kuanto
       - kuanta
@@ -601,6 +607,9 @@ Mini-dictionary:
     - money: dinero
     - more: mas
     - modes: modos
+    - modern:
+      - moderno
+      - moderna
     - mistake: yerro
     - mistakes: yerros
     - mother tongue: lingua maternal

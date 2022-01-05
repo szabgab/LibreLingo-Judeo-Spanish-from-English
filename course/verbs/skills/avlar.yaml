@@ -17,6 +17,8 @@ Phrases:
     Translation: "{with me} they speak Hebrew"
   - Phrase: Avlas el djudeo-espanyol muy bien
     Translation: You speak Ladino very well
+  - Phrase: avlantes del espanyol moderno
+    Translation: Modern spanish speakers
 
 
 Mini-dictionary:
@@ -28,9 +30,12 @@ Mini-dictionary:
     - avlamos: (we) speak
     - avlash: (you) speak (p)
     - avlan: (they) speak
+
+    - avlantes: speakers
   English:
     - talk: avlar
     - speak:
       - avlo
     - speaks: avla
+    - speakers: avlantes
 

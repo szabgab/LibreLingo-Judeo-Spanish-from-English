@@ -17,5 +17,9 @@ Mini-dictionary:
     - topan: (they) find
 
     - topi: (I) found
+    - topava: (I) was found
   English:
     - find: topar
+    - found:
+      - topi
+      - topava

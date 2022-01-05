@@ -17,6 +17,8 @@ Mini-dictionary:
     - tenemos: (we) have
     - teneish: (yo) have (pl)
     - tienen: (they) have
+
+    - tuve: (I) had
   English:
     - has:
       - (el/eya) tiene
@@ -27,3 +29,4 @@ Mini-dictionary:
       - (mozotros/mozotras) tenemos
       - (vozotros/vozotras) teneish
       - (eyos/eyas) tienen
+    - had: tuve

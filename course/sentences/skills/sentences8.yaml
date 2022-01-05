@@ -13,8 +13,14 @@ Phrases:
     Translation: In this edition of the newspaper
   - Phrase: La kultura de los Sefaradim.
     Translation: The culture of the Sephardic.
+  - Phrase: "{Me akodro} komo si fuera ayer"
+    Translation: "{I remember} as if it was yesterday"
 
 Mini-dictionary:
-  Ladino: []
-  English: []
+  Ladino:
+    - me akodro: I remember
+    - si: if
+  English:
+    - I remember: me akodro
+    - if: si
 

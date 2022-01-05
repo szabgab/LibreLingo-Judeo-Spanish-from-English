@@ -118,7 +118,9 @@ Mini-dictionary:
     - la: the
     - me: my name
     - profesor: teacher (m)
+    - profesores: teachers (m)
     - profesora: teacher (f)
+    - profesoras: teachers (f)
     - estas: are
     - salu: health
     - yamo: my name
@@ -179,7 +181,12 @@ Mini-dictionary:
     - students:
       - elevos
       - elevas
-    - teacher: profesor
+    - teacher:
+      - profesor
+      - profesora
+    - teachers:
+      - profesores
+      - profesoras
     - the:
         - el
         - la

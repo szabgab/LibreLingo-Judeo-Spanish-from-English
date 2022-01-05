@@ -17,6 +17,7 @@ Mini-dictionary:
     - sosh: (you) are (pl)
     - son: (they) are
 
+    - fuera: was
     - era: (he/she) was
   English:
     - am: so
@@ -24,5 +25,7 @@ Mini-dictionary:
       - sos
     - be: ser
 
-    - was: era
+    - was:
+      - era
+      - fuera
 
