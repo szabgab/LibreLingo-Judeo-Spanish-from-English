@@ -139,8 +139,11 @@ Mini-dictionary:
     - therefore: dunke
     - don't: no
     - old:
+      - viejo
       - vieja
-    - older: mas vieja
+    - older:
+      - mas viejo
+      - mas vieja
     - younger: mas djoven
     - contrary: kontra
     - relaton: la relasion

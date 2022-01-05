@@ -63,10 +63,10 @@ New words:
       - bird3
 
 Phrases:
-  - Phrase: un perro
-    Translation: a dog
-  - Phrase: dos perros
-    Translation: two dogs
+  - Phrase: un perro blanko
+    Translation: a white dog
+  - Phrase: dos perros chikos
+    Translation: two small dogs
   - Phrase: un gato
     Translation: a cat
   - Phrase: dos gatos
@@ -88,8 +88,10 @@ Phrases:
 Mini-dictionary:
   Ladino:
     - i: and
+    - chikos: young
   English:
     - and: i
     - an: a
+    - young: chikos
 
 
