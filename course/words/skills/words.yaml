@@ -249,7 +249,12 @@ Mini-dictionary:
     - biervo: word
     - biervos: words
     - boyos: bourekas
+    - bonita: pretty
+    - bonito: pretty
 
+    - chika:
+      - little
+      - small
     - chiko:
       - little
       - small
@@ -299,6 +304,7 @@ Mini-dictionary:
     - giadera: guide
     - gizado: stew
     - grande: big
+    - grandes: big
 
     - importante: important
     - intelijente: intelligent
@@ -340,13 +346,18 @@ Mini-dictionary:
     - kontakto: contact
     - koza: thing
     - kozas: things
-    - kuanto: how many?
+    - kuanto:
+      - how many?
+      - how much?
     - kuantos: how many?
-    - kuanta: how many?
+    - kuanta:
+      - how many?
+      - how much?
     - kuantas: how many?
     - kuento: bill
     - kultura: culture
     - kopya: copy
+    - kosta: cost
 
     - lashon: language
     - lavoro:
@@ -476,7 +487,9 @@ Mini-dictionary:
 
     - bar: bar
     - better: mijor
-    - big: grande
+    - big:
+      - grande
+      - grandes
     - before: antes
     - beach: plaj
     - beautiful:
@@ -498,6 +511,7 @@ Mini-dictionary:
     - cold:
       - frio
       - friyo
+    - cost: kosta
     - contact: kontakto
     - culture: kultura
     - community: komunita
@@ -553,6 +567,11 @@ Mini-dictionary:
       - kuanta
       - kuantos
       - kuantas
+    - how much:
+      - kuanto
+      - kuanta
+      - kuantos
+      - kuantas
 
     - intelligent: intelijente
     - intelligents: intelijentes
@@ -589,7 +608,9 @@ Mini-dictionary:
       - lenguas
     - letter: karta
     - letters: kartas
-    - little: chiko
+    - little:
+      - chiko
+      - chika
     - lot:
       - muncho
       - muncha
@@ -638,6 +659,9 @@ Mini-dictionary:
     - page: pajina
     - poetry: poezia
     - people: djente
+    - pretty:
+      - bonito
+      - bonita
 
     - quite: bastante
     - question: demanda
@@ -654,7 +678,9 @@ Mini-dictionary:
       - algunos
       - algunas
       - unos
-    - small: chiko
+    - small:
+      - chiko
+      - chika
     - stew: gizado
     - site: sitio
     - several: varias
