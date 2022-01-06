@@ -25,20 +25,6 @@ New words:
       - tall2
       - tall3
 
-  - Word: mar
-    Translation: sea
-    Images:
-      - sea1
-      - sea2
-      - sea3
-
-  - Word: la meza
-    Translation: table
-    Images:
-      - table1
-      - table2
-      - table3
-
   - Word: meza
     Translation: table
     Images:
@@ -52,20 +38,6 @@ New words:
       - police1
       - police2
       - police3
-
-  - Word: sol
-    Translation: sun
-    Images:
-      - sun1
-      - sun2
-      - sun3
-
-  - Word: rio
-    Translation: river
-    Images:
-      - river1
-      - river2
-      - river3
 
   - Word: ventana
     Translation: window
@@ -418,7 +390,6 @@ Mini-dictionary:
     - pardon: excuse me
     - persona: person
     - personas: people
-    - plaj: beach
     - poezia: poetry
     - pontre: bridge
     - pontres: bridges
@@ -491,7 +462,6 @@ Mini-dictionary:
       - grande
       - grandes
     - before: antes
-    - beach: plaj
     - beautiful:
       - ermoza
       - ermozas

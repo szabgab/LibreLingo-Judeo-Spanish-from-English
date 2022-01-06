@@ -150,14 +150,25 @@ Phrases:
     Translation: Can you read in Ladino?
   - Phrase: "{Tengo ambre}"
     Translation: "{I am hungry}"
+  - Phrase: David beve agua
+    Translation: David drinks water
+  - Phrase: Mozotros dos bevemos bira
+    Translation: The two of us drink beer
+  - Phrase: David kome pan
+    Translation: David eats bread
+  - Phrase: Yo komo un pastel
+    Translation: I eat a cake
+
 
 Mini-dictionary:
   Ladino:
     - Tengo ambre: I am hungry
     - salata: salad
     - karota: carrot
+    - pastel: cake
   English:
     - I am hungry: tengo ambre
     - salad: la salata
     - carrot: la karota
+    - cake: pastel
 
