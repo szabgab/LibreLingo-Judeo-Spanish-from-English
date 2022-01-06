@@ -31,8 +31,8 @@ jobs:
           python -V
           pip install requests
           pip install Jinja2
-          #pip install librelingo-json-export
-          #pip install librelingo-yaml-loader
+          pip install librelingo-json-export
+          pip install librelingo-yaml-loader
 
     - name: Check course
       run: |
