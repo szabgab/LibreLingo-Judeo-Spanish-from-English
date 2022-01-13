@@ -48,6 +48,7 @@ Mini-dictionary:
     - calendar: kalendario
     - card: karta
     - cards: kartas
+    - century: siglo
     - cold:
       - frio
       - friyo
@@ -73,6 +74,7 @@ Mini-dictionary:
       - numero (de jurnal)
     - editor: redaktor
     - editors: redaktores
+    - editorial: editoral
     - edition: revista
     - empty: vaziyo
     - engagement: despozorio
@@ -114,6 +116,9 @@ Mini-dictionary:
       - kuanta
       - kuantos
       - kuantas
+    - humoristic:
+      - umoristiko
+      - umoristikos
 
     - icecream: dondurma
     - important: importante
@@ -201,6 +206,7 @@ Mini-dictionary:
     - pleasant: agradavle
     - please: por favor
     - poet: poeta
+    - poets: poetas
     - poetry: poezia
     - pretty:
       - bonito
@@ -223,6 +229,7 @@ Mini-dictionary:
     - Sephardic:
       - Sefaradim
       - Sefaradis
+    - settled down: instalaron
     - several: varias
     - site: sitio
     - situation: situasion
@@ -242,6 +249,7 @@ Mini-dictionary:
     - sure: seguro
 
     - take out: echar
+    - team: ekipo
     - themselves: eyos
     - thank you: mersi
     - that: eso
