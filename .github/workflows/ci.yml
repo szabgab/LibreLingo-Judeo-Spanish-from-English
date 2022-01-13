@@ -36,4 +36,4 @@ jobs:
 
     - name: Check course
       run: |
-          python LibreLingo/apps/tools/lili.py --ids --course course/ --images LibreLingo/apps/web/static/images/ --export
+          python LibreLingo/apps/tools/librelingo_tools/lili.py --ids --course course/ --images LibreLingo/apps/web/static/images/ --export
