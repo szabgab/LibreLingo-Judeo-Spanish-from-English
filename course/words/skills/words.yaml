@@ -193,27 +193,27 @@ Mini-dictionary:
   Ladino:
     - adelante: forward
     - afuera: outside
-    - aksan: accent
-    - antes: before
+    - agradavle: pleasant
     - ai: there
+    - aksan: accent
     - alguno: some
     - alguna: some
     - algunos: some
     - algunas: some
-    - agradavle: pleasant
     - ama: but
-    - amigo: friend (m)
     - amiga: friend (f)
-    - amigos: friends (m)
     - amigas: friends (f)
-    - ay: there are
-    - ayudo: help
+    - amigo: friend (m)
+    - amigos: friends (m)
+    - anonimos: anonymous
+    - antes: before
     - asigun: according to
+    - ashkenazi: ashkenazi
     - autor: author
     - autores: authors
-    - anonimos: anonymous
     - autentikos: authentic
-    - ashkenazi: ashkenazi
+    - ay: there are
+    - ayudo: help
 
     - bastante: quite
     - bar: bar
@@ -227,10 +227,13 @@ Mini-dictionary:
     - chika:
       - little
       - small
+    - chikez: young age
     - chiko:
       - little
       - small
-    - chikez: young age
+    - commandments:
+      - mandamientos
+      - komandamientos
 
     - de mujeres: "women's"
     - de ombres: "man's"
@@ -277,6 +280,8 @@ Mini-dictionary:
     - gizado: stew
     - grande: big
     - grandes: big
+    - grupo: group
+    - grupos: groups
 
     - importante: important
     - intelijente: intelligent
@@ -330,6 +335,8 @@ Mini-dictionary:
     - kultura: culture
     - kopya: copy
     - kosta: cost
+    - komandamientos: commandments
+
 
     - lashon: language
     - lavoro:
@@ -344,6 +351,7 @@ Mini-dictionary:
     - lokura: madness
 
     - ma: but
+    - mandamientos: commandments
     - manera: manner
     - mas: more
     - mersi: thank you
@@ -397,24 +405,26 @@ Mini-dictionary:
     - porke: because
     - poeta: poet
 
-    - renasimiento: rebirth
-    - resientemente: recently
     - redaktor: editor
     - redaktores: editors
-    - revista: edition
     - refujiados: refugees
+    - renasimiento: rebirth
+    - remarka: remark
+    - resientemente: recently
+    - revista: edition
 
-    - sena: dinner
-    - seksion: section
-    - seguro: sure
     - sefaradis: Sephardic
     - Sefaradim: Sephardic
+    - seguro: sure
+    - seksion: section
+    - sena: dinner
+    - siempre: always
     - sin: without
     - sitio: site
     - situasion: situation
-    - siempre: always
-    - syempre: always
     - sovre: about
+    - subjeto: subject
+    - syempre: always
 
     - tambien: also
     - traduksiones: translations
@@ -528,6 +538,8 @@ Mini-dictionary:
     - famous: famozos
 
     - guide: giadera
+    - group: grupo
+    - groups: grupos
 
     - help: ayudo
     - hispanic: ispanika
@@ -637,34 +649,36 @@ Mini-dictionary:
     - question: demanda
     - questions: demandas
 
-    - restroom: tualet
     - recently: resientemente
     - rebirth: renasimiento
     - refugees: refujiados
+    - remark: remarka
+    - restroom: tualet
 
+    - same:
+      - mizmo
+      - mizma
+    - several: varias
+    - section: seksion
+    - Sephardic:
+      - Sefaradim
+      - Sefaradis
+    - site: sitio
+    - situation: situasion
+    - small:
+      - chiko
+      - chika
     - some:
       - alguno
       - alguna
       - algunos
       - algunas
       - unos
-    - small:
-      - chiko
-      - chika
-    - stew: gizado
-    - site: sitio
-    - several: varias
-    - section: seksion
-    - situation: situasion
     - source: manadero
     - sources: manaderos
-    - same:
-      - mizmo
-      - mizma
+    - stew: gizado
+    - subject: subjeto
     - sure: seguro
-    - Sephardic:
-      - Sefaradim
-      - Sefaradis
 
     - take out: echar
     - themselves: eyos
