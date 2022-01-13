@@ -10,40 +10,40 @@ Phrases: []
 Mini-dictionary:
   Ladino: []
   English:
+    - a bit: un poko
     - about: sovre
     - above: ensima
     - accent: aksan
-    - ATM: bankomatiko
-    - a bit: un poko
-    - among: entre
     - also: tambien
+    - always:
+      - siempre
+      - syempre
+    - among: entre
+    - ashkenazi: ashkenazi
+    - ATM: bankomatiko
     - author: autor
     - authors: autores
     - anonymous: anonimos
     - authentic: autentikos
-    - always:
-      - siempre
-      - syempre
-    - ashkenazi: ashkenazi
 
     - bar: bar
-    - better: mijor
-    - big:
-      - grande
-      - grandes
-    - before: antes
     - beautiful:
       - ermoza
       - ermozas
+    - because: porke
+    - before: antes
+    - better: mijor
     - between: entre
+    - big:
+      - grande
+      - grandes
     - bill: kuento
+    - bourekas: boyos
+    - bridge: pontre
+    - bridges: pontres
     - but:
       - ama
       - ma
-    - bridge: pontre
-    - bridges: pontres
-    - bourekas: boyos
-    - because: porke
 
     - calendar: kalendario
     - card: karta
@@ -51,16 +51,12 @@ Mini-dictionary:
     - cold:
       - frio
       - friyo
+    - community: komunita
+    - copy: kopya
     - cost: kosta
     - contact: kontakto
     - culture: kultura
-    - community: komunita
-    - copy: kopya
 
-    - denigrating: denigratora
-    - dinner: la sena
-    - decade: dekada
-    - during: durante
     - dear:
       - karos
       - karas
@@ -68,7 +64,16 @@ Mini-dictionary:
       - kerida
       - keridos
       - keridas
+    - decade: dekada
+    - denigrating: denigratora
+    - dinner: la sena
+    - during: durante
 
+    - edition:
+      - numero (de jurnal)
+    - editor: redaktor
+    - editors: redaktores
+    - edition: revista
     - empty: vaziyo
     - engagement: despozorio
     - excuse me: pardon
@@ -77,14 +82,10 @@ Mini-dictionary:
     - expensive:
       - karos
       - karas
-    - edition:
-      - numero (de jurnal)
-    - editor: redaktor
-    - editors: redaktores
-    - edition: revista
 
+    - famous: famozos
+    - form: forma
     - forward: adelante
-    - full: yeno
     - friend:
       - amigo
       - amiga
@@ -94,8 +95,7 @@ Mini-dictionary:
     - fresh:
       - fresko
       - freska
-    - form: forma
-    - famous: famozos
+    - full: yeno
 
     - guide: giadera
     - group: grupo
@@ -115,23 +115,23 @@ Mini-dictionary:
       - kuantos
       - kuantas
 
-    - intelligent: intelijente
-    - intelligents: intelijentes
-    - it: es
+    - icecream: dondurma
+    - important: importante
+    - in: en
+    - indications: indikasiones
+    - influence: influensia
     - information: informasion
     - inspiration: inspirasyon
-    - important: importante
+    - intelligent: intelijente
+    - intelligents: intelijentes
+    - introduction: introduksion
     - investigator:
       - investigador
       - investigadora
     - investigators:
       - investigadoras
       - investigadores
-    - influence: influensia
-    - in: en
-    - introduction: introduksion
-    - indications: indikasiones
-    - icecream: dondurma
+    - it: es
 
     - journalist: jurnalisto
     - jew:
@@ -139,8 +139,6 @@ Mini-dictionary:
       - djidio
     - job: lavoro
 
-    - level: nivel
-    - letter: letra
     - language:
       - lashon
       - lingua
@@ -148,69 +146,72 @@ Mini-dictionary:
     - languages:
       - linguas
       - lenguas
-    - letter: karta
+    - letter:
+      - karta
+      - letra
     - letters: kartas
+    - level: nivel
+    - lingusitics: linguistika
     - little:
       - chiko
       - chika
     - lot:
       - muncho
       - muncha
-    - lingusitics: linguistika
 
     - madness: lokura
+    - making small-talk: etchar lashon
+    - manner: manera
     - man's: de ombres
     - many:
       - munchos
       - munchas
-    - making small-talk: etchar lashon
-    - manner: manera
+    - materials:  materiales
+    - material:  material
+    - member: miembro
     - message: mesaje
     - messages: mesajes
+    - mistake: yerro
+    - mistakes: yerros
     - money: dinero
     - more: mas
     - modes: modos
     - modern:
       - moderno
       - moderna
-    - mistake: yerro
-    - mistakes: yerros
     - mother tongue: lingua maternal
-    - materials:  materiales
-    - material:  material
-    - member: miembro
 
     - neutral: neutrala
     - newspaper: jurnal
     - newspapers: jurnales
 
-    - outside: afuera
     - origin: manadero
     - origins: manaderos
     - other:
       - otruno
       - otruna
+    - outside: afuera
 
-    - poet: poeta
+    - page: pajina
     - people:
       - personas
       - djente
+    - person: persona
+    - people: djente
     - pleasant: agradavle
     - please: por favor
-    - person: persona
-    - page: pajina
+    - poet: poeta
     - poetry: poezia
-    - people: djente
     - pretty:
       - bonito
       - bonita
 
-    - quite: bastante
     - question: demanda
     - questions: demandas
+    - quite: bastante
 
-    - recently: resientemente
     - rebirth: renasimiento
+    - recently: resientemente
     - refugees: refujiados
     - remark: remarka
     - restroom: tualet
@@ -218,11 +219,11 @@ Mini-dictionary:
     - same:
       - mizmo
       - mizma
-    - several: varias
     - section: seksion
     - Sephardic:
       - Sefaradim
       - Sefaradis
+    - several: varias
     - site: sitio
     - situation: situasion
     - small:
@@ -242,20 +243,20 @@ Mini-dictionary:
 
     - take out: echar
     - themselves: eyos
-    - translator: traduktor
     - thank you: mersi
+    - that: eso
     - then: entonses
     - there: ai
     - there are: ay
+    - thing: koza
+    - things: kozas
+    - those: esos
     - translated: tresladado
+    - translator: traduktor
+    - translations: traduksiones
     - true:
       - vedrad
       - verdad
-    - that: eso
-    - those: esos
-    - thing: koza
-    - things: kozas
-    - translations: traduksiones
 
     - vacation: vakansas
     - Venezualan: venezuelano
@@ -267,6 +268,7 @@ Mini-dictionary:
       - kual
       - kuala
     - with me: kon mi
+    - without: sin
     - word:
       - palavra
       - biervo
@@ -275,7 +277,6 @@ Mini-dictionary:
       - biervos
     - work: lavoro
     - woman's: de mujeres
-    - without: sin
     - writing: eskrito
     - women: mujeres
     - work: ovra

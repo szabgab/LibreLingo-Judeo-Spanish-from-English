@@ -33,14 +33,14 @@ Mini-dictionary:
     - ay: there are
     - ayudo: help
 
+    - bankomatiko: ATM
     - bastante: quite
     - bar: bar
-    - bankomatiko: ATM
     - biervo: word
     - biervos: words
-    - boyos: bourekas
     - bonita: pretty
     - bonito: pretty
+    - boyos: bourekas
 
     - chika:
       - little
@@ -55,27 +55,27 @@ Mini-dictionary:
 
     - de mujeres: "women's"
     - de ombres: "man's"
+    - dekada: decade
     - demanda: question
     - demandas: questions
+    - denigratora: denigrating
     - despozorio: engagement
     - dinero: money
+    - djente: people
     - djudio: jew
     - djidio: jew
-    - durante: during
-    - dekada: decade
     - dondurma: icecream
-    - djente: people
-    - denigratora: denigrating
+    - durante: during
 
-    - etchar lashon: making small-talk
+    - en: in
+    - ensima: above
+    - enshemplo: example
+    - enshemplos: examples
     - entonses: then
     - entre:
       - between
       - among
     - entre mientres: in the meantime
-    - ensima: above
-    - enshemplo: example
-    - enshemplos: examples
     - ermoza: beautiful
     - ermozas: beautiful
     - eskrito: writing
@@ -85,14 +85,14 @@ Mini-dictionary:
     - eskritora: writer
     - eskritores: writers
     - eskritoras: writers
-    - en: in
+    - etchar lashon: making small-talk
 
     - famozos: famous
     - freska: fresh
     - fresko: fresh
-    - forma: form
     - frio: cold
     - friyo: cold
+    - forma: form
 
     - giadera: guide
     - gizado: stew
@@ -107,13 +107,13 @@ Mini-dictionary:
     - informasion: information
     - inspirasyon: inspiration
     - ispanika: hispanic
+    - indikasiones: indications
+    - influensia: influence
+    - introduksion: introduction
     - investigador: investigator
     - investigadora: investigator
     - investigadoras: investigators
     - investigadores: investigators
-    - indikasiones: indications
-    - influensia: influence
-    - introduksion: introduction
 
     - jurnal: newspaper
     - jurnales: newspapers
@@ -123,22 +123,25 @@ Mini-dictionary:
     - karta:
       - letter
       - card
-    - karos:
+    - karas:
       - dear
       - expensive
-    - karas:
+    - karos:
       - dear
       - expensive
     - kartas:
       - letters
       - cards
-    - kerido: dear
     - kerida: dear
-    - keridos: dear
     - keridas: dear
+    - kerido: dear
+    - keridos: dear
     - komunita: community
+    - komandamientos: commandments
     - kon mi: with me
     - kontakto: contact
+    - kopya: copy
+    - kosta: cost
     - koza: thing
     - kozas: things
     - kuanto:
@@ -151,9 +154,6 @@ Mini-dictionary:
     - kuantas: how many?
     - kuento: bill
     - kultura: culture
-    - kopya: copy
-    - kosta: cost
-    - komandamientos: commandments
 
 
     - lashon: language
@@ -161,45 +161,45 @@ Mini-dictionary:
       - work
       - job
     - lengua: language
+    - letra: letter
     - lingua: language
     - lingua maternal: mother tongue
     - linguistika: lingusitics
     - linguas: languages
-    - letra: letter
     - lokura: madness
 
     - ma: but
     - mandamientos: commandments
-    - manera: manner
-    - mas: more
-    - mersi: thank you
-    - mesaje: message
-    - mesajes: messages
-    - mijor: better
-    - modos: modes
-    - muncho: a lot
-    - muncha: a lot
-    - munchos: many
-    - munchas: many
-    - mujeres: women
     - manadero:
       - source
       - origin
     - manaderos:
       - sources
       - origins
+    - manera: manner
     - material: material
     - materiales: materials
+    - mas: more
+    - medio: half
+    - mersi: thank you
+    - mesaje: message
+    - mesajes: messages
+    - mijor: better
     - mizmo: same
     - mizma: same
-    - medio: half
     - miembro: member
-    - moderno: modern
     - moderna: modern
+    - moderno: modern
+    - modos: modes
+    - mujeres: women
+    - muncho: a lot
+    - muncha: a lot
+    - munchos: many
+    - munchas: many
 
+    - neutrala: neutral
+    - neutralo: neutral
     - nivel: level
-    - neutrala: neutral
-    - neutrala: neutral
     - numero:
       - number
       - edition (of newspaper)
@@ -216,23 +216,23 @@ Mini-dictionary:
     - pardon: excuse me
     - persona: person
     - personas: people
+    - poeta: poet
     - poezia: poetry
     - pontre: bridge
     - pontres: bridges
     - por favor: please
     - porke: because
-    - poeta: poet
 
     - redaktor: editor
     - redaktores: editors
     - refujiados: refugees
-    - renasimiento: rebirth
     - remarka: remark
+    - renasimiento: rebirth
     - resientemente: recently
     - revista: edition
 
-    - sefaradis: Sephardic
-    - Sefaradim: Sephardic
+    - sefaradis: sephardic
+    - sefaradim: sephardic
     - seguro: sure
     - seksion: section
     - sena: dinner
@@ -246,9 +246,9 @@ Mini-dictionary:
 
     - tambien: also
     - traduksiones: translations
+    - traduktor: translator
     - tresladado: translated
     - tualet: restroom
-    - traduktor: translator
 
     - un poko: a bit
     - unos: some
@@ -257,12 +257,12 @@ Mini-dictionary:
     - varias: several
     - vaziyo: empty
     - venezuelano: Venezualan
-    - verdad: true
     - vedrad: true
+    - verdad: true
+    - veteranos: veteran
 
     - web: web
 
-    - veteranos: veteran
     - yeno: full
     - yerro: mistake
     - yerros: mistakes
