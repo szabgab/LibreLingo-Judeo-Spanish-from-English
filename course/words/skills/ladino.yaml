@@ -75,6 +75,7 @@ Mini-dictionary:
     - enshemplo: example
     - enshemplos: examples
     - entonses: then
+    - entorno: environment
     - entre:
       - between
       - among
@@ -158,6 +159,7 @@ Mini-dictionary:
     - kuantas: how many?
     - kuento: bill
     - kultura: culture
+    - kultural: cultural
 
 
     - lashon: language
