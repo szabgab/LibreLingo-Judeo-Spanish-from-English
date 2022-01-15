@@ -7,14 +7,23 @@ New words: []
 Phrases: []
 Mini-dictionary:
   English:
+    - Ana:
+      - Ana
     - angel:
       - andjel
+    - are lacking:
+      - faltan
     - below:
       - abasho (adv)
     - down:
       - abasho (adv)
     - guest:
       - musafir
+    - lack:
+      - faltar
+      - mankar
+    - minutes:
+      - minutos
     - music:
       - muzika
     - negative:
@@ -28,6 +37,8 @@ Mini-dictionary:
     - surname:
       - alkunya
   Ladino:
+    - Ana:
+      - Ana
     - abasho:
       - below
       - down
@@ -40,6 +51,14 @@ Mini-dictionary:
       - angel
     - aniyo:
       - ring
+    - faltan:
+      - are lacking
+    - faltar:
+      - lack
+    - mankar:
+      - lack
+    - minutos:
+      - minutes
     - musafir:
       - guest
     - muzika:

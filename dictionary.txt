@@ -1,3 +1,6 @@
+# names
+Ana           <=> Ana
+
 abasho (adv)  <=> down
 abasho (adv)  <=> below
 alkunya       <=> surname
@@ -5,6 +8,10 @@ alma          <=> soul
 alma          <=> spirit
 andjel        <=> angel
 aniyo (m)     <=> ring
+faltar        <=> lack
+faltan        <=> are lacking
+mankar        <=> lack
+minutos       <=> minutes
 musafir       <=> guest
 muzika        <=> music
 negativo      <=> negative
