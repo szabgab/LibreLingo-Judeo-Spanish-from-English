@@ -15,6 +15,8 @@ def read_data():
     filename="dictionary.txt"
     with open(filename) as fh:
         for line in fh:
+            if re.search(r'^\s*(#.*)?$', line):
+                continue
             line = line.rstrip()
             target, source = line.split('<=>')
             target = target.strip(" ")
