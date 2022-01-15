@@ -15,6 +15,8 @@ Mini-dictionary:
       - faltan
     - below:
       - abasho (adv)
+    - companion:
+      - kompanyero
     - down:
       - abasho (adv)
     - guest:
@@ -28,6 +30,13 @@ Mini-dictionary:
       - muzika
     - negative:
       - negativo
+    - partner:
+      - kompanyero
+    - pretty:
+      - linda
+      - lindo
+    - psychopatology:
+      - psikopatologia
     - ring:
       - aniyo (m)
     - soul:
@@ -55,6 +64,13 @@ Mini-dictionary:
       - are lacking
     - faltar:
       - lack
+    - kompanyero:
+      - companion
+      - partner
+    - linda:
+      - pretty
+    - lindo:
+      - pretty
     - mankar:
       - lack
     - minutos:
@@ -65,3 +81,5 @@ Mini-dictionary:
       - music
     - negativo:
       - negative
+    - psikopatologia:
+      - psychopatology
