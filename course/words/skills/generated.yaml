@@ -9,6 +9,8 @@ Mini-dictionary:
   English:
     - Ana:
       - Ana
+    - age:
+      - edad
     - angel:
       - andjel
     - are lacking:
@@ -17,62 +19,158 @@ Mini-dictionary:
       - abasho (adv)
     - companion:
       - kompanyero
+    - cup:
+      - tasa
+    - dialect:
+      - dialekto
+    - dialects:
+      - dialektos
+    - difficult:
+      - zor
     - down:
       - abasho (adv)
+    - easy:
+      - kolay
+    - eighty:
+      - ochenta
+    - expulse:
+      - arondjar
+    - expulsed:
+      - arondjados
+    - fifty:
+      - sinkuenta
+    - finish:
+      - eskapar
+    - fourty:
+      - kuarenta
     - guest:
       - musafir
+    - hot:
+      - kayente
+    - hundred:
+      - sien
     - lack:
       - faltar
       - mankar
+    - measure:
+      - mesurar
     - minutes:
       - minutos
+    - multitude:
+      - alay
     - music:
       - muzika
     - negative:
       - negativo
+    - ninety:
+      - noventa
+    - nothing at all:
+      - no ay por kualo
+    - one hundred twenty three:
+      - siento venti tres
     - partner:
+      - haver
       - kompanyero
+    - partners:
+      - haverim
     - pretty:
       - linda
       - lindo
     - psychopatology:
       - psikopatologia
+    - put:
+      - meter
+      - pozar
     - ring:
       - aniyo (m)
+    - seventy:
+      - setenta
+    - share:
+      - partajar
+    - show:
+      - amostrar
     - soul:
       - alma
     - spirit:
       - alma
     - surname:
       - alkunya
+    - thirty:
+      - trenta
+    - thirty one:
+      - trenti uno
+    - twenty one:
+      - venti uno
+    - village:
+      - kazal
+    - villager:
+      - kazalina
+    - villager:
+      - kazalino
   Ladino:
     - Ana:
       - Ana
     - abasho:
       - below
       - down
+    - alay:
+      - multitude
     - alkunya:
       - surname
     - alma:
       - soul
       - spirit
+    - amostrar:
+      - show
     - andjel:
       - angel
     - aniyo:
       - ring
+    - arondjados:
+      - expulsed
+    - arondjar:
+      - expulse
+    - dialekto:
+      - dialect
+    - dialektos:
+      - dialects
+    - edad:
+      - age
+    - eskapar:
+      - finish
     - faltan:
       - are lacking
     - faltar:
       - lack
+    - haver:
+      - partner
+    - haverim:
+      - partners
+    - kayente:
+      - hot
+    - kazal:
+      - village
+    - kazalina:
+      - villager (f)
+    - kazalino:
+      - villager (m)
+    - kolay:
+      - easy
     - kompanyero:
       - companion
       - partner
+    - kuarenta:
+      - fourty
     - linda:
       - pretty
     - lindo:
       - pretty
     - mankar:
       - lack
+    - mesurar:
+      - measure
+    - meter:
+      - put
     - minutos:
       - minutes
     - musafir:
@@ -81,5 +179,33 @@ Mini-dictionary:
       - music
     - negativo:
       - negative
+    - no ay por kualo:
+      - nothing at all
+    - noventa:
+      - ninety
+    - ochenta:
+      - eighty
+    - partajar:
+      - share
+    - pozar:
+      - put
     - psikopatologia:
       - psychopatology
+    - setenta:
+      - seventy
+    - sien:
+      - hundred
+    - siento venti tres:
+      - one hundred twenty three
+    - sinkuenta:
+      - fifty
+    - tasa:
+      - cup (f)
+    - trenta:
+      - thirty
+    - trenti uno:
+      - thirty one
+    - venti uno:
+      - twenty one
+    - zor:
+      - difficult

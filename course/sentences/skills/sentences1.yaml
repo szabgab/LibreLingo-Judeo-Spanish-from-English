@@ -25,10 +25,6 @@ New words:
     Translation: honey
     Images:
       - honey1
-  - Word: escrivir
-    Translation: write
-    Images:
-      - write1
 
 
 
@@ -85,11 +81,14 @@ Phrases:
     Translation: Health and Life, Sarah
   - Phrase: Bindicho el Dio.
     Translation: God bless.
+  - Phrase: Ande tu bives, en un kazal o en una sivdad?
+    Translation: Where do you live, in a village or in a city?
+  - Phrase: Yo so un kazalino.
+    Translation: I am a villager.
 
 Mini-dictionary:
   Ladino:
     - aki: here
-    - ande: where
     - aprovar: try
     - bien: well
     - bindicho: bless

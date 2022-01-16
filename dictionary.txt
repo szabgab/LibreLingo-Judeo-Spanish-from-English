@@ -1,22 +1,61 @@
 # names
-Ana           <=> Ana
+Ana              <=> Ana
 
-abasho (adv)  <=> down
-abasho (adv)  <=> below
-alkunya       <=> surname
-alma          <=> soul
-alma          <=> spirit
-andjel        <=> angel
-aniyo (m)     <=> ring
+abasho (adv)     <=> down
+abasho (adv)     <=> below
+alay             <=> multitude
+alkunya          <=> surname
+alma             <=> soul
+alma             <=> spirit
+andjel           <=> angel
+aniyo (m)        <=> ring
+dialekto         <=> dialect
+dialektos        <=> dialects
+edad             <=> age
+haver            <=> partner
+haverim          <=> partners
+kayente          <=> hot
+kazal            <=> village
+kazalina         <=> villager (f)
+kazalino         <=> villager (m)
+kolay            <=> easy
+kompanyero       <=> companion
+kompanyero       <=> partner
+lindo            <=> pretty
+linda            <=> pretty
+mankar           <=> lack
+minutos          <=> minutes
+musafir          <=> guest
+muzika           <=> music
+negativo         <=> negative
+no ay por kualo  <=> nothing at all
+psikopatologia   <=> psychopatology
+tasa             <=> cup (f)
+zor              <=> difficult
+
+
+# Verbs
+amostrar      <=> show
+arondjar      <=> expulse
+arondjados    <=> expulsed
+eskapar       <=> finish
 faltar        <=> lack
 faltan        <=> are lacking
-kompanyero    <=> companion
-kompanyero    <=> partner
-lindo         <=> pretty
-linda         <=> pretty
-mankar        <=> lack
-minutos       <=> minutes
-musafir       <=> guest
-muzika        <=> music
-negativo      <=> negative
-psikopatologia <=> psychopatology
+mesurar       <=> measure
+meter         <=> put
+partajar      <=> share
+pozar         <=> put
+
+
+# Numbers
+venti uno  <=> twenty one
+trenta     <=> thirty
+trenti uno <=> thirty one
+kuarenta   <=> fourty
+sinkuenta  <=> fifty
+setenta    <=> seventy
+ochenta    <=> eighty
+noventa    <=> ninety
+sien       <=> hundred
+siento venti tres <=> one hundred twenty three
+

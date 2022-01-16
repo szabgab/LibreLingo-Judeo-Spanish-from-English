@@ -4,11 +4,28 @@ Skill:
 
 New words: []
 
-Phrases: []
+Phrases:
+  - Phrase: "Komo {te yamas}"
+    Translation: What is your name
+  - Phrase: De ke alkunya sos?
+    Translation: What is your surname?
+  - Phrase: Ke linguas avlas?
+    Translation: What languages do you speak?
+  - Phrase: Ke edad tyenes?
+    Translation: How old are you?
+  - Phrase: Ande lavora?
+    Translation: Where do you work?
+  - Phrase: Ande moras?
+    Translation: Where do you live?
+  - Phrase: Kuantos anyos tienes?
+    Translation: How old are you?
+  - Phrase: "Komo {te plaze} la sivdad?"
+    Translation: How do you like the city?
 
 Mini-dictionary:
   Ladino:
     - ande: where
+    - de ke: why
     - ke: how
     - ken: who
     - komo:  how
@@ -21,3 +38,4 @@ Mini-dictionary:
       - ande
       - onde
     - who: ken
+    - why: de ke

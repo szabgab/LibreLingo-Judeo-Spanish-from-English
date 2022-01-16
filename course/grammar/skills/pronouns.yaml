@@ -25,6 +25,8 @@ Mini-dictionary:
     - eyos: they (m)
     - eyas: they (f)
 
+    - te: you
+
     - muevo: our
     - mueva: our
     - muevos: ours
@@ -32,6 +34,7 @@ Mini-dictionary:
   English:
     - i: yo
     - you:
+      - te
       - tu
       - vozotros
       - vozotras

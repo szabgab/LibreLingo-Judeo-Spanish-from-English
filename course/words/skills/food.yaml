@@ -158,6 +158,12 @@ Phrases:
     Translation: David eats bread
   - Phrase: Yo komo un pastel
     Translation: I eat a cake
+  - Phrase: Yo kero bever un chay
+    Translation: I want to drink a tea
+  - Phrase: Yo bevo una tasa de chay
+    Translation: I drink a cup of tea
+  - Phrase: Me gusta sopa kayente
+    Translation: I like hot soup
 
 
 Mini-dictionary:
@@ -168,7 +174,7 @@ Mini-dictionary:
     - pastel: cake
   English:
     - I am hungry: tengo ambre
-    - salad: la salata
-    - carrot: la karota
+    - salad: salata (f)
+    - carrot: karota (f)
     - cake: pastel
 
