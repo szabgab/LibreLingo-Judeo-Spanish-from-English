@@ -11,6 +11,7 @@ andjel           <=> angel
 aniyo (m)        <=> ring
 dialekto         <=> dialect
 dialektos        <=> dialects
+djugo            <=> game
 edad             <=> age
 haver            <=> partner
 haverim          <=> partners
