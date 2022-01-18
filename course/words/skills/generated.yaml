@@ -9,10 +9,16 @@ Mini-dictionary:
   English:
     - Ana:
       - Ana
+    - actor:
+      - aktor
     - age:
       - edad
+    - alcohol:
+      - alkol
     - angel:
       - andjel
+    - ardour:
+      - ardor
     - are lacking:
       - faltan
     - below:
@@ -40,6 +46,7 @@ Mini-dictionary:
     - fifty:
       - sinkuenta
     - finish:
+      - akavar
       - eskapar
     - fourty:
       - kuarenta
@@ -115,8 +122,14 @@ Mini-dictionary:
     - abasho:
       - below
       - down
+    - akavar:
+      - finish
+    - aktor:
+      - actor
     - alay:
       - multitude
+    - alkol:
+      - alcohol (m)
     - alkunya:
       - surname
     - alma:
@@ -128,6 +141,8 @@ Mini-dictionary:
       - angel
     - aniyo:
       - ring
+    - ardor:
+      - ardour
     - arondjados:
       - expulsed
     - arondjar:

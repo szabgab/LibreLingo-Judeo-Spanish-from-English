@@ -3,10 +3,13 @@ Ana              <=> Ana
 
 abasho (adv)     <=> down
 abasho (adv)     <=> below
+aktor            <=> actor
 alay             <=> multitude
+alkol            <=> alcohol (m)
 alkunya          <=> surname
 alma             <=> soul
 alma             <=> spirit
+ardor            <=> ardour
 andjel           <=> angel
 aniyo (m)        <=> ring
 dialekto         <=> dialect
@@ -36,6 +39,7 @@ zor              <=> difficult
 
 
 # Verbs
+akavar        <=> finish
 amostrar      <=> show
 arondjar      <=> expulse
 arondjados    <=> expulsed
