@@ -23,6 +23,7 @@ kazal            <=> village
 kazalina         <=> villager (f)
 kazalino         <=> villager (m)
 kolay            <=> easy
+kolor            <=> color (m)
 kompanyero       <=> companion
 kompanyero       <=> partner
 lindo            <=> pretty
