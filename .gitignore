@@ -2,3 +2,4 @@ LibreLingo-tools
 LibreLingo
 output/
 html/
+__pycache__/
