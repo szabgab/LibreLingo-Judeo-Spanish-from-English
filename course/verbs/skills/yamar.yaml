@@ -19,6 +19,8 @@ Phrases:
     Translation: What is the name of your father?
   - Phrase: "{Se yama} David"
     Translation: His name is David
+  - Phrase: La fruta yamada banana es amariyo
+    Translation: The fruit that is called banana is yellow
 
 
 
@@ -40,4 +42,7 @@ Mini-dictionary:
       - they are called
     - yamar: to call
     - yamarse: to be called oneself (reflexive)
-  English: []
+
+    - yamada: is being called
+  English:
+    - called: yamada
