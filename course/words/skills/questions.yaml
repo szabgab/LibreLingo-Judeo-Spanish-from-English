@@ -13,9 +13,13 @@ Phrases:
     Translation: What languages do you speak?
   - Phrase: Ke edad tyenes?
     Translation: How old are you?
-  - Phrase: Ande lavora?
+  - Phrase: Ande lavoras?
+    Alternative versions:
+      - Onde lavoras?
     Translation: Where do you work?
   - Phrase: Ande moras?
+    Alternative versions:
+      - Onde moras?
     Translation: Where do you live?
   - Phrase: Kuantos anyos tienes?
     Translation: How old are you?
