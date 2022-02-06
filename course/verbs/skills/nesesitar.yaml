@@ -1,5 +1,5 @@
 Skill:
-  Name: necesitar
+  Name: nesesitar
   Id: 1024
 
 New words: []
@@ -8,15 +8,15 @@ Phrases: []
 
 Mini-dictionary:
   Ladino:
-   - necesitar:
+   - nesesitar:
      - to need
-   - necesito: (I) need
+   - nesesito: (I) need
    - tener menester: to need
    - tengo menester: (I) need
   English:
     - need:
-      - necesitar
+      - nesesitar
       - tener menester
     - I need:
-      - necesito
+      - nesesito
       - tengo menester
