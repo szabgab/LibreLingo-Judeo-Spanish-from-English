@@ -1,0 +1,22 @@
+Skill:
+  Name: ovligar
+  Id: 1064
+
+New words: []
+
+Phrases:
+  - Phrase: Yo te ovligo alympiar tu kaza
+    Translation: I force you to clean your house
+
+
+
+Mini-dictionary:
+  Ladino:
+    - ovligar:
+      - force
+      - compel
+    - ovligo: (I) force
+  English:
+    - force:
+      - ovligar
+      - ovligo

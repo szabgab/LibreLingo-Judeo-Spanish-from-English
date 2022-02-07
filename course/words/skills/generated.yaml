@@ -23,6 +23,8 @@ Mini-dictionary:
       - faltan
     - below:
       - abasho (adv)
+    - clean:
+      - alympiar
     - color:
       - kolor
     - companion:
@@ -63,6 +65,8 @@ Mini-dictionary:
     - lack:
       - faltar
       - mankar
+    - meal:
+      - komida
     - measure:
       - mesurar
     - minutes:
@@ -71,6 +75,8 @@ Mini-dictionary:
       - alay
     - music:
       - muzika
+    - necessary:
+      - menester
     - negative:
       - negativo
     - ninety:
@@ -110,6 +116,8 @@ Mini-dictionary:
       - trenta
     - thirty one:
       - trenti uno
+    - to be given:
+      - akavidarse
     - twenty one:
       - venti uno
     - village:
@@ -126,6 +134,8 @@ Mini-dictionary:
       - down
     - akavar:
       - finish
+    - akavidarse:
+      - to be given
     - aktor:
       - actor
     - alay:
@@ -137,6 +147,8 @@ Mini-dictionary:
     - alma:
       - soul
       - spirit
+    - alympiar:
+      - clean
     - amostrar:
       - show
     - andjel:
@@ -179,6 +191,8 @@ Mini-dictionary:
       - easy
     - kolor:
       - color (m)
+    - komida:
+      - meal
     - kompanyero:
       - companion
       - partner
@@ -190,6 +204,8 @@ Mini-dictionary:
       - pretty
     - mankar:
       - lack
+    - menester:
+      - necessary
     - mesurar:
       - measure
     - meter:

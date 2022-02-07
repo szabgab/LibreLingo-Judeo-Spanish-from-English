@@ -3,6 +3,7 @@ Ana              <=> Ana
 
 abasho (adv)     <=> down
 abasho (adv)     <=> below
+akavidarse       <=> to be given
 aktor            <=> actor
 alay             <=> multitude
 alkol            <=> alcohol (m)
@@ -24,11 +25,13 @@ kazalina         <=> villager (f)
 kazalino         <=> villager (m)
 kolay            <=> easy
 kolor            <=> color (m)
+komida           <=> meal
 kompanyero       <=> companion
 kompanyero       <=> partner
 lindo            <=> pretty
 linda            <=> pretty
 mankar           <=> lack
+menester         <=> necessary
 minutos          <=> minutes
 musafir          <=> guest
 muzika           <=> music
@@ -41,6 +44,7 @@ zor              <=> difficult
 
 # Verbs
 akavar        <=> finish
+alympiar      <=> clean
 amostrar      <=> show
 arondjar      <=> expulse
 arondjados    <=> expulsed
