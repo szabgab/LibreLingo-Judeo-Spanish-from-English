@@ -1,0 +1,20 @@
+Skill:
+  Name: favlar
+  Id: 1063
+
+New words: []
+
+Phrases:
+  - Phrase: Yo favlo en Djudeo-Espanyol
+    Translation: I speak in Ladino
+
+
+
+Mini-dictionary:
+  Ladino:
+    - favlar: speak
+    - favlo: (I) speak
+  English:
+    - speak:
+      - favlar
+      - favlo
