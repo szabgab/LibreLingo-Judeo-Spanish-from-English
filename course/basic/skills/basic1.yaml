@@ -6,37 +6,11 @@ Skill:
     - girl1
     - woman1
 
-New words:
-  - Word: la mujer
-    Translation: the woman
-    Images:
-      - woman1
-      - woman2
-      - woman3
-
-  - Word: mujer
-    Translation: woman
-    Images:
-      - woman1
-      - woman2
-      - woman3
-
-  - Word: ombre
-    Translation: man
-    Images:
-      - man1
-      - man2
-      - man3
-
-  - Word: el ombre
-    Translation: the man
-    Images:
-      - man1
-      - man2
-      - man3
-
+New words: []
 
 Phrases:
+  - Phrase: la mujer
+    Translation: the woman
   - Phrase: una mujer
     Translation: a woman
   - Phrase: yo so una mujer
@@ -59,5 +33,11 @@ Phrases:
     Translation: David is a man and Lea is a woman
 
 Mini-dictionary:
-  Ladino: []
-  English: []
+  Ladino:
+    - mujer: woman
+    - ombre: man
+  English:
+    - woman: mujer
+    - man: ombre
+
+

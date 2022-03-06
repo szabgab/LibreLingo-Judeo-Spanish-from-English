@@ -2,64 +2,28 @@ Skill:
   Name: Fruits
   Id: 205
 
-New words:
-  - Word: fruta
-    Translation: fruit
-    Images:
-      - fruit1
-      - fruit2
-      - fruit3
-
-  - Word: karpuz
-    Translation: watermelon
-    Images:
-      - watermelon1
-      - watermelon2
-      - watermelon3
-
-  - Word: limon
-    Translation: lemon
-    Images:
-      - lemon1
-      - lemon2
-      - lemon3
-
-  - Word: mansana
-    Translation: apple
-    Images:
-      - apple1
-      - apple2
-      - apple3
-
-  - Word: portokal
-    Translation: orange
-    Images:
-      - orange1
-      - orange2
-      - orange3
-
-  - Word: uva
-    Translation: grape
-    Images:
-      - grape1
-      - grape2
-      - grape3
-
-  - Word: zirguela
-    Translation: plum
-    Images:
-      - plum1
-      - plum2
-      - plum3
-
-  - Word: banana
-    Translation: banana
-    Images:
-      - banana1
-      - banana2
-      - banana3
-
+New words: []
 Phrases:
   - Phrase:  el zirguela tiene kolor blu
     Translation: The plum is blue
+
+Mini-dictionary:
+  Ladino:
+    - fruta: fruit
+    - karpuz: watermelon
+    - limon: lemon
+    - mansana: apple
+    - portokal: orange
+    - uva: grape
+    - zirguela: plum
+    - banana: banana
+  English:
+    - fruit: fruta
+    - watermelon: karpuz
+    - lemon: limon
+    - apple: mansana
+    - orange: portokal
+    - grape: uva
+    - plum: zirguela
+    - banana: banana
 
