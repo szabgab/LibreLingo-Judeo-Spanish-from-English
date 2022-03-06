@@ -1,53 +1,8 @@
 Skill:
   Name: Basic 3
   Id: 103
-  Thumbnails:
-    - bread1
-    - water1
-    - milk1
 
-New words:
-  - Word: agua
-    Translation: water
-    Images:
-      - water1
-      - water2
-      - water3
-
-  - Word: la agua
-    Translation: the water
-    Images:
-      - water1
-      - water2
-      - water3
-
-  - Word: leche
-    Translation: milk
-    Images:
-      - milk1
-      - milk2
-      - milk3
-
-  - Word: la leche
-    Translation: the milk
-    Images:
-      - milk1
-      - milk2
-      - milk3
-
-  - Word: pan
-    Translation: bread
-    Images:
-      - bread1
-      - bread2
-      - bread3
-
-  - Word: el pan
-    Translation: the bread
-    Images:
-      - bread1
-      - bread2
-      - bread3
+New words: []
 
 Phrases:
   - Phrase: Yo komo pan
@@ -70,6 +25,13 @@ Phrases:
     Translation: I want to eat {a bit} of bread.
   - Phrase: Ke keres bever? Leche o Agua?
     Translation: What do you want to drink? Milk or water?
+  - Phrase: la agua
+    Translation: the water
+  - Phrase: la leche
+    Translation: the milk
+  - Phrase: el pan
+    Translation: the bread
+
 
 
 Mini-dictionary:

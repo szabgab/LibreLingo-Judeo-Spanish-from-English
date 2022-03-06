@@ -1,0 +1,26 @@
+Skill:
+  Name: Drinks
+  Id: 226
+
+New words: []
+
+Phrases: []
+
+Mini-dictionary:
+  Ladino:
+    - agua: water
+    - bira: beer
+    - chay: tea
+    - kafe: coffee
+    - kave: coffee
+    - leche: milk
+  English:
+    - beer: bira
+    - tea: chay
+    - milk: leche
+    - coffee:
+      - kafe
+      - kave
+    - water: agua
+
+

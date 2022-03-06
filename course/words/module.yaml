@@ -3,6 +3,7 @@ Module:
 
 Skills:
   - clothes.yaml
+  - drinks.yaml
   - numbers-till-10.yaml
   - numbers-till-20.yaml
   - ordered-numbers-till-10.yaml
@@ -19,6 +20,7 @@ Skills:
   - geography.yaml
   - nature.yaml
   - house.yaml
+  - vegetables.yaml
   - ladino.yaml
   - english.yaml
   - generated.yaml

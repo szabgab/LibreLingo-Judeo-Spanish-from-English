@@ -2,144 +2,11 @@ Skill:
   Name: Food
   Id: 211
 
-New words:
-  - Word: bira
-    Translation: beer
-    Images:
-      - beer1
-      - beer2
-      - beer3
-
-  - Word: chay
-    Translation: tea
-    Images:
-      - tea1
-      - tea2
-      - tea3
-
-  - Word: kafe
-    Synonyms:
-      - kave
-    Translation: coffee
-    Images:
-      - coffee1
-      - coffee2
-      - coffee3
-
-  - Word: sopa
-    Translation: soup
-    Images:
-      - soup1
-      - soup2
-      - soup3
-
-  - Word: pan
-    Translation: bread
-    Images:
-      - bread1
-      - bread2
-      - bread3
-
-  - Word: el pan
-    Translation: the bread
-    Images:
-      - bread1
-      - bread2
-      - bread3
-
-  - Word: kartof
-    Translation: potato
-    Images:
-      - potato1
-      - potato2
-      - potato3
-
-  - Word: el kartof
-    Translation: the potato
-    Images:
-      - potato1
-      - potato2
-      - potato3
-
-  - Word: patatas
-    Translation: potatoes
-    Images:
-      - potato1
-      - potato2
-      - potato3
-
-  - Word: kezo
-    Translation: cheese
-    Images:
-      - cheese1
-      - cheese2
-      - cheese3
-
-  - Word: poyo
-    Translation: chicken
-    Images:
-      - chicken1
-      - chicken2
-      - chicken3
-
-  - Word: arroz
-    Translation: rice
-    Images:
-      - rice1
-      - rice2
-      - rice3
-
-  - Word: vedrura
-    Translation: vegetable
-    Images:
-      - vegetable1
-      - vegetable2
-      - vegetable3
-
-  - Word: vedruras
-    Translation: vegetables
-    Images:
-      - vegetable1
-      - vegetable2
-      - vegetable3
-
-  - Word: tomate
-    Translation: tomato
-    Images:
-      - tomato1
-      - tomato2
-      - tomato3
-
-  - Word: tomates
-    Translation: tomatoes
-    Images:
-      - tomato1
-      - tomato2
-      - tomato3
-
-  - Word: pipino
-    Translation: cucumber
-    Images:
-      - cucumber1
-      - cucumber2
-      - cucumber3
-
-  - Word: sevoya
-    Translation: onion
-    Images:
-      - onion1
-      - onion2
-      - onion3
-
-  - Word: berendjena
-    Translation: eggplant
-    Images:
-      - eggplant1
-      - eggplant2
-      - eggplant3
-
+New words: []
 
 Phrases:
+  - Phrase: el pan
+    Translation: the bread
   - Phrase: "{Tengo menester} kozer el arroz"
     Translation: "{I need} help to cook the rice"
   - Phrase: Yo kero estudiar Ladino.
@@ -164,6 +31,8 @@ Phrases:
     Translation: I drink a cup of tea
   - Phrase: Me gusta sopa kayente
     Translation: I like hot soup
+  - Phrase: el kartof
+    Translation: the potato
 
 
 Mini-dictionary:
@@ -172,9 +41,24 @@ Mini-dictionary:
     - salata: salad
     - karota: carrot
     - pastel: cake
+    - pan: bread
+    - sopa: soup
+    - kezo: cheese
+    - poyo: chicken
+    - arroz: rice
+    - vedrura: vegetable
+    - vedruras: vegetables
+
   English:
     - I am hungry: tengo ambre
     - salad: salata (f)
     - carrot: karota (f)
     - cake: pastel
+    - bread: pan
+    - soup: sopa
+    - cheese: kezo
+    - chicken: poyo
+    - rice: arroz
+    - vegetable: vedrura
+    - vegetables: vedruras
 
