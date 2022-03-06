@@ -194,6 +194,16 @@ Phrases:
     Translation: "His family {settled down} in Thessaloniki"
 
 Mini-dictionary:
-  Ladino: []
-  English: []
+  Ladino:
+    - i: and
+    - chikos: young
+    - animal: animal
+    - animales: animals
+  English:
+    - and: i
+    - an: a
+    - young: chikos
+    - animal: animal
+    - animals: animales
+
 

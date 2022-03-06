@@ -2,35 +2,7 @@ Skill:
   Name: Basic 5
   Id: 105
 
-New words:
-  - Word: perro
-    Translation: dog
-    Images:
-      - dog1
-      - dog2
-      - dog3
-
-  - Word: perros
-    Translation: dogs
-    Images:
-      - dog1
-      - dog2
-      - dog3
-
-  - Word: gato
-    Translation: cat
-    Images:
-      - cat1
-      - cat2
-      - cat3
-
-  - Word: gatos
-    Translation: cats
-    Images:
-      - cat1
-      - cat2
-      - cat3
-
+New words: []
 
 Phrases:
   - Phrase: Yo tengo un gato
@@ -45,11 +17,7 @@ Phrases:
     Translation: I have a cat and two dogs.
 
 Mini-dictionary:
-  Ladino:
-    - animal: animal
-    - animales: animals
-  English:
-    - animal: animal
-    - animals: animales
+  Ladino: []
+  English: []
 
 

@@ -1,66 +1,8 @@
 Skill:
   Name: Animals
   Id: 210
-  Thumbnails:
-    - dog1
-    - lion3
-    - cat3
 
-New words:
-  - Word: alefante
-    Translation: elephant
-    Images:
-      - elephant1
-      - elephant2
-      - elephant3
-
-  - Word: lonso
-    Translation: bear
-    Images:
-      - bear1
-      - bear2
-
-  - Word: pato
-    Translation: duck
-    Images:
-      - duck1
-      - duck2
-      - duck3
-
-  - Word: kavayo
-    Translation: horse
-    Images:
-      - horse1
-      - horse2
-      - horse3
-
-
-  - Word: vaka
-    Translation: cow
-    Images:
-      - cow1
-
-  - Word: vakas
-    Translation: cows
-    Images:
-      - cow1
-
-  - Word: kulvera
-    Translation: snake
-    Images:
-      - snake1
-
-  - Word: kulveras
-    Translation: snakes
-    Images:
-      - snake1
-
-  - Word: pasharo
-    Translation: bird
-    Images:
-      - bird1
-      - bird2
-      - bird3
+New words: []
 
 Phrases:
   - Phrase: un perro blanko
@@ -93,11 +35,32 @@ Phrases:
 
 Mini-dictionary:
   Ladino:
-    - i: and
-    - chikos: young
+    - perro: dog
+    - perros: dogs
+    - gato: cat
+    - gatos: cats
+    - alefante: elephant
+    - lonso: bear
+    - pato: duck
+    - kavayo: horse
+    - vaka: cow
+    - vakas: cows
+    - kulvera: snake
+    - kulveras: snakes
+    - pasharo: bird
   English:
-    - and: i
-    - an: a
-    - young: chikos
+    - dog: perro
+    - dogs: perros
+    - cat: gato
+    - cats: gatos
+    - elephant: alefante
+    - bear: lonso
+    - duck: pato
+    - horse: kavayo
+    - cow: vaka
+    - cows: vakas
+    - snake: kulvera
+    - snakes: kulveras
+    - bird: pasharo
 
 
