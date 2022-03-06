@@ -13,6 +13,7 @@ Mini-dictionary:
     - karpuz: watermelon
     - limon: lemon
     - mansana: apple
+    - mansanas: apples
     - portokal: orange
     - uva: grape
     - zirguela: plum
@@ -22,8 +23,10 @@ Mini-dictionary:
     - watermelon: karpuz
     - lemon: limon
     - apple: mansana
+    - apples: mansanas
     - orange: portokal
     - grape: uva
     - plum: zirguela
     - banana: banana
+
 

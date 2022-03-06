@@ -1,35 +1,12 @@
 Skill:
   Name: Basic 2
   Id: 102
-  Thumbnails:
-    - apple1
-    - apple2
-    - apple3
 
-New words:
-  - Word: mansana
-    Translation: apple
-    Images:
-      - apple1
-      - apple2
-      - apple3
-
-  - Word: la mansana
-    Translation: the apple
-    Images:
-      - apple1
-      - apple2
-      - apple3
-
-  - Word: mansanas
-    Translation: apples
-    Images:
-      - apple1
-      - apple2
-      - apple3
-
+New words: []
 
 Phrases:
+  - Phrase: la mansana
+    Translation: the apple
   - Phrase:  yo komo una mansana
     Translation: I eat an apple
   - Phrase:  Lea kome mansanas
