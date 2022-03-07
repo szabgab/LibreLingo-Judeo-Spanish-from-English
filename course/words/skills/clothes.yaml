@@ -1,66 +1,8 @@
 Skill:
   Name: Clothes
   Id: 201
-  Thumbnails:
-    - dress2
-    - t-shirt1
-    - hat2
 
-New words:
-  - Word: sapato
-    Translation: shoe
-    Images:
-      - shoes1
-      - shoes2
-      - shoes3
-
-  - Word: sapatos
-    Translation: shoes
-    Images:
-      - shoes1
-      - shoes2
-      - shoes3
-
-
-  - Word: chapeo
-    Synonyms:
-      - chapeyo
-    Translation: hat
-    Images:
-      - hat1
-      - hat2
-      - hat3
-
-  - Word: el chapeo
-    Synonyms:
-      - el chapeyo
-    Translation: the hat
-    Images:
-      - hat1
-      - hat2
-      - hat3
-
-
-  - Word: kamiza
-    Translation: shirt
-    Images:
-      - shirt1
-      - shirt2
-      - shirt3
-
-  - Word: fusta
-    Translation: skirt
-    Images:
-      - skirt1
-      - skirt2
-      - skirt3
-
-  - Word: vestido
-    Translation: dress
-    Images:
-      - dress1
-      - dress2
-      - dress3
+New words: []
 
 
 Phrases:
@@ -80,15 +22,36 @@ Phrases:
     Translation: The t-shirt is big
   - Phrase: La fusta es chika
     Translation: The skirt is small
+  - Phrase: el chapeo
+    Translation: the hat
+  - Phrase: el chapeyo
+    Translation: the hat
 
 
 Mini-dictionary:
   English:
     - clothes: ropa
-    - t-shirt: kamizeta
+    - dress: vestido
+    - hat:
+      - chapeo
+      - chapeyo
     - sintura: belt
+    - shoe: sapato
+    - shoes: sapatos
+    - shirt: kamiza
+    - skirt: fusta
+
+    - t-shirt: kamizeta
   Ladino:
     - belt: sintura
-    - ropa: clothes
+    - chapeo: hat
+    - chapeyo: hat
+    - fusta: skirt
+    - kamiza: shirt
     - kamizeta: t-shirt
+    - ropa: clothes
+    - sapato: shoe
+    - sapatos: shoes
+    - vestido: dress
+
 
