@@ -248,12 +248,40 @@ Mini-dictionary:
     - vida: life
     - ya: already
 
+    - a: to
+    - biblioteka: library
+    - bueno:
+      - good
+      - nice
+    - del: of
+    - los: the (male plural)
+    - nombre: name
+    - saludes: greetings
+    - maskulino: masculine
+    - feminino: feminine
+    - livro: book
+    - livros: books
+
+    - al: to
+    - estes: these
+    - estos: these
+    - otro: other (masc.)
+    - otros: others (masc. pl)
+    - otra: other (fem.)
+    - otras: other (fem. pl)
+    - el echo: the work
+    - el mazal: the luck
+    - la roza: the rose
+    - la kupa: the glass
+
   English:
     - and: i
     - an: a
     - young: chikos
     - animal: animal
     - animals: animales
+    - book: livro
+    - books: livros
     - woman: mujer
     - man: ombre
 
@@ -304,4 +332,21 @@ Mini-dictionary:
         - la
     - well: bien
     - with: kon
+
+    - greetings: saludes
+    - library: biblioteka
+    - nice: bueno
+    - student: eleva
+    - these:
+      - estas
+      - estos
+    - to: a
+    - your: tu
+
+    - other:
+      - otro
+      - otra
+      - otros
+      - otras
+
 

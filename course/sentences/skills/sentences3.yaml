@@ -2,37 +2,13 @@ Skill:
   Name: Sentences 3
   Id: 33
 
-New words:
-  - Word: el livro
-    Translation: the book
-    Images:
-      - book1
-      - book2
-      - book3
-
-  - Word: livro
-    Translation: book
-    Images:
-      - book1
-      - book2
-      - book3
-
-  - Word: los livros
-    Translation: the books
-    Images:
-      - book1
-      - book2
-      - book3
-
-  - Word: livros
-    Translation: books
-    Images:
-      - book1
-      - book2
-      - book3
-
+New words: []
 
 Phrases:
+  - Phrase: el livro
+    Translation: the book
+  - Phrase: los livros
+    Translation: the books
   - Phrase: I las otras elevas?
     Translation: And the other students
   - Phrase: Las otras elevas
@@ -63,23 +39,6 @@ Phrases:
     Translation: I am not here
 
 Mini-dictionary:
-  Ladino:
-    - al: to
-    - estes: these
-    - estos: these
-    - otro: other (masc.)
-    - otros: others (masc. pl)
-    - otra: other (fem.)
-    - otras: other (fem. pl)
-    - el echo: the work
-    - el mazal: the luck
-    - la roza: the rose
-    - la kupa: the glass
-  English:
-    - other:
-      - otro
-      - otra
-      - otros
-      - otras
-
+  Ladino: []
+  English: []
 
