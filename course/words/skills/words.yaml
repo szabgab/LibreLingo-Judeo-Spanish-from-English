@@ -198,6 +198,7 @@ Mini-dictionary:
     - a: to
     - aki: here
     - al: to
+    - alegria: joy
     - animal: animal
     - animales: animals
     - aprovar: try
@@ -215,7 +216,9 @@ Mini-dictionary:
 
     - chikos: young
 
-    - de: of
+    - de:
+      - from
+      - of
     - dio: god
     - direktora: manager (f)
     - del: of
@@ -232,6 +235,9 @@ Mini-dictionary:
     - estos: these
 
     - feminino: feminine
+    - fiest: party
+
+    - grasias: thank
 
     - hazino: sick
     - hazina: sick
@@ -241,6 +247,10 @@ Mini-dictionary:
     - kaza:
       - home
       - house
+    - kaza: house
+    - kazas: houses
+    - kandela: candle
+    - kandelika: little candle
     - klasa: classroom
     - kon: with
     - kurso: course
@@ -253,6 +263,9 @@ Mini-dictionary:
     - maskulino: masculine
     - me: my name
     - mujer: woman
+    - muy: very
+    - muncho gusto: nice to meet you
+    - matematika: math
 
     - no:
       - no
@@ -265,6 +278,7 @@ Mini-dictionary:
     - otra: other (fem.)
     - otras: other (fem. pl)
 
+    - plazer: pleasure
     - profesor: teacher (m)
     - profesores: teachers (m)
     - profesora: teacher (f)
@@ -272,7 +286,10 @@ Mini-dictionary:
 
     - salu: health
     - saludes: greetings
+    - si: yes
 
+    - tefter: notebook
+    - tefteres: notebooks
     - todo: all
     - toda: all
     - todos: all
@@ -290,6 +307,7 @@ Mini-dictionary:
     - el mazal: the luck
     - la roza: the rose
     - la kupa: the glass
+
 
   English:
     - and: i
@@ -309,8 +327,15 @@ Mini-dictionary:
     - book: livro
     - books: livros
 
+    - candle: kandela
+    - class: klasa
     - classroom: klasa
     - course: kurso
+
+    - does: esta
+
+    - feel: gusta
+    - from: de
 
     - god: dio
     - good:
@@ -321,6 +346,8 @@ Mini-dictionary:
     - good morning: buenos dias
     - greetings: saludes
 
+    - house: kaza
+    - houses: kazas
     - he: el
     - health: salu
     - here: aki
@@ -328,9 +355,13 @@ Mini-dictionary:
 
     - in: en
 
+    - joy: alegria
+
     - library: biblioteka
     - life: vida
+    - little candle: kandelika
 
+    - math: matematika
     - man: ombre
     - my:
         - mi
@@ -349,6 +380,12 @@ Mini-dictionary:
       - otra
       - otros
       - otras
+    - nice to meet you: muncho gusto
+    - notebook: tefter
+    - notebooks: tefteres
+
+    - party: fiest
+    - pleasure: plazer
 
     - sick:
       - hazino
@@ -358,6 +395,7 @@ Mini-dictionary:
       - elevos
       - elevas
 
+    - thank: grasias
     - this: este
     - these:
       - estas
@@ -368,12 +406,16 @@ Mini-dictionary:
         - el
         - la
 
+    - yes: si
     - young: chikos
     - your: tu
+
+    - very: muy
 
     - well: bien
     - with: kon
     - woman: mujer
 
     - (fem.): (feminina)
+
 
