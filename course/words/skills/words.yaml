@@ -195,80 +195,97 @@ Phrases:
 
 Mini-dictionary:
   Ladino:
-    - i: and
-    - chikos: young
+    - a: to
+    - aki: here
+    - al: to
     - animal: animal
     - animales: animals
-    - mujer: woman
-    - ombre: man
-
-    - aki: here
     - aprovar: try
+
     - bien: well
     - bindicho: bless
     - buena: good (fem.)
     - buenos: good
     - buenos dias: good morning
     - buenas tadres: good afternoon
+    - biblioteka: library
+    - bueno:
+      - good
+      - nice
+
+    - chikos: young
+
     - de: of
     - dio: god
     - direktora: manager (f)
+    - del: of
+
     - el: he
     - elevo: students (m)
     - eleva: students (f)
     - elevos: students (m)
     - elevas: students (f)
     - en: at
+    - estas: are
     - este: this
+    - estes: these
+    - estos: these
+
+    - feminino: feminine
+
     - hazino: sick
     - hazina: sick
+
+    - i: and
+
     - kaza:
       - home
       - house
     - klasa: classroom
     - kon: with
     - kurso: course
-    - la: the
-    - me: my name
-    - profesor: teacher (m)
-    - profesores: teachers (m)
-    - profesora: teacher (f)
-    - profesoras: teachers (f)
-    - estas: are
-    - salu: health
-    - yamo: my name
-    - una: a
-    - no:
-      - no
-      - not
-    - todo: all
-    - toda: all
-    - todos: all
-    - todas: all
-    - vida: life
-    - ya: already
 
-    - a: to
-    - biblioteka: library
-    - bueno:
-      - good
-      - nice
-    - del: of
+    - la: the
     - los: the (male plural)
-    - nombre: name
-    - saludes: greetings
-    - maskulino: masculine
-    - feminino: feminine
     - livro: book
     - livros: books
 
-    - al: to
-    - estes: these
-    - estos: these
+    - maskulino: masculine
+    - me: my name
+    - mujer: woman
+
+    - no:
+      - no
+      - not
+    - nombre: name
+
+    - ombre: man
     - otro: other (masc.)
     - otros: others (masc. pl)
     - otra: other (fem.)
     - otras: other (fem. pl)
+
+    - profesor: teacher (m)
+    - profesores: teachers (m)
+    - profesora: teacher (f)
+    - profesoras: teachers (f)
+
+    - salu: health
+    - saludes: greetings
+
+    - todo: all
+    - toda: all
+    - todos: all
+    - todas: all
+
+    - yamo: my name
+    - ya: already
+
+    - una: a
+
+    - vida: life
+
+
     - el echo: the work
     - el mazal: the luck
     - la roza: the rose
@@ -277,14 +294,8 @@ Mini-dictionary:
   English:
     - and: i
     - an: a
-    - young: chikos
     - animal: animal
     - animals: animales
-    - book: livro
-    - books: livros
-    - woman: mujer
-    - man: ombre
-
     - afternoon: tadres
     - already: ya
     - all:
@@ -293,60 +304,76 @@ Mini-dictionary:
       - todos
       - todas
     - at: en
+
     - bless: bindicho
+    - book: livro
+    - books: livros
+
     - classroom: klasa
     - course: kurso
+
     - god: dio
     - good:
         - bueno
         - buena
         - buenos
         - buenas
+    - good morning: buenos dias
+    - greetings: saludes
+
     - he: el
+    - health: salu
     - here: aki
     - home: kaza
+
     - in: en
-    - good morning: buenos dias
+
+    - library: biblioteka
+    - life: vida
+
+    - man: ombre
     - my:
         - mi
         - me llamo
+
     - name:
         - nombre
         - me llamo
+    - nice: bueno
     - no: no
     - not: no
+
     - of: de
-    - sick:
-      - hazino
-      - hazina
-    - this: este
-    - try: aprovar
-    - health: salu
-    - life: vida
-    - (fem.): (feminina)
-    - students:
-      - elevos
-      - elevas
-    - the:
-        - el
-        - la
-    - well: bien
-    - with: kon
-
-    - greetings: saludes
-    - library: biblioteka
-    - nice: bueno
-    - student: eleva
-    - these:
-      - estas
-      - estos
-    - to: a
-    - your: tu
-
     - other:
       - otro
       - otra
       - otros
       - otras
 
+    - sick:
+      - hazino
+      - hazina
+    - student: eleva
+    - students:
+      - elevos
+      - elevas
+
+    - this: este
+    - these:
+      - estas
+      - estos
+    - to: a
+    - try: aprovar
+    - the:
+        - el
+        - la
+
+    - young: chikos
+    - your: tu
+
+    - well: bien
+    - with: kon
+    - woman: mujer
+
+    - (fem.): (feminina)
 
