@@ -199,11 +199,109 @@ Mini-dictionary:
     - chikos: young
     - animal: animal
     - animales: animals
+    - mujer: woman
+    - ombre: man
+
+    - aki: here
+    - aprovar: try
+    - bien: well
+    - bindicho: bless
+    - buena: good (fem.)
+    - buenos: good
+    - buenos dias: good morning
+    - buenas tadres: good afternoon
+    - de: of
+    - dio: god
+    - direktora: manager (f)
+    - el: he
+    - elevo: students (m)
+    - eleva: students (f)
+    - elevos: students (m)
+    - elevas: students (f)
+    - en: at
+    - este: this
+    - hazino: sick
+    - hazina: sick
+    - kaza:
+      - home
+      - house
+    - klasa: classroom
+    - kon: with
+    - kurso: course
+    - la: the
+    - me: my name
+    - profesor: teacher (m)
+    - profesores: teachers (m)
+    - profesora: teacher (f)
+    - profesoras: teachers (f)
+    - estas: are
+    - salu: health
+    - yamo: my name
+    - una: a
+    - no:
+      - no
+      - not
+    - todo: all
+    - toda: all
+    - todos: all
+    - todas: all
+    - vida: life
+    - ya: already
+
   English:
     - and: i
     - an: a
     - young: chikos
     - animal: animal
     - animals: animales
+    - woman: mujer
+    - man: ombre
 
+    - afternoon: tadres
+    - already: ya
+    - all:
+      - todo
+      - toda
+      - todos
+      - todas
+    - at: en
+    - bless: bindicho
+    - classroom: klasa
+    - course: kurso
+    - god: dio
+    - good:
+        - bueno
+        - buena
+        - buenos
+        - buenas
+    - he: el
+    - here: aki
+    - home: kaza
+    - in: en
+    - good morning: buenos dias
+    - my:
+        - mi
+        - me llamo
+    - name:
+        - nombre
+        - me llamo
+    - no: no
+    - not: no
+    - of: de
+    - sick:
+      - hazino
+      - hazina
+    - this: este
+    - try: aprovar
+    - health: salu
+    - life: vida
+    - (fem.): (feminina)
+    - students:
+      - elevos
+      - elevas
+    - the:
+        - el
+        - la
+    - well: bien
+    - with: kon
 

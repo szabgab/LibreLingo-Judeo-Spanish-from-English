@@ -46,6 +46,7 @@ Mini-dictionary:
     - kezo: cheese
     - poyo: chicken
     - arroz: rice
+    - miel: honey
     - vedrura: vegetable
     - vedruras: vegetables
 
@@ -61,4 +62,5 @@ Mini-dictionary:
     - rice: arroz
     - vegetable: vedrura
     - vegetables: vedruras
+    - honey: miel
 

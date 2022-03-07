@@ -1,10 +1,6 @@
 Skill:
   Name: Basic 1
   Id: 101
-  Thumbnails:
-    - boy1
-    - girl1
-    - woman1
 
 New words: []
 
@@ -33,11 +29,6 @@ Phrases:
     Translation: David is a man and Lea is a woman
 
 Mini-dictionary:
-  Ladino:
-    - mujer: woman
-    - ombre: man
-  English:
-    - woman: mujer
-    - man: ombre
-
+  Ladino: []
+  English: []
 

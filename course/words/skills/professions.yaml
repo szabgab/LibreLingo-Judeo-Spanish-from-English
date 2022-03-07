@@ -1,0 +1,27 @@
+Skill:
+  Name: Professions
+  Id: 228
+
+New words: []
+
+Phrases: []
+
+Mini-dictionary:
+  Ladino:
+    - arkitekt: architect
+    - doktor: physican
+    - djornalista: journalist
+  English:
+    - architect: arkitekt
+    - physican: doktor
+    - journalist: djornalista
+    - manager:
+      - direktor
+      - direktora
+    - teacher:
+      - profesor
+      - profesora
+    - teachers:
+      - profesores
+      - profesoras
+
