@@ -202,6 +202,11 @@ Mini-dictionary:
     - animal: animal
     - animales: animals
     - aprovar: try
+    - akseptamos: accept
+    - aborresión: hate
+    - aviertos: open
+    - apartemento: apertment
+    - avierta: open
 
     - bien: well
     - bindicho: bless
@@ -213,6 +218,9 @@ Mini-dictionary:
     - bueno:
       - good
       - nice
+    - buen: good
+    - buto: goal
+    - banyo: bathroom
 
     - chikos: young
 
@@ -222,6 +230,10 @@ Mini-dictionary:
     - dio: god
     - direktora: manager (f)
     - del: of
+    - diskurso: speech
+    - dunke: therefore
+    - djoven: young
+    - dormitoro: bedroom
 
     - el: he
     - elevo: students (m)
@@ -233,16 +245,24 @@ Mini-dictionary:
     - este: this
     - estes: these
     - estos: these
+    - elektoral: election
+    - empesijo: beginning
+    - ets: etc
+    - ermozo: beautiful
+    - ermoza: beautiful
 
     - feminino: feminine
     - fiest: party
 
     - grasias: thank
+    - grupo: group
 
     - hazino: sick
     - hazina: sick
 
     - i: and
+
+    - jenerales: general
 
     - kaza:
       - home
@@ -254,11 +274,24 @@ Mini-dictionary:
     - klasa: classroom
     - kon: with
     - kurso: course
+    - kazado: married to
+    - kazada: married to
+    - kontenidos:
+      - content
+      - contents
+    - kontienen: contain
+    - kontra: contrary
+    - kozina: kitchen
+    - kuzina: kitchen
+    - kamareta: room
+    - kabine: toilet
 
     - la: the
     - los: the (male plural)
     - livro: book
     - livros: books
+    - lision: homework
+    - lisiones: homework
 
     - maskulino: masculine
     - me: my name
@@ -266,12 +299,20 @@ Mini-dictionary:
     - muy: very
     - muncho gusto: nice to meet you
     - matematika: math
+    - mas vieja: older
+    - mas viejo: older
+    - mas djoven: younger
+    - mas djovenes: younger (pl)
+    - mutpak: kitchen
 
     - no:
       - no
       - not
     - nombre: name
+    - non: non
+    - negro: bad
 
+    - o: or
     - ombre: man
     - otro: other (masc.)
     - otros: others (masc. pl)
@@ -283,10 +324,22 @@ Mini-dictionary:
     - profesores: teachers (m)
     - profesora: teacher (f)
     - profesoras: teachers (f)
+    - para: for
+    - poko: little
+    - propaganda: propaganda
+    - publikasiones: publications
+    - públiko: public
+    - públikos: public
+    - puerta: door
 
     - salu: health
     - saludes: greetings
     - si: yes
+    - saludos: greetings
+    - shabat: shabat
+    - shalom: shalom
+    - sostansiozos: substantial
+    - sostansiozo: substantial
 
     - tefter: notebook
     - tefteres: notebooks
@@ -300,7 +353,10 @@ Mini-dictionary:
 
     - una: a
 
+    - vanda: side
     - vida: life
+    - vieja: old (f)
+    - viejo: old (m)
 
 
     - el echo: the work
@@ -322,17 +378,37 @@ Mini-dictionary:
       - todos
       - todas
     - at: en
+    - accept: akseptamos
+    - as: komo
+    - apertment: apartemento
 
+    - bathroom: banyo
+    - bedroom: dormitoro
     - bless: bindicho
     - book: livro
     - books: livros
+    - beginning: empesijo
+    - beautiful:
+      - ermozo
+      - ermoza
+    - bad: negro
 
     - candle: kandela
     - class: klasa
     - classroom: klasa
     - course: kurso
+    - content: kontenidos
+    - contents: kontenidos
+    - contain: kontienen
+    - contrary: kontra
 
     - does: esta
+    - door: (la) puerta
+    - don't: no
+
+    - election: elektoral
+    - etc: ets
+    - everyone: todos
 
     - feel: gusta
     - from: de
@@ -345,27 +421,42 @@ Mini-dictionary:
         - buenas
     - good morning: buenos dias
     - greetings: saludes
+    - group: grupo
+    - general: jenerales
+    - goal: buto
 
+    - hate: aborresión
     - house: kaza
     - houses: kazas
     - he: el
     - health: salu
     - here: aki
     - home: kaza
-
+    - homework:
+      - lision
+      - lisiones
     - in: en
 
     - joy: alegria
 
+    - kitchen:
+      - kozina
+      - kuzina
+      - mutpak
+
     - library: biblioteka
     - life: vida
     - little candle: kandelika
+    - little: poko
 
     - math: matematika
     - man: ombre
     - my:
         - mi
         - me llamo
+    - married:
+      - kazado
+      - kazada
 
     - name:
         - nombre
@@ -373,6 +464,7 @@ Mini-dictionary:
     - nice: bueno
     - no: no
     - not: no
+    - non-public: non públikos
 
     - of: de
     - other:
@@ -380,12 +472,29 @@ Mini-dictionary:
       - otra
       - otros
       - otras
+    - open: aviertos
+    - or: o
+    - old:
+      - viejo
+      - vieja
+    - older:
+      - mas viejo
+      - mas vieja
+    - open: avierta
+
     - nice to meet you: muncho gusto
     - notebook: tefter
     - notebooks: tefteres
 
     - party: fiest
     - pleasure: plazer
+    - public: públiko
+    - publications: publikasiones
+    - propaganda: propaganda
+
+    - relation: la relasion
+    - relations: relasiones
+    - room: kamareta
 
     - sick:
       - hazino
@@ -394,6 +503,14 @@ Mini-dictionary:
     - students:
       - elevos
       - elevas
+    - shabat: shabat
+    - shalom: shalom
+    - speech: diskurso
+    - such: komo
+    - substantial:
+        - sostansiozos
+        - sostansiozo
+    - side: vanda
 
     - thank: grasias
     - this: este
@@ -405,9 +522,13 @@ Mini-dictionary:
     - the:
         - el
         - la
+    - toilet: kabine
+    - that: ke
+    - therefore: dunke
 
     - yes: si
     - young: chikos
+    - younger: mas djoven
     - your: tu
 
     - very: muy

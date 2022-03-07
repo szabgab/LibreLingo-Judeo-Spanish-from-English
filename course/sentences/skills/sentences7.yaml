@@ -2,12 +2,7 @@ Skill:
   Name: Sentences 7
   Id: 37
 
-New words:
-  - Word: grupo
-    Translation: group
-    Images:
-      - group1
-
+New words: []
 
 Phrases:
   - Phrase: El buto del grupo.
@@ -48,120 +43,6 @@ Phrases:
     Translation: I am in the kitchen
 
 Mini-dictionary:
-  Ladino:
-    - akseptamos: accept
-    - aborresión: hate
-    - aviertos: open
-    - apartemento: apertment
-    - buen: good
-    - buto: goal
-    - diskurso: speech
-    - dunke: therefore
-    - elektoral: election
-    - empesijo: beginning
-    - ets: etc
-    - jenerales: general
-    - kazado: married to
-    - kazada: married to
-    - kontenidos:
-      - content
-      - contents
-    - kontienen: contain
-    - lision: homework
-    - lisiones: homework
-    - non: non
-    - o: or
-    - para: for
-    - poko: little
-    - propaganda: propaganda
-    - publikasiones: publications
-    - públiko: public
-    - públikos: public
-    - puerta: door
-    - saludos: greetings
-    - shabat: shabat
-    - shalom: shalom
-    - sostansiozos: substantial
-    - sostansiozo: substantial
-    - vieja: old (f)
-    - viejo: old (m)
-    - mas vieja: older (f)
-    - mas viejo: older (m)
-    - djoven: young
-    - mas djoven: younger
-    - mas djovenes: younger (pl)
-    - kontra: contrary
-    - avierta: open
-    - kozina: kitchen
-    - kuzina: kitchen
-    - mutpak: kitchen
-    - banyo: bathroom
-    - dormitoro: bedroom
-    - kamareta: room
-    - ermozo: beautiful
-    - ermoza: beautiful
-    - negro: bad
-    - vanda: side
-    - kabine: toilet
-  English:
-    - little: poko
-    - accept: akseptamos
-    - as: komo
-    - beginning: empesijo
-    - content: kontenidos
-    - contents: kontenidos
-    - contain: kontienen
-    - election: elektoral
-    - etc: ets
-    - everyone: todos
-    - general: jenerales
-    - goal: buto
-    - hate: aborresión
-    - married:
-      - kazado
-      - kazada
-    - non-public: non públikos
-    - open: aviertos
-    - or: o
-    - public: públiko
-    - publications: publikasiones
-    - propaganda: propaganda
-    - shabat: shabat
-    - shalom: shalom
-    - speech: diskurso
-    - such: komo
-    - substantial:
-        - sostansiozos
-        - sostansiozo
-    - that: ke
-    - therefore: dunke
-    - don't: no
-    - old:
-      - viejo
-      - vieja
-    - older:
-      - mas viejo
-      - mas vieja
-    - younger: mas djoven
-    - contrary: kontra
-    - relaton: la relasion
-    - relatons: relasiones
-    - door: (la) puerta
-    - open: avierta
-    - kitchen:
-      - kozina
-      - kuzina
-      - mutpak
-    - side: vanda
-    - bathroom: banyo
-    - bedroom: dormitoro
-    - room: kamareta
-    - beautiful:
-      - ermozo
-      - ermoza
-    - bad: negro
-    - apertment: apartemento
-    - homework:
-      - lision
-      - lisiones
-    - toilet: kabine
+  Ladino: []
+  English: []
+
