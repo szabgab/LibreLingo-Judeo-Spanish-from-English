@@ -295,6 +295,7 @@ Mini-dictionary:
 
     - maskulino: masculine
     - me: my name
+    - me akodro: I remember
     - mujer: woman
     - muy: very
     - muncho gusto: nice to meet you
@@ -334,7 +335,9 @@ Mini-dictionary:
 
     - salu: health
     - saludes: greetings
-    - si: yes
+    - si:
+      - yes
+      - if
     - saludos: greetings
     - shabat: shabat
     - shalom: shalom
@@ -436,6 +439,8 @@ Mini-dictionary:
       - lision
       - lisiones
     - in: en
+    - I remember: me akodro
+    - if: si
 
     - joy: alegria
 
