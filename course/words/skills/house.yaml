@@ -2,20 +2,18 @@ Skill:
   Name: house
   Id: 222
 
-New words:
-  - Word: la meza
+New words: []
+
+Phrases:
+  - Phrase: la meza
     Translation: table
-    Images:
-      - table1
-      - table2
-      - table3
-
-
-
-Phrases: []
 
 Mini-dictionary:
-  Ladino: []
-  English: []
+  Ladino:
+    - meza: table
+    - ventana: window
+  English:
+    - table: meza
+    - window: ventana
 
 

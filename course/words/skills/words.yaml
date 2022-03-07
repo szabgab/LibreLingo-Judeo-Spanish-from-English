@@ -2,138 +2,8 @@ Skill:
   Name: Words
   Id: 200
 
-New words:
-  - Word: novio
-    Translation: fiance
-    Images:
-      - fiance1
-      - fiance2
-      - fiance3
+New words: []
 
-  - Word: novia
-    Translation: bride
-    Images:
-      - bride1
-      - bride2
-      - bride3
-
-
-  - Word: alta
-    Translation: tall
-    Images:
-      - tall1
-      - tall2
-      - tall3
-
-  - Word: meza
-    Translation: table
-    Images:
-      - table1
-      - table2
-      - table3
-
-  - Word: polisiya
-    Translation: police
-    Images:
-      - police1
-      - police2
-      - police3
-
-  - Word: ventana
-    Translation: window
-    Images:
-      - window1
-      - window2
-      - window3
-
-  - Word: arvol
-    Translation: tree
-    Images:
-      - tree1
-      - tree2
-      - tree3
-
-  - Word: garson
-    Translation: waiter
-    Images:
-      - waiter1
-      - waiter2
-      - waiter3
-
-  - Word: garsones
-    Translation: waiters
-    Images:
-      - waiters1
-      - waiters2
-      - waiters3
-
-  - Word: ojo
-    Translation: eye
-    Images:
-      - eye1
-      - eye2
-      - eye3
-
-  - Word: braso
-    Translation: arm
-    Images:
-      - arm1
-      - arm2
-      - arm3
-
-  - Word: i
-    Translation: and
-    Images:
-      - and1
-      - and2
-      - and3
-
-  - Word: andjel
-    Translation: angel
-    Images:
-      - angel1
-      - angel2
-      - angel3
-
-  - Word: basketbol
-    Translation: basketball
-    Images:
-      - basketball1
-      - basketball2
-      - basketball3
-
-  - Word: preguntar
-    Translation: ask
-    Images:
-      - ask1
-
-  - Word: ora
-    Translation: watch
-    Images:
-      - watch1
-      - watch2
-      - watch3
-
-  - Word: sintura
-    Translation: belt
-    Images:
-      - belt1
-      - belt2
-      - belt3
-
-  - Word: aire
-    Translation: air
-    Images:
-      - air1
-      - air2
-      - air3
-
-  - Word: aire
-    Translation: wind
-    Images:
-      - wind1
-      - wind2
-      - wind3
 
 Phrases:
   - Phrase: En mi famiya ay kuatro personas
@@ -207,6 +77,11 @@ Mini-dictionary:
     - aviertos: open
     - apartemento: apertment
     - avierta: open
+    - alta: tall
+    - arvol: tree
+    - aire: air
+    - aire: wind
+    - andjel: angel
 
     - bien: well
     - bindicho: bless
@@ -312,6 +187,8 @@ Mini-dictionary:
     - nombre: name
     - non: non
     - negro: bad
+    - novio: fiance
+    - novia: bride
 
     - o: or
     - ombre: man
@@ -319,6 +196,7 @@ Mini-dictionary:
     - otros: others (masc. pl)
     - otra: other (fem.)
     - otras: other (fem. pl)
+    - ora: watch
 
     - plazer: pleasure
     - profesor: teacher (m)
@@ -332,6 +210,8 @@ Mini-dictionary:
     - públiko: public
     - públikos: public
     - puerta: door
+    - preguntar: ask
+    - polisiya: police
 
     - salu: health
     - saludes: greetings
@@ -384,6 +264,10 @@ Mini-dictionary:
     - accept: akseptamos
     - as: komo
     - apertment: apartemento
+    - air: aire
+    - and: i
+    - angel: andjel
+    - ask: preguntar
 
     - bathroom: banyo
     - bedroom: dormitoro
@@ -395,6 +279,7 @@ Mini-dictionary:
       - ermozo
       - ermoza
     - bad: negro
+    - bride: novia
 
     - candle: kandela
     - class: klasa
@@ -415,6 +300,7 @@ Mini-dictionary:
 
     - feel: gusta
     - from: de
+    - fiance: novio
 
     - god: dio
     - good:
@@ -496,6 +382,7 @@ Mini-dictionary:
     - public: públiko
     - publications: publikasiones
     - propaganda: propaganda
+    - police: polisiya
 
     - relation: la relasion
     - relations: relasiones
@@ -517,6 +404,8 @@ Mini-dictionary:
         - sostansiozo
     - side: vanda
 
+    - tall: alta
+    - tree: arvol
     - thank: grasias
     - this: este
     - these:
@@ -541,6 +430,8 @@ Mini-dictionary:
     - well: bien
     - with: kon
     - woman: mujer
+    - wind: aire
+    - watch: ora
 
     - (fem.): (feminina)
 

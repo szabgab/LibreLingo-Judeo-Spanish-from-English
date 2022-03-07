@@ -11,6 +11,9 @@ Mini-dictionary:
     - arkitekt: architect
     - doktor: physican
     - djornalista: journalist
+    - garson: waiter
+    - garsones: waiters
+
   English:
     - architect: arkitekt
     - physican: doktor
@@ -24,4 +27,5 @@ Mini-dictionary:
     - teachers:
       - profesores
       - profesoras
-
+    - waiter: garson
+    - waiters: garsones

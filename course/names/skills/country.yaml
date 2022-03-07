@@ -2,12 +2,7 @@ Skill:
   Name: Country Names
   Id: 72
 
-New words:
-  - Word: evropa
-    Translation: Europe
-    Images:
-      - europe1
-
+New words: []
 
 Phrases:
   - Phrase: Ardjentina es un pais en sur Amerika
@@ -33,6 +28,7 @@ Mini-dictionary:
     - Turkia: Turkey
     - Ungaria:  Hungary
 
+    - evropa: Europe
     - italyana: italian
 
     - pais: country
@@ -53,4 +49,5 @@ Mini-dictionary:
 
     - country: pais
     - italian: italyana
+    - Europe: evropa
 
