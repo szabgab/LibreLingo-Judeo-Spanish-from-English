@@ -2,14 +2,7 @@ Skill:
   Name: Family
   Id: 204
 
-New words:
-  - Word: padre
-    Translation: father
-    Images:
-      - father1
-      - father2
-      - father3
-
+New words: []
 
 Phrases:
   - Phrase: tienen ijos?
@@ -77,8 +70,8 @@ Phrases:
 
 Mini-dictionary:
   Ladino:
-    - djenitores: parents
     - bohor: firstborn son
+    - djenitores: parents
     - esfuegra: mother-in-law
     - el bohor:
       - the eldest son
@@ -89,6 +82,9 @@ Mini-dictionary:
     - ermanos: brothers
     - elmuera: daughter-in-law
     - elmueras: daughters-in-law
+    - famiya: family
+    - gran-papa: grandfather
+    - gran-mama: grandmother
     - ijo: son
     - ija: daughter
     - ijos: sons
@@ -99,12 +95,10 @@ Mini-dictionary:
     - kreaturas: children
     - kriatura: child
     - kriaturas: children
-    - famiya: family
-    - gran-papa: grandfather
-    - gran-mama: grandmother
     - madre: mother
     - marido: husband
     - mujer: wife
+    - padre: father
     - padres: parents
     - pariente: relative
     - parientes:
@@ -123,8 +117,6 @@ Mini-dictionary:
     - yerno: son-in-law
     - yernos: sons-in-law
 
-    - sola: alone
-    - solo: alone
   English:
     - aunt: tia
     - aunts: tias
@@ -146,6 +138,7 @@ Mini-dictionary:
     - daughters: ijas
     - daughter-in-law: elmuera
     - daughters-in-law: elmueras
+    - father: padre
     - family: famiya
     - firstborn son: bohor
     - grandfather: gran-papa
@@ -172,7 +165,4 @@ Mini-dictionary:
     - uncles: tios
     - wife: mujer
 
-    - alone:
-      - sola
-      - solo
 

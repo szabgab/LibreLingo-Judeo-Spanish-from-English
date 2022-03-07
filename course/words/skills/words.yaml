@@ -221,6 +221,8 @@ Mini-dictionary:
     - shalom: shalom
     - sostansiozos: substantial
     - sostansiozo: substantial
+    - sola: alone
+    - solo: alone
 
     - tefter: notebook
     - tefteres: notebooks
@@ -267,6 +269,9 @@ Mini-dictionary:
     - and: i
     - angel: andjel
     - ask: preguntar
+    - alone:
+      - sola
+      - solo
 
     - bathroom: banyo
     - bedroom: dormitoro
