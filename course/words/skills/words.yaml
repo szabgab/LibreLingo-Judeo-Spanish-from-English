@@ -209,6 +209,7 @@ Mini-dictionary:
     - puerta: door
     - preguntar: ask
     - polisiya: police
+    - primarias: primary
 
     - salu: health
     - saludes: greetings
@@ -248,6 +249,7 @@ Mini-dictionary:
     - el mazal: the luck
     - la roza: the rose
     - la kupa: the glass
+    - las: the (p f)
 
 
   English:
@@ -389,6 +391,7 @@ Mini-dictionary:
     - publications: publikasiones
     - propaganda: propaganda
     - police: polisiya
+    - primary: primarias
 
     - relation: la relasion
     - relations: relasiones

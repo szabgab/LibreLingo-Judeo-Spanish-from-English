@@ -21,6 +21,7 @@ Mini-dictionary:
     - aire: air
     - aire: wind
     - arvol: tree
+    - flor: flower
     - lago: lake
     - mar: sea
     - montanya: mountain
@@ -31,6 +32,7 @@ Mini-dictionary:
   English:
     - air: aire
     - beach: plaj
+    - flower: flor
     - lake: lago
     - mountain: montanya
     - river: rio
