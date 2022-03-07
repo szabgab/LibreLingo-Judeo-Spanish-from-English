@@ -78,9 +78,6 @@ Mini-dictionary:
     - apartemento: apertment
     - avierta: open
     - alta: tall
-    - arvol: tree
-    - aire: air
-    - aire: wind
     - andjel: angel
 
     - bien: well
@@ -218,6 +215,7 @@ Mini-dictionary:
     - si:
       - yes
       - if
+    - sivdad: city
     - saludos: greetings
     - shabat: shabat
     - shalom: shalom
@@ -236,6 +234,8 @@ Mini-dictionary:
 
     - una: a
 
+    - vamos: let's
+    - viaje: trip
     - vanda: side
     - vida: life
     - vieja: old (f)
@@ -264,7 +264,6 @@ Mini-dictionary:
     - accept: akseptamos
     - as: komo
     - apertment: apartemento
-    - air: aire
     - and: i
     - angel: andjel
     - ask: preguntar
@@ -282,6 +281,7 @@ Mini-dictionary:
     - bride: novia
 
     - candle: kandela
+    - city: sivdad
     - class: klasa
     - classroom: klasa
     - course: kurso
@@ -335,6 +335,7 @@ Mini-dictionary:
       - kuzina
       - mutpak
 
+    - let's: vamos
     - library: biblioteka
     - life: vida
     - little candle: kandelika
@@ -405,7 +406,6 @@ Mini-dictionary:
     - side: vanda
 
     - tall: alta
-    - tree: arvol
     - thank: grasias
     - this: este
     - these:
@@ -419,6 +419,7 @@ Mini-dictionary:
     - toilet: kabine
     - that: ke
     - therefore: dunke
+    - trip: viaje
 
     - yes: si
     - young: chikos
@@ -430,7 +431,6 @@ Mini-dictionary:
     - well: bien
     - with: kon
     - woman: mujer
-    - wind: aire
     - watch: ora
 
     - (fem.): (feminina)

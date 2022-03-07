@@ -2,56 +2,7 @@ Skill:
   Name: nature
   Id: 220
 
-New words:
-  - Word: rio
-    Translation: river
-    Images:
-      - river1
-      - river2
-      - river3
-
-  - Word: sol
-    Translation: sun
-    Images:
-      - sun1
-      - sun2
-      - sun3
-
-  - Word: mar
-    Translation: sea
-    Images:
-      - sea1
-      - sea2
-      - sea3
-
-  - Word: sielo
-    Translation: sky
-    Images:
-      - sky1
-      - sky2
-      - sky3
-
-  - Word: montanya
-    Translation: mountain
-    Images:
-      - mountain1
-      - mountain2
-      - mountain3
-
-  - Word: lago
-    Translation: lake
-    Images:
-      - lake1
-      - lake2
-      - lake3
-
-  - Word: plaj
-    Translation: beach
-    Images:
-      - beach1
-      - beach2
-      - beach3
-
+New words: []
 
 Phrases:
   - Phrase: Buen viaje!
@@ -67,8 +18,26 @@ Phrases:
 
 Mini-dictionary:
   Ladino:
-    - vamos: let's
-    - viaje: trip
+    - aire: air
+    - aire: wind
+    - arvol: tree
+    - lago: lake
+    - mar: sea
+    - montanya: mountain
+    - plaj: beach
+    - rio: river
+    - sol: sun
+    - sielo: sky
   English:
-    - let's: vamos
-    - trip: viaje
+    - air: aire
+    - beach: plaj
+    - lake: lago
+    - mountain: montanya
+    - river: rio
+    - sea: mar
+    - sun: sol
+    - sky: sielo
+    - tree: arvol
+    - wind: aire
+
+
