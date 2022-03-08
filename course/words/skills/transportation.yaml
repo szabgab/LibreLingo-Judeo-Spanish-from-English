@@ -2,102 +2,11 @@ Skill:
   Name: Transportation
   Id: 213
 
-New words:
-  - Word: treno
-    Translation: train
-    Images:
-      - train1
-      - train2
-      - train3
-
-  - Word: bisikleta
-    Translation: bicycle
-    Images:
-      - bicycle1
-      - bicycle2
-      - bicycle3
-
-  - Word: otobus
-    Translation: bus
-    Images:
-      - bus1
-      - bus2
-      - bus3
-
-  - Word: otobuses
-    Translation: buses
-    Images:
-      - buses1
-      - buses2
-      - buses3
-
-  - Word: el otobus
-    Translation: the bus
-    Images:
-      - bus1
-      - bus2
-      - bus3
-
-  - Word: oto
-    Translation: car
-    Images:
-      - car1
-      - car2
-      - car3
-
-  - Word: otomobil
-    Translation: car
-    Images:
-      - car1
-      - car2
-      - car3
-
-
-  - Word: koche
-    Translation: car
-    Images:
-      - car1
-      - car2
-      - car3
-
-  - Word: araba
-    Translation: car
-    Images:
-      - car1
-      - car2
-      - car3
-
-  - Word: arabas
-    Translation: cars
-    Images:
-      - cars1
-      - cars2
-      - cars3
-
-  - Word: aeroporto
-    Translation: airport
-    Images:
-      - airport1
-      - airport2
-      - airport3
-
-  - Word: avion
-    Translation: airplane
-    Images:
-      - airplane1
-      - airplane2
-      - airplane3
-
-
-  - Word: taksi
-    Translation: taxi
-    Images:
-      - taxi1
-      - taxi2
-      - taxi3
-
+New words: []
 
 Phrases:
+  - Phrase: el otobus
+    Translation: the bus
   - Phrase: "{Voy a} viajar kon un otobus"
     Translation: "{I am going to} travel with a bus"
   - Phrase: Tu viajas kon oto o kon otobus?
@@ -147,37 +56,50 @@ Phrases:
 
 Mini-dictionary:
   Ladino:
-    - anulado: cancelled
-    - kuanto tiempo: how long
-    - bilyeto: ticket
-    - djusta: right
-    - estasion: station
-    - voy a: I am going to
-    - kon: by
-    - para mi: for me
-    - partida: game
-    - plataforma: platform
-    - kuando: when
-    - ayega: arrive
-    - lugar: place
-    - libre: free
-    - adiyo: goodbye
-    - ayi: there
     - aviones: airplanes
+    - araba: car
+    - arabas: cars
+    - aeroporto: airport
+    - avion: airplane
+
+    - bisikleta: bicycle
+    - bilyeto: ticket
+
+    - estasion: station
+
+    - koche: car
+
+    - otobus: bus
+    - otobuses: buses
+    - oto: car
+    - otomobil: car
+
+    - plataforma: platform
+
+    - taksi: taxi
+    - treno: train
+
   English:
-    - I am going to: voy a
-    - for me: para mi
-    - by: kon
-    - ticket: bilyeto
-    - game: partida
-    - right: djusta
-    - platform: plataforma
-    - station: estasion
-    - how long: kuanto tiempo
-    - cancelled: anulado
-    - when: kuando
-    - arrive: ayega
-    - place: lugar
-    - free: libre
-    - goodbye: adiyo
     - airplanes: aviones
+    - airport: aeroporto
+    - airplane: avion
+
+    - bicycle: bisikleta
+    - bus: otobus
+    - buses: otobuses
+
+    - car:
+      - araba
+      - koche
+      - oto
+      - otomobil
+    - cars: arabas
+
+    - platform: plataforma
+
+    - station: estasion
+
+    - ticket: bilyeto
+    - taxi: taksi
+    - train: treno
+

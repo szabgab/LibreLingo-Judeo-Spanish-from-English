@@ -10,18 +10,20 @@ Phrases:
 
 Mini-dictionary:
   Ladino:
-    - por: for
-    - kualo: what
+    - akeya: that (f)
+    - akeyo: that (m)
     - kada:
       - each
       - every
-    - akeya: that (f)
-    - akeyo: that (m)
+    - kon: by
+    - por: for
+    - voy a: I am going to
   English:
-    - for: por
-    - what: kualo
+    - by: kon
     - each: kada
     - every: kada
+    - for: por
+    - I am going to: voy a
     - that:
       - akeya
       - akeyo

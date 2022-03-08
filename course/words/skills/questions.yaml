@@ -33,11 +33,17 @@ Mini-dictionary:
     - ke: how
     - ken: who
     - komo:  how
+    - kualo: what
+    - kuando: when
+    - kuanto tiempo: how long
     - onde: where
   English:
     - how:
       - ke
       - komo
+    - how long: kuanto tiempo
+    - what: kualo
+    - when: kuando
     - where:
       - ande
       - onde
