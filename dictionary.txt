@@ -43,9 +43,6 @@ zor              <=> difficult
 
 
 # Verbs
-meter         <=> put
-partajar      <=> share
-pozar         <=> put
 
 
 # Numbers
