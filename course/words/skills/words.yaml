@@ -66,66 +66,66 @@ Phrases:
 Mini-dictionary:
   Ladino:
     - a: to
+    - aborresión: hate
+    - adiyo: goodbye
     - aki: here
+    - akseptamos: accept
     - al: to
     - alegria: joy
+    - alta: tall
+    - andjel: angel
     - animal: animal
     - animales: animals
     - anulado: cancelled
-    - aprovar: try
-    - akseptamos: accept
-    - aborresión: hate
-    - aviertos: open
     - apartemento: apertment
+    - aprovar: try
+    - aviertos: open
     - avierta: open
-    - alta: tall
-    - andjel: angel
     - ayi: there
-    - adiyo: goodbye
 
+    - banyo: bathroom
+    - biblioteka: library
     - bien: well
     - bindicho: bless
+    - buen: good
     - buena: good (fem.)
-    - buenos: good
-    - buenos dias: good morning
     - buenas tadres: good afternoon
-    - biblioteka: library
     - bueno:
       - good
       - nice
-    - buen: good
+    - buenos: good
+    - buenos dias: good morning
     - buto: goal
-    - banyo: bathroom
 
     - chikos: young
 
     - de:
       - from
       - of
+    - del: of
     - dio: god
     - direktora: manager (f)
-    - del: of
     - diskurso: speech
-    - dunke: therefore
     - djoven: young
-    - dormitoro: bedroom
     - djusta: right
+    - dormitoro: bedroom
+    - dunke: therefore
 
     - el: he
+    - elektoral: election
     - elevo: students (m)
     - eleva: students (f)
     - elevos: students (m)
     - elevas: students (f)
+    - empesijo: beginning
     - en: at
+    - ermoza: beautiful
+    - ermozo: beautiful
     - estas: are
     - este: this
     - estes: these
     - estos: these
-    - elektoral: election
-    - empesijo: beginning
     - ets: etc
-    - ermozo: beautiful
-    - ermoza: beautiful
 
     - feminino: feminine
     - fiest: party
@@ -140,18 +140,20 @@ Mini-dictionary:
 
     - jenerales: general
 
+    - kabine: toilet
+    - kamareta: room
+    - kandela: candle
+    - kandelika: little candle
     - kaza:
       - home
       - house
     - kaza: house
-    - kazas: houses
-    - kandela: candle
-    - kandelika: little candle
-    - klasa: classroom
-    - kon: with
-    - kurso: course
-    - kazado: married to
     - kazada: married to
+    - kazado: married to
+    - kazas: houses
+    - kon: with
+    - klasa: classroom
+    - kurso: course
     - kontenidos:
       - content
       - contents
@@ -159,30 +161,28 @@ Mini-dictionary:
     - kontra: contrary
     - kozina: kitchen
     - kuzina: kitchen
-    - kamareta: room
-    - kabine: toilet
 
     - la: the
-    - los: the (male plural)
     - libre: free
     - livro: book
     - livros: books
     - lision: homework
     - lisiones: homework
+    - los: the (male plural)
     - lugar: place
 
+    - mas djoven: younger
+    - mas djovenes: younger (pl)
+    - mas vieja: older
+    - mas viejo: older
     - maskulino: masculine
+    - matematika: math
     - me: my name
     - me akodro: I remember
     - mujer: woman
-    - muy: very
     - muncho gusto: nice to meet you
-    - matematika: math
-    - mas vieja: older
-    - mas viejo: older
-    - mas djoven: younger
-    - mas djovenes: younger (pl)
     - mutpak: kitchen
+    - muy: very
 
     - no:
       - no
@@ -195,11 +195,11 @@ Mini-dictionary:
 
     - o: or
     - ombre: man
-    - otro: other (masc.)
-    - otros: others (masc. pl)
+    - ora: watch
     - otra: other (fem.)
     - otras: other (fem. pl)
-    - ora: watch
+    - otro: other (masc.)
+    - otros: others (masc. pl)
 
     - pais: country
     - partida: game
@@ -222,13 +222,13 @@ Mini-dictionary:
 
     - salu: health
     - saludes: greetings
+    - saludos: greetings
+    - shabat: shabat
+    - shalom: shalom
     - si:
       - yes
       - if
     - sivdad: city
-    - saludos: greetings
-    - shabat: shabat
-    - shalom: shalom
     - sostansiozos: substantial
     - sostansiozo: substantial
     - sola: alone
@@ -236,13 +236,13 @@ Mini-dictionary:
 
     - tefter: notebook
     - tefteres: notebooks
-    - todo: all
     - toda: all
-    - todos: all
     - todas: all
+    - todo: all
+    - todos: all
 
-    - yamo: my name
     - ya: already
+    - yamo: my name
 
     - una: a
 
