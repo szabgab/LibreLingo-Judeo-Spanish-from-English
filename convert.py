@@ -1,10 +1,11 @@
 import collections
 import re
+import sys
 
 def read_data():
     language = {
-        "source": "English",
-        "target": "Ladino"
+        "source": sys.argv[1],
+        "target": sys.argv[2],
     }
 
     translate_from = {
@@ -53,4 +54,6 @@ def main():
     save_file(language, translate_from)
 
 if __name__ == "__main__":
+    if len(sys.argv) != 3:
+        exit(f"Usage: {sys.argv[0]} SOURCE TARGET   e.g {sys.argv[0]} English Ladino")
     main()
