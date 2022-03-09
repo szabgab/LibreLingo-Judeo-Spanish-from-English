@@ -30,12 +30,12 @@ Phrases:
 
 Mini-dictionary:
   English:
+    - belt: sintura
     - clothes: ropa
     - dress: vestido
     - hat:
       - chapeo
       - chapeyo
-    - sintura: belt
     - shoe: sapato
     - shoes: sapatos
     - shirt: kamiza
@@ -43,7 +43,6 @@ Mini-dictionary:
 
     - t-shirt: kamizeta
   Ladino:
-    - belt: sintura
     - chapeo: hat
     - chapeyo: hat
     - fusta: skirt
@@ -52,6 +51,7 @@ Mini-dictionary:
     - ropa: clothes
     - sapato: shoe
     - sapatos: shoes
+    - sintura: belt
     - vestido: dress
 
 
