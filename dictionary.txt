@@ -43,12 +43,6 @@ zor              <=> difficult
 
 
 # Verbs
-arondjar      <=> expulse
-arondjados    <=> expulsed
-eskapar       <=> finish
-faltar        <=> lack
-faltan        <=> are lacking
-mesurar       <=> measure
 meter         <=> put
 partajar      <=> share
 pozar         <=> put
