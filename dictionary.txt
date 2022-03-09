@@ -43,9 +43,6 @@ zor              <=> difficult
 
 
 # Verbs
-akavar        <=> finish
-alympiar      <=> clean
-amostrar      <=> show
 arondjar      <=> expulse
 arondjados    <=> expulsed
 eskapar       <=> finish
