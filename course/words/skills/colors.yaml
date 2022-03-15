@@ -16,30 +16,17 @@ Phrases:
   - Phrase: Mavi es una de las tres kolores primarias.
     Translation: Blue is one of the primary colors.
 
-Mini-dictionary:
-  English:
-    - black: preto
-    - blue:
-      - blu
-      - mavi
-    - color: kolor
-    - colors: kolores
-    - green: vedre
-    - grey: grizo
-    - orange: portokal
-    - red: kolorado
-    - yellow: amariyo
-    - white: blanko
-  Ladino:
-    - amariyo: yellow
-    - blanko: white
-    - blu: blue
-    - grizo: grey
-    - kolor: color
-    - kolores: colors
-    - kolorado: red
-    - mavi: blue
-    - portokal: orange
-    - preto: black
-    - vedre: green
+Two-way-dictionary:
+  - black: preto
+  - blue: blu
+  - blue: mavi
+  - color: kolor
+  - colors: kolores
+  - green: vedre
+  - grey: grizo
+  - orange: portokal
+  - red: kolorado
+  - yellow: amariyo
+  - white: blanko
+
 
