@@ -30,35 +30,18 @@ Phrases:
 
 
 Mini-dictionary:
-  Ladino:
-    - uno: one
-    - dos: two
-    - tres: three
-    - kuatro: four
-    - sinko: five
-    - sesh: six
-    - siete: seven
-    - ocho: eigth
-    - mueve: nive
-    - diez: ten
+  Ladino: []
+  English: []
 
-    - un: a
-    - kriador: creator
-
-  English:
-    - one: uno
-    - two: dos
-    - three: tres
-    - four: kuatro
-    - five: sinko
-    - six: sesh
-    - seven: siete
-    - eight: ocho
-    - nine: mueve
-    - ten: diez
-
-    - a:
-      - un
-      - una
-    - creator: kriador
+Two-way-dictionary:
+  - one: uno
+  - two: dos
+  - three: tres
+  - four: kuatro
+  - five: sinko
+  - six: sesh
+  - seven: siete
+  - eight: ocho
+  - nine: mueve
+  - ten: diez
 
