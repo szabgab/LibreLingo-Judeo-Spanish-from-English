@@ -6,21 +6,12 @@ New words: []
 
 Phrases: []
 
-Mini-dictionary:
-  Ladino:
-    - tomate: tomato
-    - tomates: tomatoes
-    - pipino: cucumber
-    - sevoya: onion
-    - berendjena: eggplant
-    - kartof: potato
-    - patatas: potatoes
-  English:
-    - tomato: tomate
-    - tomatoes: tomates
-    - cucumber: pipino
-    - onion: sevoya
-    - eggplant: berendjena
-    - potato: kartof
-    - potatoes: patatas
+Two-way-dictionary:
+  - tomato: tomate
+  - tomatoes: tomates
+  - cucumber: pipino
+  - onion: sevoya
+  - eggplant: berendjena
+  - potato: kartof
+  - potatoes: patatas
 
