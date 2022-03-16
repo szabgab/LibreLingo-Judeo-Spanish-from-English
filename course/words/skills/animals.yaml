@@ -33,33 +33,18 @@ Phrases:
     Translation: A duck and a horse
 
 
-Mini-dictionary:
-  Ladino:
-    - perro: dog
-    - perros: dogs
-    - gato: cat
-    - gatos: cats
-    - alefante: elephant
-    - lonso: bear
-    - pato: duck
-    - kavayo: horse
-    - vaka: cow
-    - vakas: cows
-    - kulvera: snake
-    - kulveras: snakes
-    - pasharo: bird
-  English:
-    - dog: perro
-    - dogs: perros
+Two-way-dictionary:
+    - bear: lonso
+    - bird: pasharo
     - cat: gato
     - cats: gatos
-    - elephant: alefante
-    - bear: lonso
-    - duck: pato
-    - horse: kavayo
     - cow: vaka
     - cows: vakas
+    - dog: perro
+    - dogs: perros
+    - duck: pato
+    - elephant: alefante
+    - horse: kavayo
     - snake: kulvera
     - snakes: kulveras
-    - bird: pasharo
 
