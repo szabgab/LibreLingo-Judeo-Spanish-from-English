@@ -7,8 +7,6 @@
 * [gato](https://lad.wikipedia.org/wiki/Gato)
 * [perro](https://lad.wikipedia.org/wiki/Perro)
 * pato
-* caballo
 
-* lion ?
-* alefant
+* elefant
 

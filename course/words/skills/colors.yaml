@@ -17,14 +17,22 @@ Phrases:
     Translation: Blue is one of the primary colors.
 
 Two-way-dictionary:
+  - azure: blu de syelo
+  - azure: azul
   - black: preto
   - blue: blu
   - blue: mavi
-  - brown: moreno
+  - brown: maron
+  - claret: bordo
   - green: vedre
   - grey: grizo
+  - khaki: khaki
   - orange: portokal
+  - purple: mor
+  - purple: mov
+  - purple: morado
   - red: kolorado
+  - rosa: roz
   - white: blanko
   - yellow: amariyo
 
