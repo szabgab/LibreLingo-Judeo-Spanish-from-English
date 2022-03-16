@@ -8,26 +8,12 @@ Phrases:
   - Phrase: primera vez
     Translation: first time
 
-Mini-dictionary:
-  Ladino:
-    - primer: first
-    - primero: first (m)
-    - primera: first (f)
-    - segundo: second (m)
-    - segunda: second (f)
-    - treser: third
-    - kuatren: fourth
-
-    - vez: time
-
-  English:
-    - first:
-      - primero
-      - primera
-    - second:
-      - segundo
-      - segunda
-    - third: treser
-    - fourth: kuatren
-
-    - time: vez
+Two-way-dictionary:
+  - first:  primer
+  - first:  primero
+  - first:  primera
+  - second: segundo
+  - second: segunda
+  - third: treser
+  - fourth: kuatren
+  - time: vez
