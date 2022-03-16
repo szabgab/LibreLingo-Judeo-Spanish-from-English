@@ -68,101 +68,48 @@ Phrases:
   - Phrase: Komo es tu esfuegra?
     Translation: How is your mother-in-law?
 
-Mini-dictionary:
-  Ladino:
-    - bohor: firstborn son
-    - djenitores: parents
-    - esfuegra: mother-in-law
-    - el bohor:
-      - the eldest son
-      - firstborn son
-    - ermana: sister
-    - ermanas: sisters
-    - ermano: brother
-    - ermanos: brothers
-    - elmuera: daughter-in-law
-    - elmueras: daughters-in-law
-    - famiya: family
-    - gran-papa: grandfather
-    - gran-mama: grandmother
-    - ijo: son
-    - ija: daughter
-    - ijos: sons
-    - ijas: daughters
-    - inyeto: grand-son
-    - inyeta: grand-daughter
-    - kreatura: child
-    - kreaturas: children
-    - kriatura: child
-    - kriaturas: children
-    - madre: mother
-    - marido: husband
-    - mujer: wife
-    - padre: father
-    - padres: parents
-    - pariente: relative
-    - parientes:
-      - parents
-      - relatives
-    - primo: cousin (m)
-    - primos: cousins (m p)
-    - prima: cousin (f)
-    - primas: cousins (f p)
-    - suvrino: nephew
-    - suvrinos: nephews
-    - tio: uncle
-    - tios: uncles
-    - tia: aunt
-    - tias: aunts
-    - yerno: son-in-law
-    - yernos: sons-in-law
-
-  English:
-    - aunt: tia
-    - aunts: tias
-    - brother: ermano
-    - brothers: ermanos
-    - child:
-      - kreatura
-      - kriatura
-    - children:
-      - kreaturas
-      - kriaturas
-    - cousin:
-      - primo
-      - prima
-    - cousins:
-      - primos
-      - primas
-    - daughter: ija
-    - daughters: ijas
-    - daughter-in-law: elmuera
-    - daughters-in-law: elmueras
-    - father: padre
-    - family: famiya
-    - firstborn son: bohor
-    - grandfather: gran-papa
-    - grandmother: gran-mama
-    - grand-son: inyeto
-    - grand-daughter: inyeta
-    - husband: marido
-    - mother: madre
-    - mother-in-law: esfuegra
-    - nephew: suvrino
-    - nephss: suvrinos
-    - parents:
-      - padres
-      - pariented
-    - relative: pariente
-    - relatives: parientes
-    - sister: ermana
-    - sisters: ermanas
-    - son: ijo
-    - sons: ijos
-    - son-in-law: yerno
-    - sons-in-law: yernos
-    - uncle: tio
-    - uncles: tios
-    - wife: mujer
-
+Two-way-dictionary:
+  - aunt:               tia
+  - aunts:              tias
+  - brother:            ermano
+  - brothers:           ermanos
+  - child:              kreatura
+  - child:              kriatura
+  - children:           kreaturas
+  - children:           kriaturas
+  - cousin:             prima
+  - cousin:             primo
+  - cousins:            primos
+  - cousins:            primas
+  - daughter:           ija
+  - daughters:          ijas
+  - daughter-in-law:    elmuera
+  - daughters-in-law:   elmueras
+  - eldest son:         bohor
+  - father:             padre
+  - family:             famiya
+  - firstborn son:      bohor
+  - grandfather:        gran-papa
+  - grandmother:        gran-mama
+  - grand-son:          inyeto
+  - grand-daughter:     inyeta
+  - husband:            marido
+  - mother:             madre
+  - mother-in-law:      esfuegra
+  - nephew:             suvrino
+  - nephews:            suvrinos
+  - parents:            djenitores
+  - parents:            padres
+  - parents:            parientes
+  - relative:           pariente
+  - relatives:          parientes
+  - sister:             ermana
+  - sisters:            ermanas
+  - son:                ijo
+  - sons:               ijos
+  - son-in-law:         yerno
+  - sons-in-law:        yernos
+  - uncle:              tio
+  - uncles:             tios
+  - wife:               mujer
 
