@@ -370,12 +370,14 @@ Two-way-dictionary:
   - students:            elevas
   - students:            elevos
   - speech:              diskurso
+  - sport:               espor
 
   - tall:                alta
   - teacher:             profesor
   - teachers:            profesores
   - teacher:             profesora
   - teachers:            profesoras
+  - I am hungry:         tengo ambre
   - thank:               grasias
   - that:                ke
   - the:                 el
@@ -392,6 +394,7 @@ Two-way-dictionary:
   - to:                  al
   - to be given:         akavidarse
   - toilet:              kabine
+  - transportation:      transportasyon
   - trip:                viaje
 
 
