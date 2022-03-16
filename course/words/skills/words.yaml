@@ -69,15 +69,10 @@ Mini-dictionary:
     - aborresión: hate
     - adiyo: goodbye
     - aki: here
-    - akseptamos: accept
     - al: to
     - alegria: joy
     - alta: tall
-    - andjel: angel
-    - animal: animal
-    - animales: animals
     - anulado: cancelled
-    - apartemento: apertment
     - aprovar: try
     - aviertos: open
     - avierta: open
@@ -118,7 +113,6 @@ Mini-dictionary:
     - elevos: students (m)
     - elevas: students (f)
     - empesijo: beginning
-    - en: at
     - ermoza: beautiful
     - ermozo: beautiful
     - estas: are
@@ -179,7 +173,6 @@ Mini-dictionary:
     - matematika: math
     - me: my name
     - me akodro: I remember
-    - mujer: woman
     - muncho gusto: nice to meet you
     - mutpak: kitchen
     - muy: very
@@ -216,7 +209,6 @@ Mini-dictionary:
     - públiko: public
     - públikos: public
     - puerta: door
-    - preguntar: ask
     - polisiya: police
     - primarias: primary
 
@@ -231,20 +223,11 @@ Mini-dictionary:
     - sivdad: city
     - sostansiozos: substantial
     - sostansiozo: substantial
-    - sola: alone
-    - solo: alone
 
     - tefter: notebook
     - tefteres: notebooks
-    - toda: all
-    - todas: all
-    - todo: all
-    - todos: all
 
-    - ya: already
     - yamo: my name
-
-    - una: a
 
     - vamos: let's
     - viaje: trip
@@ -262,27 +245,6 @@ Mini-dictionary:
 
 
   English:
-    - and: i
-    - an: a
-    - animal: animal
-    - animals: animales
-    - afternoon: tadres
-    - already: ya
-    - all:
-      - todo
-      - toda
-      - todos
-      - todas
-    - at: en
-    - accept: akseptamos
-    - as: komo
-    - apertment: apartemento
-    - and: i
-    - angel: andjel
-    - ask: preguntar
-    - alone:
-      - sola
-      - solo
 
     - bathroom: banyo
     - bedroom: dormitoro
@@ -455,55 +417,85 @@ Mini-dictionary:
 
     - well: bien
     - with: kon
-    - woman: mujer
     - watch: ora
 
     - (fem.): (feminina)
 
 Two-way-dictionary:
-  - down:                abasho (adv)
-  - below:               abasho (adv)
-  - to be given:         akavidarse
+  - a:                   un
+  - a:                   una
+  - accept:              akseptamos
   - actor:               aktor
+  - afternoon:           tadres
+  - age:                 edad
+  - already:             ya
+  - all:                 todo
+  - all:                 toda
+  - all:                 todos
+  - all:                 todas
+  - alone:               sola
+  - alone:               solo
+  - an:                  a
+  - and:                 i
+  - angel:               andjel
+  - animal:              animal
+  - animals:             animales
+  - apartment:           apartemento
+  - ardour:              ardor
+  - as:                  komo
+  - ask:                 preguntar
+  - at:                  en
+
+  - below:               abasho (adv)
+
+  - color:               kolor
+  - colors:              kolores
+  - companion:           kompanyero
+  - creator:             kriador
+  - cup:                 tasa
+
+  - dialect:             dialekto
+  - dialects:            dialektos
+  - difficult:           zor
+  - down:                abasho (adv)
+
+  - easy:                kolay
+
+  - game:                djugo
+  - guest:               musafir
+
+  - hot:                 kayente
+
+  - lack:                mankar
+
+  - meal:                komida
+  - minutes:             minutos
   - multitude:           alay
-  - alcohol:             alkol
+  - music:               muzika
+
+  - necessary:           menester
+  - negative:            negativo
+  - nothing at all:      no ay por kualo
+
+  - partner:             kompanyero
+  - partner:             haver
+  - partners:            haverim
+  - pretty:              lindo
+  - pretty:              linda
+  - psychopatology:      psikopatologia
+
+  - ring:                aniyo (m)
+
   - surname:             alkunya
   - soul:                alma
   - spirit:              alma
-  - ardour:              ardor
-  - angel:               andjel
-  - ring:                aniyo (m)
-  - dialect:             dialekto
-  - dialects:            dialektos
-  - game:                djugo
-  - age:                 edad
-  - partner:             haver
-  - partners:            haverim
-  - hot:                 kayente
+
+  - to be given:         akavidarse
+
   - village:             kazal
   - villager:            kazalina
   - villager:            kazalino
-  - easy:                kolay
-  - color:               kolor
-  - colors:              kolores
 
-  - meal:                komida
-  - companion:           kompanyero
-  - partner:             kompanyero
-  - pretty:              lindo
-  - pretty:              linda
-  - lack:                mankar
-  - necessary:           menester
-  - minutes:             minutos
-  - guest:               musafir
-  - music:               muzika
-  - negative:            negativo
-  - nothing at all:      no ay por kualo
-  - psychopatology:      psikopatologia
-  - cup:                 tasa
-  - difficult:           zor
+  - woman:               mujer
 
-  - a: un
-  - a: una
-  - creator: kriador
 
