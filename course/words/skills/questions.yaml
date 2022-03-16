@@ -28,31 +28,9 @@ Phrases:
   - Phrase: Kualo es esto?
     Translation: What is this?
 
-Mini-dictionary:
-  Ladino:
-    - ande: where
-    - de ke: why
-    - ke: how
-    - ken: who
-    - komo:  how
-    - kualo: what
-    - kuando: when
-    - kuanto tiempo: how long
-    - onde: where
-  English:
-    - how:
-      - ke
-      - komo
-    - how long: kuanto tiempo
-    - what: kualo
-    - when: kuando
-    - where:
-      - ande
-      - onde
-    - who: ken
-    - why: de ke
-
 Two-way-dictionary:
+  - how:       ke
+  - how:       komo
   - how many:  kuanto
   - how many:  kuanta
   - how many:  kuantos
@@ -61,4 +39,11 @@ Two-way-dictionary:
   - how much:  kuanta
   - how much:  kuantos
   - how much:  kuantas
+  - how long:  kuanto tiempo
+  - what:      kualo
+  - when:      kuando
+  - where:     ande
+  - where:     onde
+  - who:       ken
+  - why:       de ke
 
