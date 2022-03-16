@@ -129,34 +129,69 @@ Two-way-dictionary:
   - but:                 ama
   - but:                 ma
 
+  - calendar:            kalendario
   - cancelled:           anulado
   - candle:              kandela
+  - card:                karta
+  - cards:               kartas
+  - century:             siglo
   - city:                sivdad
   - class:               klasa
   - classroom:           klasa
+  - cold:                frio
+  - cold:                friyo
   - color:               kolor
   - colors:              kolores
   - companion:           kompanyero
-  - country:             pais
-  - course:              kurso
+  - community:           komunita
   - content:             kontenidos
   - contents:            kontenidos
   - contain:             kontienen
   - contrary:            kontra
+  - country:             pais
+  - course:              kurso
+  - copy:                kopya
+  - cost:                kosta
+  - contact:             kontakto
   - creator:             kriador
+  - culture:             kultura
+  - cultural:            kultural
   - cup:                 tasa
 
+  - dear:                karos
+  - dear:                karas
+  - dear:                kerido
+  - dear:                kerida
+  - dear:                keridos
+  - dear:                keridas
+  - decade:              dekada
+  - denigrating:         denigratora
   - dialect:             dialekto
   - dialects:            dialektos
   - difficult:           zor
+  - dinner:              la sena
   - does:                esta
   - down:                abasho (adv)
   - door:                puerta
   - don't:               no
+  - during:              durante
 
   - easy:                kolay
+  - edition:             numero (de jurnal)
+  - editor:              redaktor
+  - editors:             redaktores
+  - editorial:           editoral
+  - edition:             revista
   - election:            elektoral
+  - empty:               vaziyo
+  - engagement:          despozorio
+  - environment:         entorno
   - etc:                 ets
+  - excuse me:           pardon
+  - example:             enshemplo
+  - examples:            enshemplos
+  - expensive:           karos
+  - expensive:           karas
   - everyone:            todos
 
   - feel:                gusta
