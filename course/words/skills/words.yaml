@@ -66,6 +66,10 @@ Phrases:
 Two-way-dictionary:
   - a:                   un
   - a:                   una
+  - a bit:               un poko
+  - about:               sovre
+  - above:               ensima
+  - accent:              aksan
   - accept:              akseptamos
   - actor:               aktor
   - afternoon:           tadres
@@ -77,28 +81,53 @@ Two-way-dictionary:
   - all:                 todas
   - alone:               sola
   - alone:               solo
+  - also:                tambien
+  - always:              siempre
+  - always:              syempre
+  - among:               entre
   - an:                  a
   - and:                 i
   - angel:               andjel
   - animal:              animal
   - animals:             animales
+  - anonymous:           anonimos
   - apartment:           apartemento
   - ardour:              ardor
   - as:                  komo
+  - ashkenazi:           ashkenazi
   - ask:                 preguntar
   - at:                  en
+  - ATM:                 bankomatiko
+  - author:              autor
+  - authors:             autores
+  - authentic:           autentikos
 
   - bad:                 negro
+  - bar:                 bar
   - bathroom:            banyo
   - bedroom:             dormitoro
   - beautiful:           ermozo
+  - beautiful:           ermozos
   - beautiful:           ermoza
+  - beautiful:           ermozas
+  - because:             porke
+  - before:              antes
+  - better:              mijor
+  - between:             entre
   - beginning:           empesijo
   - below:               abasho (adv)
+  - big:                 grande
+  - big:                 grandes
+  - bill:                kuento
   - bless:               bindicho
   - book:                livro
   - books:               livros
+  - bourekas:            boyos
   - bride:               novia
+  - bridge:              pontre
+  - bridges:             pontres
+  - but:                 ama
+  - but:                 ma
 
   - cancelled:           anulado
   - candle:              kandela
