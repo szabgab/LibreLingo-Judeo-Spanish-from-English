@@ -78,10 +78,8 @@ Mini-dictionary:
     - avierta: open
     - ayi: there
 
-    - banyo: bathroom
     - biblioteka: library
     - bien: well
-    - bindicho: bless
     - buen: good
     - buena: good (fem.)
     - buenas tadres: good afternoon
@@ -103,7 +101,6 @@ Mini-dictionary:
     - diskurso: speech
     - djoven: young
     - djusta: right
-    - dormitoro: bedroom
     - dunke: therefore
 
     - el: he
@@ -112,9 +109,6 @@ Mini-dictionary:
     - eleva: students (f)
     - elevos: students (m)
     - elevas: students (f)
-    - empesijo: beginning
-    - ermoza: beautiful
-    - ermozo: beautiful
     - estas: are
     - este: this
     - estes: these
@@ -158,8 +152,6 @@ Mini-dictionary:
 
     - la: the
     - libre: free
-    - livro: book
-    - livros: books
     - lision: homework
     - lisiones: homework
     - los: the (male plural)
@@ -182,9 +174,7 @@ Mini-dictionary:
       - not
     - nombre: name
     - non: non
-    - negro: bad
     - novio: fiance
-    - novia: bride
 
     - o: or
     - ombre: man
@@ -245,18 +235,6 @@ Mini-dictionary:
 
 
   English:
-
-    - bathroom: banyo
-    - bedroom: dormitoro
-    - bless: bindicho
-    - book: livro
-    - books: livros
-    - beginning: empesijo
-    - beautiful:
-      - ermozo
-      - ermoza
-    - bad: negro
-    - bride: novia
 
     - cancelled: anulado
     - candle: kandela
@@ -446,7 +424,17 @@ Two-way-dictionary:
   - ask:                 preguntar
   - at:                  en
 
+  - bad:                 negro
+  - bathroom:            banyo
+  - bedroom:             dormitoro
+  - beautiful:           ermozo
+  - beautiful:           ermoza
+  - beginning:           empesijo
   - below:               abasho (adv)
+  - bless:               bindicho
+  - book:                livro
+  - books:               livros
+  - bride:               novia
 
   - color:               kolor
   - colors:              kolores
