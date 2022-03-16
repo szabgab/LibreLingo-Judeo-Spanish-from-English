@@ -67,7 +67,6 @@ Mini-dictionary:
   Ladino:
     - a: to
     - aborresión: hate
-    - adiyo: goodbye
     - aki: here
     - al: to
     - alegria: joy
@@ -81,22 +80,15 @@ Mini-dictionary:
     - biblioteka: library
     - bien: well
     - buen: good
-    - buena: good (fem.)
     - buenas tadres: good afternoon
     - bueno:
-      - good
       - nice
-    - buenos: good
-    - buenos dias: good morning
-    - buto: goal
-
     - chikos: young
 
     - de:
       - from
       - of
     - del: of
-    - dio: god
     - direktora: manager (f)
     - diskurso: speech
     - djoven: young
@@ -104,7 +96,6 @@ Mini-dictionary:
     - dunke: therefore
 
     - el: he
-    - elektoral: election
     - elevo: students (m)
     - eleva: students (f)
     - elevos: students (m)
@@ -113,20 +104,16 @@ Mini-dictionary:
     - este: this
     - estes: these
     - estos: these
-    - ets: etc
 
     - feminino: feminine
     - fiest: party
 
     - grasias: thank
-    - grupo: group
 
     - hazino: sick
     - hazina: sick
 
     - i: and
-
-    - jenerales: general
 
     - kabine: toilet
     - kamareta: room
@@ -143,7 +130,6 @@ Mini-dictionary:
     - kuzina: kitchen
 
     - la: the
-    - libre: free
     - lision: homework
     - lisiones: homework
     - los: the (male plural)
@@ -161,12 +147,8 @@ Mini-dictionary:
     - mutpak: kitchen
     - muy: very
 
-    - no:
-      - no
-      - not
     - nombre: name
     - non: non
-    - novio: fiance
 
     - o: or
     - ombre: man
@@ -176,26 +158,21 @@ Mini-dictionary:
     - otro: other (masc.)
     - otros: others (masc. pl)
 
-    - partida: game
     - plazer: pleasure
     - profesor: teacher (m)
     - profesores: teachers (m)
     - profesora: teacher (f)
     - profesoras: teachers (f)
     - para: for
-    - para mi: for me
     - poko: little
     - propaganda: propaganda
     - publikasiones: publications
     - públiko: public
     - públikos: public
-    - puerta: door
     - polisiya: police
     - primarias: primary
 
     - salu: health
-    - saludes: greetings
-    - saludos: greetings
     - shabat: shabat
     - shalom: shalom
     - si:
@@ -225,35 +202,6 @@ Mini-dictionary:
 
 
   English:
-
-    - does: esta
-    - door: (la) puerta
-    - don't: no
-
-    - election: elektoral
-    - etc: ets
-    - everyone: todos
-
-    - feel: gusta
-    - for me: para mi
-    - from: de
-    - fiance: novio
-    - free: libre
-
-    - game: partida
-    - god: dio
-    - good:
-        - bueno
-        - buena
-        - buenos
-        - buenas
-    - goodbye: adiyo
-    - good morning: buenos dias
-    - greetings: saludes
-    - group: grupo
-    - general: jenerales
-    - goal: buto
-
     - hate: aborresión
     - house: kaza
     - houses: kazas
@@ -414,32 +362,58 @@ Two-way-dictionary:
   - books:               livros
   - bride:               novia
 
+  - cancelled:           anulado
+  - candle:              kandela
+  - city:                sivdad
+  - class:               klasa
+  - classroom:           klasa
   - color:               kolor
   - colors:              kolores
   - companion:           kompanyero
+  - country:             pais
+  - course:              kurso
+  - content:             kontenidos
+  - contents:            kontenidos
+  - contain:             kontienen
+  - contrary:            kontra
   - creator:             kriador
   - cup:                 tasa
-  - cancelled: anulado
-  - candle:    kandela
-  - city:      sivdad
-  - class:     klasa
-  - classroom: klasa
-  - country:   pais
-  - course:    kurso
-  - content:   kontenidos
-  - contents:  kontenidos
-  - contain:   kontienen
-  - contrary:  kontra
 
   - dialect:             dialekto
   - dialects:            dialektos
   - difficult:           zor
+  - does:                esta
   - down:                abasho (adv)
+  - door:                puerta
+  - don't:               no
 
   - easy:                kolay
+  - election:            elektoral
+  - etc:                 ets
+  - everyone:            todos
+
+  - feel:                gusta
+  - fiance:              novio
+  - for me:              para mi
+  - from:                de
+  - free:                libre
 
   - game:                djugo
+  - game:                partida
+  - general:             jenerales
+  - goal:                buto
+  - god:                 dio
+  - good:                bueno
+  - good:                buena
+  - good:                buenos
+  - good:                buenas
+  - goodbye:             adiyo
+  - good morning:        buenos dias
+  - greetings:           saludes
+  - greetings:           saludos
+  - group:               grupo
   - guest:               musafir
+
 
   - hot:                 kayente
 
