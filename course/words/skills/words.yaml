@@ -280,33 +280,67 @@ Two-way-dictionary:
   - kitchen:             mutpak
 
   - lack:                mankar
+  - language:            lashon
+  - language:            lingua
+  - language:            lengua
+  - languages:           linguas
+  - languages:           lenguas
   - let's:               vamos
+  - letter:              karta
+  - letter:              letra
+  - letters:             kartas
+  - level:               nivel
   - library:             biblioteka
   - life:                vida
+  - lingusitics:         linguistika
+  - little:              chiko
+  - little:              chika
   - little candle:       kandelika
   - little:              poko
+  - lot:                 muncho
+  - lot:                 muncha
   - luck:                mazal
 
+  - madness:             lokura
+  - making small-talk:   etchar lashon
+  - man's:               de ombres
   - man:                 ombre
   - manager:             direktora
+  - manner:              manera
+  - many:                munchos
+  - many:                munchas
   - married:             kazado
   - married:             kazada
   - math:                matematika
   - masculine:           maskulino
+  - materials:           materiales
+  - material:            material
   - meal:                komida
+  - member:              miembro
+  - message:             mesaje
+  - messages:            mesajes
   - minutes:             minutos
+  - mistake:             yerro
+  - mistakes:            yerros
+  - money:               dinero
+  - more:                mas
+  - modes:               modos
+  - modern:              moderna
+  - modern:              moderno
+  - mother tongue:       lingua maternal
   - multitude:           alay
   - music:               muzika
   - my:                  mi
   - my:                  me
   - my name:             me yamo
 
-
-
   - name:                nombre
   - name:                me llamo
   - necessary:           menester
   - negative:            negativo
+  - neutral:             neutrala
+  - newspaper:           jurnal
+  - newspapers:          jurnales
   - nice:                bueno
   - nice to meet you:    muncho gusto
   - no:                  no
@@ -327,26 +361,44 @@ Two-way-dictionary:
   - open:                avierta
   - open:                aviertos
   - or:                  o
+  - origin:              manadero
+  - origins:             manaderos
   - other:               otro
   - other:               otra
   - other:               otros
   - other:               otras
+  - other:               otruno
+  - other:               otruna
+  - outside:             afuera
 
+  - page:                pajina
   - partner:             kompanyero
   - partner:             haver
   - partners:            haverim
-  - pretty:              lindo
-  - pretty:              linda
-  - psychopatology:      psikopatologia
   - party:               fiesta
+  - people:              personas
+  - people:              djente
+  - person:              persona
+  - people:              djente
   - place:               lugar
   - pleasure:            plazer
+  - pleasant:            agradavle
+  - please:              por favor
+  - poet:                poeta
+  - poets:               poetas
+  - poetry:              poezia
+  - police:              polisiya
+  - pretty:              lindo
+  - pretty:              linda
+  - pretty:              bonito
+  - pretty:              bonita
+  - primary:             primarias
+  - propaganda:          propaganda
+  - psychopatology:      psikopatologia
   - public:              publiko
   - public:              publikos
   - publications:        publikasiones
-  - propaganda:          propaganda
-  - police:              polisiya
-  - primary:             primarias
+
 
   - relation:            relasion
   - relations:           relasiones
