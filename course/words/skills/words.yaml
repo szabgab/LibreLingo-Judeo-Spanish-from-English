@@ -71,8 +71,6 @@ Mini-dictionary:
     - alta: tall
     - anulado: cancelled
     - aprovar: try
-    - aviertos: open
-    - avierta: open
     - ayi: there
 
     - bien: well
@@ -80,9 +78,6 @@ Mini-dictionary:
     - buenas tadres: good afternoon
     - chikos: young
 
-    - de:
-      - from
-      - of
     - del: of
     - direktora: manager (f)
     - diskurso: speech
@@ -100,7 +95,6 @@ Mini-dictionary:
     - estos: these
 
     - feminino: feminine
-    - fiest: party
 
     - grasias: thank
 
@@ -115,38 +109,23 @@ Mini-dictionary:
 
     - la: the
     - los: the (male plural)
-    - lugar: place
 
     - mas djoven: younger
     - mas djovenes: younger (pl)
-    - mas vieja: older
-    - mas viejo: older
     - maskulino: masculine
     - me: my name
-    - muncho gusto: nice to meet you
     - muy: very
 
     - non: non
 
     - o: or
     - ora: watch
-    - otra: other (fem.)
-    - otras: other (fem. pl)
-    - otro: other (masc.)
-    - otros: others (masc. pl)
 
-    - plazer: pleasure
     - profesor: teacher (m)
     - profesores: teachers (m)
     - profesora: teacher (f)
     - profesoras: teachers (f)
     - para: for
-    - propaganda: propaganda
-    - publikasiones: publications
-    - públiko: public
-    - públikos: public
-    - polisiya: police
-    - primarias: primary
 
     - shabat: shabat
     - shalom: shalom
@@ -155,15 +134,10 @@ Mini-dictionary:
     - sostansiozos: substantial
     - sostansiozo: substantial
 
-    - tefter: notebook
-    - tefteres: notebooks
-
     - yamo: my name
 
     - viaje: trip
     - vanda: side
-    - vieja: old (f)
-    - viejo: old (m)
 
 
     - el echo: the work
@@ -173,36 +147,6 @@ Mini-dictionary:
     - las: the (p f)
 
   English:
-
-
-    - of: de
-    - other:
-      - otro
-      - otra
-      - otros
-      - otras
-    - open: aviertos
-    - or: o
-    - old:
-      - viejo
-      - vieja
-    - older:
-      - mas viejo
-      - mas vieja
-    - open: avierta
-
-    - nice to meet you: muncho gusto
-    - notebook: tefter
-    - notebooks: tefteres
-
-    - party: fiest
-    - place: lugar
-    - pleasure: plazer
-    - public: públiko
-    - publications: publikasiones
-    - propaganda: propaganda
-    - police: polisiya
-    - primary: primarias
 
     - relation: la relasion
     - relations: relasiones
@@ -387,10 +331,27 @@ Two-way-dictionary:
   - necessary:           menester
   - negative:            negativo
   - nice:                bueno
+  - nice to meet you:    muncho gusto
   - no:                  no
   - non-public:          non publikos
   - not:                 no
+  - notebook:            tefter
+  - notebooks:           tefteres
   - nothing at all:      no ay por kualo
+
+
+  - of:                  de
+  - old:                 viejo
+  - old:                 vieja
+  - older:               mas viejo
+  - older:               mas vieja
+  - open:                avierta
+  - open:                aviertos
+  - or:                  o
+  - other:               otro
+  - other:               otra
+  - other:               otros
+  - other:               otras
 
   - partner:             kompanyero
   - partner:             haver
@@ -398,6 +359,15 @@ Two-way-dictionary:
   - pretty:              lindo
   - pretty:              linda
   - psychopatology:      psikopatologia
+  - party:               fiesta
+  - place:               lugar
+  - pleasure:            plazer
+  - public:              publiko
+  - public:              publikos
+  - publications:        publikasiones
+  - propaganda:          propaganda
+  - police:              polisiya
+  - primary:             primarias
 
   - ring:                aniyo (m)
 
