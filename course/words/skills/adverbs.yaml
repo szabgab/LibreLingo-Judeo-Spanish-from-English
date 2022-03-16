@@ -6,12 +6,6 @@ New words: []
 
 Phrases: []
 
-Mini-dictionary:
-  Ladino:
-    - dainda:
-      - yet
-      - still
-  English:
-    - yet: dainda
-    - still: dainda
-
+Two-way-dictionary:
+  - yet: dainda
+  - still: dainda

@@ -28,30 +28,22 @@ Phrases:
     Translation: the hat
 
 
-Mini-dictionary:
-  English:
-    - belt: sintura
-    - clothes: ropa
-    - dress: vestido
-    - hat:
-      - chapeo
-      - chapeyo
-    - shoe: sapato
-    - shoes: sapatos
-    - shirt: kamiza
-    - skirt: fusta
-
-    - t-shirt: kamizeta
-  Ladino:
-    - chapeo: hat
-    - chapeyo: hat
-    - fusta: skirt
-    - kamiza: shirt
-    - kamizeta: t-shirt
-    - ropa: clothes
-    - sapato: shoe
-    - sapatos: shoes
-    - sintura: belt
-    - vestido: dress
-
+Two-way-dictionary:
+  - belt: sintura
+  - bra: sosten
+  - clothes: ropa
+  - dress: vestido
+  - gloves: guante
+  - hat: chapeo
+  - hat: chapeyo
+  - pants: pantalones
+  - scarf: muslin
+  - shoe: sapato
+  - shoes: sapatos
+  - shirt: kamiza
+  - skirt: fusta
+  - t-shirt: kamizeta
+  - tie: kravata
+  - trousers: pantalones
+  - underwear: ropa interior
 
