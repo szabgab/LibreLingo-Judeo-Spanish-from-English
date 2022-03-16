@@ -51,3 +51,14 @@ Mini-dictionary:
       - onde
     - who: ken
     - why: de ke
+
+Two-way-dictionary:
+  - how many:  kuanto
+  - how many:  kuanta
+  - how many:  kuantos
+  - how many:  kuantas
+  - how much:  kuanto
+  - how much:  kuanta
+  - how much:  kuantos
+  - how much:  kuantas
+
