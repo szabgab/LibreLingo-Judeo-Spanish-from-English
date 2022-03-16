@@ -67,9 +67,7 @@ Mini-dictionary:
   Ladino:
     - a: to
     - aborresión: hate
-    - aki: here
     - al: to
-    - alegria: joy
     - alta: tall
     - anulado: cancelled
     - aprovar: try
@@ -77,12 +75,9 @@ Mini-dictionary:
     - avierta: open
     - ayi: there
 
-    - biblioteka: library
     - bien: well
     - buen: good
     - buenas tadres: good afternoon
-    - bueno:
-      - nice
     - chikos: young
 
     - de:
@@ -95,7 +90,6 @@ Mini-dictionary:
     - djusta: right
     - dunke: therefore
 
-    - el: he
     - elevo: students (m)
     - eleva: students (f)
     - elevos: students (m)
@@ -117,21 +111,9 @@ Mini-dictionary:
 
     - kabine: toilet
     - kamareta: room
-    - kandelika: little candle
-    - kaza:
-      - home
-      - house
-    - kaza: house
-    - kazada: married to
-    - kazado: married to
-    - kazas: houses
     - kon: with
-    - kozina: kitchen
-    - kuzina: kitchen
 
     - la: the
-    - lision: homework
-    - lisiones: homework
     - los: the (male plural)
     - lugar: place
 
@@ -140,18 +122,13 @@ Mini-dictionary:
     - mas vieja: older
     - mas viejo: older
     - maskulino: masculine
-    - matematika: math
     - me: my name
-    - me akodro: I remember
     - muncho gusto: nice to meet you
-    - mutpak: kitchen
     - muy: very
 
-    - nombre: name
     - non: non
 
     - o: or
-    - ombre: man
     - ora: watch
     - otra: other (fem.)
     - otras: other (fem. pl)
@@ -164,7 +141,6 @@ Mini-dictionary:
     - profesora: teacher (f)
     - profesoras: teachers (f)
     - para: for
-    - poko: little
     - propaganda: propaganda
     - publikasiones: publications
     - públiko: public
@@ -172,12 +148,10 @@ Mini-dictionary:
     - polisiya: police
     - primarias: primary
 
-    - salu: health
     - shabat: shabat
     - shalom: shalom
     - si:
       - yes
-      - if
     - sostansiozos: substantial
     - sostansiozo: substantial
 
@@ -186,10 +160,8 @@ Mini-dictionary:
 
     - yamo: my name
 
-    - vamos: let's
     - viaje: trip
     - vanda: side
-    - vida: life
     - vieja: old (f)
     - viejo: old (m)
 
@@ -200,51 +172,8 @@ Mini-dictionary:
     - la kupa: the glass
     - las: the (p f)
 
-
   English:
-    - hate: aborresión
-    - house: kaza
-    - houses: kazas
-    - he: el
-    - health: salu
-    - here: aki
-    - home: kaza
-    - homework:
-      - lision
-      - lisiones
-    - in: en
-    - I remember: me akodro
-    - if: si
 
-    - joy: alegria
-
-    - kitchen:
-      - kozina
-      - kuzina
-      - mutpak
-
-    - let's: vamos
-    - library: biblioteka
-    - life: vida
-    - little candle: kandelika
-    - little: poko
-
-    - math: matematika
-    - man: ombre
-    - my:
-        - mi
-        - me llamo
-    - married:
-      - kazado
-      - kazada
-
-    - name:
-        - nombre
-        - me llamo
-    - nice: bueno
-    - no: no
-    - not: no
-    - non-public: non públikos
 
     - of: de
     - other:
@@ -414,18 +343,53 @@ Two-way-dictionary:
   - group:               grupo
   - guest:               musafir
 
-
+  - hate:                aborresion
+  - he:                  el
+  - health:              salu
+  - here:                aki
+  - home:                kaza
+  - homework:            lision
+  - homework:            lisiones
   - hot:                 kayente
+  - house:               kaza
+  - houses:              kazas
+
+  - in:                  en
+  - I remember:          me akodro
+  - if:                  si
+
+  - joy:                 alegria
+
+  - kitchen:             kozina
+  - kitchen:             kuzina
+  - kitchen:             mutpak
 
   - lack:                mankar
+  - let's:               vamos
+  - library:             biblioteka
+  - life:                vida
+  - little candle:       kandelika
+  - little:              poko
 
+  - man:                 ombre
+  - married:             kazado
+  - married:             kazada
+  - math:                matematika
   - meal:                komida
   - minutes:             minutos
   - multitude:           alay
   - music:               muzika
+  - my:                  mi
+  - my:                  me llamo
 
+  - name:                nombre
+  - name:                me llamo
   - necessary:           menester
   - negative:            negativo
+  - nice:                bueno
+  - no:                  no
+  - non-public:          non publikos
+  - not:                 no
   - nothing at all:      no ay por kualo
 
   - partner:             kompanyero
