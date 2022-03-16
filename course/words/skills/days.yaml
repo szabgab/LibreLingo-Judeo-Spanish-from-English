@@ -15,27 +15,17 @@ Phrases:
   - Phrase: Yo komo la sena tadre
     Translation: I eat the dinner late
 
-Mini-dictionary:
-  Ladino:
-    - agora: now
-    - amanyana: tomorrow
-    - antiyer: day before yesterday
-    - anoche: last night
-    - ayer: yesterday
-    - dia: day
-    - dias: day
-    - manyana: morning
-    - manyanas: mornings
-    - oy: today
-    - tadre: late
-  English:
-    - last night: anoche
-    - late: tadre
-    - morning: manyana
-    - mornings: manyanas
-    - now: agora
-    - o'clock: hour
-    - today: oy
-    - tomorrow: amanyana
-    - yesterday: ayer
+Two-way-dictionary:
+  - day: dia
+  - days: dias
+  - last night: anoche
+  - late: tadre
+  - morning: manyana
+  - mornings: manyanas
+  - now: agora
+  - o'clock: hour
+  - today: oy
+  - tomorrow: amanyana
+  - yesterday: ayer
+  - day before yesterday: antiyer
 
