@@ -68,49 +68,25 @@ Mini-dictionary:
     - a: to
     - aborresión: hate
     - al: to
-    - alta: tall
     - anulado: cancelled
-    - aprovar: try
     - ayi: there
 
-    - bien: well
     - buen: good
     - buenas tadres: good afternoon
-    - chikos: young
 
     - del: of
     - direktora: manager (f)
-    - diskurso: speech
     - djoven: young
-    - djusta: right
-    - dunke: therefore
 
-    - elevo: students (m)
-    - eleva: students (f)
-    - elevos: students (m)
-    - elevas: students (f)
-    - estas: are
-    - este: this
     - estes: these
-    - estos: these
 
     - feminino: feminine
 
-    - grasias: thank
-
-    - hazino: sick
-    - hazina: sick
-
     - i: and
-
-    - kabine: toilet
-    - kamareta: room
-    - kon: with
 
     - la: the
     - los: the (male plural)
 
-    - mas djoven: younger
     - mas djovenes: younger (pl)
     - maskulino: masculine
     - me: my name
@@ -119,7 +95,6 @@ Mini-dictionary:
     - non: non
 
     - o: or
-    - ora: watch
 
     - profesor: teacher (m)
     - profesores: teachers (m)
@@ -127,18 +102,7 @@ Mini-dictionary:
     - profesoras: teachers (f)
     - para: for
 
-    - shabat: shabat
-    - shalom: shalom
-    - si:
-      - yes
-    - sostansiozos: substantial
-    - sostansiozo: substantial
-
     - yamo: my name
-
-    - viaje: trip
-    - vanda: side
-
 
     - el echo: the work
     - el mazal: the luck
@@ -147,54 +111,6 @@ Mini-dictionary:
     - las: the (p f)
 
   English:
-
-    - relation: la relasion
-    - relations: relasiones
-    - right: djusta
-    - room: kamareta
-
-    - sick:
-      - hazino
-      - hazina
-    - student: eleva
-    - students:
-      - elevos
-      - elevas
-    - shabat: shabat
-    - shalom: shalom
-    - speech: diskurso
-    - such: komo
-    - substantial:
-        - sostansiozos
-        - sostansiozo
-    - side: vanda
-
-    - tall: alta
-    - thank: grasias
-    - this: este
-    - these:
-      - estas
-      - estos
-    - to: a
-    - try: aprovar
-    - the:
-        - el
-        - la
-    - toilet: kabine
-    - that: ke
-    - therefore: dunke
-    - trip: viaje
-
-    - yes: si
-    - young: chikos
-    - younger: mas djoven
-    - your: tu
-
-    - very: muy
-
-    - well: bien
-    - with: kon
-    - watch: ora
 
     - (fem.): (feminina)
 
@@ -369,18 +285,58 @@ Two-way-dictionary:
   - police:              polisiya
   - primary:             primarias
 
-  - ring:                aniyo (m)
+  - relation:            relasion
+  - relations:           relasiones
+  - right:               djusta
+  - ring:                aniyo
+  - room:                kamareta
 
-  - surname:             alkunya
+  - shabat:              shabat
+  - shalom:              shalom
+  - sick:                hazino
+  - sick:                hazina
+  - side:                vanda
   - soul:                alma
   - spirit:              alma
+  - substantial:         sostansiozos
+  - substantial:         sostansiozo
+  - such:                komo
+  - surname:             alkunya
+  - student:             eleva
+  - student:             elevo
+  - students:            elevas
+  - students:            elevos
+  - speech:              diskurso
 
+  - tall:                alta
+  - thank:               grasias
+  - that:                ke
+  - the:                 el
+  - the:                 la
+  - therefore:           dunke
+  - these:               estas
+  - these:               estos
+  - this:                este
+  - to:                  a
   - to be given:         akavidarse
+  - toilet:              kabine
+  - trip:                viaje
 
+  - yes:                 si
+  - young:               chikos
+  - younger:             mas djoven
+  - your:                tu
+
+  - very:                muy
   - village:             kazal
   - villager:            kazalina
   - villager:            kazalino
 
+  - watch:               ora
+  - well:                bien
+  - with:                kon
   - woman:               mujer
+
+
 
 
