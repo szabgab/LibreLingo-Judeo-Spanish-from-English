@@ -130,7 +130,6 @@ Mini-dictionary:
 
     - kabine: toilet
     - kamareta: room
-    - kandela: candle
     - kandelika: little candle
     - kaza:
       - home
@@ -140,13 +139,6 @@ Mini-dictionary:
     - kazado: married to
     - kazas: houses
     - kon: with
-    - klasa: classroom
-    - kurso: course
-    - kontenidos:
-      - content
-      - contents
-    - kontienen: contain
-    - kontra: contrary
     - kozina: kitchen
     - kuzina: kitchen
 
@@ -184,7 +176,6 @@ Mini-dictionary:
     - otro: other (masc.)
     - otros: others (masc. pl)
 
-    - pais: country
     - partida: game
     - plazer: pleasure
     - profesor: teacher (m)
@@ -210,7 +201,6 @@ Mini-dictionary:
     - si:
       - yes
       - if
-    - sivdad: city
     - sostansiozos: substantial
     - sostansiozo: substantial
 
@@ -235,18 +225,6 @@ Mini-dictionary:
 
 
   English:
-
-    - cancelled: anulado
-    - candle: kandela
-    - city: sivdad
-    - class: klasa
-    - classroom: klasa
-    - country: pais
-    - course: kurso
-    - content: kontenidos
-    - contents: kontenidos
-    - contain: kontienen
-    - contrary: kontra
 
     - does: esta
     - door: (la) puerta
@@ -441,6 +419,17 @@ Two-way-dictionary:
   - companion:           kompanyero
   - creator:             kriador
   - cup:                 tasa
+  - cancelled: anulado
+  - candle:    kandela
+  - city:      sivdad
+  - class:     klasa
+  - classroom: klasa
+  - country:   pais
+  - course:    kurso
+  - content:   kontenidos
+  - contents:  kontenidos
+  - contain:   kontienen
+  - contrary:  kontra
 
   - dialect:             dialekto
   - dialects:            dialektos
