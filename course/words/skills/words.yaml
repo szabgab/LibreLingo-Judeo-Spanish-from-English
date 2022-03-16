@@ -63,57 +63,6 @@ Phrases:
   - Phrase: Su famiya se instalaron en Salonik
     Translation: "His family {settled down} in Thessaloniki"
 
-Mini-dictionary:
-  Ladino:
-    - a: to
-    - aborresión: hate
-    - al: to
-    - anulado: cancelled
-    - ayi: there
-
-    - buen: good
-    - buenas tadres: good afternoon
-
-    - del: of
-    - direktora: manager (f)
-    - djoven: young
-
-    - estes: these
-
-    - feminino: feminine
-
-    - i: and
-
-    - la: the
-    - los: the (male plural)
-
-    - mas djovenes: younger (pl)
-    - maskulino: masculine
-    - me: my name
-    - muy: very
-
-    - non: non
-
-    - o: or
-
-    - profesor: teacher (m)
-    - profesores: teachers (m)
-    - profesora: teacher (f)
-    - profesoras: teachers (f)
-    - para: for
-
-    - yamo: my name
-
-    - el echo: the work
-    - el mazal: the luck
-    - la roza: the rose
-    - la kupa: the glass
-    - las: the (p f)
-
-  English:
-
-    - (fem.): (feminina)
-
 Two-way-dictionary:
   - a:                   un
   - a:                   una
@@ -182,7 +131,9 @@ Two-way-dictionary:
   - everyone:            todos
 
   - feel:                gusta
+  - feminine:            feminino
   - fiance:              novio
+  - for:                 para
   - for me:              para mi
   - from:                de
   - free:                libre
@@ -190,13 +141,16 @@ Two-way-dictionary:
   - game:                djugo
   - game:                partida
   - general:             jenerales
+  - glass:               kupa
   - goal:                buto
   - god:                 dio
+  - good:                buen
   - good:                bueno
   - good:                buena
   - good:                buenos
   - good:                buenas
   - goodbye:             adiyo
+  - good afternoon:      buenas tadres
   - good morning:        buenos dias
   - greetings:           saludes
   - greetings:           saludos
@@ -215,6 +169,7 @@ Two-way-dictionary:
   - houses:              kazas
 
   - in:                  en
+  - I am called:         yamo
   - I remember:          me akodro
   - if:                  si
 
@@ -230,17 +185,23 @@ Two-way-dictionary:
   - life:                vida
   - little candle:       kandelika
   - little:              poko
+  - luck:                mazal
 
   - man:                 ombre
+  - manager:             direktora
   - married:             kazado
   - married:             kazada
   - math:                matematika
+  - masculine:           maskulino
   - meal:                komida
   - minutes:             minutos
   - multitude:           alay
   - music:               muzika
   - my:                  mi
-  - my:                  me llamo
+  - my:                  me
+  - my name:             me yamo
+
+
 
   - name:                nombre
   - name:                me llamo
@@ -249,6 +210,7 @@ Two-way-dictionary:
   - nice:                bueno
   - nice to meet you:    muncho gusto
   - no:                  no
+  - non:                 non
   - non-public:          non publikos
   - not:                 no
   - notebook:            tefter
@@ -257,6 +219,7 @@ Two-way-dictionary:
 
 
   - of:                  de
+  - of:                  del
   - old:                 viejo
   - old:                 vieja
   - older:               mas viejo
@@ -309,22 +272,34 @@ Two-way-dictionary:
   - speech:              diskurso
 
   - tall:                alta
+  - teacher:             profesor
+  - teachers:            profesores
+  - teacher:             profesora
+  - teachers:            profesoras
   - thank:               grasias
   - that:                ke
   - the:                 el
   - the:                 la
+  - the:                 las
+  - the:                 los
+  - there:               ayi
   - therefore:           dunke
   - these:               estas
+  - these:               estes
   - these:               estos
   - this:                este
   - to:                  a
+  - to:                  al
   - to be given:         akavidarse
   - toilet:              kabine
   - trip:                viaje
 
+
   - yes:                 si
   - young:               chikos
+  - young:               djoven
   - younger:             mas djoven
+  - younger:             mas djovenes
   - your:                tu
 
   - very:                muy
@@ -336,7 +311,5 @@ Two-way-dictionary:
   - well:                bien
   - with:                kon
   - woman:               mujer
-
-
-
+  - work:                echo
 
