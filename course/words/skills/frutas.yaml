@@ -7,26 +7,15 @@ Phrases:
   - Phrase:  el zirguela tiene kolor blu
     Translation: The plum is blue
 
-Mini-dictionary:
-  Ladino:
-    - fruta: fruit
-    - karpuz: watermelon
-    - limon: lemon
-    - mansana: apple
-    - mansanas: apples
-    - portokal: orange
-    - uva: grape
-    - zirguela: plum
-    - banana: banana
-  English:
-    - fruit: fruta
-    - watermelon: karpuz
-    - lemon: limon
-    - apple: mansana
-    - apples: mansanas
-    - orange: portokal
-    - grape: uva
-    - plum: zirguela
-    - banana: banana
+Two-way-dictionary:
+ - fruit: fruta
+ - watermelon: karpuz
+ - lemon: limon
+ - apple: mansana
+ - apples: mansanas
+ - orange: portokal
+ - grape: uva
+ - plum: zirguela
+ - banana: banana
 
 

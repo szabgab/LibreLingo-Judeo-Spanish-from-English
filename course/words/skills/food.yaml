@@ -35,32 +35,16 @@ Phrases:
     Translation: the potato
 
 
-Mini-dictionary:
-  Ladino:
-    - Tengo ambre: I am hungry
-    - salata: salad
-    - karota: carrot
-    - pastel: cake
-    - pan: bread
-    - sopa: soup
-    - kezo: cheese
-    - poyo: chicken
-    - arroz: rice
-    - miel: honey
-    - vedrura: vegetable
-    - vedruras: vegetables
-
-  English:
-    - I am hungry: tengo ambre
-    - salad: salata (f)
-    - carrot: karota (f)
-    - cake: pastel
-    - bread: pan
-    - soup: sopa
-    - cheese: kezo
-    - chicken: poyo
-    - rice: arroz
-    - vegetable: vedrura
-    - vegetables: vedruras
-    - honey: miel
+Two-way-dictionary:
+  - bread: pan
+  - cake: pastel
+  - cheese: kezo
+  - chicken: poyo
+  - honey: miel
+  - I am hungry: tengo ambre
+  - salad: salata
+  - soup: sopa
+  - rice: arroz
+  - vegetable: vedrura
+  - vegetables: vedruras
 

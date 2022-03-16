@@ -16,30 +16,17 @@ Phrases:
   - Phrase: Mar o montanya?
     Translation: Sea or mountain?
 
-Mini-dictionary:
-  Ladino:
-    - aire: air
-    - aire: wind
-    - arvol: tree
-    - flor: flower
-    - lago: lake
-    - mar: sea
-    - montanya: mountain
-    - plaj: beach
-    - rio: river
-    - sol: sun
-    - sielo: sky
-  English:
-    - air: aire
-    - beach: plaj
-    - flower: flor
-    - lake: lago
-    - mountain: montanya
-    - river: rio
-    - sea: mar
-    - sun: sol
-    - sky: sielo
-    - tree: arvol
-    - wind: aire
+Two-way-dictionary:
+  - air: aire
+  - beach: plaj
+  - flower: flor
+  - lake: lago
+  - mountain: montanya
+  - river: rio
+  - sea: mar
+  - sun: sol
+  - sky: sielo
+  - tree: arvol
+  - wind: aire
 
 
