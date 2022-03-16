@@ -8,12 +8,7 @@ Phrases:
   - Phrase: la meza
     Translation: table
 
-Mini-dictionary:
-  Ladino:
-    - meza: table
-    - ventana: window
-  English:
-    - table: meza
-    - window: ventana
-
+Two-way-dictionary:
+  - table: meza
+  - window: ventana
 

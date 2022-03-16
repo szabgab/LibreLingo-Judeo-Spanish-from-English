@@ -6,18 +6,9 @@ New words: []
 
 Phrases: []
 
-
-Mini-dictionary:
-  Ladino:
-    - sur: south
-    - norte: north
-    - este: east
-    - oksidente: west
-    - Amerika: America
-  English:
-    - south: sur
-    - north: norte
-    - east: este
-    - west: oksidente
-    - America: Amerika
-
+Two-way-dictionary:
+  - south:   sur
+  - north:   norte
+  - east:    este
+  - west:    oksidente
+  - America: Amerika

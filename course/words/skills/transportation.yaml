@@ -54,52 +54,26 @@ Phrases:
   - Phrase: En el aeroporto ay aviones.
     Translation: There are airplanes at the airport.
 
-Mini-dictionary:
-  Ladino:
-    - aviones: airplanes
-    - araba: car
-    - arabas: cars
-    - aeroporto: airport
-    - avion: airplane
+Two-way-dictionary:
+  - airplanes: aviones
+  - airport:   aeroporto
+  - airplane:  avion
 
-    - bisikleta: bicycle
-    - bilyeto: ticket
+  - bicycle:   bisikleta
+  - bus:       otobus
+  - buses:     otobuses
 
-    - estasion: station
+  - car:       araba
+  - car:       koche
+  - car:       oto
+  - car:       otomobil
+  - cars:      arabas
 
-    - koche: car
+  - platform:  plataforma
 
-    - otobus: bus
-    - otobuses: buses
-    - oto: car
-    - otomobil: car
+  - station:   estasion
 
-    - plataforma: platform
-
-    - taksi: taxi
-    - treno: train
-
-  English:
-    - airplanes: aviones
-    - airport: aeroporto
-    - airplane: avion
-
-    - bicycle: bisikleta
-    - bus: otobus
-    - buses: otobuses
-
-    - car:
-      - araba
-      - koche
-      - oto
-      - otomobil
-    - cars: arabas
-
-    - platform: plataforma
-
-    - station: estasion
-
-    - ticket: bilyeto
-    - taxi: taksi
-    - train: treno
+  - ticket:    bilyeto
+  - taxi:      taksi
+  - train:     treno
 
