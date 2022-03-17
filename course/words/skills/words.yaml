@@ -169,7 +169,7 @@ Two-way-dictionary:
   - dialect:             dialekto
   - dialects:            dialektos
   - difficult:           zor
-  - dinner:              la sena
+  - dinner:              sena
   - does:                esta
   - down:                abasho (adv)
   - door:                puerta
@@ -351,6 +351,7 @@ Two-way-dictionary:
   - notebook:            tefter
   - notebooks:           tefteres
   - nothing at all:      no ay por kualo
+  - number:              numero
 
 
   - of:                  de
@@ -532,3 +533,4 @@ Two-way-dictionary:
   - writers:             eskritoras
   - writing:             eskrito
 
+ 
