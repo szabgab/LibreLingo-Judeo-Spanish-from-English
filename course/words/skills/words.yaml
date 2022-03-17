@@ -251,6 +251,7 @@ Two-way-dictionary:
 
 
   - I am called:         yamo
+  - I am hungry:         tengo ambre
   - I remember:          me akodro
   - icecream:            dondurma
   - if:                  si
@@ -399,56 +400,99 @@ Two-way-dictionary:
   - public:              publikos
   - publications:        publikasiones
 
+  - question:            demanda
+  - questions:           demandas
+  - quite:               bastante
 
+  - rebirth:             renasimiento
+  - recently:            resientemente
+  - refugees:            refujiados
   - relation:            relasion
   - relations:           relasiones
+  - remark:              remarka
+  - restroom:            tualet
   - right:               djusta
   - ring:                aniyo
   - room:                kamareta
 
+  - same:                mizmo
+  - same:                mizma
+  - section:             seksion
+  - Sephardic:           Sefaradim
+  - Sephardic:           Sefaradis
+  - settled down:        instalaron
+  - several:             varias
   - shabat:              shabat
   - shalom:              shalom
   - sick:                hazino
   - sick:                hazina
   - side:                vanda
+  - site:                sitio
+  - situation:           situasion
+  - small:               chiko
+  - small:               chika
+  - some:                alguno
+  - some:                alguna
+  - some:                algunos
+  - some:                algunas
+  - some:                unos
   - soul:                alma
+  - source:              manadero
+  - sources:             manaderos
   - spirit:              alma
-  - substantial:         sostansiozos
-  - substantial:         sostansiozo
-  - such:                komo
-  - surname:             alkunya
+  - speech:              diskurso
+  - sport:               espor
+  - stew:                gizado
   - student:             eleva
   - student:             elevo
   - students:            elevas
   - students:            elevos
-  - speech:              diskurso
-  - sport:               espor
+  - subject:             subjeto
+  - substantial:         sostansiozos
+  - substantial:         sostansiozo
+  - such:                komo
+  - sure:                seguro
+  - surname:             alkunya
 
+  - take out:            echar
   - tall:                alta
   - teacher:             profesor
   - teachers:            profesores
   - teacher:             profesora
   - teachers:            profesoras
-  - I am hungry:         tengo ambre
+  - team:                ekipo
   - thank:               grasias
+  - thank you:           mersi
+  - that:                eso
   - that:                ke
   - the:                 el
   - the:                 la
   - the:                 las
   - the:                 los
+  - themselves:          eyos
+  - then:                entonses
+  - there:               ai
+  - there are:           ay
   - there:               ayi
   - therefore:           dunke
   - these:               estas
   - these:               estes
   - these:               estos
   - this:                este
+  - thing:               koza
+  - things:              kozas
+  - those:               esos
   - to:                  a
   - to:                  al
   - to be given:         akavidarse
   - toilet:              kabine
+  - translated:          tresladado
+  - translator:          traduktor
+  - translations:        traduksiones
   - transportation:      transportasyon
   - trip:                viaje
-
+  - true:                vedrad
+  - true:                verdad
 
   - yes:                 si
   - young:               chikos
@@ -457,14 +501,34 @@ Two-way-dictionary:
   - younger:             mas djovenes
   - your:                tu
 
+  - vacation:            vakansas
+  - Venezualan:          venezuelano
   - very:                muy
+  - veteran:             veteranos
   - village:             kazal
   - villager:            kazalina
   - villager:            kazalino
 
   - watch:               ora
   - well:                bien
+  - web:                 web
   - with:                kon
+  - with me:             kon mi
+  - without:             sin
   - woman:               mujer
+  - woman's:             de mujeres
+  - women:               mujeres
+  - word:                palavra
+  - word:                biervo
+  - words:               palavras
+  - words:               biervos
+  - work:                lavoro
   - work:                echo
+  - work:                ovra
+  - works:               ovras
+  - writer:              eskritor
+  - writer:              eskritora
+  - writers:             eskritores
+  - writers:             eskritoras
+  - writing:             eskrito
 

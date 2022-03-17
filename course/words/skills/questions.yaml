@@ -44,6 +44,9 @@ Two-way-dictionary:
   - when:      kuando
   - where:     ande
   - where:     onde
+  - which:     ke
+  - which:     kual
+  - which:     kuala
   - who:       ken
   - why:       de ke
 
