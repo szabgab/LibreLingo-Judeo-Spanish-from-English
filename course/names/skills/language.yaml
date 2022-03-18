@@ -4,43 +4,23 @@ Skill:
 
 New words: []
 
+Two-way-dictionary:
+  - Arabic:       Arabo
+  - English:      Inglez
+  - French:       Fransez
+  - German:       Aleman
+  - Greek:        Grego
+  - Hebrew:       Ebreo
+  - Hebrew:       Ivrit
+  - Ladino:       Espanyol
+  - Ladino:       Ladino
+  - Ladino:       Djudeo-espanyol
+  - Portuguese:   Portugez
+  - Spanish:      Kasteyano
+  - Spanish:      Kastilyano
+  - Turkish:      Turko
+
 Phrases:
   - Phrase: Yo avlo Djudeo-Espanyol
     Translation: I speak Ladino
-
-Mini-dictionary:
-  Ladino:
-    - Aleman: German
-    - Arabo: Arab
-    - Djudeo-espanyol: Ladino
-    - Ebreo: Hebrew
-    - Espanyol: Ladino
-    - Fransez: French
-    - Grego: Greek
-    - Inglez: English
-    - Ivrit: Hebrew
-    - Judeo-Espanyol: Ladino
-    - Kasteyano: (Modern) Spanish
-    - Kastilyano: (Modern) Spanish
-    - Ladino: Ladino
-    - Portugez: Portuguese
-    - Turko: Turkish
-
-  English:
-    - Arab: Arabo
-    - English: Inglez
-    - French: Fransez
-    - Greek: Grego
-    - Hebrew:
-      - Ebreo
-      - Ivrit
-    - Ladino:
-      - Espanyol
-      - Ladino
-      - Djudeo-espanyol
-    - Spanish:
-      - Kasteyano
-      - Kastilyano
-    - Portuguese: Portugez
-    - Turkish: Turko
 
