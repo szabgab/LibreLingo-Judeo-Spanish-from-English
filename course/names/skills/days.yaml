@@ -4,6 +4,15 @@ Skill:
 
 New words: []
 
+Two-way-dictionary:
+  - Sunday: alhad
+  - Monday: lunes
+  - Tuesday: martes
+  - Wednesday: mierkoles
+  - Thursday: djuves
+  - Friday: viernes
+  - Saturday: sabat
+
 Phrases:
   - Phrase: En Israel alhad es la primera dia de la semana.
     Translation: In Israel Sunday is the first day of the week.
@@ -18,35 +27,3 @@ Phrases:
   - Phrase: Los djudios no lavoran en sabat.
     Translation: The jews don't work on Saturday.
 
-Mini-dictionary:
-  Ladino:
-    - alhad: Sunday (Ar)
-    - lunes: Monday
-    - martes: Tuesday
-    - mierkoles: Wednesday
-    - djuves: Thursday
-    - viernes: Friday
-    - sabat: Saturday
-    - semana: week
-    - día: day
-
-    - en: on
-    - toda la: the whole
-    - djuntos: together
-    - djudios: jews
-
-  English:
-    - Sunday: alhad
-    - Monday: lunes
-    - Tuesday: martes
-    - Wednesday: mierkoles
-    - Thursday: djuves
-    - Friday: viernes
-    - Saturday: sabat
-    - week: semana
-    - day: día
-
-    - on: en
-    - the whole: toda la
-    - together: djuntos
-    - jews: djudios

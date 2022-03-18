@@ -4,6 +4,20 @@ Skill:
 
 New words: []
 
+Two-way-dictionary:
+  - January: enero
+  - February: fevrero
+  - March: marso
+  - April: avril
+  - May: mayo
+  - June: djunio
+  - July: djulio
+  - August: agosto
+  - September: septembre
+  - October: oktobre
+  - November: novembre
+  - December: decembre
+
 Phrases:
   - Phrase: Enero es el primero mez del anyo.
     Translation: January is the first month of the year.
@@ -19,57 +33,3 @@ Phrases:
     Translation: July and August are very warm months.
   - Phrase: Decembre es el ultimo mez del anyo.
     Translation: December is the last month of the year.
-
-Mini-dictionary:
-  Ladino:
-    - enero: January
-    - fevrero: February
-    - marso: March
-    - avril: April
-    - mayo: May
-    - djunio: June
-    - djulio: July
-    - agosto: August
-    - septembre: September
-    - oktobre: October
-    - novembre: November
-    - decembre: December
-
-    - mez: month
-    - mezes: months
-    - anyo: year
-    - anyos: years
-    - enverano: summer
-    - mas kaliente: hottests
-    - kaliente: warm
-    - kalientes: warm (p)
-    - ultimo: last
-    - ultimos: last (p)
-    - ultima: last
-    - ultimas: last (p)
-
-  English:
-    - January: enero
-    - February: fevrero
-    - March: marso
-    - April: avril
-    - May: mayo
-    - June: djunio
-    - July: djulio
-    - August: agosto
-    - September: septembre
-    - October: oktobre
-    - November: novembre
-    - December: decembre
-
-    - month: mez
-    - months: mezes
-    - year: anyo
-    - years: anyos
-    - summer: enverano
-    - hottest: mas kaliente
-    - warm: kaliente
-    - last:
-      - ultimo
-      - ultima
-

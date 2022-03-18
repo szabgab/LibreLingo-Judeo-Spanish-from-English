@@ -243,6 +243,7 @@ Two-way-dictionary:
   - homework:            lision
   - homework:            lisiones
   - hot:                 kayente
+  - hottest:             mas kaliente
   - house:               kaza
   - houses:              kazas
   - Holocaust:           Olokosto
@@ -273,6 +274,7 @@ Two-way-dictionary:
   - journalist:          jurnalisto
   - jew:                 djudio
   - jew:                 djidio
+  - jews:                djudios
   - job:                 lavoro
   - joy:                 alegria
 
@@ -286,6 +288,10 @@ Two-way-dictionary:
   - language:            lengua
   - languages:           linguas
   - languages:           lenguas
+  - last:                ultima
+  - last:                ultimo
+  - last:                ultimas
+  - last:                ultimos
   - let's:               vamos
   - letter:              karta
   - letter:              letra
@@ -324,6 +330,9 @@ Two-way-dictionary:
   - mistake:             yerro
   - mistakes:            yerros
   - money:               dinero
+
+  - month:               mez
+  - months:              mezes
   - more:                mas
   - modes:               modos
   - modern:              moderna
@@ -354,6 +363,7 @@ Two-way-dictionary:
   - number:              numero
 
 
+  - on:                  en
   - of:                  de
   - of:                  del
   - old:                 viejo
@@ -452,6 +462,7 @@ Two-way-dictionary:
   - substantial:         sostansiozos
   - substantial:         sostansiozo
   - such:                komo
+  - summer:              enverano
   - sure:                seguro
   - surname:             alkunya
 
@@ -466,10 +477,12 @@ Two-way-dictionary:
   - thank you:           mersi
   - that:                eso
   - that:                ke
+  - day:                 dia
   - the:                 el
   - the:                 la
   - the:                 las
   - the:                 los
+  - the whole:           toda la
   - themselves:          eyos
   - then:                entonses
   - there:               ai
@@ -486,6 +499,7 @@ Two-way-dictionary:
   - to:                  a
   - to:                  al
   - to be given:         akavidarse
+  - together:            djuntos
   - toilet:              kabine
   - translated:          tresladado
   - translator:          traduktor
@@ -495,6 +509,8 @@ Two-way-dictionary:
   - true:                vedrad
   - true:                verdad
 
+  - year:                anyo
+  - years:               anyos
   - yes:                 si
   - young:               chikos
   - young:               djoven
@@ -510,9 +526,12 @@ Two-way-dictionary:
   - villager:            kazalina
   - villager:            kazalino
 
+  - warm:                kaliente
+  - warm:                kalientes
   - watch:               ora
   - well:                bien
   - web:                 web
+  - week:                semana
   - with:                kon
   - with me:             kon mi
   - without:             sin
