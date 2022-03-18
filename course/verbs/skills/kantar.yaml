@@ -5,15 +5,13 @@ Skill:
 New words: []
 
 Phrases:
-  - Phrase: "{Me gusta} kantar en Ladino"
+  - Phrase: "{Me plaze} kantar en Ladino"
     Translation: "{I like} {to sing} in Ladino"
 
 Mini-dictionary:
   Ladino:
-    - me gusta: I like
     - kantar: to sing
   English:
-    - i like: me gusta
     - to sing: kantar
     - sing: kantar
 

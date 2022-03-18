@@ -250,9 +250,10 @@ Two-way-dictionary:
   - humoristic:          umoristiko
   - humoristic:          umoristikos
 
-
   - I am called:         yamo
   - I am hungry:         tengo ambre
+  - I like:              me plaze
+  - I like:              me agrada
   - I remember:          me akodro
   - icecream:            dondurma
   - if:                  si
@@ -553,3 +554,4 @@ Two-way-dictionary:
   - writing:             eskrito
 
  
+

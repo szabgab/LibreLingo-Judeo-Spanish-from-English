@@ -4,6 +4,21 @@ Skill:
 
 New words: []
 
+Two-way-dictionary:
+    - bear: lonso
+    - bird: pasharo
+    - cat: gato
+    - cats: gatos
+    - cow: vaka
+    - cows: vakas
+    - dog: perro
+    - dogs: perros
+    - duck: pato
+    - elephant: elefante
+    - horse: kavayo
+    - snake: kulevra
+    - snakes: kulevras
+
 Phrases:
   - Phrase: un perro blanko
     Translation: a white dog
@@ -17,13 +32,13 @@ Phrases:
     Translation: a cow
   - Phrase: dos vakas
     Translation: two cows
-  - Phrase: una kulvera
+  - Phrase: una kulevra
     Translation: a snake
-  - Phrase: dos kulveras
+  - Phrase: dos kulevras
     Translation: two snakes
-  - Phrase: un perro i dos kulveras
+  - Phrase: un perro i dos kulevras
     Translation: a dog and two snakes
-  - Phrase: una mansana i una kulvera
+  - Phrase: una mansana i una kulevra
     Translation: an apple and a snake
   - Phrase: Es un kavayo
     Translation: It is a horse
@@ -33,18 +48,4 @@ Phrases:
     Translation: A duck and a horse
 
 
-Two-way-dictionary:
-    - bear: lonso
-    - bird: pasharo
-    - cat: gato
-    - cats: gatos
-    - cow: vaka
-    - cows: vakas
-    - dog: perro
-    - dogs: perros
-    - duck: pato
-    - elephant: elefante
-    - horse: kavayo
-    - snake: kulvera
-    - snakes: kulveras
 
