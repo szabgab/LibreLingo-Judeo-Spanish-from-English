@@ -4,6 +4,28 @@ Skill:
 
 New words: []
 
+Two-way-dictionary:
+  - how:       ke
+  - how:       komo
+  - how many:  kuanto
+  - how many:  kuanta
+  - how many:  kuantos
+  - how many:  kuantas
+  - how much:  kuanto
+  - how much:  kuanta
+  - how much:  kuantos
+  - how much:  kuantas
+  - how long:  kuanto tiempo
+  - what:      kualo
+  - when:      kuando
+  - where:     ande
+  - where:     onde
+  - which:     ke
+  - which:     kual
+  - which:     kuala
+  - who:       ken
+  - why:       de ke
+
 Phrases:
   - Phrase: "Komo {te yamas}"
     Translation: What is your name
@@ -27,26 +49,4 @@ Phrases:
     Translation: How do you like the city?
   - Phrase: Kualo es esto?
     Translation: What is this?
-
-Two-way-dictionary:
-  - how:       ke
-  - how:       komo
-  - how many:  kuanto
-  - how many:  kuanta
-  - how many:  kuantos
-  - how many:  kuantas
-  - how much:  kuanto
-  - how much:  kuanta
-  - how much:  kuantos
-  - how much:  kuantas
-  - how long:  kuanto tiempo
-  - what:      kualo
-  - when:      kuando
-  - where:     ande
-  - where:     onde
-  - which:     ke
-  - which:     kual
-  - which:     kuala
-  - who:       ken
-  - why:       de ke
 

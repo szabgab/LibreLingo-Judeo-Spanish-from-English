@@ -4,6 +4,19 @@ Skill:
 
 New words: []
 
+Two-way-dictionary:
+  - air:      aire
+  - beach:    plaj
+  - flower:   flor
+  - lake:     lago
+  - mountain: montanya
+  - river:    rio
+  - sea:      mar
+  - sun:      sol
+  - sky:      sielo
+  - tree:     arvol
+  - wind:     aire
+
 Phrases:
   - Phrase: Buen viaje!
     Translation: Have a good trip!
@@ -15,18 +28,5 @@ Phrases:
 
   - Phrase: Mar o montanya?
     Translation: Sea or mountain?
-
-Two-way-dictionary:
-  - air: aire
-  - beach: plaj
-  - flower: flor
-  - lake: lago
-  - mountain: montanya
-  - river: rio
-  - sea: mar
-  - sun: sol
-  - sky: sielo
-  - tree: arvol
-  - wind: aire
 
 

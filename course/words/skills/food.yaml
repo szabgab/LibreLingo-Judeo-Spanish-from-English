@@ -4,6 +4,20 @@ Skill:
 
 New words: []
 
+Two-way-dictionary:
+  - asado:      roasted
+  - bread:      pan
+  - cake:       pastel
+  - cheese:     kezo
+  - egg:        guevo
+  - honey:      miel
+  - salad:      salata
+  - soup:       sopa
+  - rice:       arroz
+  - vegetable:  vedrura
+  - vegetables: vedruras
+
+
 Phrases:
   - Phrase: el pan
     Translation: the bread
@@ -33,17 +47,4 @@ Phrases:
     Translation: I like hot soup
   - Phrase: el kartof
     Translation: the potato
-
-
-Two-way-dictionary:
-  - bread: pan
-  - cake: pastel
-  - cheese: kezo
-  - chicken: poyo
-  - honey: miel
-  - salad: salata
-  - soup: sopa
-  - rice: arroz
-  - vegetable: vedrura
-  - vegetables: vedruras
 

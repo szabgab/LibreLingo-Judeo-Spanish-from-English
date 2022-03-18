@@ -4,6 +4,30 @@ Skill:
 
 New words: []
 
+Two-way-dictionary:
+  - airplanes: aviones
+  - airport:   aeroporto
+  - airplane:  avion
+
+  - bicycle:   bisikleta
+  - bus:       otobus
+  - buses:     otobuses
+
+  - car:       araba
+  - car:       koche
+  - car:       oto
+  - car:       otomobil
+  - cars:      arabas
+
+  - platform:  plataforma
+
+  - station:   estasion
+
+  - ticket:    bilyeto
+  - taxi:      taksi
+  - train:     treno
+
+
 Phrases:
   - Phrase: el otobus
     Translation: the bus
@@ -53,27 +77,4 @@ Phrases:
     Translation: How can I go there?
   - Phrase: En el aeroporto ay aviones.
     Translation: There are airplanes at the airport.
-
-Two-way-dictionary:
-  - airplanes: aviones
-  - airport:   aeroporto
-  - airplane:  avion
-
-  - bicycle:   bisikleta
-  - bus:       otobus
-  - buses:     otobuses
-
-  - car:       araba
-  - car:       koche
-  - car:       oto
-  - car:       otomobil
-  - cars:      arabas
-
-  - platform:  plataforma
-
-  - station:   estasion
-
-  - ticket:    bilyeto
-  - taxi:      taksi
-  - train:     treno
 

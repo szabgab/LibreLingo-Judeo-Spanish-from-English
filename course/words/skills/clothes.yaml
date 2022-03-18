@@ -4,6 +4,27 @@ Skill:
 
 New words: []
 
+Two-way-dictionary:
+  - belt:      sintura
+  - bra:       sosten
+  - clothes:   ropa
+  - dress:     fostan
+  - gloves:    guante
+  - hat:       chapeo
+  - hat:       chapeyo
+  - pants:     pantalones
+  - scarf:     muslin
+  - shoe:      chapine
+  - shoe:      kalsado
+  - shoes:     chapines
+  - shoes:     kalsados
+  - shirt:     kamiza
+  - skirt:     fusta
+  - t-shirt:   kamizeta
+  - tie:       kravata
+  - trousers:  pantalones
+  - underwear: ropa interior
+
 
 Phrases:
   - Phrase: "Una kamiza vedre, {por favor}"
@@ -26,26 +47,4 @@ Phrases:
     Translation: the hat
   - Phrase: el chapeyo
     Translation: the hat
-
-
-Two-way-dictionary:
-  - belt: sintura
-  - bra: sosten
-  - clothes: ropa
-  - dress: fostan
-  - gloves: guante
-  - hat: chapeo
-  - hat: chapeyo
-  - pants: pantalones
-  - scarf: muslin
-  - shoe: chapine
-  - shoe: kalsado
-  - shoes: chapines
-  - shoes: kalsados
-  - shirt: kamiza
-  - skirt: fusta
-  - t-shirt: kamizeta
-  - tie: kravata
-  - trousers: pantalones
-  - underwear: ropa interior
 

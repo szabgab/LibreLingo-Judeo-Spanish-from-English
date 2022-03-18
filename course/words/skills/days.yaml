@@ -5,6 +5,20 @@ Skill:
 New words: []
 
 
+Two-way-dictionary:
+  - day:                  dia
+  - days:                 dias
+  - day before yesterday: antiyer
+  - last night:           anoche
+  - late:                 tadre
+  - morning:              manyana
+  - mornings:             manyanas
+  - now:                  agora
+  - o'clock:              hour
+  - today:                oy
+  - tomorrow:             amanyana
+  - yesterday:            ayer
+
 Phrases:
   - Phrase: oy es la amanyana del ayer
     Translation: Today is the tomorrow of yesterday
@@ -15,17 +29,4 @@ Phrases:
   - Phrase: Yo komo la sena tadre
     Translation: I eat the dinner late
 
-Two-way-dictionary:
-  - day: dia
-  - days: dias
-  - last night: anoche
-  - late: tadre
-  - morning: manyana
-  - mornings: manyanas
-  - now: agora
-  - o'clock: hour
-  - today: oy
-  - tomorrow: amanyana
-  - yesterday: ayer
-  - day before yesterday: antiyer
 

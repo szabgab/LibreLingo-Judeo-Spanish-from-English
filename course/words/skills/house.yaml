@@ -4,11 +4,11 @@ Skill:
 
 New words: []
 
+Two-way-dictionary:
+  - table:  meza
+  - window: ventana
+
 Phrases:
   - Phrase: la meza
     Translation: table
-
-Two-way-dictionary:
-  - table: meza
-  - window: ventana
 

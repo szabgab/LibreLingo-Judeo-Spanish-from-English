@@ -3,19 +3,21 @@ Skill:
   Id: 205
 
 New words: []
+
+Two-way-dictionary:
+ - almond:     almendra
+ - apple:      mansana
+ - apples:     mansanas
+ - banana:     banana
+ - fruit:      fruta
+ - grape:      uva
+ - lemon:      limon
+ - orange:     portokal
+ - plum:       zirguela
+ - watermelon: karpuz
+
 Phrases:
   - Phrase:  el zirguela tiene kolor blu
     Translation: The plum is blue
-
-Two-way-dictionary:
- - fruit: fruta
- - watermelon: karpuz
- - lemon: limon
- - apple: mansana
- - apples: mansanas
- - orange: portokal
- - grape: uva
- - plum: zirguela
- - banana: banana
 
 
