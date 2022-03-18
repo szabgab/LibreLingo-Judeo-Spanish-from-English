@@ -62,6 +62,8 @@ Phrases:
     Translation: The editorial team
   - Phrase: Su famiya se instalaron en Salonik
     Translation: "His family {settled down} in Thessaloniki"
+  - Phrase: Tiene kavesa dura
+    Translation: Has a hard head
 
 Two-way-dictionary:
   - a:                   un
@@ -233,6 +235,8 @@ Two-way-dictionary:
   - guest:               musafir
   - guide:               giadera
 
+  - hard:                dura
+  - hard:                duro
   - hate:                aborresion
   - he:                  el
   - health:              salu
@@ -594,3 +598,14 @@ Two-way-dictionary:
 # https://ladinokomunita.groups.io/g/main/message/67364?p=%2C%2C%2C20%2C0%2C0%2C0%3A%3Acreated%2C0%2Caldo+sevi%2C20%2C2%2C20%2C88418241
 #
 #
+#
+  - accross: atraves
+  - climate: klima
+  - season:  sezon
+  - winter:  invyerno
+  - spring:  primavera
+  - finally: a la fin
+  - dance:   bayle
+  - motorboat: barka motorizada
+  - cheap: barato
+  - bank: banka

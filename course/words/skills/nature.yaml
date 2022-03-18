@@ -7,6 +7,8 @@ New words: []
 Two-way-dictionary:
   - air:      aire
   - beach:    plaj
+  - cloud:    nuve
+  - clouds:   nuves
   - flower:   flor
   - lake:     lago
   - mountain: montanya
@@ -29,4 +31,5 @@ Phrases:
   - Phrase: Mar o montanya?
     Translation: Sea or mountain?
 
-
+  - Phrase: El sol sale atraves de las nuves
+    Translation: The sun {comes out} accross the clouds
