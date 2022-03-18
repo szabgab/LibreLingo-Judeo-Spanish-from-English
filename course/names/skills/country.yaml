@@ -4,6 +4,23 @@ Skill:
 
 New words: []
 
+Two-way-dictionary:
+  - Argentina: Ardjentina
+  - Bulgaria:  Bulgaria
+  - Bulgaria:  Bulgariya
+  - France:    Fransia
+  - Hungary:   Ungaria
+  - Israel:    Israel
+  - Italy:     Italya
+  - Mexico:    Meksiko
+  - Poland:    Polonya
+  - Spain:     Espanya
+  - Turkey:    Turkia
+
+  - italian:   italyana
+
+  - Europe:    evropa
+
 Phrases:
   - Phrase: Ardjentina es un pais en sur Amerika
     Translation: Argentina is a country in South America
@@ -13,41 +30,4 @@ Phrases:
     Translation: Bulgaria is in Europe
   - Phrase: Meksiko es en Norte de Amerika
     Translation: Mexico is in North America
-
-Mini-dictionary:
-  Ladino:
-    - Ardjentina: Argentina
-    - Bulgariya: Bulgaria
-    - Bulgaria: Bulgaria
-    - Espanya: Spain
-    - Fransia: France
-    - Israel: Israel
-    - Italya: Italy
-    - Meksiko: Mexico
-    - Polonya: Poland
-    - Turkia: Turkey
-    - Ungaria:  Hungary
-
-    - evropa: Europe
-
-    - italyana: italian
-
-
-  English:
-    - Argentina: Ardjentina
-    - Bulgaria:
-      - Bulgaria
-      - Bulgariya
-    - France: Fransia
-    - Hungary: Ungaria
-    - Israel: Israel
-    - Italy: Italya
-    - Mexico: Meksiko
-    - Poland: Polonya
-    - Spain: Espanya
-    - Turkey: Turkia
-
-    - italian: italyana
-
-    - Europe: evropa
 

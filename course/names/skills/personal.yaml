@@ -4,60 +4,28 @@ Skill:
 
 New words: []
 
-Phrases:
-  - Phrase: Mi nombre es Rina
-    Translation: My name is Rina
-
-Mini-dictionary:
-  Ladino:
-    - Carlos: Carlos
-    - Cohen: Cohen
-    - Dani: Dani
-    - David: David
-    - Esther: Ester
-    - Ester: Ester
-    - Lea: Lea
-    - Leah: Leah
-    - Haim: Haim
-    - Hayim: Haim
-    - Max: Max
-    - Moshe: Moshe
-    - Nissim: Nissim
-    - Rakel: Rachel
-    - Rachel: Rachel
-    - Rashelika: Rashelika
-    - Reina: Reina
-    - Rina: Rina
-    - Sara: Sarah
-    - Shaul: Shaul
-    - Yaakov: Yaakov
-    - Yosi: Yosi
-    - Yosef: Joseph
-
-  English:
-    - Carlos: Carlos
-    - Cohen: Cohen
-    - Dani: Dani
-    - David: David
-    - Ester:
-      - Esther
-      - Ester
-    - Haim:
-      - Haim
-      - Hayim
-    - Lea: Lea
-    - Leah: Leah
-    - Max: Max
-    - Moshe: Moshe
-    - Nissim: Nissim
-    - Rachel: Rakel
-    - Reina: Reina
-    - Rina: Rina
-    - Sarah: Sara
-    - Shaul: Shaul
-    - Yaakov: Yaakov
-    - Yosi: Yosi
-
+Phrases: []
 
 Two-way-dictionary:
   - Ana: Ana
+  - Carlos: Carlos
+  - Cohen:  Cohen
+  - Dani:   Dani
+  - David:  David
+  - Ester:  Esther
+  - Ester:  Ester
+  - Haim:   Haim
+  - Haim:   Hayim
+  - Lea:    Lea
+  - Leah:   Leah
+  - Max:    Max
+  - Moshe:  Moshe
+  - Nissim: Nissim
+  - Rachel: Rakel
+  - Reina:  Reina
+  - Rina:   Rina
+  - Sarah:  Sara
+  - Shaul:  Shaul
+  - Yaakov: Yaakov
+  - Yosi:   Yosi
+
