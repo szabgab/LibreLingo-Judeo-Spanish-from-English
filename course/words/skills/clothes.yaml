@@ -12,9 +12,9 @@ Phrases:
     Translation: I like it!
   - Phrase: Kuanto kosta?
     Translation: "{How much} is it?"
-  - Phrase: El vestido es bonito
+  - Phrase: El fostan es ermozo
     Translation: The dress is beautiful
-  - Phrase: Los sapatos son grandes
+  - Phrase: Los kalsados son grandes
     Translation: The shoes are big
   - Phrase: La kamiza es grande
     Translation: The shirt is big
@@ -32,14 +32,16 @@ Two-way-dictionary:
   - belt: sintura
   - bra: sosten
   - clothes: ropa
-  - dress: vestido
+  - dress: fostan
   - gloves: guante
   - hat: chapeo
   - hat: chapeyo
   - pants: pantalones
   - scarf: muslin
-  - shoe: sapato
-  - shoes: sapatos
+  - shoe: chapine
+  - shoe: kalsado
+  - shoes: chapines
+  - shoes: kalsados
   - shirt: kamiza
   - skirt: fusta
   - t-shirt: kamizeta
