@@ -26,7 +26,9 @@ Two-way-dictionary:
   - family:             famiya
   - firstborn son:      bohor
   - grandfather:        gran-papa
+  - grandfather:        avuelo
   - grandmother:        gran-mama
+  - grandmother:        avuela
   - grand-son:          inyeto
   - grand-daughter:     inyeta
   - husband:            marido
@@ -48,6 +50,7 @@ Two-way-dictionary:
   - uncle:              tio
   - uncles:             tios
   - wife:               mujer
+
 
 
 Phrases:

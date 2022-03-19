@@ -18,9 +18,12 @@ Skills:
   - arondjar.yaml
   - arrepushar.yaml
   - asperar.yaml
+  - atakar.yaml
+  - atar.yaml
   - azer.yaml
   - aver.yaml
   - avlar.yaml
+  - avrir.yaml
   - ayegar.yaml
   - ayudar.yaml
   - barrir.yaml
@@ -32,6 +35,7 @@ Skills:
   - bushkar.yaml
   - dar.yaml
   - demandar.yaml
+  - destruir.yaml
   - dever.yaml
   - empesar.yaml
   - echar.yaml
@@ -89,4 +93,5 @@ Skills:
   - venir.yaml
   - viajar.yaml
   - yamar.yaml
+
 
