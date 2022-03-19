@@ -2,6 +2,7 @@ Module:
   Name: "Verbs"
 
 Skills:
+  - aboltar.yaml
   - aborreser.yaml
   - abrasar.yaml
   - adjustar.yaml
@@ -56,6 +57,7 @@ Skills:
   - ir.yaml
   - kaminar.yaml
   - kantar.yaml
+  - kayarse.yaml
   - kerer.yaml
   - komer.yaml
   - konoser.yaml

@@ -559,10 +559,8 @@ Two-way-dictionary:
   - writers:             eskritoras
   - writing:             eskrito
 
+
 # source: https://ladinokomunita.groups.io/g/main/message/67482?p=%2C%2C%2C20%2C0%2C0%2C0%3A%3Acreated%2C0%2Caldo+sevi%2C20%2C2%2C20%2C88794251
-  - sweets:    dulsuryas
-  - marzipan:  masapan
-  - marzipan:  mogado de almendra
 #- marochino
 #- mustachudo
 # - honey boreka: borekita de muez
@@ -572,8 +570,6 @@ Two-way-dictionary:
 # source: https://ladinokomunita.groups.io/g/main/message/67441?p=%2C%2C%2C20%2C0%2C0%2C0%3A%3Acreated%2C0%2Caldo+sevi%2C20%2C2%2C20%2C88627102
 # frandjola
 # paniziko
-  - pogacha: pogacha
-  - pita: pita
 # -: boyo
 #
 #
@@ -599,19 +595,18 @@ Two-way-dictionary:
 #
 #
 #
-  - accross: atraves
-  - climate: klima
-  - season:  sezon
-  - winter:  invyerno
-  - spring:  primavera
-  - finally: a la fin
-  - dance:   bayle
-  - motorboat: barka motorizada
-  - cheap: barato
-  - bank: banka
-  - flour: arina
-  - sugar: asukar
-  - rain: luvya
-  - avenue: avenida
-  - dictatorship: diktatura
-  - dictatorships: diktaturas
+  - accross:        atraves
+  - climate:        klima
+  - season:         sezon
+  - winter:         invyerno
+  - spring:         primavera
+  - finally:        a la fin
+  - dance:          bayle
+  - cheap:          barato
+  - bank:           banka
+  - avenue:         avenida
+  - dictatorship:   diktatura
+  - dictatorships:  diktaturas
+  - rabbi:          haham
+  - expert:         haham
+  - sir:            sinyor
