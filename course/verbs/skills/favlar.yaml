@@ -4,17 +4,13 @@ Skill:
 
 New words: []
 
+Two-way-dictionary:
+  - (to) speak: favlar
+  - (I) speak: (yo) favlo
+  - (they) speak: (eyas/eyos) favlan
+
 Phrases:
   - Phrase: Yo favlo en Djudeo-Espanyol
     Translation: I speak in Ladino
-
-
-
-Mini-dictionary:
-  Ladino:
-    - favlar: speak
-    - favlo: (I) speak
-  English:
-    - speak:
-      - favlar
-      - favlo
+  - Phrase: Los djudios en Izmir favlan Ladino
+    Translation: The jews in Izmir speak Ladino

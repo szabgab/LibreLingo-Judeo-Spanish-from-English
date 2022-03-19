@@ -10,9 +10,11 @@ Mini-dictionary:
   Ladino:
     - mandar: to send
 
-    - mando: (I) send
-    - te mando: (I) send you
-    - mandi: (I) sent
+    - mando:     (I) send
+    - te mando:  (I) send you
+    - mandi:     (I) sent
+    - mandarvos: (we) send (to you)
+
   English:
     - send: mandar
 

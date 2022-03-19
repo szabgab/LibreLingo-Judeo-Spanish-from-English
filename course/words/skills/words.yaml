@@ -4,7 +4,6 @@ Skill:
 
 New words: []
 
-
 Two-way-dictionary:
   - a:                   un
   - a:                   una
@@ -91,6 +90,7 @@ Two-way-dictionary:
   - colors:              kolores
   - companion:           kompanyero
   - community:           komunita
+  - congratulations:     felisitasyones
   - content:             kontenidos
   - contents:            kontenidos
   - contain:             kontienen
@@ -149,6 +149,7 @@ Two-way-dictionary:
   - feel:                gusta
   - feminine:            feminino
   - fiance:              novio
+  - film:                filmo
   - finally:             a la fin
   - for:                 para
   - for me:              para mi
@@ -207,7 +208,6 @@ Two-way-dictionary:
   - I am called:         yamo
   - I am hungry:         tengo ambre
   - I like:              me plaze
-  - I like:              me agrada
   - I remember:          me akodro
   - icecream:            dondurma
   - if:                  si
@@ -350,7 +350,6 @@ Two-way-dictionary:
   - people:              djente
   - place:               lugar
   - pleasure:            plazer
-  - pleasant:            agradavle
   - please:              por favor
   - poet:                poeta
   - poets:               poetas
@@ -366,6 +365,7 @@ Two-way-dictionary:
   - public:              publiko
   - public:              publikos
   - publications:        publikasiones
+  - Purim:               Purim
 
   - question:            demanda
   - questions:           demandas
@@ -442,6 +442,7 @@ Two-way-dictionary:
   - that:                eso
   - that:                ke
   - day:                 dia
+  - day:                 diya
   - the:                 el
   - the:                 la
   - the:                 las

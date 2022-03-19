@@ -31,6 +31,8 @@ Mini-dictionary:
     - mueva: our
     - muevos: ours
     - muevas: ours
+    - vos: yourselves
+
   English:
     - i: yo
     - you:
@@ -54,3 +56,4 @@ Mini-dictionary:
     - ours:
       - muevos
       - muevas
+    - yourselves: vos
