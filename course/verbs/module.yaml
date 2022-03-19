@@ -2,6 +2,7 @@ Module:
   Name: "Verbs"
 
 Skills:
+  - abandonar.yaml
   - aboltar.yaml
   - aborreser.yaml
   - abrasar.yaml
@@ -37,6 +38,7 @@ Skills:
   - bushkar.yaml
   - dar.yaml
   - demandar.yaml
+  - deskuvrir.yaml
   - destruir.yaml
   - dever.yaml
   - empesar.yaml

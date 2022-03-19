@@ -5,29 +5,33 @@ Skill:
 New words: []
 
 Two-way-dictionary:
-  - airplanes: aviones
-  - airport:   aeroporto
-  - airplane:  avion
+  - airplanes:      aviones
+  - airport:        aeroporto
+  - airplane:       avion
 
-  - bicycle:   bisikleta
-  - bus:       otobus
-  - buses:     otobuses
+  - bicycle:        bisikleta
+  - (small) boat:   barka
+  - (small) boat:   barko
+  - bus:            otobus
+  - buses:          otobuses
 
-  - car:       araba
-  - car:       koche
-  - car:       oto
-  - car:       otomobil
-  - cars:      arabas
+  - car:            araba
+  - car:            koche
+  - car:            oto
+  - car:            otomobil
+  - cars:           arabas
 
-  - motorboat: barka motorizada
+  - motorboat:      barka motorizada
 
-  - platform:  plataforma
+  - platform:       plataforma
 
-  - station:   estasion
+  - ship:           vapor
+  - ship:           nave
+  - station:        estasion
 
-  - ticket:    bilyeto
-  - taxi:      taksi
-  - train:     treno
+  - ticket:         bilyeto
+  - taxi:           taksi
+  - train:          treno
 
 
 Phrases:

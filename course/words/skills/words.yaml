@@ -4,16 +4,25 @@ Skill:
 
 New words: []
 
+
 Two-way-dictionary:
   - a:                   un
   - a:                   una
   - a bit:               un poko
+  - a little:            poko
   - about:               sovre
   - above:               ensima
+  - absolute:            absoluto
   - accent:              aksan
   - accept:              akseptamos
   - accross:             atraves
-  - actor:               aktor
+  - active:              aktiva
+  - active:              aktivo
+  - activity:            aktividad
+  - address:             adreso
+  - after:               dempues
+  - after:               despues
+  - after:               dospues
   - afternoon:           tadres
   - age:                 edad
   - already:             ya
@@ -41,6 +50,7 @@ Two-way-dictionary:
   - at:                  en
   - ATM:                 bankomatiko
   - author:              autor
+  - autumn:              otonyo
   - authors:             autores
   - authentic:           autentikos
   - avenue:              avenida
@@ -113,6 +123,10 @@ Two-way-dictionary:
   - dear:                keridos
   - dear:                keridas
   - decade:              dekada
+  - decision:            dechizion
+  - decision:            dechizyon
+  - decision:            desizion
+  - decision:            desizyon
   - denigrating:         denigratora
   - dialect:             dialekto
   - dialects:            dialektos
@@ -319,6 +333,7 @@ Two-way-dictionary:
 
 
   - on:                  en
+  - on top:              ensima
   - of:                  de
   - of:                  del
   - old:                 viejo
@@ -338,6 +353,7 @@ Two-way-dictionary:
   - other:               otruna
   - outside:             afuera
   - oven:                orno
+  - over:                ensima
 
   - page:                pajina
   - partner:             kompanyero
@@ -348,6 +364,7 @@ Two-way-dictionary:
   - people:              djente
   - person:              persona
   - people:              djente
+  - pity:                pekado
   - place:               lugar
   - pleasure:            plazer
   - please:              por favor
