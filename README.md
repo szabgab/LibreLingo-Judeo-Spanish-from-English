@@ -109,3 +109,40 @@ While there can be any number of "modules" and each module can contain anyting I
 * Alternatively you can send me emails with instruction how to change things.
 * We could also work together in a Zoom session in which you can tell me what to write and I can write. We can discuss ideas for special treatment of words and phrases.
 
+
+### Lists
+
+source: https://ladinokomunita.groups.io/g/main/message/67482?p=%2C%2C%2C20%2C0%2C0%2C0%3A%3Acreated%2C0%2Caldo+sevi%2C20%2C2%2C20%2C88794251
+- marochino
+- mustachudo
+ - honey boreka: borekita de muez
+borekita de alhashu
+
+
+source: https://ladinokomunita.groups.io/g/main/message/67441?p=%2C%2C%2C20%2C0%2C0%2C0%3A%3Acreated%2C0%2Caldo+sevi%2C20%2C2%2C20%2C88627102
+ frandjola
+ paniziko
+ -: boyo
+
+
+los asados: https://ladinokomunita.groups.io/g/main/message/67410?p=%2C%2C%2C20%2C0%2C0%2C0%3A%3Acreated%2C0%2Caldo+sevi%2C20%2C2%2C20%2C88531472
+ bonfile
+  biftek
+ shishlik
+ kyoftika asada
+  kostya de kodrero
+  ligado de gayna
+  igado de gayna
+  rinyones
+  molejas
+  blanko de gayna asado
+  chelopato de gayna
+  korason de gayna
+
+los eskaldados i los tostados:
+https://ladinokomunita.groups.io/g/main/message/67382?p=%2C%2C%2C20%2C0%2C0%2C0%3A%3Acreated%2C0%2Caldo+sevi%2C20%2C2%2C20%2C88480396
+
+los gizados de karne, gayna i pishkado
+https://ladinokomunita.groups.io/g/main/message/67364?p=%2C%2C%2C20%2C0%2C0%2C0%3A%3Acreated%2C0%2Caldo+sevi%2C20%2C2%2C20%2C88418241
+
+

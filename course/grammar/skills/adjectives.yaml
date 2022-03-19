@@ -14,6 +14,7 @@ Mini-dictionary:
       - his
       - her
       - their
+    - suyo: yours
     - muestro: our (male)
     - muestra: our (female)
     - vuestro: your (male, plural)
@@ -41,6 +42,7 @@ Mini-dictionary:
       - vuestra
       - vuestros
       - vuestras
+    - yours: suyo
     - his:
       - su
       - sus
