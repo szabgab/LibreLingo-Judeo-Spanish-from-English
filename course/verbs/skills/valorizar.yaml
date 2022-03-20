@@ -4,11 +4,13 @@ Skill:
 
 New words: []
 
-Phrases: []
 
-Mini-dictionary:
-  Ladino:
-    - valorizar: to favor
-  English:
-    - favor: valorizar
+Two-way-dictionary:
+  - (to) favor: valorizar
 
+  - value: (la) valor
+  - valuable: valor
+
+Phrases:
+  - Phrase: Es una koza de valor
+    Translation: It is a valuable thing.

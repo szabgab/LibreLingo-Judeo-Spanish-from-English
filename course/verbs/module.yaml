@@ -3,6 +3,7 @@ Module:
 
 Skills:
   - abandonar.yaml
+  - abastar.yaml
   - aboltar.yaml
   - aborreser.yaml
   - abrasar.yaml
@@ -41,10 +42,13 @@ Skills:
   - deskuvrir.yaml
   - destruir.yaml
   - dever.yaml
+  - dezir.yaml
+  - dizir.yaml
   - empesar.yaml
   - echar.yaml
   - efasar.yaml
   - enkomendar.yaml
+  - enkontrar.yaml
   - entender.yaml
   - entrar.yaml
   - eskrivir.yaml
@@ -88,6 +92,7 @@ Skills:
   - poder.yaml
   - pozar.yaml
   - plazer.yaml
+  - pratikar.yaml
   - propozar.yaml
   - publikar.yaml
   - pueder.yaml
@@ -98,6 +103,7 @@ Skills:
   - tomar.yaml
   - topar.yaml
   - travar.yaml
+  - uzar.yaml
   - valorizar.yaml
   - venir.yaml
   - viajar.yaml

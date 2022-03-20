@@ -43,6 +43,8 @@ Two-way-dictionary:
   - animals:             animales
   - anonymous:           anonimos
   - apartment:           apartemento
+  - archive:             archivo
+  - archives:            archivos
   - ardour:              ardor
   - as:                  komo
   - ashkenazi:           ashkenazi
@@ -130,6 +132,11 @@ Two-way-dictionary:
   - denigrating:         denigratora
   - dialect:             dialekto
   - dialects:            dialektos
+  - dictionary:          diksionario
+  - dictionary:          diksionaryo
+  - difference:          diferensia
+  - different:           diferente
+  - different:           diferentes
   - difficult:           zor
   - dinner:              sena
   - dictatorship:        diktatura
@@ -150,10 +157,13 @@ Two-way-dictionary:
   - empty:               vaziyo
   - engagement:          despozorio
   - environment:         entorno
+  - especially:          espesialmente
   - etc:                 ets
   - excuse me:           pardon
   - example:             enshemplo
+  - example:             egzempio
   - examples:            enshemplos
+  - examples:            egzempios
   - expensive:           karos
   - expensive:           karas
   - expert:              haham
@@ -163,7 +173,10 @@ Two-way-dictionary:
   - feel:                gusta
   - feminine:            feminino
   - fiance:              novio
+  - file:                archivo
+  - files:               archivos
   - film:                filmo
+  - films:               filmos
   - finally:             a la fin
   - for:                 para
   - for me:              para mi
@@ -180,7 +193,9 @@ Two-way-dictionary:
   - full:                yeno
 
   - game:                djugo
+  - games:               djugos
   - game:                partida
+  - games:               partidas
   - general:             jenerales
   - glass:               kupa
   - goal:                buto
@@ -216,6 +231,8 @@ Two-way-dictionary:
   - house:               kaza
   - houses:              kazas
   - Holocaust:           Olokosto
+  - host:                balabaya
+  - humor:               (el) umor
   - humoristic:          umoristiko
   - humoristic:          umoristikos
 
@@ -226,6 +243,7 @@ Two-way-dictionary:
   - icecream:            dondurma
   - if:                  si
   - important:           importante
+  - impossible:          emposivle
   - in:                  en
   - indications:         indikasiones
   - influence:           influensia
@@ -268,6 +286,8 @@ Two-way-dictionary:
   - level:               nivel
   - library:             biblioteka
   - life:                vida
+  - light:               liviana
+  - light:               liviano
   - lingusitics:         linguistika
   - little:              chiko
   - little:              chika
@@ -372,6 +392,7 @@ Two-way-dictionary:
   - poets:               poetas
   - poetry:              poezia
   - police:              polisiya
+  - possible:            posivle
   - pretty:              lindo
   - pretty:              linda
   - pretty:              ermozo
@@ -402,10 +423,13 @@ Two-way-dictionary:
   - ring:                aniyo
   - room:                kamareta
 
-  - same:                mizmo
   - same:                mizma
+  - same:                mizmas
+  - same:                mizmo
+  - same:                mizmos
   - season:              sezon
   - section:             seksion
+  - Sephardic:           Sefaradi
   - Sephardic:           Sefaradim
   - Sephardic:           Sefaradis
   - settled down:        instalaron
@@ -413,6 +437,10 @@ Two-way-dictionary:
   - shabat:              shabat
   - shabat:              shabad
   - shalom:              shalom
+  - short film:          filmiko
+  - short films:         filmikos
+  - short story:         kuentiziko
+  - short stories:       kuentizikos
   - sick:                hazino
   - sick:                hazina
   - side:                vanda

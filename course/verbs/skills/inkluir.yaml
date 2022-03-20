@@ -4,13 +4,13 @@ Skill:
 
 New words: []
 
+Two-way-dictionary:
+  - (to) include: inkluir
+  - (I) include: inkluyo
+  - (you) include: inkluyes
+  - (we) include: inkluimos
+  - included: inkluzo
+
 Phrases:
   - Phrase: Inkluir
     Translation: To include
-
-Mini-dictionary:
-  Ladino:
-    - inkluir: to include
-    - inkluimos: (we) include
-  English:
-    - include: incluir
