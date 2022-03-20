@@ -2,27 +2,28 @@ Module:
   Name: "Words"
 
 Skills:
+  - adverbs.yaml
+  - animals.yaml
+  - body.yaml
   - clothes.yaml
+  - colors.yaml
+  - days.yaml
   - drinks.yaml
+  - family.yaml
+  - flowers.yaml
+  - food.yaml
+  - frutas.yaml
+  - geography.yaml
+  - house.yaml
+  - kitchen.yaml
+  - nature.yaml
   - numbers-till-10.yaml
   - numbers-till-20.yaml
   - numbers.yaml
   - ordered-numbers-till-10.yaml
-  - animals.yaml
-  - colors.yaml
-  - frutas.yaml
-  - words.yaml
-  - days.yaml
-  - family.yaml
-  - questions.yaml
-  - food.yaml
-  - flowers.yaml
-  - transportation.yaml
-  - adverbs.yaml
-  - geography.yaml
-  - nature.yaml
-  - house.yaml
   - professions.yaml
-  - vegetables.yaml
-  - body.yaml
+  - questions.yaml
   - sport.yaml
+  - transportation.yaml
+  - vegetables.yaml
+  - words.yaml

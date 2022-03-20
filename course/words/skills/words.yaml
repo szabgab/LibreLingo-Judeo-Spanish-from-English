@@ -4,7 +4,6 @@ Skill:
 
 New words: []
 
-
 Two-way-dictionary:
   - a:                   un
   - a:                   una
@@ -115,7 +114,6 @@ Two-way-dictionary:
   - creator:             kriador
   - culture:             kultura
   - cultural:            kultural
-  - cup:                 tasa
 
   - dance:               bayle
   - dear:                karos
@@ -170,6 +168,7 @@ Two-way-dictionary:
   - everyone:            todos
 
   - famous:              famozos
+  - favour:              favor
   - feel:                gusta
   - feminine:            feminino
   - fiance:              novio
@@ -264,10 +263,6 @@ Two-way-dictionary:
   - jews:                djudios
   - job:                 lavoro
   - joy:                 alegria
-
-  - kitchen:             kozina
-  - kitchen:             kuzina
-  - kitchen:             mutpak
 
   - lack:                mankar
   - language:            lashon
@@ -372,7 +367,6 @@ Two-way-dictionary:
   - other:               otruno
   - other:               otruna
   - outside:             afuera
-  - oven:                orno
   - over:                ensima
 
   - page:                pajina

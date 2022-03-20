@@ -64,3 +64,8 @@ Mini-dictionary:
       - muevos
       - muevas
     - yourselves: vos
+
+Two-way-dictionary:
+    - me:    me
+    - to me: me
+

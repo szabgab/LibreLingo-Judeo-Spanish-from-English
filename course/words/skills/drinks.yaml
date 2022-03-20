@@ -4,14 +4,21 @@ Skill:
 
 New words: []
 
-Phrases: []
-
 Two-way-dictionary:
-  - alcohol: alkol
-  - beer:    bira
-  - coffee:  kafe
-  - coffee:  kave
-  - juice:   sumo
-  - milk:    leche
-  - tea:     chay
-  - water:   agua
+  - alcohol:       alkol
+  - apple juice:   sumo de mansana
+  - beer:          bira
+  - capuchino:     (el) kapuchino
+  - coffee:        kafe
+  - coffee:        kave
+  - espresso:      (el) kafe espreso
+  - juice:         sumo
+  - milk:          (la) leche
+  - orange juice:  sumo de portokal
+  - tea:           chay
+  - water:         agua
+
+Phrases:
+  - Phrase: Puedes dar un sumo de portokal?
+    Translation: Can you give an orange juice?
+

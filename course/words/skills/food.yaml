@@ -5,25 +5,31 @@ Skill:
 New words: []
 
 Two-way-dictionary:
-  - asado:      roasted
-  - bread:      pan
-  - cake:       pastel
-  - cheese:     kezo
-  - egg:        guevo
-  - flour:          arina
-  - honey:      miel
-  - marzipan:   masapan
-  - marzipan:   mogado de almendra
-  - pita:       pita
-  - pogacha:    pogacha
-  - salad:      salata
-  - soup:       sopa
-  - sugar:          asukar
-  - sweets:     dulsuryas
-  - rice:       arroz
-  - vegetable:  vedrura
-  - vegetables: vedruras
-
+  - asado:         roasted
+  - bread:         pan
+  - cake:          pastel
+  - cheese:        kezo
+  - cream:         (la) krema
+  - egg:           guevo
+  - flour:         arina
+  - french fries:  (las) patatas fritas
+  - hamburger:     hamburger
+  - honey:         miel
+  - marzipan:      masapan
+  - marzipan:      mogado de almendra
+  - pita:          (la) pita
+  - pizza:         (la) pizza
+  - pogacha:       (la) pogacha
+  - salad:         (la) salata
+  - soup:          (la) sopa
+  - steak:         (el) biftek
+  - sugar:         asukar
+  - sweet:         (la) dulsurya
+  - sweets:        (las) dulsuryas
+  - rice:          (el) arroz
+  - vegetable:     (la) vedrura
+  - vegetables:    (las) vedruras
+  - fried eggplant in tomato sauce: (la) alburniya
 
 Phrases:
   - Phrase: el pan
