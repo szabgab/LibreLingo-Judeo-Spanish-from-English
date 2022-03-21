@@ -96,6 +96,7 @@ Two-way-dictionary:
   - class:               klasa
   - classroom:           klasa
   - climate:             klima
+  - close:               serka
   - cold:                frio
   - cold:                friyo
   - color:               kolor
@@ -109,6 +110,7 @@ Two-way-dictionary:
   - contrary:            kontra
   - country:             pais
   - course:              kurso
+  - courses:             kursos
   - copy:                kopya
   - cost:                kosta
   - contact:             kontakto
@@ -129,6 +131,7 @@ Two-way-dictionary:
   - decision:            desizion
   - decision:            desizyon
   - denigrating:         denigratora
+  - desire:              dezeo
   - dialect:             dialekto
   - dialects:            dialektos
   - dictionary:          diksionario
@@ -141,8 +144,11 @@ Two-way-dictionary:
   - dictatorship:        diktatura
   - dictatorships:       diktaturas
   - does:                esta
+  - doll:                (la) kukla
+  - dolls:               (las) kuklas
   - down:                abasho (adv)
-  - door:                puerta
+  - door:                (la) puerta
+  - doors:               (las) puertas
   - don't:               no
   - during:              durante
 
@@ -181,6 +187,7 @@ Two-way-dictionary:
   - finally:             a la fin
   - for:                 para
   - for me:              para mi
+  - for sure:            siguro
   - form:                forma
   - forward:             adelante
   - friend:              amigo
@@ -266,6 +273,7 @@ Two-way-dictionary:
   - jews:                djudios
   - job:                 lavoro
   - joy:                 alegria
+  - justice:             razon
 
   - lack:                mankar
   - language:            lashon
@@ -313,7 +321,9 @@ Two-way-dictionary:
   - materials:           materiales
   - material:            material
   - meal:                komida
+  - meals:               komidas
   - member:              miembro
+  - members:             miembros
   - message:             mesaje
   - messages:            mesajes
   - minutes:             minutos
@@ -336,9 +346,12 @@ Two-way-dictionary:
 
   - name:                nombre
   - name:                me llamo
+  - names:               nombres
+  - near by:             serka
   - necessary:           menester
   - negative:            negativo
   - neutral:             neutrala
+  - never:               nunka
   - newspaper:           jurnal
   - newspapers:          jurnales
   - nice:                bueno
@@ -384,6 +397,8 @@ Two-way-dictionary:
   - people:              djente
   - person:              persona
   - people:              djente
+  - phrase:              (la) fraza
+  - phrases:             (las) frazas
   - pity:                pekado
   - place:               lugar
   - pleasure:            plazer
@@ -414,6 +429,8 @@ Two-way-dictionary:
   - quickly:             presto
 
   - rabbi:               haham
+  - reason:              meoyo
+  - reason:              razon
   - rebirth:             renasimiento
   - recently:            resientemente
   - refugees:            refujiados
@@ -422,6 +439,7 @@ Two-way-dictionary:
   - remark:              remarka
   - restroom:            tualet
   - right:               djusta
+  - right:               razon
   - ring:                aniyo
   - room:                kamareta
 
@@ -431,6 +449,8 @@ Two-way-dictionary:
   - same:                mizmos
   - season:              sezon
   - section:             seksion
+  - sentence:            (la) fraza
+  - sentences:           (las) frazas
   - Sephardic:           Sefaradi
   - Sephardic:           Sefaradim
   - Sephardic:           Sefaradis
@@ -550,6 +570,7 @@ Two-way-dictionary:
   - web:                 web
   - week:                semana
   - winter:              invyerno
+  - wish:                dezeo
   - with:                kon
   - with me:             kon mi
   - without:             sin

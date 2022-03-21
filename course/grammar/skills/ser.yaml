@@ -6,26 +6,18 @@ New words: []
 
 Phrases: []
 
-Mini-dictionary:
-  Ladino:
-    - ser: to be
-    - so: (I) am
-    - sos: (you) are
-    - es: (she/he) is
-    - somos: (we) are
-    - semos: (we) are
-    - sosh: (you) are (pl)
-    - son: (they) are
+Two-way-dictionary:
+  - (to) be:        ser
 
-    - fuera: was
-    - era: (he/she) was
-  English:
-    - am: so
-    - are:
-      - sos
-    - be: ser
+  - (I) am:         so
+  - (you) are:      sos
+  - (she/he) is:    es
+  - (we) are:       somos
+  - (we) are:       semos
+  - (you) are (pl): sosh
+  - (they) are:     son
 
-    - was:
-      - era
-      - fuera
+  - (he/she) was: era
+  - was: fuera
+  - were: eran
 

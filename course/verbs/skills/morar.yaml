@@ -6,22 +6,14 @@ New words: []
 
 Phrases: []
 
-Mini-dictionary:
-  Ladino:
-    - morar: to live
-    - moro: (I) live
-    - moras: (you) live
-    - mora: (he/she) live
-    - moramos: (we) live
-    - moraish: (you) live (pl)
-    - moran: (they) live
-  English:
-    - live:
-      - (yo) moro
-      - (tu) moras
-      - (mosotros/mosotras) moramos
-      - (vosotros/vosotras) moraish
-      - (eyos/eyas) moran
-    - lives:
-      - (el) mora
-      - (eya) mora
+Two-way-dictionary:
+  - to live: morar
+
+  - (I) live:     (yo) moro
+  - (you) live:   (tu) moras
+  - (s/he) lives: (el/eya) mora
+  - (we) live:    (mosotros/mosotras) moramos
+  - (you) live:   (vosotros/vosotras) moraish
+  - (they) live:  (eyos/eyas) moran
+
+  - (we) lived:   moravamos

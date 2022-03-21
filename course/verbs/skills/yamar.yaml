@@ -4,6 +4,23 @@ Skill:
 
 New words: []
 
+Two-way-dictionary:
+  - I am called:     me yamo
+  - my name is:      me yamo
+  - you are called:  te yamas
+  - he is called:    se yama
+  - she is called:   se yama
+  - we are called:   mos yamamos
+  - you are called:  vos yamash
+  - they are called: se yaman
+
+  - (to) call:       yamar
+  - called:          yamada
+  - to be called oneself (reflexive): yamarse
+  - is being called: yamada
+
+  - (they) called: yamavan
+
 Phrases:
   - Phrase: "{Me yamo} Dani"
     Alternative versions:
@@ -24,25 +41,4 @@ Phrases:
 
 
 
-Mini-dictionary:
-  Ladino:
-    - me yamo:
-      - I am called
-      - my name is
-    - te yamas:
-      - you are called
-    - se yama:
-      - he is called
-      - she is called
-    - mos yamamos:
-      - we are called
-    - vos yamash:
-      - you are called (plural)
-    - se yaman:
-      - they are called
-    - yamar: to call
-    - yamarse: to be called oneself (reflexive)
 
-    - yamada: is being called
-  English:
-    - called: yamada

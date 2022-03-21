@@ -6,15 +6,13 @@ New words: []
 
 Phrases: []
 
-Mini-dictionary:
-  Ladino:
-    - kaminar: to walk
-    - kamino: (I) walk
-    - kaminas: (you) walk
-    - kamina: (he/she) walks
-    - kaminamos: (we) walk
-    - kaminaish: (you) walk (p)
-    - kaminan: (they) walk
-  English:
-    - walk: kaminar
-    - walks: kamina
+Two-way-dictionary:
+  - (to) walk:    kaminar
+  - (I) walk:     kamino
+  - (you) walk:   kaminas
+  - (s/he) walks: kamina
+  - (we) walk:    kaminamos
+  - (you) walk:   kaminash
+  - (they) walk:  kaminan
+
+  - walking:      kaminando

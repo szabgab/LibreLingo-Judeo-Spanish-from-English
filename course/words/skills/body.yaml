@@ -17,6 +17,7 @@ Two-way-dictionary:
   - eye: ojo
   - face: kara
   - foot: pie
+  - foot: pye
   - forehead: frente
   - finger: dedo
   - hair: pelo
@@ -35,3 +36,6 @@ Two-way-dictionary:
   - tooth: diente
   - throat: garon
   - tongue: luenga
+
+  - on foot: a pie
+  - on foot: a pye
