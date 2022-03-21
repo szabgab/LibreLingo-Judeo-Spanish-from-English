@@ -12,62 +12,36 @@ Phrases:
   - Phrase: livros muevos
     Translation: our books
 
-Mini-dictionary:
-  Ladino:
-    - yo: I
-    - tu: you
-    - el: he
-    - eya: she
-    - mozotros: we (m)
-    - mozotras: we (f)
-    - vozotros: you (m p)
-    - vozotras: you (f p)
-    - eyos: they (m)
-    - eyas: they (f)
+Two-way-dictionary:
+    - I:      yo
+    - you:    tu
+    - he:     el
+    - she:    eya
+    - we:     mozotros
+    - we:     mozotras
+    - you:    vozotros
+    - you:    vozotras
+    - they:   eyos
+    - they:   eyas
 
-    - te: you
+    - me:     me
+    - to me:  me
+    - you:    te
+    - it:     lo
+    - him:    le
+    - to him: le
+    - to her: le
+    - to it:  le
 
-    - muevo: our
-    - mueva: our
-    - muevos: ours
-    - muevas: ours
 
-    - le:
-      - him
-      - to him
-      - to her
-      - to it
-    - mos: ourselves
-    - vos: yourselves
+    - us:   mozotros
+    - our:  muevo
+    - our:  mueva
+    - ours: muevos
+    - ours: muevas
 
-  English:
-    - i: yo
-    - you:
-      - te
-      - tu
-      - vozotros
-      - vozotras
-    - he: el
-    - she: eya
-    - we:
-      - mozotros
-      - mozotras
-    - they:
-      - eyos
-      - eyas
 
-    - us: mozotros
-    - our:
-      - muevo
-      - mueva
-    - ours:
-      - muevos
-      - muevas
+    - ourselves:  mos
     - yourselves: vos
 
-    - it: lo
-
-Two-way-dictionary:
-    - me:    me
-    - to me: me
 
