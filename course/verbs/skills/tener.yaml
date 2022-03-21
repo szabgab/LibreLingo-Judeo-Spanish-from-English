@@ -15,11 +15,14 @@ Mini-dictionary:
     - tienes: (you) have
     - tyenes: (you) have
     - tiene: (he/she) has
+    - tyene: (he/she) has
     - tenemos: (we) have
-    - teneish: (yo) have (pl)
+    - tenesh: (yo) have (pl)
     - tienen: (they) have
+    - tyenen: (they) have
 
     - tuve: (I) had
+    - tuvimos: (we) had
   English:
     - has:
       - (el/eya) tiene
@@ -29,6 +32,6 @@ Mini-dictionary:
       - (tu) tienes
       - (tu) tyenes
       - (mozotros/mozotras) tenemos
-      - (vozotros/vozotras) teneish
+      - (vozotros/vozotras) tenesh
       - (eyos/eyas) tienen
     - had: tuve

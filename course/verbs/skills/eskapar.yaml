@@ -6,8 +6,11 @@ New words: []
 
 Phrases: []
 
-Mini-dictionary:
-  Ladino:
-    - eskapar: finish
-  English:
-    - finish: eskapar
+Two-way-dictionary:
+  - (to) finish:       eskapar
+  - (I) finish:        eskapo
+  - (you) finish:      eskapas
+  - (he/she) finishes: eskapa
+  - (we) finish:       eskapamos
+  - (you) finish:      eskapash
+  - (they) finish:     eskapan

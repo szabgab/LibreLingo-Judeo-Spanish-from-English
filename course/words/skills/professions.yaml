@@ -19,5 +19,9 @@ Two-way-dictionary:
   - teacher:    profesora
   - teachers:   profesores
   - teachers:   profesoras
+  - salesman:   vendedor
+  - saleswoman: vendedora
+  - salesmen:   vendedores
+  - saleswomen: vendedoras
   - waiter:     garson
   - waiters:    garsones

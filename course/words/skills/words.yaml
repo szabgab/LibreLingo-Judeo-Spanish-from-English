@@ -81,6 +81,7 @@ Two-way-dictionary:
   - bride:               novia
   - bridge:              pontre
   - bridges:             pontres
+  - brush:               (la) furcha
   - but:                 ama
   - but:                 ma
 
@@ -196,6 +197,7 @@ Two-way-dictionary:
   - game:                partida
   - games:               partidas
   - general:             jenerales
+  - gillette:            jilet
   - glass:               kupa
   - goal:                buto
   - god:                 dio
@@ -290,6 +292,8 @@ Two-way-dictionary:
   - little:              poko
   - lot:                 muncho
   - lot:                 muncha
+  - lovely:              presioza
+  - lovely:              presiozo
   - luck:                mazal
 
   - madness:             lokura
@@ -480,6 +484,10 @@ Two-way-dictionary:
   - thank you:           mersi
   - that:                eso
   - that:                ke
+  - that:                akel
+  - that:                akeya
+  - time:                tiempo
+  - time:                tyempo
   - day:                 dia
   - day:                 diya
   - the:                 el
