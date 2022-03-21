@@ -8,30 +8,19 @@ Phrases:
   - Phrase: Yo tengo un ermano
     Translation: I have a brother
 
-Mini-dictionary:
-  Ladino:
-    - tener: to have
-    - tengo: (I) have
-    - tienes: (you) have
-    - tyenes: (you) have
-    - tiene: (he/she) has
-    - tyene: (he/she) has
-    - tenemos: (we) have
-    - tenesh: (yo) have (pl)
-    - tienen: (they) have
-    - tyenen: (they) have
+Two-way-dictionary:
+  - (to) have:   tener
+  - (I) have:    (yo) tengo
+  - (you) have:  (tu) tienes
+  - (you) have:  (tu) tyenes
+  - (s/he) has:  (el/eya) tiene
+  - (s/he) has:  (el/eya) tyene
+  - (we) have:   (mozotros/mozotras) tenemos
+  - (you) have:  (vozotros/vozotras) tenesh
+  - (they) have: (eyos/eyas) tienen
+  - (they) have: (eyos/eyas) tyenen
 
-    - tuve: (I) had
-    - tuvimos: (we) had
-  English:
-    - has:
-      - (el/eya) tiene
-    - have:
-      - tener
-      - (yo) tengo
-      - (tu) tienes
-      - (tu) tyenes
-      - (mozotros/mozotras) tenemos
-      - (vozotros/vozotras) tenesh
-      - (eyos/eyas) tienen
-    - had: tuve
+  - (I) had:  tuve
+
+  - (I) had:  (yo) tenia
+  - (we) had: tuvimos

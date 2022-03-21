@@ -44,6 +44,7 @@ Skills:
   - demandar.yaml
   - deskuvrir.yaml
   - destruir.yaml
+  - despertar.yaml
   - dever.yaml
   - dezir.yaml
   - dizir.yaml
@@ -85,6 +86,7 @@ Skills:
   - merkar.yaml
   - mesurar.yaml
   - meter.yaml
+  - mirar.yaml
   - morar.yaml
   - naser.yaml
   - nesesitar.yaml
@@ -107,11 +109,13 @@ Skills:
   - salvar.yaml
   - saver.yaml
   - sintir.yaml
+  - sitar.yaml
   - tener.yaml
   - tomar.yaml
   - topar.yaml
   - travar.yaml
   - uzar.yaml
+  - valer.yaml
   - valorizar.yaml
   - vender.yaml
   - venir.yaml

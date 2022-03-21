@@ -152,6 +152,8 @@ Two-way-dictionary:
   - don't:               no
   - during:              durante
 
+  - early:               demprano
+  - early:               temprano
   - easy:                kolay
   - edition:             numero (de jurnal)
   - editor:              redaktor
@@ -370,8 +372,10 @@ Two-way-dictionary:
   - on top:              ensima
   - of:                  de
   - of:                  del
-  - old:                 viejo
   - old:                 vieja
+  - old:                 viejo
+  - old:                 vyeja
+  - old:                 vyejo
   - older:               mas viejo
   - older:               mas vieja
   - open:                avierta
@@ -415,7 +419,9 @@ Two-way-dictionary:
   - primary:             primarias
   - product:             produkto
   - products:            produktos
+  - program:             (el) program
   - propaganda:          propaganda
+  - proverb:             (el) refran
   - psychopatology:      psikopatologia
   - public:              publiko
   - public:              publikos
@@ -437,6 +443,7 @@ Two-way-dictionary:
   - relation:            relasion
   - relations:           relasiones
   - remark:              remarka
+  - response:            (la) repuesta
   - restroom:            tualet
   - right:               djusta
   - right:               razon
@@ -447,6 +454,10 @@ Two-way-dictionary:
   - same:                mizmas
   - same:                mizmo
   - same:                mizmos
+  - sarcastic:           sarkastika
+  - saying:              (la) dicha
+  - sayings:             (las) dichas
+  - saying:              (el) refran
   - season:              sezon
   - section:             seksion
   - sentence:            (la) fraza
@@ -476,6 +487,7 @@ Two-way-dictionary:
   - some:                algunos
   - some:                algunas
   - some:                unos
+  - sorrow:              pena
   - soul:                alma
   - source:              manadero
   - sources:             manaderos
@@ -542,6 +554,7 @@ Two-way-dictionary:
   - translations:        traduksiones
   - transportation:      transportasyon
   - trip:                viaje
+  - trouble:             pena
   - true:                vedrad
   - true:                verdad
 
@@ -550,6 +563,9 @@ Two-way-dictionary:
   - yes:                 si
   - young:               chikos
   - young:               djoven
+  - young:               djovina
+  - young person:        manseva
+  - young person:        mansevo
   - younger:             mas djoven
   - younger:             mas djovenes
   - your:                tu
