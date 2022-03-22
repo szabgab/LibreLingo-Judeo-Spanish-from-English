@@ -6,15 +6,13 @@ New words: []
 
 Phrases: []
 
-Mini-dictionary:
-  Ladino:
-    - gritar: roar
-    - grito: (I) roar
-    - gritas: (you) roar
-    - grita: (he/she) roars
-    - gritamos: (we) roar
-    - gritaish: (you) roar (p)
-    - gritan: (they) roar
-  English:
-    - roar: gritar
-    - roards: grita
+Two-way-dictionary:
+  - (to) roar: gritar
+
+  - (I) roar:       grito
+  - (you) roar:     gritas
+  - (he/she) roars: grita
+  - (we) roar:      gritamos
+  - (you) roar (p): gritaish
+  - (they) roar:    gritan
+

@@ -6,14 +6,13 @@ New words: []
 
 Phrases: []
 
-Mini-dictionary:
-  Ladino:
-    - enkomendar: to recommend
-    - enkomendo: (I) recommend
-    - enkomendas: (you) recommend
-    - enkomenda: (he/she) recommends
-    - enkomendamos: (we) recommend
-    - enkomendaish: (you) recommend (p)
-    - enkomendan: (they) recommend
-  English:
-    - recommend: enkomendar
+Two-way-dictionary:
+  - (to) recommend: enkomendar
+
+  - (I) recommend:       enkomendo
+  - (you) recommend:     enkomendas
+  - (he/she) recommends: enkomenda
+  - (we) recommend:      enkomendamos
+  - (you) recommend (p): enkomendash
+  - (they) recommend:    enkomendan
+

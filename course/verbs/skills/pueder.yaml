@@ -6,14 +6,9 @@ New words: []
 
 Phrases: []
 
-Mini-dictionary:
-  Ladino:
-    - pueder:
-      - to be able to
-    - puedo: (I) can
-    - puedes: (you) can
-  English:
-    - can:
-      - puedo
-    - I can:
-      - puedo
+Two-way-dictionary:
+  - (to) be able to: pueder
+
+  - (I) can: puedo
+  - (you) can: puedes
+  - (he/she) can: puede

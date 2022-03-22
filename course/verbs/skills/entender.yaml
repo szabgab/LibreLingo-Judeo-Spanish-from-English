@@ -4,21 +4,20 @@ Skill:
 
 New words: []
 
+Two-way-dictionary:
+  - (to) understand:      entender
+
+  - (I) understand:       entyendo
+  - (you) understand:     entyendes
+  - (he/she) understands: entyende
+  - (we) understand:      entyendemos
+  - (you) understand (p): entyendeish
+  - (they) understand:    entyenden
+
 Phrases:
   - Phrase: no entyendo djudeo-espanyol
     Translation: I don't understand Ladino
   - Phrase: Kuantas linguas entyendes?
     Translation: How many languages do you understand?
 
-Mini-dictionary:
-  Ladino:
-    - entender: to understand
-    - entyendo: (I) understand
-    - entyendes: (you) understand
-    - entyende: (he/she) understands
-    - entyendemos: (we) understand
-    - entyendeish: (you) understand (p)
-    - entyenden: (they) understand
-  English:
-    - understand: entender
 

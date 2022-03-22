@@ -4,20 +4,17 @@ Skill:
 
 New words: []
 
+Two-way-dictionary:
+  - (to) ask:      demandar
+
+  - (I) ask:       (yo) demando
+  - (you) ask:     (tu) demandas
+  - (he/she) asks: (el/eya) demanda
+
+  - (to) request: demandar
+
 Phrases:
   - Phrase: Tengo algunas demandas
     Translation: I have some questions
   - Phrase: Tengo una demanda
     Translation: I have a question
-
-Mini-dictionary:
-  Ladino:
-    - demandar:
-      - to ask
-      - to request
-    - demando: (I) ask
-  English:
-    - ask:
-      - demandar
-      - (yo) demando
-    - request: demandar

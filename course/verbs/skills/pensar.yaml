@@ -6,16 +6,12 @@ New words: []
 
 Phrases: []
 
-Mini-dictionary:
-  Ladino:
-    - pensar: to think
-    - penso: (I) think
-    - pensas: (you) think
-    - pensa: (he/she) thinks
-    - pensamos: (we) think
-    - pensash: (you) think (p)
-    - pensan: (they) think
-  English:
-    - think: pensar
-    - thinks: pensa
+Two-way-dictionary:
+  - (to) think:      pensar
+  - (I) think:       penso
+  - (you) think:     pensas
+  - (he/she) thinks: pensa
+  - (we) think:      pensamos
+  - (you) think (p): pensash
+  - (they) think:    pensan
 
