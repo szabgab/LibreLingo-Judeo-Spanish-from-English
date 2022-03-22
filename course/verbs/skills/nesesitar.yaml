@@ -6,17 +6,8 @@ New words: []
 
 Phrases: []
 
-Mini-dictionary:
-  Ladino:
-   - nesesitar:
-     - to need
-   - nesesito: (I) need
-   - tener menester: to need
-   - tengo menester: (I) need
-  English:
-    - need:
-      - nesesitar
-      - tener menester
-    - I need:
-      - nesesito
-      - tengo menester
+Two-way-dictionary:
+  - need: nesesitar
+  - need: (to) tener menester
+  - (I) need: (yo) nesesito
+  - (I) need:  tengo menester

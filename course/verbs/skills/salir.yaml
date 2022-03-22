@@ -6,11 +6,7 @@ New words: []
 
 Phrases: []
 
-Mini-dictionary:
-  Ladino:
-    - salir: to leave
-    - sale: (he/she) leaves
-  English:
-    - leave: salir
-    - leaves: sale
-    - comes out: sale
+Two-way-dictionary:
+  - (to) leave:         salir
+  - (he/she) leaves:    sale
+  - (he/she) comes out: sale

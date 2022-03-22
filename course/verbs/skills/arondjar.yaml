@@ -4,13 +4,9 @@ Skill:
 
 New words: []
 
-Mini-dictionary:
-  Ladino:
-    - arondjar: expulse
-    - arondjados: expulsed
-  English:
-    - expulse: arondjar
-    - expulsed: arondjados
+Two-way-dictionary:
+  - (to) expulse: arondjar
+  - expulsed: arondjados
 
 Phrases:
   - Phrase: Los djudios arondjados.

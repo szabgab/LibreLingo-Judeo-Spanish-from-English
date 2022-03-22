@@ -6,8 +6,5 @@ New words: []
 
 Phrases: []
 
-Mini-dictionary:
-  Ladino:
-    - aprovar: try
-  English:
-    - try: aprovar
+Two-way-dictionary:
+  - (to) try: aprovar
