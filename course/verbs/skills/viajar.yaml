@@ -6,15 +6,16 @@ New words: []
 
 Phrases: []
 
-Mini-dictionary:
-  Ladino:
-    - viajar: to travel
-    - viajo: (I) travel
-    - viajas: (you) travel
-    - viaja: (he/she) travels
-    - viajamos: (we) travel
-    - viajaish: (you) travel (p)
-    - viajan: (they) travel
-  English:
-    - travel: viajar
+Two-way-dictionary:
+  - (to) travel:      viajar
+
+  - (I) travel:       viajo
+  - (you) travel:     viajas
+  - (he/she) travels: viaja
+  - (we) travel:      viajamos
+  - (you) travel (p): viajaish
+  - (they) travel:    viajan
+
+  - trip:             (la) viaje
+  - trips:            (las) viajes
 

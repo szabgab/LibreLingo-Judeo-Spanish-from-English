@@ -4,21 +4,20 @@ Skill:
 
 New words: []
 
+Two-way-dictionary:
+  - (to) be able to: poder
+  - can:             poder
+  - (I) can:       (yo) puedo
+  - (you) can:     (tu) puedes
+  - (he/she) can:  (el/eya) puede
+  - (we) can:      (mozotras/mozotros) podemos
+  - (you) can:     (vozotras/vozotros) podesh
+  - (they) can:    (eyas/eyos) pueden
+
+  - (we) can:      (mozotras/mozotros) puedemos
+
 Phrases:
   - Phrase: Yo puedo avlar Djudeo-espanyol.
     Translation: I can speak Ladino.
 
-Mini-dictionary:
-  Ladino:
-    - poder: to be able
-    - puedo: (I) can
-    - puedes: (you) can
-    - puede: (he/she) can
-    - podemos: (we) can
-    - podesh: (you) can (p)
-    - pueden: (they) can
-  English:
-    - be able to: poder
-    - can:
-      - poder
 

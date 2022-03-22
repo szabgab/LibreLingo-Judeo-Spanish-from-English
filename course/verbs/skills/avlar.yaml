@@ -4,23 +4,19 @@ Skill:
 
 New words: []
 
-Mini-dictionary:
-  Ladino:
-    - avlar: to speak
-    - avlo: (I) speak
-    - avlas: (you) speak
-    - avla: (he/she) speaks
-    - avlamos: (we) speak
-    - avlash: (you) speak (p)
-    - avlan: (they) speak
+Two-way-dictionary:
+  - to speak:        avlar
+  - (I) speak:       (yo) avlo
+  - (you) speak:     avlas
+  - (s/he) speaks:   (el/eya) avla
+  - (we) speak:      avlamos
+  - (you) speak (p): avlash
+  - (they) speak:    avlan
 
-    - avlantes: speakers
-  English:
-    - talk: avlar
-    - speak:
-      - avlo
-    - speaks: avla
-    - speakers: avlantes
+  - speakers:        avlantes
+  - speaking:        avlando
+
+  - (to) talk:       avlar
 
 Phrases:
   - Phrase: Sara, en ke lengua avlas en kaza?

@@ -10,10 +10,13 @@ Two-way-dictionary:
   - (to) meet:    enkontrar
   - (to) find:    enkontrar
 
-  - meeting:  enkontro
-  - meetings: enkontros
+  - meeting:  (el) enkontro
+  - meetings: (los) enkontros
 
+  - (we) met: (mos) enkontrimos
 
 Phrases:
   - Phrase: Enkontros de Alhad
     Translation: Sunday meetings
+  - Phrase: Mos enkontrimos por midi
+    Translation: We met for lunch

@@ -287,6 +287,7 @@ Two-way-dictionary:
   - last:                ultimo
   - last:                ultimas
   - last:                ultimos
+  - left:                (la) siedra
   - let's:               vamos
   - letter:              karta
   - letter:              letra
@@ -306,6 +307,7 @@ Two-way-dictionary:
   - lovely:              presioza
   - lovely:              presiozo
   - luck:                mazal
+  - lunch:               midi
 
   - machine:             (la) makina
   - madness:             lokura
@@ -401,6 +403,7 @@ Two-way-dictionary:
   - people:              djente
   - person:              persona
   - people:              djente
+  - photo:               (la) foto
   - phrase:              (la) fraza
   - phrases:             (las) frazas
   - pity:                pekado
@@ -444,7 +447,9 @@ Two-way-dictionary:
   - relations:           relasiones
   - remark:              remarka
   - response:            (la) repuesta
+  - restaurant:          (el) restoran
   - restroom:            tualet
+  - right:               derecha
   - right:               djusta
   - right:               razon
   - ring:                aniyo
@@ -524,8 +529,6 @@ Two-way-dictionary:
   - that:                akeya
   - time:                tiempo
   - time:                tyempo
-  - day:                 dia
-  - day:                 diya
   - the:                 el
   - the:                 la
   - the:                 las
@@ -548,12 +551,12 @@ Two-way-dictionary:
   - to:                  al
   - to be given:         akavidarse
   - together:            djuntos
+  - together:            endjuntos
   - toilet:              kabine
   - translated:          tresladado
   - translator:          traduktor
   - translations:        traduksiones
   - transportation:      transportasyon
-  - trip:                viaje
   - trouble:             pena
   - true:                vedrad
   - true:                verdad
