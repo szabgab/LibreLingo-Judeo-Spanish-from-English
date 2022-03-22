@@ -6,18 +6,14 @@ New words: []
 
 Phrases: []
 
-Mini-dictionary:
-  Ladino:
-    - adorar:
-      - to admire
-      - to adore
-    - adoro: (I) admire
-    - adores: (you) admire
-    - adore: (he/she) admires
-    - adoremos: (we) admire
-    - adoresh: (you) admire (plural)
-    - adoren: (they) admire
-  English:
-    - adore: adorar
-    - admire: adorar
-    - admires: (el/eya) adore
+Two-way-dictionary:
+  - (to) adore: adorar
+  - (to) admire: adorar
+
+  - (I) admire:       adoro
+  - (you) admire:     adores
+  - (he/she) admires: (el/eya) adore
+  - (we) admire:      adoremos
+  - (you) admire (p): adoresh
+  - (they) admire:    adoren
+

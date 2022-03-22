@@ -6,14 +6,13 @@ New words: []
 
 Phrases: []
 
-Mini-dictionary:
-  Ladino:
-    - lavorar: to work
-    - lavoro: (I) work
-    - lavoras: (you) work
-    - lavora: (he/she) works
-    - lavoramos: (we) work
-    - lavoraish: (you) work (p)
-    - lavoran: (they) work
-  English:
-    - work: lavorar
+Two-way-dictionary:
+  - (to) work: lavorar
+
+  - (I) work:       lavoro
+  - (you) work:     lavoras
+  - (he/she) works: lavora
+  - (we) work:      lavoramos
+  - (you) work (p): lavoraish
+  - (they) work:    lavoran
+

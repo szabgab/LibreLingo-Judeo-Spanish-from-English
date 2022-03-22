@@ -6,14 +6,12 @@ New words: []
 
 Phrases: []
 
-Mini-dictionary:
-  Ladino:
-    - asperar: to wait
-    - aspero: (I) wait
-    - asperas: (you) wait
-    - aspera: (he/she) waits
-    - asperamos: (we) wait
-    - asperaish: (you) wait (p)
-    - asperan: (they) wait
-  English:
-    - wait: topar
+Two-way-dictionary:
+  - (to) wait:      asperar
+
+  - (I) wait:       aspero
+  - (you) wait:     asperas
+  - (he/she) waits: aspera
+  - (we) wait:      asperamos
+  - (you) wait (p): asperaish
+  - (they) wait:    asperan

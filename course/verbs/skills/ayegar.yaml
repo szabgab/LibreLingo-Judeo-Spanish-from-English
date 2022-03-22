@@ -6,10 +6,6 @@ New words: []
 
 Phrases: []
 
-Mini-dictionary:
-  Ladino:
-    - ayegar: to arrive
-    - ayega: arrive
-  English:
-    - to arrive: ayegar
-    - arrive: ayega
+Two-way-dictionary:
+  - (to) arrive: ayegar
+  - arrive: ayega

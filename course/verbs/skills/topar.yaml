@@ -6,21 +6,16 @@ New words: []
 
 Phrases: []
 
-Mini-dictionary:
-  Ladino:
-    - topar: to find
-    - topo: (I) find
-    - topas: (you) find
-    - topa: (he/she) finds
-    - topamos: (we) find
-    - topaish: (you) find (p)
-    - topan: (they) find
+Two-way-dictionary:
+  - (to) find: topar
 
-    - topi: (I) found
-    - topava: (I) was found
-    - toparon: found oneself
-  English:
-    - find: topar
-    - found:
-      - topi
-      - topava
+  - (I) find:       topo
+  - (you) find:     topas
+  - (he/she) finds: topa
+  - (we) find:      topamos
+  - (you) find (p): topaish
+  - (they) find:    topan
+
+  - (I) found: topi
+  - (I was) found: topava
+  - found (oneself): toparon
