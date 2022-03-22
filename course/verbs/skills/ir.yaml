@@ -6,12 +6,11 @@ New words: []
 
 Phrases: []
 
-Mini-dictionary:
-  Ladino:
-    - ir: to go
-    - voy: (I) go
-    - va: (he/she) goes
-    - vash: (you) go
-    - van: (they) go
-  English:
-    - go: ir
+Two-way-dictionary:
+  - (to) go: ir
+
+  - (I) go:        vo
+  - (he/she) goes: va
+  - (you) go:      vash
+  - (they) go:     van
+

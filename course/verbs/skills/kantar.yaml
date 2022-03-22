@@ -4,14 +4,12 @@ Skill:
 
 New words: []
 
+Two-way-dictionary:
+  - (to) sing: kantar
+  - (I) sing: kanto
+
+
 Phrases:
   - Phrase: "{Me plaze} kantar en Ladino"
-    Translation: "{I like} {to sing} in Ladino"
-
-Mini-dictionary:
-  Ladino:
-    - kantar: to sing
-  English:
-    - to sing: kantar
-    - sing: kantar
+    Translation: "{I like} to sing in Ladino"
 

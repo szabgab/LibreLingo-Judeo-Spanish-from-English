@@ -4,6 +4,19 @@ Skill:
 
 New words: []
 
+Two-way-dictionary:
+  - (to) begin:  empesar
+  - (to) start:  empesar
+
+  - (I) begin:       empeso
+  - (you) begin:     empesas
+  - (she/he) begins: empesa
+  - (we) begin:      empesamos
+  - (you) begin (p): empesaish
+  - (they) begin:    empesan
+
+  - (I) started: empesi
+
 Phrases:
   - Phrase: Kuando keres empesar la klasa?
     Translation: When do you want to start the class?
@@ -12,21 +25,4 @@ Phrases:
   - Phrase: Yo empeso kozer temprano.
     Translation: I start to cook early.
 
-Mini-dictionary:
-  Ladino:
-    - empesar:
-      - to begin
-      - to start
-    - empeso: (I) begin
-    - empesas: (you) begin
-    - empesa: (she/he) begins
-    - empesamos: (we) begin
-    - empesaish: (you) begin (p)
-    - empesan: (they) begin
 
-    - empesi: (I) started
-
-  English:
-    - begin: empesar
-    - start: empesar
-    - started: empesi
