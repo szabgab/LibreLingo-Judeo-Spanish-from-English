@@ -6,14 +6,13 @@ New words: []
 
 Phrases: []
 
-Mini-dictionary:
-  Ladino:
-    - bivir: to live
-    - bivo: (I) live
-    - bives: (you) live
-    - bive: (he/she) lives
-    - bivimos: (we) live
-    - bivish: (you) live (pl)
-    - biven: (they) live
-  English:
-    - to live: bivir
+Two-way-dictionary:
+  - (to) live:      bivir
+
+  - (I) live:       bivo
+  - (you) live:     bives
+  - (he/she) lives: bive
+  - (we) live:      bivimos
+  - (you) live (p): bivish
+  - (they) live:    biven
+

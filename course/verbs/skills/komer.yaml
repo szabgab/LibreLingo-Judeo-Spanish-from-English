@@ -4,6 +4,16 @@ Skill:
 
 New words: []
 
+Two-way-dictionary:
+  - (to) eat: komer
+
+  - (I) eat:       komo
+  - (you) eat:     komes
+  - (he/she) eats: kome
+  - (we) eat:      komemos
+  - (you) eat (p): komesh
+  - (they) eat:    komen
+
 Phrases:
   - Phrase: Yo komo pan
     Translation: I eat bread
@@ -16,15 +26,4 @@ Phrases:
   - Phrase: "{Me plaze} komer mansana kon kezo"
     Translation: "{I like} to eat apple with cheese"
 
-Mini-dictionary:
-  Ladino:
-    - komer: to eat
-    - komo: (I) eat
-    - komes: (you) eat
-    - kome: (he/she) eats
-    - komemos: (we) eat
-    - komesh: (you) eat (plural)
-    - komen: (they) eat
-  English:
-    - eat: komer
-    - eats: kome
+

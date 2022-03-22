@@ -6,18 +6,13 @@ New words: []
 
 Phrases: []
 
-Mini-dictionary:
-  Ladino:
-    - konoser:
-      - to meet
-      - to know
-    - konosko: (I) know
-    - konoses: (you) know
+Two-way-dictionary:
+  - (to) meet: konoser
 
-    - konosia: knew
+  - (to) know: konoser
 
-  English:
-    - meet: konoser
+  - (I) know: konosko
+  - (you) know: konoses
 
-    - knew: konosia
+  - (he/she) knew: konosia
 

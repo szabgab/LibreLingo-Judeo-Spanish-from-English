@@ -6,11 +6,6 @@ New words: []
 
 Phrases: []
 
-Mini-dictionary:
-  Ladino:
-    - gustar: to like
-    - gusta: (I) like
-  English:
-    - like:
-      - gustar
-      - gusto
+Two-way-dictionary:
+  - (to) like: gustar
+  - (I) like: (me) gusto

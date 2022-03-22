@@ -4,15 +4,12 @@ Skill:
 
 New words: []
 
+Two-way-dictionary:
+  - (to) cook: kozer
+  - (you) cook: kozes
+  - (we) cook: kozemos
+
 Phrases:
   - Phrase: Tu kozes patatas
     Translation: Do you cook potatoes
 
-
-Mini-dictionary:
-  Ladino:
-    - kozer: to cook
-    - kozes: (you) cook
-    - kozemos: (we) cook
-  English:
-    - cook: kozer

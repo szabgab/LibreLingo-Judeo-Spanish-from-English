@@ -8,12 +8,8 @@ Phrases:
   - Phrase: Yo tomo un kafe
     Translation: I take a coffee
 
-Mini-dictionary:
-  Ladino:
-    - tomar: to take
-    - tomo: (I) take
-    - tomas: (you) take
-    - toma: (he/she) takes
-  English:
-    - take: tomar
-    - takes: (el/eya) toma
+Two-way-dictionary:
+  - (to) take: tomar
+  - (I) take: tomo
+  - (you) take: tomas
+  - (he/she) takes: (el/eya) toma

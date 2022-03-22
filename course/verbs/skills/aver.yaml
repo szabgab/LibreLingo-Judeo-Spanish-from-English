@@ -6,13 +6,8 @@ New words: []
 
 Phrases: []
 
-Mini-dictionary:
-  Ladino:
-    - aver: to have
-    - avia: (I) have
-  English:
-    - have:
-      - aver
-      - avia
+Two-way-dictionary:
+  - (to) have: aver
+  - (I) have: avia
 
 
