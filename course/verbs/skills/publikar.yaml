@@ -6,16 +6,15 @@ New words: []
 
 Phrases: []
 
-Mini-dictionary:
-  Ladino:
-    - publikar: to publish
-    - publiko:
-      - (I) publish
-      - (he/she) published
-    - publikas: (you) publish
-    - publika: (he/she) publishes
-    - publikamos: (we) publish
-    - publikaish: (you) publish (p)
-    - publikan: (they) publish
-  English:
-    - publish: publikar
+Two-way-dictionary:
+  - (to) publish:       publikar
+
+  - (I) publish:        publiko
+  - (you) publish:      publikas
+  - (he/she) publishes: publika
+  - (we) publish:       publikamos
+  - (you) publish (p):  publikaish
+  - (they) publish:     publikan
+
+  - (he/she) published: publiko
+

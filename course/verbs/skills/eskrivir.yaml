@@ -4,6 +4,16 @@ Skill:
 
 New words: []
 
+Two-way-dictionary:
+  - (to) write:      eskrivir
+  - (I) write:       eskrivo
+  - (you) write:     eskrives
+  - (he/she) writes: eskrive
+
+  - (I) wrote:       eskrivyo
+  - writing:         eskriviendo
+
+
 Phrases:
   - Phrase: David eskrive kartas en Kasteyano
     Translation: David writes a letter in Spanish
@@ -12,15 +22,4 @@ Phrases:
   - Phrase: Rakel eskrive mesajes aki.
     Translation: Rachel writes messages here.
 
-Mini-dictionary:
-  Ladino:
-    - eskrivir: to write
-    - eskrivo: (I) write
-    - eskrives: (you) write
-    - eskrive: (he/she) writes
 
-    - eskrivyo: (I) wrote
-    - eskriviendo: write
-  English:
-    - write: eskrivo
-    - writes: eskrive

@@ -6,11 +6,6 @@ New words: []
 
 Phrases: []
 
-Mini-dictionary:
-  Ladino:
-    - efasar:
-      - erase
-      - rub out
-  English:
-    - erase: efasar
-    - rub out: efasar
+Two-way-dictionary:
+  - (to) erase: efasar
+  - (to) rub out: efasar

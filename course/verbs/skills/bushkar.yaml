@@ -6,14 +6,12 @@ New words: []
 
 Phrases: []
 
-Mini-dictionary:
-  Ladino:
-    - bushkar: to search
-    - bushko: (I) search
-    - bushkas: (you) search
-    - bushka: (he/she) searches
-    - bushkamos: (we) search
-    - bushkaish: (you) search (p)
-    - bushkan: (they) search
-  English:
-    - search: bushkar
+Two-way-dictionary:
+  - (to) search:       bushkar
+  - (I) search:        bushko
+  - (you) search:      bushkas
+  - (he/she) searches: bushka
+  - (we) search:       bushkamos
+  - (you) search (p):  bushkaish
+  - (they) search:     bushkan
+

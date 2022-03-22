@@ -6,16 +6,11 @@ New words: []
 
 Phrases: []
 
-Mini-dictionary:
-  Ladino:
-    - venir: to come
-    - vengo: (I) come
-    - vienes: (you) come
-    - viene: (he/she) comes
-    - venemos: (we) come
-    - veneish: (you) come (p)
-    - vienen: (they) come
-  English:
-    - come:
-      - venir
-      - vengo
+Two-way-dictionary:
+  - (to) come:      venir
+  - (I) come:       vengo
+  - (you) come:     vienes
+  - (he/she) comes: viene
+  - (we) come:      venemos
+  - (you) come (p): venesh
+  - (they) come:    vienen

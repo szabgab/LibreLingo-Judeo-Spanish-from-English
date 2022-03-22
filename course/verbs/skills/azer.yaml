@@ -6,18 +6,15 @@ New words: []
 
 Phrases: []
 
-Mini-dictionary:
-  Ladino:
-    - azer: to do
-    - ago: (I) do
-    - azes: (you) do
-    - aze: (he/she) does
-    - azemos: (we) do
-    - azesh: (you) do (p)
-    - azen: (they) do
+Two-way-dictionary:
+  - (to) do:       azer
 
-    - aziendo: (I was) doing
-  English:
-    - do: azer
-    - doing: aziendo
+  - (I) do:        ago
+  - (you) do:      azes
+  - (he/she) does: aze
+  - (we) do:       azemos
+  - (you) do (p):  azesh
+  - (they) do:     azen
+
+  - (I was) doing: aziendo
 
