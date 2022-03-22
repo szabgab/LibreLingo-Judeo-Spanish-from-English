@@ -4,6 +4,21 @@ Skill:
 
 New words: []
 
+Two-way-dictionary:
+  - to (want):      kerer
+
+  - (we) want:      (mozotras/mozotros) keremos
+  - (I) want:       (yo) kero
+  - (you) want:     (tu) keres
+  - (s/he) wants:   (el/eya) kere
+  - keremos:        (we) want
+  - (you) want (p): (vozotras/vozotros) keresh
+  - (they) want:    (eyas/eyos) keren
+
+  - (they) love:    (eyas/eyos) keren
+
+  - (s/he) wanted:  (el/eya) kiere
+
 Phrases:
   - Phrase: Yo kero un poko pan
     Translation: I want a little bread
@@ -14,20 +29,4 @@ Phrases:
   - Phrase: La keren muncho.
     Translation: They love her a lot.
 
-Mini-dictionary:
-  Ladino:
-    - kerer: to want
-    - kero: (I) want
-    - keres: (you) want
-    - kere: (he/she) wants
-    - keremos: (we) want
-    - keresh: (you) want (plural)
-    - keren:
-      - (they) want
-      - (they) love
 
-    - kiere: (s/he) wanted
-  English:
-    - want: keremos
-    - wants: (el/eya) kere
-    - love: keren

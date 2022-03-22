@@ -6,14 +6,9 @@ New words: []
 
 Phrases: []
 
-Mini-dictionary:
-  Ladino:
-    - sintir:
-      - to feel
-      - to hear
+Two-way-dictionary:
+  - (to) feel: sintir
+  - (to) hear: sintir
 
-    - sinti: (I) heard
-  English:
-    - feel: sintir
-    - hear: sintir
+  - (I) heard: sinti
 

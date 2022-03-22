@@ -6,11 +6,7 @@ New words: []
 
 Phrases: []
 
-Mini-dictionary:
-  Ladino:
-    - aborreser:
-      - detest
-      - hate
-  English:
-    - detest: aborreser
-    - hate: aborreser
+Two-way-dictionary:
+  - (to) detest: aborreser
+
+  - (to) hate: aborreser

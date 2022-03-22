@@ -6,13 +6,12 @@ New words: []
 
 Phrases: []
 
-Mini-dictionary:
-  Ladino:
-    - akodrar: to remember
-    - akodro: (I) remember
-  English:
-    - remebmer:
-      - akodrar
-      - akodro
-
+Two-way-dictionary:
+  - (to) remebmer:    akodrar
+  - (I) remember:     akodro
+  - (you) remember:   akordas
+  - (s/he) remembers: akorda
+  - (we) remember:    akordamos
+  - (you) remember:   akrodash
+  - (they) remember:  akordan
 
