@@ -6,8 +6,6 @@ New words: []
 
 Phrases: []
 
-Mini-dictionary:
-  Ladino:
-    - baylar: dance
-  English:
-    - dance: baylar
+Two-way-dictionary:
+  - (to) dance: baylar
+  - (I) dance:  (yo) baylo

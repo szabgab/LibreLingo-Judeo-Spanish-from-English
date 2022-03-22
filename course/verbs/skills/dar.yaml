@@ -6,9 +6,6 @@ New words: []
 
 Phrases: []
 
-Mini-dictionary:
-  Ladino:
-    - dar: to give
-    - da: give
-  English:
-    - give: da
+Two-way-dictionary:
+  - (to) give: dar
+  - give: da

@@ -6,11 +6,7 @@ New words: []
 
 Phrases: []
 
-Mini-dictionary:
-  Ladino:
-    - arrepushar: to push
-    - arrepushado: pushed
-  English:
-    - push: arrepushar
-    - pushed: arrepushado
+Two-way-dictionary:
+  - (to) push: arrepushar
+  - pushed: arrepushado
 

@@ -4,28 +4,20 @@ Skill:
 
 New words: []
 
+Two-way-dictionary:
+  - (to be) born: naser
+  - (I) was born: nasi
+  - (he/she) was born: nasio
+  - (he/she) was born: nasyo
+  - (you) were born: nasiste
+  - (I) was born: nasido
+
 Phrases:
   - Phrase: Hayim nasio en Monastir
     Translation: "Haim {was born} in Monastir"
   - Phrase: Yo nasi en Yerushalayim
     Translation: "I {was born} in Jerusalem"
   - Phrase:  Ande nasiste? Nasi en Salonik.
-    Translation: "Where {were you born?} I {was born} in Thessaloniki"
+    Translation: "Where were you born? I {was born} in Thessaloniki"
 
-Mini-dictionary:
-  Ladino:
-    - naser: to be born
-    - nasi: (I) was born
-    - nasiste: (you) were born
-    - nasio: (he/she) was born
-    - nasyo: (he/she) was born
-
-    - nasido: (I) was born
-  English:
-    - born: naser
-    - was born:
-      - nasi
-      - nasio
-      - nasyo
-    - were you born: nasiste
 
