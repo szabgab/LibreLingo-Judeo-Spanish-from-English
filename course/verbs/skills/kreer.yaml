@@ -6,14 +6,12 @@ New words: []
 
 Phrases: []
 
-Mini-dictionary:
-  Ladino:
-    - kreer:
-      - to believe
-      - to think
-    - kreemos:
-      - (we) believe
-      - (we) think
-  English:
-    - believe: kreer
-    - think: kreer
+Two-way-dictionary:
+  - (to) believe: kreer
+  - (to) think:   kreer
+
+  - (I) believe:  kreo
+  - (I) think:    kreo
+
+  - (we) believe: kreemos
+  - (we) think:   kreemos

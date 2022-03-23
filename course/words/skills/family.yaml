@@ -15,24 +15,32 @@ Two-way-dictionary:
   - children:           kriaturas
   - cousin:             prima
   - cousin:             primo
-  - cousins:            primos
   - cousins:            primas
+  - cousins:            primos
   - daughter:           ija
   - daughters:          ijas
   - daughter-in-law:    elmuera
   - daughters-in-law:   elmueras
   - eldest son:         bohor
   - father:             padre
+  - fathers:            padres
   - family:             famiya
   - firstborn son:      bohor
   - grandfather:        gran-papa
   - grandfather:        avuelo
+  - grandfathers:       avuelos
   - grandmother:        gran-mama
   - grandmother:        avuela
+  - grandmother:        gramama
+  - grandmothers:       avuelas
   - grand-son:          inyeto
+  - grand-sons:         inyetos
   - grand-daughter:     inyeta
+  - grand-daughters:    inyetas
   - husband:            marido
+  - husbands:           maridos
   - mother:             madre
+  - mothers:            madres
   - mother-in-law:      esfuegra
   - nephew:             suvrino
   - nephews:            suvrinos
@@ -50,7 +58,7 @@ Two-way-dictionary:
   - uncle:              tio
   - uncles:             tios
   - wife:               mujer
-
+  - wifes:              mujeres
 
 
 Phrases:

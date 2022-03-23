@@ -11,6 +11,7 @@ Two-way-dictionary:
   - a little:            poko
   - about:               sovre
   - above:               ensima
+  - abbreviation:        abreviasion
   - absolute:            absoluto
   - accent:              aksan
   - accept:              akseptamos
@@ -134,6 +135,8 @@ Two-way-dictionary:
   - desire:              dezeo
   - dialect:             dialekto
   - dialects:            dialektos
+  - dictatorship:        diktatura
+  - dictatorships:       diktaturas
   - dictionary:          diksionario
   - dictionary:          diksionaryo
   - difference:          diferensia
@@ -141,8 +144,7 @@ Two-way-dictionary:
   - different:           diferentes
   - difficult:           zor
   - dinner:              sena
-  - dictatorship:        diktatura
-  - dictatorships:       diktaturas
+  - directly:            direktamente
   - does:                esta
   - doll:                (la) kukla
   - dolls:               (las) kuklas
@@ -155,6 +157,7 @@ Two-way-dictionary:
   - early:               demprano
   - early:               temprano
   - easy:                kolay
+  - easy:                fasil
   - edition:             numero (de jurnal)
   - editor:              redaktor
   - editors:             redaktores
@@ -176,6 +179,7 @@ Two-way-dictionary:
   - expensive:           karas
   - expert:              haham
   - everyone:            todos
+  - explication:         (el) eksplikasion
 
   - famous:              famozos
   - favour:              favor
@@ -234,6 +238,7 @@ Two-way-dictionary:
   - help:                ayudo
   - here:                aki
   - hispanic:            ispanika
+  - history:             (la) istorya
   - home:                kaza
   - homework:            lision
   - homework:            lisiones
@@ -262,6 +267,7 @@ Two-way-dictionary:
   - inspiration:         inspirasyon
   - intelligent:         intelijente
   - intelligents:        intelijentes
+  - interesting:         interesante
   - introduction:        introduksion
   - investigator:        investigador
   - investigator:        investigadora
@@ -310,6 +316,8 @@ Two-way-dictionary:
   - lunch:               midi
 
   - machine:             (la) makina
+  - mad:                 (el) loko
+  - mad:                 (la) loka
   - madness:             lokura
   - making small-talk:   etchar lashon
   - man's:               de ombres
@@ -402,7 +410,6 @@ Two-way-dictionary:
   - people:              personas
   - people:              djente
   - person:              persona
-  - people:              djente
   - photo:               (la) foto
   - phrase:              (la) fraza
   - phrases:             (las) frazas
@@ -415,6 +422,7 @@ Two-way-dictionary:
   - poetry:              poezia
   - police:              polisiya
   - possible:            posivle
+  - presence:            (la) prezensia
   - pretty:              lindo
   - pretty:              linda
   - pretty:              ermozo
@@ -464,6 +472,8 @@ Two-way-dictionary:
   - sayings:             (las) dichas
   - saying:              (el) refran
   - season:              sezon
+  - sect:                (el) sekto
+  - sects:               (los) sektos
   - section:             seksion
   - sentence:            (la) fraza
   - sentences:           (las) frazas
@@ -482,6 +492,7 @@ Two-way-dictionary:
   - sick:                hazino
   - sick:                hazina
   - side:                vanda
+  - silly:               bovo
   - sir:                 sinyor
   - site:                sitio
   - situation:           situasion
@@ -506,6 +517,7 @@ Two-way-dictionary:
   - student:             elevo
   - students:            elevas
   - students:            elevos
+  - stupid:              bovo
   - subject:             subjeto
   - substantial:         sostansiozos
   - substantial:         sostansiozo
