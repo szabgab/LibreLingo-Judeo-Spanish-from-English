@@ -4,18 +4,11 @@ Skill:
 
 New words: []
 
+Two-way-dictionary:
+  - (to) introduce: introduzir
+
 Phrases:
   - Phrase: "{me gustaria} introduzir {yo mizmo}"
     Translation: "{I would like} to introduce myself"
 
-Mini-dictionary:
-  Ladino:
-    - introduzir: to introduce
-    - yo mizmo: myself
-    - me gustaria: I would like to
-
-  English:
-    - introduce: introduzir
-    - i would like: yo kero
-    - myself: yo mizmo
 

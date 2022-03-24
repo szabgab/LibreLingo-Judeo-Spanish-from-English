@@ -6,15 +6,10 @@ New words: []
 
 Phrases: []
 
-Mini-dictionary:
-  Ladino:
-    - mandar: to send
-
-    - mando:     (I) send
-    - te mando:  (I) send you
-    - mandi:     (I) sent
-    - mandarvos: (we) send (to you)
-
-  English:
-    - send: mandar
+Two-way-dictionary:
+  - (to) send:          mandar
+  - (I) send:           mando
+  - (I) send you:       te mando
+  - (I) sent:           mandi
+  - (we) send (to you): mandarvos
 

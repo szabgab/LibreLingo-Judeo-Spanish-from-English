@@ -6,10 +6,6 @@ New words: []
 
 Phrases: []
 
-Mini-dictionary:
-  Ladino:
-    - me plaze: I like
-    - te plaze: you like
-  English:
-    - I like: me plaze
-    - you like: te plaze
+Two-way-dictionary:
+  - (I) like:   me plaze
+  - (you) like: te plaze

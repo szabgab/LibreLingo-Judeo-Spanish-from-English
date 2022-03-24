@@ -355,6 +355,7 @@ Two-way-dictionary:
   - my:                  mi
   - my:                  me
   - my name:             me yamo
+  - myself:              yo mizmo
 
   - name:                nombre
   - name:                me llamo
@@ -622,6 +623,7 @@ Two-way-dictionary:
   - writers:             eskritores
   - writers:             eskritoras
   - writing:             eskrito
+
 
 Phrases:
   - Phrase: En mi famiya ay kuatro personas

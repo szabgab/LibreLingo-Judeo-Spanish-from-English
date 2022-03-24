@@ -4,6 +4,15 @@ Skill:
 
 New words: []
 
+Two-way-dictionary:
+  - (to) study:       estudiar
+  - (I) study:        estudio
+  - (you) study:      estudias
+  - (he/she) studies: estudia
+  - (we) study:       estudiamos
+  - (you) study (p):  estudiash
+  - (they) study:     estudian
+
 Phrases:
   - Phrase: Yo kero estudiar Djudeo-espanyol.
     Translation: I want to study Ladino
@@ -20,16 +29,4 @@ Phrases:
   - Phrase: Ande vozotros dos estudiash?
     Translation: Where do you two study?
 
-Mini-dictionary:
-  Ladino:
-    - estudiar:
-      - to study
-    - estudio: (I) study
-    - estudias: (you) study
-    - estudia: (he/she) studies
-    - estudiamos: (we) study
-    - estudiash: (you) study (p)
-    - estudian: (they) study
-  English:
-    - study: estudiar
-    - studies: (el/eya) estudia
+

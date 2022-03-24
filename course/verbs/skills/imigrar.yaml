@@ -6,10 +6,7 @@ New words: []
 
 Phrases: []
 
-Mini-dictionary:
-  Ladino:
-    - imigrar: to emigrate
-    - imigro: (he/she) emigrated
-  English:
-    - emigrate: imigrar
-    - emigrated: imigro
+Two-way-dictionary:
+  - (to) emigrate: imigrar
+
+  - (he/she) emigrated: imigro

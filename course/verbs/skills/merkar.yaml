@@ -6,14 +6,12 @@ New words: []
 
 Phrases: []
 
-Mini-dictionary:
-  Ladino:
-    - merkar: to buy
-    - merko: (I) buy
-    - merkas: (you) buy
-    - merka: (he/she) buys
-    - merkamos: (we) buy
-    - merkaish: (you) buy (p)
-    - merkan: (they) buy
-  English:
-    - buy: merkar
+Two-way-dictionary:
+  - (to) buy:      merkar
+
+  - (I) buy:       merko
+  - (you) buy:     merkas
+  - (he/she) buys: merka
+  - (we) buy:      merkamos
+  - (you) buy (p): merkaish
+  - (they) buy:    merkan

@@ -6,24 +6,19 @@ New words: []
 
 Phrases: []
 
-Mini-dictionary:
-  Ladino:
-    - ambezarse:
-      - to learn
-      - to study
-    - ambezar:
-      - to teach
-    - ambezo: (I) study
-    - ambezas: (you) study
-    - ambeza: (he/she) studies
-    - ambezamos: (we) study
-    - ambezaish: (you) study (p)
-    - ambezan: (they) study
+Two-way-dictionary:
+  - (to) study:  ambezarse
+  - (to) learn:  ambezarse
+  - (to) learn:  ambezar
+  - (to) teach:  ambezar
 
-    - ambezi: (I) studies
-    - ambezando: (I am) studying
-  English:
-    - learn: ambezar
-    - learns: (el/eya) ambeza
-    - study: ambezar
-    - studies: (el/eya) ambeza
+  - (I) study:        ambezo
+  - (you) study:      ambezas
+  - (he/she) studies: ambeza
+  - (we) study:       ambezamos
+  - (you) study (p):  ambezaish
+  - (they) study:     ambezan
+
+  - (I) studies:      ambezi
+  - (I am) studying:  ambezando
+  - (he/she) learns:  (el/eya) ambeza

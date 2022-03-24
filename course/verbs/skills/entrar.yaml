@@ -4,16 +4,13 @@ Skill:
 
 New words: []
 
+Two-way-dictionary:
+  - (to) enter:      entrar
+  - (I) enter:       entro
+  - (she/he) enters: entra
+
 Phrases:
   - Phrase: Eya entra la kaza
     Translation: She enters the house
 
-Mini-dictionary:
-  Ladino:
-    - entrar: to enter
-    - entro: (I) enter
-    - entra: (she/he) enters
-  English:
-    - enter: entrar
-    - enters: entra
 

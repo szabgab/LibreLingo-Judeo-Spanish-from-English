@@ -4,6 +4,15 @@ Skill:
 
 New words: []
 
+Two-way-dictionary:
+  - (to) read:      meldar
+  - (I) read:       meldo
+  - (you) read:     meldas
+  - (he/she) reads: melda
+  - (we) read:      meldamos
+  - (you) read (p): meldaish
+  - (they) read:    meldan
+
 Phrases:
   - Phrase: Tu meldas un livro en Ladino
     Translation: You read a book in Ladino
@@ -12,15 +21,4 @@ Phrases:
   - Phrase:  Rakel melda bien en Ladino
     Translation: Rachel reads well in Ladino
 
-Mini-dictionary:
-  Ladino:
-    - meldar: to read
-    - meldo: (I) read
-    - meldas: (you) read
-    - melda: (he/she) reads
-    - meldamos: (we) read
-    - meldaish: (you) read (p)
-    - meldan: (they) read
-  English:
-    - read: meldar
-    - reads: melda
+
