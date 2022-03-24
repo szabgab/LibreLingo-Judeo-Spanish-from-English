@@ -60,8 +60,6 @@ Two-way-dictionary:
   - bad:                 negro
   - bank:                banka
   - bar:                 bar
-  - bathroom:            banyo
-  - bedroom:             dormitoro
   - beautiful:           ermozo
   - beautiful:           ermozos
   - beautiful:           ermoza
@@ -79,7 +77,9 @@ Two-way-dictionary:
   - book:                livro
   - books:               livros
   - bourekas:            boyos
-  - bride:               novia
+  - bottle:              (la) redoma
+  - bracelet:            (la) maniya
+  - bride:               (la) novia
   - bridge:              pontre
   - bridges:             pontres
   - brush:               (la) furcha
@@ -104,20 +104,23 @@ Two-way-dictionary:
   - colors:              kolores
   - companion:           kompanyero
   - community:           komunita
+  - contact lenses:      (los) lentes de kontakto
   - congratulations:     felisitasyones
+  - contact:             kontakto
+  - contain:             kontienen
   - content:             kontenidos
   - contents:            kontenidos
-  - contain:             kontienen
   - contrary:            kontra
   - country:             pais
   - course:              kurso
   - courses:             kursos
   - copy:                kopya
   - cost:                kosta
-  - contact:             kontakto
+  - cotton thread:       (el) ilo de koton
   - creator:             kriador
   - culture:             kultura
   - cultural:            kultural
+  - cup:                 (el) finjan
 
   - dance:               bayle
   - dear:                karos
@@ -156,6 +159,7 @@ Two-way-dictionary:
 
   - early:               demprano
   - early:               temprano
+  - earring:             (las) eskularichas
   - easy:                kolay
   - easy:                fasil
   - edition:             numero (de jurnal)
@@ -212,7 +216,9 @@ Two-way-dictionary:
   - games:               partidas
   - general:             jenerales
   - gillette:            jilet
-  - glass:               kupa
+  - glass:               (la) kupa
+  - glass:               (el) vazo
+  - glasses:             (los) antojos
   - goal:                buto
   - god:                 dio
   - good:                buen
@@ -362,6 +368,7 @@ Two-way-dictionary:
   - names:               nombres
   - near by:             serka
   - necessary:           menester
+  - needle:              (la) alguja
   - negative:            negativo
   - neutral:             neutrala
   - never:               nunka
@@ -439,6 +446,7 @@ Two-way-dictionary:
   - public:              publikos
   - publications:        publikasiones
   - Purim:               Purim
+  - purse:               (la) chanta
 
   - question:            demanda
   - questions:           demandas
@@ -461,7 +469,7 @@ Two-way-dictionary:
   - right:               derecha
   - right:               djusta
   - right:               razon
-  - ring:                aniyo
+  - ring:                (el) aniyo
   - room:                kamareta
 
   - same:                mizma
@@ -575,6 +583,8 @@ Two-way-dictionary:
   - true:                vedrad
   - true:                verdad
 
+  - umbrella:            (el) chadir
+
   - year:                anyo
   - years:               anyos
   - yes:                 si
@@ -595,9 +605,10 @@ Two-way-dictionary:
   - villager:            kazalina
   - villager:            kazalino
 
+  - wallet:              (el) portofolio
   - warm:                kaliente
   - warm:                kalientes
-  - watch:               ora
+  - watch:               (la) ora
   - well:                bien
   - welcome:             bienvenidos
   - web:                 web
@@ -684,6 +695,5 @@ Phrases:
     Translation: "His family {settled down} in Thessaloniki"
   - Phrase: Tiene kavesa dura
     Translation: Has a hard head
-
 
 

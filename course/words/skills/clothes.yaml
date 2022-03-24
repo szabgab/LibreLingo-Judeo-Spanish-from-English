@@ -5,26 +5,51 @@ Skill:
 New words: []
 
 Two-way-dictionary:
-  - belt:      sintura
-  - bra:       sosten
-  - clothes:   ropa
-  - dress:     fostan
-  - gloves:    guante
-  - hat:       chapeo
-  - hat:       chapeyo
-  - pants:     pantalones
-  - scarf:     muslin
-  - shoe:      chapine
-  - shoe:      kalsado
-  - shoes:     chapines
-  - shoes:     kalsados
-  - shirt:     kamiza
-  - skirt:     fusta
-  - t-shirt:   kamizeta
-  - tie:       kravata
-  - trousers:  pantalones
-  - underwear: ropa interior
-
+  - baseball hat:  (la) kasketa
+  - belt:          (la) sintura
+  - belt:          (el) kushak
+  - boots:         (las) chizmes
+  - boxer:         (la) braga de bokser
+  - button:        (el) boton
+  - bra:           (el) sutien
+  - clothes:       ropa
+  - dress:         (el) fostan
+  - flip-flops:    (las) sandalas de dedo
+  - gloves:        (los) guantes
+  - hat:           (el) chapeo
+  - hat:           (el) chapeyo
+  - jacket:        (la) djaketa
+  - jeans:         (los) djins
+  - panties:       (la) braga
+  - pants:         (los) pantalones
+  - pants:         (el) pantalon
+  - raincoat:      (la) empermeable
+  - sandals:       (las) sandalas
+  - sari:          (el) sari
+  - scarf:         muslin
+  - scarf:         (la) esharpa
+  - shoe:          chapine
+  - shoe:          kalsado
+  - shoelace:      (los) kordones
+  - shoes:         chapines
+  - shoes:         (los) kalsados
+  - shorts:        (el) pantalon kurto
+  - shirt:         (la) kamiza
+  - skirt:         (la) fusta
+  - sneakers:      (los) kalsados de spor
+  - socks:         (las) kalsas
+  - suit:          (el) kostum
+  - sweather:      (el) pulover
+  - swim trunks:   (el) mayo de ombre
+  - swimsuit:      (el) mayo
+  - t-shirt:       kamizeta
+  - t-shirt:       (el) tshirt
+  - tie:           (la) kravata
+  - trousers:      pantalones
+  - umbrella:      (el) chair
+  - underwear:     ropa interior
+  - purse:         (la) chanta
+  - wallet:        (el) portfolio
 
 Phrases:
   - Phrase: "Una kamiza vedre, {por favor}"
