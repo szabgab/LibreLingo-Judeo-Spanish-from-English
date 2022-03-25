@@ -5,16 +5,18 @@ Skill:
 New words: []
 
 Two-way-dictionary:
-  - bear:       lonso
-  - bird:       pasharo
-  - cat:        gato
-  - cats:       gatos
+  - bear:       (el) lonso
+  - bears:      (los) lonsos
+  - bird:       (el) pasharo
+  - birds:      (el) pasharos
+  - cat:        (el) gato
+  - cats:       (los) gatos
   - chicken:    poyo
   - chicken:    gayna
-  - cow:        vaka
-  - cows:       vakas
-  - dog:        perro
-  - dogs:       perros
+  - cow:        (la) vaka
+  - cows:       (las) vakas
+  - dog:        (el) perro
+  - dogs:       (los) perros
   - donkey:     azno (m)
   - duck:       pato
   - elephant:   elefante
@@ -23,8 +25,8 @@ Two-way-dictionary:
   - lamb:       kodrero
   - leon:       leon
   - rat:        raton
-  - snake:      kulevra
-  - snakes:     kulevras
+  - snake:      (la) kulevra
+  - snakes:     (las) kulevras
 
 Phrases:
   - Phrase: un perro blanko

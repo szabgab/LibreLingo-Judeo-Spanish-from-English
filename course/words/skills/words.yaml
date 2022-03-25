@@ -637,6 +637,8 @@ Two-way-dictionary:
   - work:                echo
   - work:                ovra
   - works:               ovras
+  - world:               (el) mundo
+  - world-wide:          mundial
   - writer:              eskritor
   - writer:              eskritora
   - writers:             eskritores

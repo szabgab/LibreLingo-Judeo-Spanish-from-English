@@ -4,38 +4,41 @@ Skill:
 
 New words: []
 
+Two-way-dictionary:
+  - arm:        braso
+  - back:       espalda
+  - brain:      meoyo
+  - cheek:      kara
+  - ear:        oyido
+  - ear:        oreja
+  - elbow:      kovdo
+  - eye:        ojo
+  - face:       kara
+  - foot:       pie
+  - foot:       pye
+  - forehead:   frente
+  - finger:     dedo
+  - hair:       pelo
+  - hand:       mano
+  - head:       kavesa
+  - heart:      korason
+  - knee:       diz
+  - liver:      ligado
+  - lung:       pulmon
+  - lungs:      pulmones
+  - mouth:      boka
+  - mustache:   mustacho
+  - neck:       garganta
+  - nose:       nariz
+  - stomach:    estomago
+  - teeth:      dientes
+  - tooth:      diente
+  - throat:     garon
+  - tongue:     luenga
+
+  - on foot:    a pie
+  - on foot:    a pye
+
 Phrases: []
 
-Two-way-dictionary:
-  - arm: braso
-  - back: espalda
-  - brain: meoyo
-  - cheek: kara
-  - ear: oyido
-  - ear: oreja
-  - elbow: kovdo
-  - eye: ojo
-  - face: kara
-  - foot: pie
-  - foot: pye
-  - forehead: frente
-  - finger: dedo
-  - hair: pelo
-  - hand: mano
-  - head: kavesa
-  - heart: korason
-  - knee: diz
-  - liver: ligado
-  - lung: pulmon
-  - lungs: pulmones
-  - mouth: boka
-  - neck: garganta
-  - nose: nariz
-  - stomach: estomago
-  - teeth: dientes
-  - tooth: diente
-  - throat: garon
-  - tongue: luenga
 
-  - on foot: a pie
-  - on foot: a pye
