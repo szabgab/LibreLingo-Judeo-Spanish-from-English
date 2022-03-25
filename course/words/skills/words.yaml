@@ -86,15 +86,15 @@ Two-way-dictionary:
   - but:                 ama
   - but:                 ma
 
-  - calendar:            kalendario
+  - calendar:            (el) kalendario
   - camping:             kemping
   - cancelled:           anulado
-  - candle:              kandela
-  - card:                karta
-  - cards:               kartas
-  - century:             siglo
+  - candle:              (la) kandela
+  - card:                (la) karta
+  - cards:               (las) kartas
+  - century:             (el) siglo
   - cheap:               barato
-  - city:                sivdad
+  - city:                (la) sivdad
   - class:               klasa
   - classroom:           klasa
   - climate:             klima
@@ -112,13 +112,13 @@ Two-way-dictionary:
   - content:             kontenidos
   - contents:            kontenidos
   - contrary:            kontra
-  - country:             pais
-  - course:              kurso
-  - courses:             kursos
+  - country:             (el) pais
+  - course:              (el) kurso
+  - courses:             (los) kursos
   - copy:                kopya
   - cost:                kosta
   - cotton thread:       (el) ilo de koton
-  - creator:             kriador
+  - creator:             (el) kriador
   - culture:             kultura
   - cultural:            kultural
   - cup:                 (el) findjan
@@ -164,8 +164,6 @@ Two-way-dictionary:
   - easy:                kolay
   - easy:                fasil
   - edition:             numero (de jurnal)
-  - editor:              redaktor
-  - editors:             redaktores
   - editorial:           editoral
   - edition:             revista
   - election:            elektoral
@@ -187,19 +185,19 @@ Two-way-dictionary:
   - explication:         (el) eksplikasion
 
   - famous:              famozos
-  - favour:              favor
-  - feel:                gusta
+  - favour:              (el) favor
   - feminine:            feminino
-  - fiance:              novio
-  - file:                archivo
-  - files:               archivos
-  - film:                filmo
-  - films:               filmos
+  - fiance:              (el) novio
+  - file:                (el) archivo
+  - files:               (los) archivos
+  - film:                (el) filmo
+  - films:               (los) filmos
   - finally:             a la fin
   - for:                 para
   - for me:              para mi
   - for sure:            siguro
-  - form:                forma
+  - form:                (la) forma
+  - forum:               (el) foro
   - forward:             adelante
   - friend:              amigo
   - friend:              amiga
@@ -287,7 +285,6 @@ Two-way-dictionary:
   - jew:                 djidio
   - jews:                djudios
   - job:                 lavoro
-  - joy:                 alegria
   - justice:             razon
 
   - lack:                mankar
@@ -373,6 +370,10 @@ Two-way-dictionary:
   - negative:            negativo
   - neutral:             neutrala
   - never:               nunka
+  - new:                 muevo
+  - new:                 mueva
+  - new:                 muevos
+  - new:                 muevas
   - newspaper:           jurnal
   - newspapers:          jurnales
   - nice:                bueno
@@ -390,9 +391,11 @@ Two-way-dictionary:
   - on:                  en
   - on top:              ensima
   - of:                  de
-  - of:                  del
+  - of (the):            del
   - old:                 vieja
+  - old:                 viejas
   - old:                 viejo
+  - old:                 viejos
   - old:                 vyeja
   - old:                 vyejo
   - older:               mas viejo
@@ -472,6 +475,8 @@ Two-way-dictionary:
   - right:               razon
   - ring:                (el) aniyo
   - room:                kamareta
+  - rule:                (la) regla
+  - rules:               (las) reglas
 
   - same:                mizma
   - same:                mizmas
@@ -503,6 +508,7 @@ Two-way-dictionary:
   - sick:                hazina
   - side:                vanda
   - silly:               bovo
+  - since:               desde
   - sir:                 sinyor
   - site:                sitio
   - situation:           situasion
@@ -552,6 +558,7 @@ Two-way-dictionary:
   - till:                asta
   - time:                tiempo
   - time:                tyempo
+  - times:               tiempos
   - the:                 el
   - the:                 la
   - the:                 las
