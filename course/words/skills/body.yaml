@@ -6,6 +6,7 @@ New words: []
 
 Two-way-dictionary:
   - arm:        braso
+  - arms:       brasos
   - back:       espalda
   - brain:      meoyo
   - cheek:      kara
@@ -13,7 +14,9 @@ Two-way-dictionary:
   - ear:        oreja
   - elbow:      kovdo
   - eye:        ojo
-  - face:       kara
+  - eyes:       ojos
+  - face:       (la) kara
+  - faces:      (las) karas
   - foot:       pie
   - foot:       pye
   - forehead:   frente

@@ -5,27 +5,27 @@ Skill:
 New words: []
 
 Two-way-dictionary:
-  - aunt:               tia
-  - aunts:              tias
-  - brother:            ermano
-  - brothers:           ermanos
-  - child:              kreatura
-  - child:              kriatura
-  - children:           kreaturas
-  - children:           kriaturas
-  - cousin:             prima
-  - cousin:             primo
-  - cousins:            primas
-  - cousins:            primos
-  - daughter:           ija
-  - daughters:          ijas
-  - daughter-in-law:    elmuera
-  - daughters-in-law:   elmueras
-  - eldest son:         bohor
-  - father:             padre
-  - fathers:            padres
-  - family:             famiya
-  - firstborn son:      bohor
+  - aunt:               (la) tia
+  - aunts:              (las) tias
+  - brother:            (el) ermano
+  - brothers:           (los) ermanos
+  - child:              (la) kreatura
+  - child:              (la) kriatura
+  - children:           (las) kreaturas
+  - children:           (las) kriaturas
+  - cousin:             (la) prima
+  - cousin:             (el) primo
+  - cousins:            (las) primas
+  - cousins:            (los) primos
+  - daughter:           (la) ija
+  - daughters:          (las) ijas
+  - daughter-in-law:    (la) elmuera
+  - daughters-in-law:   (las) elmueras
+  - eldest son:         (el) bohor
+  - father:             (el) padre
+  - fathers:            (los) padres
+  - family:             (la) famiya
+  - firstborn son:      (el) bohor
   - grandfather:        gran-papa
   - grandfather:        avuelo
   - grandfathers:       avuelos
@@ -42,9 +42,9 @@ Two-way-dictionary:
   - mother:             madre
   - mothers:            madres
   - mother-in-law:      esfuegra
-  - nephew:             suvrino
-  - nephews:            suvrinos
-  - parents:            djenitores
+  - nephew:             (el) suvrino
+  - nephews:            (los) suvrinos
+  - parents:            (los) djenitores
   - parents:            padres
   - parents:            parientes
   - relative:           pariente

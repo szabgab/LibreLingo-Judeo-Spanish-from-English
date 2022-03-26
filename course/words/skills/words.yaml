@@ -46,6 +46,8 @@ Two-way-dictionary:
   - archive:             archivo
   - archives:            archivos
   - ardour:              ardor
+  - article:             (el) artikolo
+  - articles:            (los) artikolos
   - as:                  komo
   - ashkenazi:           ashkenazi
   - ask:                 preguntar
@@ -173,6 +175,8 @@ Two-way-dictionary:
   - environment:         entorno
   - especially:          espesialmente
   - etc:                 ets
+  - exact:               egzakta
+  - exact:               egzakto
   - excuse me:           pardon
   - example:             enshemplo
   - example:             egzempio
@@ -211,6 +215,7 @@ Two-way-dictionary:
 
   - game:                partida
   - games:               partidas
+  - gender:              djenero
   - general:             jenerales
   - gillette:            jilet
   - glass:               (la) kupa
@@ -231,7 +236,6 @@ Two-way-dictionary:
   - group:               grupo
   - groups:              grupos
   - guest:               musafir
-  - guide:               giadera
 
   - hard:                dura
   - hard:                duro
@@ -262,6 +266,7 @@ Two-way-dictionary:
   - icecream:            dondurma
   - if:                  si
   - important:           importante
+  - important (to me):   (me) importa
   - impossible:          emposivle
   - in:                  en
   - indications:         indikasiones
@@ -286,6 +291,7 @@ Two-way-dictionary:
   - justice:             razon
 
   - lack:                mankar
+  - lady:                sinyora
   - language:            lashon
   - language:            lingua
   - language:            lengua
@@ -300,6 +306,7 @@ Two-way-dictionary:
   - letter:              karta
   - letter:              letra
   - letters:             kartas
+  - letters:             letras
   - level:               nivel
   - library:             biblioteka
   - life:                vida
@@ -429,8 +436,10 @@ Two-way-dictionary:
   - please:              por favor
   - poet:                poeta
   - poets:               poetas
-  - poetry:              poezia
-  - police:              polisiya
+  - poem:                (la) poezia
+  - poems:               (las) poezias
+  - poetry:              (la) poezia
+  - police:              (la) polisiya
   - possible:            posivle
   - presence:            (la) prezensia
   - pretty:              lindo
@@ -441,9 +450,9 @@ Two-way-dictionary:
   - product:             produkto
   - products:            produktos
   - program:             (el) program
-  - propaganda:          propaganda
+  - propaganda:          (la) propaganda
   - proverb:             (el) refran
-  - psychopatology:      psikopatologia
+  - psychopatology:      (la) psikopatologia
   - public:              publiko
   - public:              publikos
   - publications:        publikasiones
@@ -588,6 +597,7 @@ Two-way-dictionary:
   - trouble:             pena
   - true:                vedrad
   - true:                verdad
+  - type:                djenero
 
   - umbrella:            (el) chadir
 

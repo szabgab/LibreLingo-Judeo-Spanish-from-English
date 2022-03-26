@@ -13,6 +13,11 @@ Two-way-dictionary:
   - (you) read (p): meldaish
   - (they) read:    meldan
 
+  - (they) read:    melden
+# melden used by Moshe Shaul
+#
+# TODO meldando
+
 Phrases:
   - Phrase: Tu meldas un livro en Ladino
     Translation: You read a book in Ladino
