@@ -4,6 +4,7 @@ Skill:
 
 New words: []
 
+
 Phrases:
   - Phrase: yo
     Translation: I
@@ -17,6 +18,7 @@ Two-way-dictionary:
   - she:    eya
   - we:     mozotros
   - we:     mozotras
+  - you:    vos
   - you:    vozotros
   - you:    vozotras
   - they:   eyos
@@ -25,7 +27,7 @@ Two-way-dictionary:
   - me:     me
   - to me:  me
   - you:    te
-  - it:     lo
+  - it:     lo (obj.)
   - him:    le
   - to him: le
   - to her: le
@@ -38,4 +40,5 @@ Two-way-dictionary:
   - ourselves:  mos
   - yourselves: vos
 
+  - Perosnal Pronouns: Pronombres personales
 

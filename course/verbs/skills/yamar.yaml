@@ -5,6 +5,18 @@ Skill:
 New words: []
 
 Two-way-dictionary:
+  - (to) call:       yamar
+  - (I) call:        (yo) yamo
+  - (you) call:      (tu) yamas
+  - (he/she) calls:  (el/eya) yama
+  - (we) call:       (mozotras/mozotros) yamamos
+  - (you) call:      (vozotras/vozotros) yamash
+  - (they) call:      (eyas/eyos) yaman
+
+  - (to) name:       yamar
+
+
+  - to be called oneself (reflexive): yamarse
   - I am called:     me yamo
   - my name is:      me yamo
   - you are called:  te yamas
@@ -14,9 +26,8 @@ Two-way-dictionary:
   - you are called:  vos yamash
   - they are called: se yaman
 
-  - (to) call:       yamar
   - called:          yamada
-  - to be called oneself (reflexive): yamarse
+  - to be named (reflexive): yamarse
   - is being called: yamada
 
   - (you are) called: (vos) yamash
@@ -43,7 +54,4 @@ Phrases:
     Translation: The fruit that is called banana is yellow
   - Phrase: Komo vos yamash?
     Translation: What is your name?
-
-
-
 

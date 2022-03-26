@@ -39,8 +39,8 @@ Two-way-dictionary:
   - an:                  a
   - and:                 i
   - angel:               andjel
-  - animal:              animal
-  - animals:             animales
+  - animal:              (el) animal
+  - animals:             (los) animales
   - anonymous:           anonimos
   - apartment:           apartemento
   - archive:             archivo
@@ -52,6 +52,7 @@ Two-way-dictionary:
   - ashkenazi:           ashkenazi
   - ask:                 preguntar
   - at:                  en
+  - at home:             en kaza
   - ATM:                 bankomatiko
   - author:              autor
   - autumn:              otonyo
@@ -60,6 +61,8 @@ Two-way-dictionary:
   - avenue:              avenida
 
   - bad:                 negro
+  - bad:                 malo
+  - badly:               mal
   - bank:                banka
   - bar:                 bar
   - beautiful:           ermozo
@@ -124,6 +127,7 @@ Two-way-dictionary:
   - culture:             kultura
   - cultural:            kultural
   - cup:                 (el) findjan
+  - custom:              (el/la) kostumbre
 
   - dance:               bayle
   - dear:                karos
@@ -229,8 +233,6 @@ Two-way-dictionary:
   - good:                buenos
   - good:                buenas
   - goodbye:             adiyo
-  - good afternoon:      buenas tadres
-  - good morning:        buenos dias
   - greetings:           saludes
   - greetings:           saludos
   - group:               grupo
@@ -246,13 +248,13 @@ Two-way-dictionary:
   - here:                aki
   - hispanic:            ispanika
   - history:             (la) istorya
-  - home:                kaza
-  - homework:            lision
-  - homework:            lisiones
+  - home:                (la) kaza
+  - homework:            (la) lision
+  - homework:            (las) lisiones
   - hot:                 kayente
   - hottest:             mas kaliente
-  - house:               kaza
-  - houses:              kazas
+  - house:               (la) kaza
+  - houses:              (las) kazas
   - Holocaust:           Olokosto
   - host:                balabaya
   - humor:               (el) umor
@@ -302,6 +304,8 @@ Two-way-dictionary:
   - last:                ultimas
   - last:                ultimos
   - left:                (la) siedra
+  - lesson:              (la) lision
+  - lessons:             (la) lisiones
   - let's:               vamos
   - letter:              karta
   - letter:              letra
@@ -361,7 +365,6 @@ Two-way-dictionary:
   - mother tongue:       lingua maternal
   - multitude:           alay
   - music:               muzika
-  - my:                  mi
   - my:                  me
   - my name:             me yamo
   - myself:              yo mizmo
@@ -395,6 +398,7 @@ Two-way-dictionary:
 
   - on:                  en
   - on top:              ensima
+  - only:                solo
   - of:                  de
   - of (the):            del
   - old:                 vieja
@@ -586,10 +590,12 @@ Two-way-dictionary:
   - those:               esos
   - to:                  a
   - to:                  al
+  - too:                 tambien
   - to be given:         akavidarse
   - together:            djuntos
   - together:            endjuntos
   - toilet:              kabine
+  - tradition:           (el/la) kostumbre
   - translated:          tresladado
   - translator:          traduktor
   - translations:        traduksiones
@@ -620,13 +626,13 @@ Two-way-dictionary:
   - village:             kazal
   - villager:            kazalina
   - villager:            kazalino
+  - virtue:              (la) virtud
 
   - wallet:              (el) portofolio
   - warm:                kaliente
   - warm:                kalientes
   - watch:               (la) ora
   - well:                bien (adv.)
-  - welcome:             bienvenidos
   - web:                 web
   - week:                semana
   - winter:              invyerno
