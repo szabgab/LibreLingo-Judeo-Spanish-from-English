@@ -26,39 +26,43 @@ Two-way-dictionary:
   - fathers:            (los) padres
   - family:             (la) famiya
   - firstborn son:      (el) bohor
-  - grandfather:        gran-papa
-  - grandfather:        avuelo
-  - grandfathers:       avuelos
-  - grandmother:        gran-mama
-  - grandmother:        avuela
-  - grandmother:        gramama
-  - grandmothers:       avuelas
-  - grand-son:          inyeto
-  - grand-sons:         inyetos
-  - grand-daughter:     inyeta
-  - grand-daughters:    inyetas
-  - husband:            marido
-  - husbands:           maridos
-  - mother:             madre
-  - mothers:            madres
-  - mother-in-law:      esfuegra
+  - grandfather:        (el) nono
+  - grandfathers:       (los) nonos
+  - grandfather:        (el) gran-papa
+  - grandfather:        (el) avuelo
+  - grandfathers:       (los) avuelos
+  - grandmother:        (la) nona
+  - grandmothers:       (las) nonas
+  - grandmother:        (la) gran-mama
+  - grandmother:        (la) avuela
+  - grandmother:        (la) gramama
+  - grandmothers:       (las) avuelas
+  - grand-son:          (el) inyeto
+  - grand-sons:         (los) inyetos
+  - grand-daughter:     (la) inyeta
+  - grand-daughters:    (las) inyetas
+  - husband:            (el) marido
+  - husbands:           (los) maridos
+  - mother:             (la) madre
+  - mothers:            (las) madres
+  - mother-in-law:      (la) esfuegra
   - nephew:             (el) suvrino
   - nephews:            (los) suvrinos
   - parents:            (los) djenitores
-  - parents:            padres
-  - parents:            parientes
-  - relative:           pariente
-  - relatives:          parientes
-  - sister:             ermana
-  - sisters:            ermanas
-  - son:                ijo
-  - sons:               ijos
-  - son-in-law:         yerno
-  - sons-in-law:        yernos
-  - uncle:              tio
-  - uncles:             tios
-  - wife:               mujer
-  - wifes:              mujeres
+  - parents:            (los) padres
+  - parents:            (los) parientes
+  - relative:           (el) pariente
+  - relatives:          (los) parientes
+  - sister:             (la) ermana
+  - sisters:            (las) ermanas
+  - son:                (el) ijo
+  - sons:               (los) ijos
+  - son-in-law:         (el) yerno
+  - sons-in-law:        (los) yernos
+  - uncle:              (el) tio
+  - uncles:             (los) tios
+  - wife:               (la) mujer
+  - wifes:              (las) mujeres
 
 
 Phrases:

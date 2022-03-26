@@ -5,15 +5,15 @@ Skill:
 New words: []
 
 Two-way-dictionary:
-  - airplanes:      aviones
-  - airport:        aeroporto
-  - airplane:       avion
+  - airplane:       (el) avion
+  - airplanes:      (los) aviones
+  - airport:        (el) aeroporto
 
-  - bicycle:        bisikleta
-  - (small) boat:   barka
-  - (small) boat:   barko
-  - bus:            otobus
-  - buses:          otobuses
+  - bicycle:        (la) bisikleta
+  - (small) boat:   (la) barka
+  - (small) boat:   (el) barko
+  - bus:            (el) otobus
+  - buses:          (los) otobuses
 
   - car:            araba
   - car:            koche
