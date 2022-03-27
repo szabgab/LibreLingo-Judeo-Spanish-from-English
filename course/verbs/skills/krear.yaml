@@ -4,9 +4,22 @@ Skill:
 
 New words: []
 
-Phrases: []
-
 Two-way-dictionary:
   - (to) create: krear
-  - (you) created: kreates
+
+  - (I) create:        (yo) kreo
+  - (you) create:      (tu) kreas
+  - (he/she) creates:  (el/eya) krea
+  - (we) create:       (mozotras/mozotros) kreamos
+  - (you) create:      (vozotras/vozotros) kreash
+  - (they) create:     (eyas/eyos) krean
+
+  - creating: kreando
+
+  - (you) created: (tu) kreates
+
+Phrases:
+  - Phrase: Yo esto kreando un djugo.
+    Translation: I am creating a game.
+
 

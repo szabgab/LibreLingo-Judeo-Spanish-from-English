@@ -42,6 +42,7 @@ Two-way-dictionary:
   - animals:             (los) animales
   - anonymous:           anonimos
   - apartment:           apartemento
+  - application:         aplikasion
   - archive:             archivo
   - archives:            archivos
   - ardour:              ardor
@@ -369,7 +370,9 @@ Two-way-dictionary:
   - materials:           (los) materiales
   - meal:                (la) komida
   - meals:               (las) komidas
+  - member:              (la) miembra
   - member:              (el) miembro
+  - members:             (las) miembras
   - members:             (los) miembros
   - message:             (el) mesaje
   - messages:            (los) mesajes
@@ -463,13 +466,14 @@ Two-way-dictionary:
   - people:              personas
   - people:              djente
   - person:              persona
-  - phone:               telefon
-  - mobile phone:        telefon selular
+  - phone:               (el) telefon
+  - mobile phone:        (el) telefon selular
   - photo:               (la) foto
   - phrase:              (la) fraza
   - phrases:             (las) frazas
   - pity:                pekado
-  - place:               lugar
+  - place:               (el) lugar
+  - places:              (los) lugares
   - pleasure:            plazer
   - please:              por favor
   - poet:                poeta
@@ -487,6 +491,8 @@ Two-way-dictionary:
   - price:               (el) presio
   - prices:              (los) presio
   - primary:             primarias
+  - private:             privada
+  - private:             privado
   - product:             produkto
   - products:            produktos
   - program:             (el) program
@@ -641,6 +647,7 @@ Two-way-dictionary:
   - traditionally:       tradisionalmente
   - translated:          tresladado
   - translator:          traduktor
+  - translation:         traduksion
   - translations:        traduksiones
   - transportation:      transportasyon
   - treasure:            (la) trezoro
@@ -665,6 +672,7 @@ Two-way-dictionary:
 
   - vacation:            vakansas
   - Venezualan:          venezuelano
+  - version:             version
   - very:                muy
   - veteran:             veteranos
   - village:             kazal
