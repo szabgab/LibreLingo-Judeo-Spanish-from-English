@@ -119,6 +119,7 @@ Two-way-dictionary:
   - community:           komunita
   - contact lenses:      (los) lentes de kontakto
   - congratulations:     felisitasyones
+  - considered:          konsiderado
   - contact:             kontakto
   - contain:             kontienen
   - content:             kontenidos
@@ -152,9 +153,12 @@ Two-way-dictionary:
   - decision:            desizion
   - decision:            desizyon
   - denigrating:         denigratora
+  - dervish:             dervish
+  - dervishes:           dervishes
   - desire:              dezeo
   - dialect:             dialekto
   - dialects:            dialektos
+  - dialogue:            dialogo
   - dictatorship:        diktatura
   - dictatorships:       diktaturas
   - dictionary:          diksionario
@@ -185,9 +189,11 @@ Two-way-dictionary:
   - edition:             revista
   - election:            elektoral
   - empty:               vaziyo
+  - empire:              imperio
   - end:                 fin
   - engagement:          (el) despozorio
   - environment:         entorno
+  - entire:              entero
   - especially:          espesialmente
   - etc:                 ets
   - exact:               egzakta
@@ -297,6 +303,7 @@ Two-way-dictionary:
   - investigator:        investigadora
   - investigators:       investigadoras
   - investigators:       investigadores
+  - Islam:               Islam
   - it:                  es
 
   - journalist:          jurnalisto
@@ -341,6 +348,7 @@ Two-way-dictionary:
   - little:              chika
   - little candle:       kandelika
   - little:              poko
+  - logical:             lojiko
   - long:                larga
   - long:                largo
   - lot:                 muncho
@@ -387,6 +395,7 @@ Two-way-dictionary:
   - modes:               modos
   - modern:              moderna
   - modern:              moderno
+  - moderate:            moderado
   - mother tongue:       lingua maternal
   - multitude:           alay
   - museum:              (el) muzeo
@@ -449,6 +458,7 @@ Two-way-dictionary:
   - other:               otras
   - other:               otruno
   - other:               otruna
+  - Ottoman:             Otomano
   - outside:             afuera
   - over:                ensima
 
@@ -482,6 +492,8 @@ Two-way-dictionary:
   - poems:               (las) poezias
   - poetry:              (la) poezia
   - police:              (la) polisiya
+  - popular:             populare
+  - populars:            populares
   - possible:            posivle
   - presence:            (la) prezensia
   - pretty:              lindo
@@ -498,6 +510,7 @@ Two-way-dictionary:
   - program:             (el) program
   - propaganda:          (la) propaganda
   - proverb:             (el) refran
+  - to be pronunced:     pronunsiado
   - psychopatology:      (la) psikopatologia
   - public:              publiko
   - public:              publikos
@@ -517,6 +530,8 @@ Two-way-dictionary:
   - refugees:            refujiados
   - relation:            relasion
   - relations:           relasiones
+  - religion:            relijion
+  - religions:           relijiones
   - remark:              remarka
   - response:            (la) repuesta
   - restaurant:          (el) restoran
@@ -642,6 +657,7 @@ Two-way-dictionary:
   - together:            endjuntos
   - toilet:              kabine
   - Torah:               (la) Tora
+  - totally:             totalmente
   - tradition:           (el/la) kostumbre
   - tradition:           (la) tradisyon
   - traditionally:       tradisionalmente
@@ -671,6 +687,7 @@ Two-way-dictionary:
   - your:                tu
 
   - vacation:            vakansas
+  - variation:           variasion
   - Venezualan:          venezuelano
   - version:             version
   - very:                muy
@@ -678,6 +695,7 @@ Two-way-dictionary:
   - village:             kazal
   - villager:            kazalina
   - villager:            kazalino
+  - violence:            violensia
   - virtue:              (la) virtud
 
   - wallet:              (el) portofolio
@@ -688,6 +706,7 @@ Two-way-dictionary:
   - well:                bien (adv.)
   - web:                 web
   - week:                semana
+  - whole:               entero
   - winter:              invyerno
   - wish:                dezeo
   - with:                kon

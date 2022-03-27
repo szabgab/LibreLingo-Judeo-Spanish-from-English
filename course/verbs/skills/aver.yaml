@@ -8,6 +8,8 @@ Phrases: []
 
 Two-way-dictionary:
   - (to) have: aver
-  - (I) have: avia
 
-
+  - (I) have:     avia
+  - (yo) have:    avias
+  - (he/she) has: avia
+  - (they) have: avian
