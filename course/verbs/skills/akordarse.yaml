@@ -1,6 +1,6 @@
 Skill:
   Name: akordarse
-  Id: 1080
+  Id: 1145
 
 New words: []
 
@@ -8,3 +8,5 @@ Phrases: []
 
 Two-way-dictionary:
   - (to) agree: akordarse
+
+  - agreement: (el) akordo

@@ -18,7 +18,8 @@ Two-way-dictionary:
   - accross:             atraves
   - active:              aktiva
   - active:              aktivo
-  - activity:            aktividad
+  - activity:            (la) aktividad
+  - acquaintance:        (la) konosensia
   - address:             adreso
   - after:               dempues
   - after:               despues
@@ -26,8 +27,8 @@ Two-way-dictionary:
   - afternoon:           tadres
   - age:                 edad
   - already:             ya
-  - all:                 todo
-  - all:                 toda
+  - all:                 todo (adj.)
+  - all:                 toda (adj.)
   - all:                 todos
   - all:                 todas
   - alone:               sola
@@ -91,6 +92,7 @@ Two-way-dictionary:
   - but:                 ama
   - but:                 ma
 
+  - cafeteria:           (la) kafeterya
   - calendar:            (el) kalendario
   - camping:             kemping
   - cancelled:           anulado
@@ -162,6 +164,7 @@ Two-way-dictionary:
   - door:                (la) puerta
   - doors:               (las) puertas
   - don't:               no
+  - dowry:               (la) dota
   - during:              durante
 
   - early:               demprano
@@ -175,7 +178,7 @@ Two-way-dictionary:
   - election:            elektoral
   - empty:               vaziyo
   - end:                 fin
-  - engagement:          despozorio
+  - engagement:          (el) despozorio
   - environment:         entorno
   - especially:          espesialmente
   - etc:                 ets
@@ -190,6 +193,8 @@ Two-way-dictionary:
   - expensive:           karas
   - expert:              haham
   - everyone:            todos
+  - everything:          todo (adj.)
+  - everything:          toda (adj.)
   - explication:         (el) eksplikasion
 
   - famous:              famozos
@@ -244,7 +249,7 @@ Two-way-dictionary:
   - hate:                aborresion
   - he:                  el
   - health:              salu
-  - help:                ayudo
+  - help:                (el) ayudo
   - here:                aki
   - hispanic:            ispanika
   - history:             (la) istorya
@@ -286,8 +291,11 @@ Two-way-dictionary:
   - it:                  es
 
   - journalist:          jurnalisto
+  - jew:                 djudia
   - jew:                 djudio
+  - jew:                 djidia
   - jew:                 djidio
+  - jews:                djudias
   - jews:                djudios
   - job:                 lavoro
   - justice:             razon
@@ -339,8 +347,7 @@ Two-way-dictionary:
   - manner:              manera
   - many:                munchos
   - many:                munchas
-  - married:             kazado
-  - married:             kazada
+  - matchmaker:          (la) kazamentera
   - math:                matematika
   - masculine:           maskulino
   - materials:           materiales
@@ -355,7 +362,6 @@ Two-way-dictionary:
   - mistake:             yerro
   - mistakes:            yerros
   - money:               dinero
-
   - month:               mez
   - months:              mezes
   - more:                mas
@@ -364,6 +370,7 @@ Two-way-dictionary:
   - modern:              moderno
   - mother tongue:       lingua maternal
   - multitude:           alay
+  - museum:              (el) muzeo
   - music:               muzika
   - my:                  me
   - my name:             me yamo
@@ -373,6 +380,7 @@ Two-way-dictionary:
   - name:                me llamo
   - names:               nombres
   - near by:             serka
+  - nearly:              kaji
   - necessary:           menester
   - needle:              (la) alguja
   - negative:            negativo
@@ -519,13 +527,15 @@ Two-way-dictionary:
   - sick:                hazina
   - side:                vanda
   - silly:               bovo
+  - similar:             semejante
   - since:               desde
   - sir:                 sinyor
   - site:                sitio
   - situation:           situasion
   - small:               chiko
   - small:               chika
-  - some:                alguno
+  - small boy:           (el) ijiko
+  - some:                alguno (adj.)
   - some:                alguna
   - some:                algunos
   - some:                algunas
@@ -553,6 +563,7 @@ Two-way-dictionary:
   - sure:                seguro
   - surname:             alkunya
 
+  - trousseau:           (el) ashugar
   - take out:            echar
   - tall:                alta
   - teacher:             profesor
@@ -596,6 +607,7 @@ Two-way-dictionary:
   - together:            endjuntos
   - toilet:              kabine
   - tradition:           (el/la) kostumbre
+  - traditionally:       tradisionalmente
   - translated:          tresladado
   - translator:          traduktor
   - translations:        traduksiones

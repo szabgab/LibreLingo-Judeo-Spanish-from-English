@@ -5,10 +5,15 @@ Skill:
 New words: []
 
 Two-way-dictionary:
-  - (to) count: kontar
-  - (I) count: (yo) konto
+  - (to) count:  kontar
+  - (to) tell:   kontar
+  - (to) relate: kontar
 
-  - telling us: kontarmos
+  - (I) count:   (yo) konto
+
+  - tell me (!):    kontame
+  - tell us (!):    kontamos
+  - telling us:     kontarmos
 
 Phrases:
   - Phrase: Yo konto asta diez

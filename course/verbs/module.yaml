@@ -11,9 +11,10 @@ Skills:
   - adorar.yaml
   - aferrar.yaml
   - agradar.yaml
-  - akordarse.yaml
   - akavar.yaml
   - akodrar.yaml
+  - akordar.yaml
+  - akordarse.yaml
   - alegrar.yaml
   - alevantar.yaml
   - alevantarse.yaml
@@ -77,6 +78,8 @@ Skills:
   - kaminar.yaml
   - kantar.yaml
   - kayarse.yaml
+  - kazarse.yaml
+  - kedar.yaml
   - kerer.yaml
   - kitar.yaml
   - komer.yaml
@@ -131,6 +134,7 @@ Skills:
   - valorizar.yaml
   - vender.yaml
   - venir.yaml
+  - ver.yaml
   - viajar.yaml
   - yamar.yaml
 

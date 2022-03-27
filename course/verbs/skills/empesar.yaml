@@ -5,8 +5,8 @@ Skill:
 New words: []
 
 Two-way-dictionary:
-  - (to) begin:  empesar
-  - (to) start:  empesar
+  - (to) begin:  empesar (a + inf.)
+  - (to) start:  empesar (a + inf.)
 
   - (I) begin:       empeso
   - (you) begin:     empesas
@@ -20,9 +20,11 @@ Two-way-dictionary:
 Phrases:
   - Phrase: Kuando keres empesar la klasa?
     Translation: When do you want to start the class?
-  - Phrase: Kuando tu empesas kozer?
+  - Phrase: Kuando tu empesas a kozer?
     Translation: When do you start to cook?
-  - Phrase: Yo empeso kozer temprano.
+  - Phrase: Yo empeso a kozer temprano.
     Translation: I start to cook early.
+  - Phrase: Empesar a lavorar.
+    Translation: Start to work.
 
 
