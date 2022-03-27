@@ -75,6 +75,8 @@ Two-way-dictionary:
   - between:             entre
   - beginning:           empesijo
   - below:               abasho (adv)
+  - Bible:               Biblia
+  - Bible:               Biblya
   - big:                 grande
   - big:                 grandes
   - bill:                kuento
@@ -87,6 +89,8 @@ Two-way-dictionary:
   - bride:               (la) novia
   - bridge:              pontre
   - bridges:             pontres
+  - brochure:            (el) broshur
+  - brochure:            (la) broshura
   - brush:               (la) furcha
   - but:                 ama
   - but:                 ma
@@ -120,6 +124,8 @@ Two-way-dictionary:
   - contents:            kontenidos
   - contrary:            kontra
   - convoy:              (el) konvoy
+  - correct:             korrekta
+  - correct:             korrektas
   - country:             (el) pais
   - course:              (el) kurso
   - courses:             (los) kursos
@@ -409,6 +415,7 @@ Two-way-dictionary:
   - non:                 non
   - non-public:          non publikos
   - not:                 no
+  - note:                (la) nota
   - notebook:            tefter
   - notebooks:           tefteres
   - nothing at all:      no ay por kualo
@@ -536,6 +543,7 @@ Two-way-dictionary:
   - Sephardic:           Sefaradi
   - Sephardic:           Sefaradim
   - Sephardic:           Sefaradis
+  - serial:              serial
   - settled down:        instalaron
   - several:             varias
   - shabat:              shabat
@@ -557,11 +565,14 @@ Two-way-dictionary:
   - small:               chiko
   - small:               chika
   - small boy:           (el) ijiko
+  - so:                  ansi
   - some:                alguno (adj.)
   - some:                alguna
   - some:                algunos
   - some:                algunas
   - some:                unos
+  - song:                (la) kantika
+  - songs:               (las) kantikas
   - sorrow:              pena
   - soul:                alma
   - source:              manadero
@@ -624,12 +635,15 @@ Two-way-dictionary:
   - together:            djuntos
   - together:            endjuntos
   - toilet:              kabine
+  - Torah:               (la) Tora
   - tradition:           (el/la) kostumbre
+  - tradition:           (la) tradisyon
   - traditionally:       tradisionalmente
   - translated:          tresladado
   - translator:          traduktor
   - translations:        traduksiones
   - transportation:      transportasyon
+  - treasure:            (la) trezoro
   - trouble:             pena
   - true:                vedrad
   - true:                verdad
