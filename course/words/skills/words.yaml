@@ -141,12 +141,14 @@ Two-way-dictionary:
   - custom:              (el/la) kostumbre
 
   - dance:               bayle
-  - dear:                karos
+  - dear:                kara
+  - dear:                karo
   - dear:                karas
-  - dear:                kerido
+  - dear:                karos
   - dear:                kerida
-  - dear:                keridos
+  - dear:                kerido
   - dear:                keridas
+  - dear:                keridos
   - decade:              dekada
   - decision:            dechizion
   - decision:            dechizyon
@@ -264,6 +266,7 @@ Two-way-dictionary:
   - hate:                aborresion
   - he:                  el
   - health:              salu
+  - health:              salud
   - help:                (el) ayudo
   - here:                aki
   - hispanic:            ispanika
@@ -298,6 +301,7 @@ Two-way-dictionary:
   - intelligent:         intelijente
   - intelligents:        intelijentes
   - interesting:         interesante
+  - interview:           (la) entrevista
   - introduction:        introduksion
   - investigator:        investigador
   - investigator:        investigadora
