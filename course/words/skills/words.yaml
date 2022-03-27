@@ -118,6 +118,7 @@ Two-way-dictionary:
   - content:             kontenidos
   - contents:            kontenidos
   - contrary:            kontra
+  - convoy:              (el) konvoy
   - country:             (el) pais
   - course:              (el) kurso
   - courses:             (los) kursos
@@ -154,7 +155,7 @@ Two-way-dictionary:
   - different:           diferente
   - different:           diferentes
   - difficult:           zor
-  - dinner:              sena
+  - dinner:              (la) sena
   - directly:            direktamente
   - does:                esta
   - doll:                (la) kukla
@@ -205,6 +206,7 @@ Two-way-dictionary:
   - film:                (el) filmo
   - films:               (los) filmos
   - finally:             a la fin
+  - floor:               patin
   - for:                 para
   - for me:              para mi
   - for sure:            siguro
@@ -330,6 +332,8 @@ Two-way-dictionary:
   - little:              chika
   - little candle:       kandelika
   - little:              poko
+  - long:                larga
+  - long:                largo
   - lot:                 muncho
   - lot:                 muncha
   - love:                (el) amor
@@ -397,6 +401,8 @@ Two-way-dictionary:
   - newspapers:          jurnales
   - nice:                bueno
   - nice to meet you:    muncho gusto
+  - night:               (la) noche
+  - nights:              (las) noches
   - no:                  no
   - non:                 non
   - non-public:          non publikos
@@ -463,6 +469,8 @@ Two-way-dictionary:
   - pretty:              linda
   - pretty:              ermozo
   - pretty:              ermoza
+  - price:               (el) presio
+  - prices:              (los) presio
   - primary:             primarias
   - product:             produkto
   - products:            produktos
@@ -511,9 +519,12 @@ Two-way-dictionary:
   - sayings:             (las) dichas
   - saying:              (el) refran
   - season:              sezon
+  - school:              (la) eskola
+  - schools:             (la) eskolas
   - sect:                (el) sekto
   - sects:               (los) sektos
   - section:             seksion
+  - sections:            seksiones
   - sentence:            (la) fraza
   - sentences:           (las) frazas
   - Sephardic:           Sefaradi
@@ -732,5 +743,7 @@ Phrases:
     Translation: "His family {settled down} in Thessaloniki"
   - Phrase: Tiene kavesa dura
     Translation: Has a hard head
+  - Phrase: La sena es la komida de la noche
+    Translation: Dinner is the meal of the night.
 
 
