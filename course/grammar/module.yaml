@@ -2,8 +2,9 @@ Module:
   Name: "Grammar"
 
 Skills:
+  - adjectives.yaml
+  - articles.yaml
+  - estar.yaml
   - pronouns.yaml
   - ser.yaml
-  - estar.yaml
-  - adjectives.yaml
   - other.yaml

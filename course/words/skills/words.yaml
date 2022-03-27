@@ -5,8 +5,6 @@ Skill:
 New words: []
 
 Two-way-dictionary:
-  - a:                   un
-  - a:                   una
   - a bit:               un poko
   - a little:            poko
   - about:               sovre
@@ -102,6 +100,7 @@ Two-way-dictionary:
   - century:             (el) siglo
   - cheap:               barato
   - city:                (la) sivdad
+  - cities:              (las) sivdades
   - class:               klasa
   - classroom:           klasa
   - climate:             klima
@@ -324,6 +323,8 @@ Two-way-dictionary:
   - life:                vida
   - light:               liviana
   - light:               liviano
+  - light:               luz
+  - lights:              luzes
   - lingusitics:         linguistika
   - little:              chiko
   - little:              chika
@@ -331,6 +332,8 @@ Two-way-dictionary:
   - little:              poko
   - lot:                 muncho
   - lot:                 muncha
+  - love:                (el) amor
+  - loves:               (los) amores
   - lovely:              presioza
   - lovely:              presiozo
   - luck:                mazal
@@ -432,6 +435,8 @@ Two-way-dictionary:
   - over:                ensima
 
   - page:                pajina
+  - paper:               (el) papel
+  - papers:              (los) papeles
   - partner:             kompanyero
   - partner:             haver
   - partners:            haverim
@@ -581,10 +586,6 @@ Two-way-dictionary:
   - time:                tiempo
   - time:                tyempo
   - times:               tiempos
-  - the:                 el
-  - the:                 la
-  - the:                 las
-  - the:                 los
   - the whole:           toda la
   - themselves:          eyos
   - then:                entonses

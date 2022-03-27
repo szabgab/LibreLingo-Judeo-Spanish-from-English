@@ -31,7 +31,10 @@ Two-way-dictionary:
 
   - ticket:         bilyeto
   - taxi:           taksi
-  - train:          treno
+  - train:          (el) tren
+  - trains:         (los) trenes
+  - train:          (el) treno
+  - trains:         (el) trenos
 
 
 Phrases:
