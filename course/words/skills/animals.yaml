@@ -11,6 +11,7 @@ Two-way-dictionary:
   - birds:      (el) pasharos
   - cat:        (el) gato
   - cats:       (los) gatos
+  - small cat:  (el) gatiko
   - chicken:    poyo
   - chicken:    gayna
   - cow:        (la) vaka
@@ -18,9 +19,10 @@ Two-way-dictionary:
   - dog:        (el) perro
   - dogs:       (los) perros
   - donkey:     azno (m)
-  - duck:       pato
+  - duck:       (la) patona
   - elephant:   elefante
   - fish:       pishkado
+  - goose:      (el) pato
   - horse:      kavayo
   - lamb:       kodrero
   - leon:       leon

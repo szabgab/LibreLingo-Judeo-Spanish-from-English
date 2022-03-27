@@ -49,7 +49,8 @@ Two-way-dictionary:
   - articles:            (los) artikolos
   - as:                  komo
   - ashkenazi:           ashkenazi
-  - ask:                 preguntar
+  - ashkenazis:          ashkenazis
+  - asylum:              (el) azilo
   - at:                  en
   - at home:             en kaza
   - ATM:                 bankomatiko
@@ -253,7 +254,7 @@ Two-way-dictionary:
   - help:                (el) ayudo
   - here:                aki
   - hispanic:            ispanika
-  - history:             (la) istorya
+  - history:             (la) istoriya
   - home:                (la) kaza
   - homework:            (la) lision
   - homework:            (las) lisiones
@@ -302,7 +303,7 @@ Two-way-dictionary:
   - justice:             razon
 
   - lack:                mankar
-  - lady:                sinyora
+  - lady:                (la) sinyora
   - language:            lashon
   - language:            lingua
   - language:            lengua
@@ -316,18 +317,19 @@ Two-way-dictionary:
   - lesson:              (la) lision
   - lessons:             (la) lisiones
   - let's:               vamos
-  - letter:              karta
-  - letter:              letra
-  - letters:             kartas
-  - letters:             letras
+  - letter:              (la) karta
+  - letter:              (la) letra
+  - letters:             (las) kartas
+  - letters:             (las) letras
   - level:               nivel
-  - library:             biblioteka
-  - life:                vida
+  - library:             (la) biblioteka
+  - life:                (la) vida
   - light:               liviana
   - light:               liviano
-  - light:               luz
-  - lights:              luzes
-  - lingusitics:         linguistika
+  - light:               (la) luz
+  - lights:              (las) luzes
+  - lingusitics:         (la) linguistika
+  - litarature:          (la) literatura
   - little:              chiko
   - little:              chika
   - little candle:       kandelika
@@ -357,18 +359,19 @@ Two-way-dictionary:
   - matchmaker:          (la) kazamentera
   - math:                matematika
   - masculine:           maskulino
-  - materials:           materiales
-  - material:            material
-  - meal:                komida
-  - meals:               komidas
-  - member:              miembro
-  - members:             miembros
-  - message:             mesaje
-  - messages:            mesajes
-  - minutes:             minutos
+  - material:            (el) material
+  - materials:           (los) materiales
+  - meal:                (la) komida
+  - meals:               (las) komidas
+  - member:              (el) miembro
+  - members:             (los) miembros
+  - message:             (el) mesaje
+  - messages:            (los) mesajes
+  - minute:              (el) minuto
+  - minutes:             (los) minutos
   - mistake:             yerro
   - mistakes:            yerros
-  - money:               dinero
+  - money:               paras
   - month:               mez
   - months:              mezes
   - more:                mas
@@ -380,7 +383,6 @@ Two-way-dictionary:
   - museum:              (el) muzeo
   - music:               muzika
   - my:                  me
-  - my name:             me yamo
   - myself:              yo mizmo
 
   - name:                nombre
@@ -443,13 +445,19 @@ Two-way-dictionary:
   - page:                pajina
   - paper:               (el) papel
   - papers:              (los) papeles
+  - parallel:            paralela
+  - parallel:            paralelo
+  - partner:             kompanyera
   - partner:             kompanyero
   - partner:             haver
   - partners:            haverim
   - party:               fiesta
+  - peace:               (la) paz
   - people:              personas
   - people:              djente
   - person:              persona
+  - phone:               telefon
+  - mobile phone:        telefon selular
   - photo:               (la) foto
   - phrase:              (la) fraza
   - phrases:             (las) frazas
@@ -484,8 +492,6 @@ Two-way-dictionary:
   - Purim:               Purim
   - purse:               (la) chanta
 
-  - question:            demanda
-  - questions:           demandas
   - quite:               bastante
   - quick:               presto
   - quickly:             presto
@@ -655,6 +661,7 @@ Two-way-dictionary:
   - wallet:              (el) portofolio
   - warm:                kaliente
   - warm:                kalientes
+  - was:                 fue
   - watch:               (la) ora
   - well:                bien (adv.)
   - web:                 web
@@ -727,7 +734,7 @@ Phrases:
     Translation: The bill please
   - Phrase: "Kero un kafe, {por favor}"
     Translation: I want a coffee, please
-  - Phrase: Echar dinero de bankomatiko
+  - Phrase: Echar paras de bankomatiko
     Translation: "{Take out} money from the ATM"
   - Phrase: "tualet {de mujeres}"
     Translation: woman's restroom

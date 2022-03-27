@@ -7,11 +7,17 @@ New words: []
 Two-way-dictionary:
   - (to) ask:      demandar
 
-  - (I) ask:       (yo) demando
-  - (you) ask:     (tu) demandas
-  - (he/she) asks: (el/eya) demanda
+  - (I) ask:         (yo) demando
+  - (you) ask:       (tu) demandas
+  - (he/she) asks:   (el/eya) demanda
+  - (we) ask:        (mozotras/mozotros) demandamos
+  - (you) ask:       (vozotras/vozotros) demandash
+  - (they) ask:      (eyas/eyos) demandan
 
-  - (to) request: demandar
+  - question:        (la) demanda
+  - questions:       (las) demandas
+
+  - (to) request:    demandar
 
 Phrases:
   - Phrase: Tengo algunas demandas
