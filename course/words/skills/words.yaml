@@ -37,6 +37,8 @@ Two-way-dictionary:
   - among:               entre
   - an:                  a
   - and:                 i
+  - anecdote:            (la) anektoda
+  - anecdotes:           (las) anektodas
   - angel:               andjel
   - animal:              (el) animal
   - animals:             (los) animales
@@ -213,6 +215,9 @@ Two-way-dictionary:
   - everything:          toda (adj.)
   - explication:         (el) eksplikasion
 
+  - famous:              famoza
+  - famous:              famozo
+  - famous:              famozas
   - famous:              famozos
   - favour:              (el) favor
   - feminine:            feminino
@@ -294,6 +299,8 @@ Two-way-dictionary:
   - important (to me):   (me) importa
   - impossible:          emposivle
   - in:                  en
+  - in love:             namorada
+  - in love:             namorado
   - indications:         indikasiones
   - influence:           influensia
   - information:         informasion
@@ -584,6 +591,7 @@ Two-way-dictionary:
   - silly:               bovo
   - similar:             semejante
   - since:               desde
+  - since:               deste
   - sir:                 sinyor
   - site:                sitio
   - situation:           situasion
@@ -684,6 +692,7 @@ Two-way-dictionary:
   - young:               chikos
   - young:               djoven
   - young:               djovina
+  - young age:           chikes
   - young person:        manseva
   - young person:        mansevo
   - younger:             mas djoven
