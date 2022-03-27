@@ -59,6 +59,8 @@ New words: []
 
 Phrases: []
   - Phrase:
+    Alternative versions:
+      - ..
     Translation:
 
 Mini-dictionary:
