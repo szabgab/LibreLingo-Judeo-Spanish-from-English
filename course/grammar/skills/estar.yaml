@@ -9,6 +9,8 @@ Phrases:
     Translation: Rina, are you at home?
 
 Two-way-dictionary:
+  - (to) be:     estar
+
   - (I) am:      (yo) esto
   - (you) are:   (tu) estas
   - (he/she) is: (el/eya) esta

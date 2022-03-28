@@ -29,6 +29,10 @@ Two-way-dictionary:
   - Spanish:   espanyola
   - Turkish:   turko
 
+# We might need to have a separate file for geographaic names other than country and city
+
+  - California: Kalifornia
+
 Phrases:
   - Phrase: Ardjentina es un pais en sur Amerika
     Translation: Argentina is a country in South America

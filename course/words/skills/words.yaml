@@ -7,6 +7,7 @@ New words: []
 Two-way-dictionary:
   - a bit:               un poko
   - a little:            poko
+  - a lot:               (el) mabul (Hebrew)
   - about:               sovre
   - above:               ensima
   - abbreviation:        abreviasion
@@ -95,6 +96,8 @@ Two-way-dictionary:
   - brochure:            (el) broshur
   - brochure:            (la) broshura
   - brush:               (la) furcha
+  - busy:                okupada
+  - busy:                okupado
   - but:                 ama
   - but:                 ma
 
@@ -130,6 +133,7 @@ Two-way-dictionary:
   - convoy:              (el) konvoy
   - correct:             korrekta
   - correct:             korrektas
+  - correction:          (la) koreksion
   - country:             (el) pais
   - course:              (el) kurso
   - courses:             (los) kursos
@@ -228,6 +232,7 @@ Two-way-dictionary:
   - films:               (los) filmos
   - finally:             a la fin
   - floor:               patin
+  - flood:               (el) mabul (Hebrew)
   - for:                 para
   - for me:              para mi
   - for sure:            siguro
@@ -329,6 +334,7 @@ Two-way-dictionary:
 
   - lack:                mankar
   - lady:                (la) sinyora
+  - Ladino community:    Ladinokomunita
   - language:            lashon
   - language:            lingua
   - language:            lengua
@@ -407,6 +413,10 @@ Two-way-dictionary:
   - modern:              moderna
   - modern:              moderno
   - moderate:            moderado
+  - moderator:           moderador
+  - moderator:           moderadora
+  - moderators:          moderadoras
+  - moderators:          moderadores
   - mother tongue:       lingua maternal
   - multitude:           alay
   - museum:              (el) muzeo
@@ -529,6 +539,10 @@ Two-way-dictionary:
   - Purim:               Purim
   - purse:               (la) chanta
 
+  - question:            (la) kestion
+  - question:            (la) kestyon
+  - questions:           (la) kestiones
+  - questions:           (la) kestyones
   - quite:               bastante
   - quick:               presto
   - quickly:             presto
@@ -544,6 +558,7 @@ Two-way-dictionary:
   - religion:            relijion
   - religions:           relijiones
   - remark:              remarka
+  - respect:             respekto
   - response:            (la) repuesta
   - restaurant:          (el) restoran
   - restroom:            tualet
@@ -599,7 +614,8 @@ Two-way-dictionary:
   - small:               chiko
   - small:               chika
   - small boy:           (el) ijiko
-  - so:                  ansi
+  - so:                  ansi (adv.)
+  - so:                  tan (adv.)
   - some:                alguno (adj.)
   - some:                alguna
   - some:                algunos
@@ -647,6 +663,8 @@ Two-way-dictionary:
   - till:                asta
   - time:                tiempo
   - time:                tyempo
+  - time:                vez
+  - time:                vezes
   - times:               tiempos
   - the whole:           toda la
   - themselves:          eyos
@@ -704,6 +722,7 @@ Two-way-dictionary:
   - variation:           variasion
   - Venezualan:          venezuelano
   - version:             version
+  - versions:            versiones
   - very:                muy
   - veteran:             veteranos
   - village:             kazal
@@ -718,6 +737,7 @@ Two-way-dictionary:
   - was:                 fue
   - watch:               (la) ora
   - well:                bien (adv.)
+  - well done:           kol akavod (Hebrew)
   - web:                 web
   - week:                semana
   - whole:               entero
@@ -807,5 +827,6 @@ Phrases:
     Translation: Has a hard head
   - Phrase: La sena es la komida de la noche
     Translation: Dinner is the meal of the night.
+
 
 

@@ -4,8 +4,6 @@ Skill:
 
 New words: []
 
-Phrases: []
-
 Two-way-dictionary:
   - (to) come:      venir
   - (I) come:       vengo
@@ -14,3 +12,7 @@ Two-way-dictionary:
   - (we) come:      venemos
   - (you) come (p): venesh
   - (they) come:    vienen
+
+  - coming:         venido
+
+Phrases: []

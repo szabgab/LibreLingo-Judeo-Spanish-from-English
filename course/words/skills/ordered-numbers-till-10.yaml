@@ -4,10 +4,6 @@ Skill:
 
 New words: []
 
-Phrases:
-  - Phrase: primera vez
-    Translation: first time
-
 Two-way-dictionary:
   - first:  primer
   - first:  primero
@@ -17,4 +13,9 @@ Two-way-dictionary:
   - third:  treser
   - third:  tresera
   - fourth: kuatren
-  - time: vez
+
+Phrases:
+  - Phrase: primera vez
+    Translation: first time
+
+
