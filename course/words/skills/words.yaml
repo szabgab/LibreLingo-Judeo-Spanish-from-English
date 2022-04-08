@@ -30,6 +30,7 @@ Two-way-dictionary:
   - all:                 toda (adj.)
   - all:                 todos
   - all:                 todas
+  - almost:              kaji
   - alone:               sola
   - alone:               solo
   - also:                tambien
@@ -428,7 +429,6 @@ Two-way-dictionary:
   - name:                me llamo
   - names:               nombres
   - near by:             serka
-  - nearly:              kaji
   - necessary:           menester
   - needle:              (la) alguja
   - negative:            negativo
@@ -721,8 +721,8 @@ Two-way-dictionary:
   - vacation:            vakansas
   - variation:           variasion
   - Venezualan:          venezuelano
-  - version:             version
-  - versions:            versiones
+  - version:             (la) version
+  - versions:            (las) versiones
   - very:                muy
   - veteran:             veteranos
   - village:             kazal
@@ -739,7 +739,8 @@ Two-way-dictionary:
   - well:                bien (adv.)
   - well done:           kol akavod (Hebrew)
   - web:                 web
-  - week:                semana
+  - week:                (la) semana
+  - weeks:               (las) semanas
   - whole:               entero
   - winter:              invyerno
   - wish:                dezeo
